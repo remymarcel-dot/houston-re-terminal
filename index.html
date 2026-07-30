@@ -1,4 +1,12 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Houston RE · Deal Terminal</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
+</head>
+<body>
 <style>
   :root{
     --bg:#F2F2F7; --card:#FFFFFF; --card2:#F7F7FA; --fill:#EFEFF4;
@@ -835,4 +843,5 @@ document.getElementById("lk_fema").addEventListener("click",async()=>{try{LK.tex
 document.getElementById("lk_hcad").addEventListener("click",async()=>{try{const a=lkAddr();const m=a.match(/^(\d+)\s+([A-Za-z0-9' ]+?)(?:\s+(?:st|dr|ln|rd|ct|blvd|ave|way|cir|pl|trl|pkwy))?\s*(?:,|$)/i);if(!m)throw new Error("format: 1234 Street Name, Houston, TX 770XX");LK.textContent="Querying HCAD…";const w="site_str_num="+m[1]+" AND UPPER(site_str_name) LIKE '"+m[2].toUpperCase().trim()+"%'";const u="https://www.gis.hctx.net/arcgis/rest/services/HCAD/Parcels/MapServer/0/query?where="+encodeURIComponent(w)+"&outFields=site_str_num,site_str_name,city,zip,owner_name,land_value,bld_value,total_market_val,tax_year&returnGeometry=false&f=json";const j=await(await fetch(u)).json();if(!j.features||!j.features.length)throw new Error("no HCAD parcel matched (Harris County only)");LK.innerHTML=j.features.slice(0,4).map(F=>{const t=F.attributes;const land=+t.land_value,tot=+t.total_market_val;return "<b>"+t.site_str_num+" "+t.site_str_name+", "+t.zip+"</b> — owner "+t.owner_name+"<br>Appraised <b>"+fmt$(tot)+"</b> (land "+fmt$(land)+(land/tot>0.6?" — ⚠️ >60% land: teardown/lot play, not a rehab comp":"")+") · tax yr "+t.tax_year}).join("<hr style=\"border:none;border-top:.5px solid var(--hair);margin:6px 0\">")}catch(e){LK.textContent="HCAD lookup failed: "+e.message}});
 document.getElementById("lk_rc").addEventListener("click",async()=>{const k=(window.CONFIG||{}).RENTCAST_KEY;if(!k){LK.innerHTML="No RentCast key configured. Copy <code>config.example.js</code> to <code>config.js</code> and paste your key — free tier at app.rentcast.io/app/api.";return}try{LK.textContent="Querying RentCast…";const a=encodeURIComponent(lkAddr());const h={headers:{"X-Api-Key":k}};const rs=await Promise.all([fetch("https://api.rentcast.io/v1/avm/value?address="+a,h).then(x=>x.json()),fetch("https://api.rentcast.io/v1/avm/rent/long-term?address="+a,h).then(x=>x.json())]);const v=rs[0],r=rs[1];LK.innerHTML="Value AVM: <b>"+(v.price?fmt$(v.price):"—")+"</b> ("+(v.priceRangeLow?fmt$(v.priceRangeLow)+"–"+fmt$(v.priceRangeHigh):"n/a")+")<br>Rent AVM: <b>"+(r.rent?fmt$(r.rent)+"/mo":"—")+"</b> ("+(r.rentRangeLow?fmt$(r.rentRangeLow)+"–"+fmt$(r.rentRangeHigh):"n/a")+")"}catch(e){LK.textContent="RentCast failed (bad key / quota / CORS): "+e.message}});
 </script>
-
+</body>
+</html>
