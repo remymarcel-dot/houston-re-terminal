@@ -265,6 +265,14 @@
 <section>
   <div class="sechead"><h2>Deals</h2><span id="dealcount"></span></div>
   <div class="legend" id="legend"></div>
+  <div class="card" style="padding:10px 12px;margin-bottom:12px;display:flex;gap:8px;flex-wrap:wrap;align-items:center" id="fltbar">
+    <input id="flt_q" class="showinp" style="flex:2;min-width:160px" placeholder="Filter deals — name, zip, area, source…">
+    <select id="flt_call" class="showinp" style="flex:0 0 auto;width:auto">
+      <option value="">All calls</option><option value="buy">Buy</option><option value="watch">Watch</option><option value="pass">Pass</option><option value="risk">High-risk</option>
+    </select>
+    <button class="offerbtn" id="csvbtn">Export CSV</button>
+  </div>
+  
   <div class="main">
     <div class="card tablewrap">
       <table id="dealtable">
@@ -290,6 +298,22 @@
   <div class="card mtxwrap"><table class="mtx"><thead><tr>
     <th style="text-align:left">Zip · Area</th><th>Median value</th><th>YoY</th><th>3BR rent·C</th><th style="text-align:left">Risk notes</th>
   </tr></thead><tbody id="mtxbody"></tbody></table></div>
+</section>
+
+<section>
+  <div class="sechead"><h2>Quick Analyzer</h2><span>underwrite ANY property in 10 seconds — same conservative model as the deal book</span></div>
+  <div class="card" style="padding:16px">
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <input id="qa_ask" class="showinp" style="flex:1;min-width:110px" type="number" placeholder="Ask $">
+      <input id="qa_arv" class="showinp" style="flex:1;min-width:130px" type="number" placeholder="ARV $ (conservative)">
+      <input id="qa_sqft" class="showinp" style="flex:1;min-width:90px" type="number" placeholder="Sqft">
+      <input id="qa_reh" class="showinp" style="flex:1;min-width:100px" type="number" placeholder="Rehab $/sf">
+      <input id="qa_rent" class="showinp" style="flex:1;min-width:100px" type="number" placeholder="Rent $/mo">
+      <input id="qa_hoa" class="showinp" style="flex:1;min-width:90px" type="number" placeholder="HOA $/mo">
+      <button class="offerbtn go" id="qa_go">Analyze</button>
+    </div>
+    <div id="qa_out" style="margin-top:12px"></div>
+  </div>
 </section>
 
 <section>
@@ -842,6 +866,22 @@ async function lkGeo(a){const r=await fetch("https://geocoding.geo.census.gov/ge
 document.getElementById("lk_fema").addEventListener("click",async()=>{try{LK.textContent="Geocoding…";const m=await lkGeo(lkAddr());const x=m.coordinates.x,y=m.coordinates.y;LK.textContent="Querying FEMA NFHL…";const u="https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer/28/query?geometry="+x+","+y+"&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects&outFields=FLD_ZONE,ZONE_SUBTY&returnGeometry=false&f=json";const j=await(await fetch(u)).json();const f=j.features&&j.features[0]&&j.features[0].attributes;LK.innerHTML=f?("<b>"+m.matchedAddress+"</b><br>FEMA zone: <b>"+f.FLD_ZONE+"</b> "+(f.ZONE_SUBTY||"")+" — "+(/^(A|V)/.test(f.FLD_ZONE)?"⚠️ SFHA — automatic PASS under the flood rule":"clear (not SFHA)")):"No NFHL polygon returned — often means minimal-hazard Zone X; verify on msc.fema.gov."}catch(e){LK.textContent="FEMA lookup failed: "+e.message}});
 document.getElementById("lk_hcad").addEventListener("click",async()=>{try{const a=lkAddr();const m=a.match(/^(\d+)\s+([A-Za-z0-9' ]+?)(?:\s+(?:st|dr|ln|rd|ct|blvd|ave|way|cir|pl|trl|pkwy))?\s*(?:,|$)/i);if(!m)throw new Error("format: 1234 Street Name, Houston, TX 770XX");LK.textContent="Querying HCAD…";const w="site_str_num="+m[1]+" AND UPPER(site_str_name) LIKE '"+m[2].toUpperCase().trim()+"%'";const u="https://www.gis.hctx.net/arcgis/rest/services/HCAD/Parcels/MapServer/0/query?where="+encodeURIComponent(w)+"&outFields=site_str_num,site_str_name,city,zip,owner_name,land_value,bld_value,total_market_val,tax_year&returnGeometry=false&f=json";const j=await(await fetch(u)).json();if(!j.features||!j.features.length)throw new Error("no HCAD parcel matched (Harris County only)");LK.innerHTML=j.features.slice(0,4).map(F=>{const t=F.attributes;const land=+t.land_value,tot=+t.total_market_val;return "<b>"+t.site_str_num+" "+t.site_str_name+", "+t.zip+"</b> — owner "+t.owner_name+"<br>Appraised <b>"+fmt$(tot)+"</b> (land "+fmt$(land)+(land/tot>0.6?" — ⚠️ >60% land: teardown/lot play, not a rehab comp":"")+") · tax yr "+t.tax_year}).join("<hr style=\"border:none;border-top:.5px solid var(--hair);margin:6px 0\">")}catch(e){LK.textContent="HCAD lookup failed: "+e.message}});
 document.getElementById("lk_rc").addEventListener("click",async()=>{const k=(window.CONFIG||{}).RENTCAST_KEY;if(!k){LK.innerHTML="No RentCast key configured. Copy <code>config.example.js</code> to <code>config.js</code> and paste your key — free tier at app.rentcast.io/app/api.";return}try{LK.textContent="Querying RentCast…";const a=encodeURIComponent(lkAddr());const h={headers:{"X-Api-Key":k}};const rs=await Promise.all([fetch("https://api.rentcast.io/v1/avm/value?address="+a,h).then(x=>x.json()),fetch("https://api.rentcast.io/v1/avm/rent/long-term?address="+a,h).then(x=>x.json())]);const v=rs[0],r=rs[1];LK.innerHTML="Value AVM: <b>"+(v.price?fmt$(v.price):"—")+"</b> ("+(v.priceRangeLow?fmt$(v.priceRangeLow)+"–"+fmt$(v.priceRangeHigh):"n/a")+")<br>Rent AVM: <b>"+(r.rent?fmt$(r.rent)+"/mo":"—")+"</b> ("+(r.rentRangeLow?fmt$(r.rentRangeLow)+"–"+fmt$(r.rentRangeHigh):"n/a")+")"}catch(e){LK.textContent="RentCast failed (bad key / quota / CORS): "+e.message}});
+
+/* ===== v2 upgrades: filter, CSV export, stress grid, quick analyzer ===== */
+function applyFilter(){try{const q=(document.getElementById("flt_q").value||"").toLowerCase();const c=(document.getElementById("flt_call").value||"").toLowerCase();document.querySelectorAll("#tbody tr").forEach(tr=>{const txt=tr.innerText.toLowerCase();const tag=tr.querySelector(".tag");const call=tag?tag.textContent.toLowerCase():"";tr.style.display=((!q||txt.indexOf(q)>=0)&&(!c||call.indexOf(c)>=0))?"":"none"})}catch(e){}}
+document.getElementById("flt_q").addEventListener("input",applyFilter);
+document.getElementById("flt_call").addEventListener("change",applyFilter);
+if(typeof renderTable==="function"){const _rt=renderTable;renderTable=function(){_rt();applyFilter()}}
+document.getElementById("csvbtn").addEventListener("click",()=>{const esc=v=>'"'+String(v==null?"":v).replace(/"/g,'""')+'"';const rows=[["Deal","Zip","Area","Type","Beds","Baths","Sqft","Year","Ask","ARV cons","Rehab est","Flip profit","Flip ROI %","Cap %","NOI","All-in","Assessed","Call","Risk","Status","Source","Date","Contact"]];const list=(typeof ACTIVE!=="undefined"?ACTIVE:DEALS);list.forEach(d=>{const c=compute(d);let rk="";try{rk=riskOf(d,c).level}catch(e){}rows.push([d.name,d.zip,ZIPS[d.zip].area,d.type,d.beds,d.baths,d.sqft,d.yr,d.ask,c.arv,Math.round(c.rehab),Math.round(c.profit),(c.roi*100).toFixed(1),(c.cap*100).toFixed(1),Math.round(c.noi),Math.round(c.allIn),d.hcadVal||"",c.verdict,rk,d.status,d.src,d.date,d.contact])});const csv=rows.map(r=>r.map(esc).join(",")).join("\n");const a=document.createElement("a");a.href=URL.createObjectURL(new Blob(["\ufeff"+csv],{type:"text/csv;charset=utf-8"}));a.download="houston-deal-book.csv";a.click()});
+function sensGrid(){try{const host=document.getElementById("detail");const list=(typeof ACTIVE!=="undefined"?ACTIVE:DEALS);const d=list.find(x=>x.id===selId);if(!d||!host||!d.arvCons)return;const arvM=[0.90,0.95,1.00,1.05],rehM=[0.75,1.00,1.25];let h='<div class="grp"><h4>Stress test — flip profit</h4><div style="overflow-x:auto"><table style="min-width:0;width:100%">';h+='<tr><th style="text-align:left;padding:6px">Rehab ▾ / ARV ▸</th>'+arvM.map(m=>'<th style="padding:6px">'+(m===1?'ARV·C':((m>1?'+':'')+Math.round((m-1)*100)+'%'))+'</th>').join("")+'</tr>';rehM.forEach(rm=>{h+='<tr><td style="text-align:left;padding:6px" class="muted">'+(rm===1?'Rehab·E':(rm<1?'−25%':'+25%'))+'</td>';arvM.forEach(am=>{const p=compute(Object.assign({},d,{arvCons:d.arvCons*am,rehabPsf:d.rehabPsf*rm})).profit;h+='<td style="padding:6px" class="'+(p>=25000?'pos':p>=10000?'mid':'neg')+'">'+fmtK(p)+'</td>'});h+='</tr>'});h+='</table></div><div class="offernote">Same conservative model — only ARV and rehab flexed. Green ≥ $25K profit, amber ≥ $10K. If the deal only works in the top-right corner, it does not work.</div></div>';const div=document.createElement("div");div.innerHTML=h;host.appendChild(div)}catch(e){}}
+if(typeof renderDetail==="function"){const _rd=renderDetail;renderDetail=function(){_rd();sensGrid()}}
+sensGrid();
+document.getElementById("qa_go").addEventListener("click",()=>{const g=id=>+document.getElementById(id).value||0;const ask=g("qa_ask"),arv=g("qa_arv"),sqft=g("qa_sqft"),reh=g("qa_reh"),rent=g("qa_rent"),hoa=g("qa_hoa");const out=document.getElementById("qa_out");if(!ask||!arv){out.innerHTML='<span class="neg">Need at least Ask $ and ARV $.</span>';return}
+const rehab=sqft*reh*(A.rehab||1);const closeBuy=.02*ask;const insYr=Math.max(1800,.006*arv);const hold=(A.hold||6)*(((A.tax/100)*.8*arv+insYr)/12+250+hoa);const sell=(A.sell/100)*arv;const profit=arv-ask-rehab-closeBuy-hold-sell;const cashIn=ask+rehab+closeBuy+hold;const roi=profit/cashIn;const mao=.7*arv-rehab;
+let cap=null,noi=null,allIn=ask+rehab+closeBuy,gross=rent*12;
+if(rent){const opex=((A.vac+A.mgmt+A.maint)/100)*gross;noi=gross-opex-(A.tax/100)*.9*arv-insYr-hoa*12;cap=noi/allIn}
+const verdict=(profit>=25000&&roi>=.12)||(cap!==null&&cap>=.065)?"BUY":(profit>=10000||(cap!==null&&cap>=.055))?"WATCH":"PASS";
+out.innerHTML='<div class="chips"><span class="chip"><span class="cl">Verdict</span><span class="tag '+verdict+'">'+verdict+'</span></span><span class="chip"><span class="cl">Flip profit</span>'+fmt$(profit)+'</span><span class="chip"><span class="cl">ROI</span>'+pct(roi)+'</span><span class="chip"><span class="cl">70% MAO</span>'+fmt$(mao)+'</span><span class="chip"><span class="cl">All-in %ARV</span>'+pct((ask+rehab)/arv)+'</span>'+(cap!==null?'<span class="chip"><span class="cl">NOI / Cap</span>'+fmt$(noi)+' · '+pct(cap)+'</span><span class="chip"><span class="cl">1% rule / GRM</span>'+pct(rent/allIn)+' / '+(allIn/gross).toFixed(1)+'×</span>':'')+'</div><div class="offernote">Uses your live Assumption sliders above (all-cash, conservative defaults). Sanity-check the ARV and rent with the FEMA / HCAD / RentCast lookups below before trusting any of it.</div>'});
 </script>
 </body>
 </html>
