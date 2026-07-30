@@ -1,0 +1,4 @@
+{
+  "note": "structured mirror of the DEALS array in index.html — populated by the scheduled task each run",
+  "deals": []
+}
