@@ -1,4 +1,11 @@
 {
-  "lastRun": null,
-  "note": "seeded 2026-07-30 — first stamped run pending"
+  "lastRun": "2026-07-31T18:50:00-05:00",
+  "runType": "scheduled-refresh",
+  "dealsActive": 28,
+  "dealsTracked": 34,
+  "newDeals": 0,
+  "notes": "Artifact had already been refreshed for the Jul 31 flow by an earlier run today; this run verified coverage, merged live RentCast AVM + the NetWorth all-in-price ambiguity into the Willis deal, and synced the repo copy (which was stale at Jul 24) to the published terminal.",
+  "errors": [
+    "iMessage read/send unavailable: Messages chat.db access not granted (Full Disk Access needed for the MCP helper)"
+  ]
 }
