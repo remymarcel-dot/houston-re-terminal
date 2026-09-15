@@ -60,6 +60,24 @@ The deal book inside `index.html` is refreshed by a scheduled Claude Code task
 (daily 8:00 AM: Gmail scan → underwrite → update DEALS array → redeploy artifact
 and commit here). Deals auto-prune from view after 7 days (Houston wholesale velocity).
 
+## FX prospecting agent (LinkedIn / HeyReach)
+
+Separate from the deal terminal: `.claude/skills/fx-prospecting/` is a Claude Code
+skill that runs LinkedIn lead generation for the Monex USA FX desk through the
+HeyReach connector. Invoke it with `/fx-prospecting`.
+
+It segments the ~21.8k first-degree network, revives stalled inbox threads, builds
+event-driven and cold campaigns, and drafts every message in Marcel's own voice.
+**It never sends anything without explicit approval** — reading is automatic,
+sending is gated.
+
+- `.claude/skills/fx-prospecting/SKILL.md` — cycle and guardrails
+- `references/icp.md` — who qualifies as an FX lead
+- `references/voice.md` — message style, drawn from real copy that earned replies
+- `references/plays.md` — the four plays, in priority order
+- `data/fx/pipeline.json` — every person contacted, with outcome
+- `data/fx/heartbeat.json` — last run state
+
 ## Privacy note before hosting publicly
 
 `index.html` embeds dispo agents' names/phones/emails and your underwriting
