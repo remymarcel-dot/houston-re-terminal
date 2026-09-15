@@ -115,6 +115,18 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
   against the same sender — the daily caps are shared and they will
   starve each other.
 - **Two follow-ups maximum** on silence, then dormant.
+- **Honor the pipeline's status field before anything else.** Some
+  silence is agreed, not a miss:
+  - `owned-by-marcel` — he is running it himself. Never message, never
+    add to a list, never surface as stalled.
+  - `scheduled-callback` — he agreed a date. Respect `revisitAfter` and
+    do not touch the thread before it, then surface it for a first touch
+    once the date passes.
+  - `door-open` — acknowledged, no follow-up owed. Do not chase.
+  - `closed` / `opted-out` — permanent. Never resurface, and treat the
+    person's whole company with care before approaching a colleague.
+  Reading a thread as stalled when Marcel has already handled it offline
+  is the fastest way to undo real work.
 - **No fabricated numbers.** Never state a spread, rate or saving Marcel
   has not quoted. Offer the comparison; don't invent its result.
 - **Opt-outs are permanent.** Mark `outcome: "opted-out"` and never
