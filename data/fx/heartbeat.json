@@ -1,12 +1,43 @@
 {
-  "lastRun": null,
-  "runType": "not-yet-run",
+  "lastRun": "2026-09-15T17:55:00-05:00",
+  "runType": "cycle-1",
   "senderAccountId": 237851,
-  "networkSize": 21778,
-  "conversationsTotal": 221,
+  "networkSize": 22078,
+  "conversationsTotal": 222,
+  "accountLimitsAtRun": {
+    "connectionRequests": 15,
+    "messages": 30,
+    "profileViews": 40,
+    "postLikes": 30,
+    "follows": 12
+  },
+  "cooldowns": "all clear",
+  "inboxTriage": {
+    "reviewed": 210,
+    "awaitingMarcel": 7,
+    "closedNotInterested": 1,
+    "noise": "~40 inbound vendor pitches, ignored"
+  },
+  "segmentation": {
+    "sampled": 1600,
+    "financeTitled": 400,
+    "usFxExposedQualified": 29,
+    "impliedAcrossFullNetwork": "~400",
+    "latamDropped": 65,
+    "reason": "user directive: US companies with FX exposure only"
+  },
+  "campaignBuilt": {
+    "campaignId": 603316,
+    "listId": 940462,
+    "leads": 26,
+    "status": "DRAFT — awaiting approval"
+  },
   "messagesSentLastRun": 0,
   "connectionRequestsSentLastRun": 0,
-  "playsRun": [],
-  "notes": "Agent installed 2026-09-15. Baseline at install: campaign 552667 (Houston Treasury FX Discovery Q3 2026) FINISHED with 18 connection requests sent, 1 accepted (5.6%), 1 reply. No campaign active since 2026-08-18. Nothing sent by the agent yet.",
+  "playsRun": [
+    "inbox-triage",
+    "network-mining"
+  ],
+  "notes": "Cycle 1. Nothing sent. Campaign 603316 built in DRAFT with per-lead personalized openers stored as the 'opener' custom field. Excluded Rafael Davalos (Monex Grupo Financiero, own group) and Jose Bernal (Sweet Seasons, whose CFO declined Sep 6). Account message cap is 30/day, so the 26-lead list will clear in roughly one to two days rather than the intended 12/day week-1 pace; lower the HeyReach message limit to 12 to enforce the ramp.",
   "errors": []
 }
