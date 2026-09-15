@@ -66,15 +66,21 @@ Separate from the deal terminal: `.claude/skills/fx-prospecting/` is a Claude Co
 skill that runs LinkedIn lead generation for the Monex USA FX desk through the
 HeyReach connector. Invoke it with `/fx-prospecting`.
 
-It segments the ~21.8k first-degree network, revives stalled inbox threads, builds
-event-driven and cold campaigns, and drafts every message in Marcel's own voice.
-**It never sends anything without explicit approval** — reading is automatic,
-sending is gated.
+It segments the ~21.8k first-degree network, revives stalled inbox threads, and
+builds event-driven and cold campaigns, writing in Marcel's own voice.
+
+Approval sits at the **campaign** level, not the message level: the agent researches
+and pre-writes a personalized opener for every lead, then asks once before launching
+— one prompt covering hundreds of contacts. The only per-item gate is replying to a
+live human who has answered.
 
 - `.claude/skills/fx-prospecting/SKILL.md` — cycle and guardrails
 - `references/icp.md` — who qualifies as an FX lead
 - `references/voice.md` — message style, drawn from real copy that earned replies
 - `references/plays.md` — the four plays, in priority order
+- `references/config.md` — daily limits, the warm-up ramp, permission setup
+- `.claude/settings.json` — pre-approved tool calls; only campaign launch and
+  inbox replies prompt
 - `data/fx/pipeline.json` — every person contacted, with outcome
 - `data/fx/heartbeat.json` — last run state
 

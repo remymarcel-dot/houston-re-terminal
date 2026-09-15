@@ -30,7 +30,8 @@ acting, these move):
 | Jennifer Ayers | VP Customs Ops, T H Gonzalez | Met at El Paso summit, connected |
 
 **Cap:** no volume limit worth worrying about — there are only so many.
-Quality of the reply is the whole game.
+Quality of the reply is the whole game. This play is Tier 3: every reply
+to a live human gets drafted and shown to Marcel before it sends.
 
 ---
 
@@ -52,7 +53,9 @@ works on X, and here is the one question. Don't pretend to a
 relationship that isn't there, and don't pretend there's none when
 there is.
 
-**Cap:** 15-20 per day. Well under the 40 limit, deliberately.
+**Cap:** whatever `references/config.md` sets for the current ramp week.
+Build the campaign, pre-write a personalized opener per lead as a custom
+field, get the one approval, let HeyReach pace the sending.
 
 ---
 
@@ -97,10 +100,11 @@ The hand-written notes in the inbox — Elena, Luz, Clemens — got accepted
 and replied to. They lead with something observed about *the recipient*
 and mention Monex second.
 
-**So:** when running cold, personalize each connection note individually
-rather than relying on a merge template. Fewer, better. The downstream
-two-message sequence from `552667` can be reused as-is via
-`create_campaign_from_template`.
+**So:** pre-generate a personalized note per lead into a custom field
+before launching, rather than relying on a `{COMPANY}` merge template.
+Same automation, real personalization. Fewer leads, better ones — drop
+anyone with no findable hook. The downstream two-message sequence from
+`552667` is good and can be reused via `create_campaign_from_template`.
 
 **Cap:** 25 connection requests/day (rising toward 40 as the account
 warms). Withdraw unaccepted requests after 21 days, as the existing
