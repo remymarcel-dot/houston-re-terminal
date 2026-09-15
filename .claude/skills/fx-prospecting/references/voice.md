@@ -119,6 +119,22 @@ Sign-offs: `Marcel` in English, `Abraço, Marcel` in Portuguese,
   Dr. John Min speaks at trade events. Both are genuine, useful things
   to offer.
 
+## Never raise an objection they have not raised
+
+Pre-empting a concern the other person never voiced does not disarm it,
+it introduces it. Writing "no commission involved" to someone who never
+suspected a commission plants the idea that there might be one, and
+invites them to wonder what else is being managed.
+
+This applies to every unprompted reassurance: no commission, no
+obligation, no hard sell, no catch, we are not like other brokers.
+If they raise it, answer it plainly. If they have not, say nothing and
+let the offer stand on its own.
+
+The same restraint applies to over-explaining why an offer is being
+made. A clean sentence reads as confidence; a justified one reads as
+something needing justification.
+
 ## Never
 
 - Exclamation marks, "Hope this finds you well", "circling back",
