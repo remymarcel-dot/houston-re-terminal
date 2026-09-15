@@ -47,6 +47,32 @@ Disqualify on sight and never draft to:
 - **Students, job seekers, consultants** with no company behind them
 - **Anyone already a Monex USA client** — check pipeline first
 - **Anyone who has opted out**, permanently
+- **Anyone not currently in the seat.** A person between roles has no
+  payments to move and pitching them reads as tone-deaf.
+
+## Check whether they are actually in the seat
+
+HeyReach's `position` and `companyName` are scraped and go stale. Someone
+who left a CFO job six months ago still shows as its CFO. Before treating
+a senior title as a live lead, look for transition signals:
+
+- "Aspiring Board Member", "Advisor", "Open to Work", "Fractional",
+  "Ex-", or a headline that reads as a career summary rather than a job
+- The company was acquired, taken private, or wound down
+- Marcel's own earlier messages in the thread — if he wrote something
+  like "as you look at your next seat", he already knew
+
+Someone in transition is **not a lead, and not noise either**. They are a
+peer relationship worth keeping warm: they will land somewhere that may
+have currency exposure, and Marcel is himself open to country manager and
+commercial leadership roles, so the value runs both ways. Reply to them
+as a peer, with no pitch in it at all, and log them as
+`outcome: "relationship"` rather than dropping them.
+
+Worked example: Daniel O'Quinn showed as "CFO, SciPlay" but SciPlay had
+been taken private, his headline ended "Aspiring Board Member", and
+Marcel's own opener said "as you look at your next seat". Lead on paper,
+peer in reality.
 
 ## Segmentation in practice
 

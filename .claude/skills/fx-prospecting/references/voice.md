@@ -60,10 +60,23 @@ The discovery question that opens most conversations:
 
 The concrete offer — use this instead of a second "checking in":
 
-> Send me two or three recent non USD payments, just currency, amount and
-> value date, and I will show you side by side what those same
-> transactions would have cost through Monex USA. It takes about ten
-> minutes on my end and the comparison is yours to keep either way.
+> Send me two or three recent non USD payments and I will show you side by
+> side what those same transactions would have cost through Monex USA.
+>
+> What I need for each one is the currency, the amount, and the date and
+> the time it was executed. The time matters more than people expect.
+> Rates move through the day, so without it I would be comparing against
+> the wrong market level and the answer would flatter one of us unfairly.
+> A comparison you can check against your own blotter is the only kind
+> worth your time.
+
+**Always ask for the execution time, never just the date.** This is not
+optional politeness, it is what makes the comparison real. An intraday
+move means a same-day quote benchmarked against the wrong hour can swing
+the result either way. A comparison that accidentally flatters Monex is
+worse than useless: the first treasurer who checks it against their own
+records stops trusting anything else Marcel sends. Asking for the
+timestamp also signals rigor, which is itself part of the sale.
 
 The graceful exit — always include something like it:
 
@@ -113,5 +126,7 @@ Sign-offs: `Marcel` in English, `Abraço, Marcel` in Portuguese,
 - Em dashes — he doesn't use them
 - A calendar link in a first message
 - Claiming a specific saving or spread that has not been quoted
+- Asking for sample payments without asking for the execution time
+- Pitching FX to someone who is between roles (see `icp.md`)
 - More than one question per message
 - Any sentence that would read identically to fifty other recipients
