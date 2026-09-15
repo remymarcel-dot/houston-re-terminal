@@ -387,10 +387,11 @@
   "play": "inbox",
   "campaignId": null,
   "listId": null,
-  "status": "dormant",
+  "status": "door-open",
   "outcome": "relationship",
   "firstTouch": "2026-08-27",
   "loggedOn": "2026-09-15",
-  "note": "Replied 2026-08-27 agreeing to a conversation; no response sent. Not a lead — between roles (headline 'Aspiring Board Member', SciPlay taken private, Marcel's own opener referenced 'your next seat'). Marcel decided not to pursue. Do NOT surface as a stalled thread needing follow-up and do NOT add to any FX campaign. Revisit only if he posts a new role at a company with non-USD flows."
+  "note": "Replied 2026-08-27 agreeing to a conversation. Not a lead — between roles (headline 'Aspiring Board Member', SciPlay taken private, Marcel's own opener referenced 'your next seat'). Marcel chose not to pursue a call; a single acknowledgment was sent 2026-09-15 to keep the door open without committing to one. No follow-up owed and none should be drafted. Do NOT add to any FX campaign. Revisit only if he posts a new role at a company with non-USD flows.",
+  "lastTouch": "2026-09-15T18:48:24Z"
  }
 ]

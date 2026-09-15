@@ -32,12 +32,12 @@
     "leads": 26,
     "status": "DRAFT — awaiting approval"
   },
-  "messagesSentLastRun": 0,
+  "messagesSentLastRun": 1,
   "connectionRequestsSentLastRun": 0,
   "playsRun": [
     "inbox-triage",
     "network-mining"
   ],
-  "notes": "Cycle 1. Nothing sent. Campaign 603316 built in DRAFT with per-lead personalized openers stored as the 'opener' custom field. Excluded Rafael Davalos (Monex Grupo Financiero, own group) and Jose Bernal (Sweet Seasons, whose CFO declined Sep 6). Account message cap is 30/day, so the 26-lead list will clear in roughly one to two days rather than the intended 12/day week-1 pace; lower the HeyReach message limit to 12 to enforce the ramp.",
+  "notes": "Cycle 1. One message sent: a single acknowledgment to Daniel O'Quinn to keep a peer relationship open (not a lead, between roles). Campaign 603316 built in DRAFT with per-lead personalized openers stored as the 'opener' custom field. Excluded Rafael Davalos (Monex Grupo Financiero, own group) and Jose Bernal (Sweet Seasons, whose CFO declined Sep 6). Account message cap is 30/day, so the 26-lead list will clear in roughly one to two days rather than the intended 12/day week-1 pace; lower the HeyReach message limit to 12 to enforce the ramp.",
   "errors": []
 }
