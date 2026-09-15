@@ -50,6 +50,35 @@ Disqualify on sight and never draft to:
 - **Anyone not currently in the seat.** A person between roles has no
   payments to move and pitching them reads as tone-deaf.
 
+## Product eligibility — check before offering anything
+
+The two products have different eligibility, and offering the wrong one
+promises something Marcel cannot deliver.
+
+| Product | Who can actually buy it |
+|---|---|
+| FX and cross-border payments | Any company with non-USD flows, subject to the US-companies focus |
+| **Receivables factoring** | **US-based companies only** |
+
+**Factoring is US-only.** A foreign supplier, plant or subsidiary cannot
+be advanced against its invoices, even when its buyers are US companies
+and even when the group has a US arm. The entity being financed is what
+must be US-based.
+
+So on a multi-country relationship, split it properly: factoring is for
+the US entity's own receivables, and the foreign side of the supply
+chain is an FX and payments conversation, never a financing one.
+
+Worked example: Scarpa Worldwide (Delray Beach) sources from Ecuadorian
+processing plants. Factoring can be offered to Scarpa, not to the
+plants. The plants are out of scope entirely.
+
+Also note Ecuador is dollarized. Paying an Ecuadorian supplier in USD
+involves no conversion, so there is no FX story there either — the FX
+lives wherever the non-USD currencies actually are, which for Scarpa is
+India sourcing and any European or Asian customers settling in their own
+currency. Do not manufacture an FX angle for a dollarized country.
+
 ## Check whether they are actually in the seat
 
 HeyReach's `position` and `companyName` are scraped and go stale. Someone
