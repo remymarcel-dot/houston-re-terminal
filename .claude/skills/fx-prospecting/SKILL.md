@@ -100,6 +100,21 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
 6. **Launch and log** — start it, write the pipeline entries and
    heartbeat, commit.
 
+## Reporting to Marcel
+
+**Always write a person as "Name — Company".** Never a bare first name,
+never a name alone. He works across hundreds of contacts and a name on
+its own is unidentifiable; the company is what makes the person
+recognisable and the context recallable.
+
+- Good: "Hiro Watanabe — Agrifruits Holdings", "Katie Dubon — Bravo
+  Foods USA"
+- Bad: "Hiro", "Katie", "Daniel said yes"
+
+This applies everywhere: status updates, approval packages, spot-checks,
+pipeline summaries and any question put to him. Add the title or city
+too when either is what distinguishes them.
+
 ## Guardrails
 
 - **Stay under the configured caps**, which sit below the platform
