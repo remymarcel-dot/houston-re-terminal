@@ -35,7 +35,7 @@
     "inProgress": 3,
     "pending": 23
   },
-  "messagesSentLastRun": 4,
+  "messagesSentLastRun": 5,
   "connectionRequestsSentLastRun": 0,
   "playsRun": [
     "inbox-triage",
