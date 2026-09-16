@@ -102,18 +102,22 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
 
 ## Reporting to Marcel
 
-**Always write a person as "Name — Company".** Never a bare first name,
-never a name alone. He works across hundreds of contacts and a name on
-its own is unidentifiable; the company is what makes the person
-recognisable and the context recallable.
+**Always lead with the company, then the person: "Avalara, Dan Cohen".**
+The company is the anchor. Marcel works across hundreds of contacts and
+scans by company first, so a name in front makes him read the whole line
+before he knows who it is about.
 
-- Good: "Hiro Watanabe — Agrifruits Holdings", "Katie Dubon — Bravo
-  Foods USA"
-- Bad: "Hiro", "Katie", "Daniel said yes"
+- Good: "Avalara, Dan Cohen" / "Bravo Foods USA, Katie Dubon" /
+  "Agrifruits Holdings, Hiro Watanabe"
+- Bad: "Dan Cohen, Avalara" / "Dan Cohen" / "Dan said yes"
+
+No dash between them, per the dash rule in `references/voice.md`. Use a
+comma. Where the company is unknown, write "(company unknown), Gregorio
+Elias" rather than dropping the slot, so the gap is visible.
 
 This applies everywhere: status updates, approval packages, spot-checks,
-pipeline summaries and any question put to him. Add the title or city
-too when either is what distinguishes them.
+pipeline summaries, tables and any question put to him. Add the title or
+city when that is what distinguishes them.
 
 ## Guardrails
 
