@@ -404,11 +404,11 @@
   "campaignId": null,
   "listId": null,
   "status": "live-conversation",
-  "outcome": "channel-partner-candidate",
+  "outcome": "channel-or-account-tbd",
   "firstTouch": "2026-09-09",
-  "lastTouch": "2026-09-15",
+  "lastTouch": "2026-09-16",
   "loggedOn": "2026-09-15",
-  "note": "REFRAME: not a direct prospect — she is a SUPPLIER selling limes to a portfolio of US/Mexican buyers, and describes THEIR books, not hers. Volunteered that some of her clients already use factoring. Highly articulate on trade economics (12% merma, 10% broker, ~$4/caja factory, ~$3/caja logistics/customs/inspection). Raised the standard hedging objection well: payment term and timing are often undefined at deal close, so clients cannot or will not fix FX in advance. Answered 2026-09-15 with the window forward (fix the rate, draw any time in a date range) which directly answers that objection, framed her clients' liquidity as her own commercial interest, and asked whether her clients are US or Mexican entities — that answer decides everything, since factoring is US-only. Treat as a potential referral channel, not an account. Do NOT raise commission or any unprompted reassurance; she never asked."
+  "note": "SUPPLIER of Mexican Persian limes, Veracruz to US, 28 years in the trade. Four substantive replies. She described the structure herself: US buyers pay into a US bank account of an LLC or Inc, and that US intermediary then settles in pesos to the Mexican supplier (S.A. de C.V. or persona fisica). Her words: the risk does not disappear, it changes hands and changes moment within the chain. That US intermediary is the serviceable entity for BOTH FX and receivables finance. Her Mexican providers are eligible for NEITHER. She also redirected the June to November question away from FX: quality claims and adjustments consume working capital, so buyers cut purchases even with demand. That is a factoring conversation and a stronger one. Sent 2026-09-16 naming both services scoped to the US entity, volunteering the US-only limitation unprompted, and asking the open question: does she OPERATE that US structure or advise those who do. If she operates it she is the account, not a channel. Do not raise commission or any unprompted reassurance."
  },
  {
   "name": "Avery O'Brien",

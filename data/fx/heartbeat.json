@@ -1,6 +1,6 @@
 {
-  "lastRun": "2026-09-15T17:55:00-05:00",
-  "runType": "cycle-1",
+  "lastRun": "2026-09-16T11:10:00-05:00",
+  "runType": "inbox-triage",
   "senderAccountId": 237851,
   "networkSize": 22078,
   "conversationsTotal": 222,
@@ -13,10 +13,10 @@
   },
   "cooldowns": "all clear",
   "inboxTriage": {
-    "reviewed": 210,
-    "awaitingMarcel": 7,
-    "closedNotInterested": 1,
-    "noise": "~40 inbound vendor pitches, ignored"
+    "repliesSinceLastSend": 2,
+    "real": 1,
+    "vendorNoise": 1,
+    "note": "Fátima M. replied twice. Michael Maximoff (Belkins, London agency survey) ignored as noise."
   },
   "segmentation": {
     "sampled": 1600,
@@ -31,11 +31,10 @@
     "listId": 940462,
     "leads": 26,
     "status": "IN_PROGRESS",
-    "startedAt": "2026-09-15T18:50:02Z",
-    "inProgress": 3,
-    "pending": 23
+    "messagesStarted": 5,
+    "replies": 0
   },
-  "messagesSentLastRun": 21,
+  "messagesSentLastRun": 1,
   "connectionRequestsSentLastRun": 0,
   "playsRun": [
     "inbox-triage",
