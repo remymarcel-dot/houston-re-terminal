@@ -122,6 +122,13 @@ too when either is what distinguishes them.
 - **Respect cooldown flags.** If `connectionRequestCooldown`,
   `searchCooldown` or `inMailCooldown` is set, stop that action type and
   say so in the heartbeat.
+- **Dedupe on `profileUrl`, never on name.** HeyReach returns the same
+  person under different display names: "Ryan CPA" and "Ryan Swaner,
+  CPA", "Jerome Soitel" and "Jerome Didier Lucien Soitel", "Alicia
+  Aguilar Birnbaum" and "Alicia Aguilar Birnbaum, MBA". A name match
+  silently misses these and the person gets contacted twice. Always
+  compare `profileUrl`, and record an `aliases` field when a variant
+  turns up.
 - **Dedupe hard.** Check `pipeline.json` and existing conversations
   before adding anyone to a list. Set `excludeInOtherCampaigns` and
   `excludeHasOtherAccConversations` to true on every campaign. Being
