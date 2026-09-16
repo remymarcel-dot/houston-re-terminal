@@ -863,13 +863,13 @@
   "play": "linkedin-archive-revival",
   "campaignId": null,
   "listId": null,
-  "status": "identified-not-contacted",
+  "status": "warm-dormant",
   "outcome": null,
   "firstTouch": "2026-04-06",
-  "lastTouch": "2026-04-06",
+  "lastTouch": "2026-06 (call)",
   "loggedOn": "2026-09-16",
   "priority": "tier-1",
-  "note": "NOT VISIBLE IN HEYREACH (predates its 2026-07-30 sync). Sourced from Marcel's LinkedIn archive. Agreed to coordinate a conversation after his trip. Never picked up."
+  "note": "QUALIFIED, NOT COLD. Had a real call with Marcel in June 2026 covering both FX and factoring. Neither side found time to reconnect since, roughly three months. No rejection was given. Because factoring was discussed, he is presumably a US entity and therefore in scope. The LinkedIn thread ends 2026-04-06 agreeing to coordinate after a trip, which understates the relationship badly: the call happened after that and is not recorded on LinkedIn at all. Reopen by referencing the June call, never by apologising for the April thread. Open question for Marcel: what was the blocker in June, price, timing, volume, or an incumbent bank."
  },
  {
   "name": "Eyal Nahoumovich",
