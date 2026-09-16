@@ -155,6 +155,17 @@ city when that is what distinguishes them.
   an email address as *especially* likely to have continued elsewhere,
   not as a dropped ball.
 
+- **Ask what was already said before drafting a reopen.** Calls and
+  meetings leave no trace on LinkedIn, so the visible thread understates
+  what the prospect knows and has already objected to. Pitching an angle
+  they answered months ago is worse than not writing at all: it proves
+  nobody listened. Jose Luis Davalos had already explained that he
+  converts very little between USD and MXN because each operation is
+  funded from its own cash, which killed the intercompany angle entirely
+  and turned into the factoring opening instead. Record every objection
+  in `pipeline.json` when Marcel reports one, and reuse his own words
+  back to him in the reopen.
+
 - **Honor the pipeline's status field before anything else.** Some
   silence is agreed, not a miss:
   - `owned-by-marcel` — he is running it himself. Never message, never
