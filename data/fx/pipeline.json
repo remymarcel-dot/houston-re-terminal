@@ -1030,5 +1030,35 @@
   "loggedOn": "2026-09-16",
   "priority": "tier-2",
   "note": "NOT VISIBLE IN HEYREACH (predates its 2026-07-30 sync). Received the April 2026 TEMPLATED pitch ('thank you for connecting... both fronts... would you be open to a 20-minute conversation') and never replied. Silence is a rejection of the template, not of Monex. Startup scaling FX payment volume, back office being built."
+ },
+ {
+  "name": "Cynthia Trevino de Leon, CPA",
+  "company": "Mexilink",
+  "title": "S&OP / planning",
+  "location": "?",
+  "play": "inbox",
+  "campaignId": null,
+  "listId": null,
+  "status": "dormant",
+  "outcome": "excluded-by-marcel",
+  "firstTouch": "2026-04-06",
+  "lastTouch": "2026-04-06",
+  "loggedOn": "2026-09-16",
+  "note": "DO NOT CONTACT. Marcel excluded her 2026-09-16. Same company as Maria Eugenia Chacin Robles, who has an agreed November callback, so approaching a second Mexilink contact now would cut across that conversation. Revisit only if Marcel reopens it after the November call."
+ },
+ {
+  "name": "Nadine Uhlig",
+  "company": "Tequila Casa Dragones",
+  "title": "Chief Financial Officer",
+  "location": "Switzerland",
+  "play": "inbox",
+  "campaignId": null,
+  "listId": null,
+  "status": "dormant",
+  "outcome": "excluded-by-marcel",
+  "firstTouch": "2026-04",
+  "lastTouch": "2026-09-01",
+  "loggedOn": "2026-09-16",
+  "note": "DO NOT CONTACT. Marcel excluded her 2026-09-16. Based in Switzerland, outside the US-companies-only directive, notwithstanding that Casa Dragones is a Mexican company."
  }
 ]
