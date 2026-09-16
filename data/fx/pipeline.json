@@ -847,13 +847,13 @@
   "play": "linkedin-archive-revival",
   "campaignId": null,
   "listId": null,
-  "status": "identified-not-contacted",
+  "status": "pending-manual-send",
   "outcome": null,
   "firstTouch": "2026-05-06",
   "lastTouch": "2026-05-06",
   "loggedOn": "2026-09-16",
   "priority": "tier-1",
-  "note": "NOT VISIBLE IN HEYREACH (predates its 2026-07-30 sync). Sourced from Marcel's LinkedIn archive. Marcel wrote 2026-05-06: 'I will check back in a few months once you are fully settled in.' Four months have passed. Honouring a stated promise is the warmest possible reopen and he is expecting it."
+  "note": "Marcel confirmed 2026-09-16 that nothing has happened off platform since May. On 2026-05-06 Marcel wrote 'I will check back in a few months once you are fully settled in', so this reopen is simply honouring a stated promise and needs no pitch. NOT IN HEYREACH (thread predates the 2026-07-30 sync); message handed to Marcel to send from LinkedIn directly."
  },
  {
   "name": "Jose Luis Davalos",
@@ -863,13 +863,13 @@
   "play": "linkedin-archive-revival",
   "campaignId": null,
   "listId": null,
-  "status": "warm-dormant",
+  "status": "pending-manual-send",
   "outcome": "ready-to-apply",
   "firstTouch": "2026-04-06",
   "lastTouch": "2026-06 (call)",
   "loggedOn": "2026-09-16",
   "priority": "tier-1",
-  "note": "QUALIFIED AND EDUCATED. Call with Marcel June 2026. Has a US entity and a Mexican entity. HE ALREADY KNOWS EVERYTHING HE NEEDS TO APPLY FOR TRADE FINANCE, and Marcel rates him as a good guy with a good relationship. The only thing missing is that neither side picked it back up. DO NOT SELL TO HIM. Do not explain the product, do not build an insight angle, do not pitch. Re-explaining what he already understands reads as not remembering the call. Short, human, mutual, with an easy way to say later. Objection already given and settled: he converts very little USD to MXN because each operation is funded from its own cash, so the FX angle is dead and the intercompany angle with it. Factoring applies to the US entity only. None of this appears on LinkedIn; the thread there still ends 2026-04-06."
+  "note": "QUALIFIED AND EDUCATED. Call with Marcel June 2026. Has a US entity and a Mexican entity. HE ALREADY KNOWS EVERYTHING HE NEEDS TO APPLY FOR TRADE FINANCE, and Marcel rates him as a good guy with a good relationship. The only thing missing is that neither side picked it back up. DO NOT SELL TO HIM. Do not explain the product, do not build an insight angle, do not pitch. Re-explaining what he already understands reads as not remembering the call. Short, human, mutual, with an easy way to say later. Objection already given and settled: he converts very little USD to MXN because each operation is funded from its own cash, so the FX angle is dead and the intercompany angle with it. Factoring applies to the US entity only. None of this appears on LinkedIn; the thread there still ends 2026-04-06. NOT IN HEYREACH (thread predates the 2026-07-30 sync), so the agent cannot send. Message handed to Marcel 2026-09-16 to send from LinkedIn directly."
  },
  {
   "name": "Eyal Nahoumovich",
