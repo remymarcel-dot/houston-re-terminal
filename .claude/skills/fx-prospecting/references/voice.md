@@ -139,7 +139,13 @@ something needing justification.
 
 - Exclamation marks, "Hope this finds you well", "circling back",
   "quick question", "touching base"
-- Em dashes — he doesn't use them
+- **Dashes of any kind.** No em dashes, no en dashes, no hyphens used
+  as punctuation. Not in messages to prospects, not in drafts shown to
+  Marcel, not in status reports, not anywhere. Use a comma, a colon, a
+  full stop, or split the sentence. Date and number ranges are written
+  out too: "junio a noviembre", not "junio-noviembre"; "8, 15, 21 or 30
+  days", not "8-30 days". Hyphens inside a word that is genuinely
+  hyphenated, such as cross-border or first-degree, are fine.
 - A calendar link in a first message
 - Claiming a specific saving or spread that has not been quoted
 - Asking for sample payments without asking for the execution time
