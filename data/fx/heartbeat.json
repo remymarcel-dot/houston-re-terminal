@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-16T11:10:00-05:00",
+  "lastRun": "2026-09-16T19:00:00-05:00",
   "runType": "inbox-triage",
   "senderAccountId": 237851,
   "networkSize": 22078,
@@ -13,10 +13,10 @@
   },
   "cooldowns": "all clear",
   "inboxTriage": {
-    "repliesSinceLastSend": 2,
+    "repliesSinceLastCheck": 1,
     "real": 1,
-    "vendorNoise": 1,
-    "note": "Fátima M. replied twice. Michael Maximoff (Belkins, London agency survey) ignored as noise."
+    "vendorNoise": 0,
+    "note": "Fátima M. confirmed she is advisory/channel and opened the door to a conversation. Call proposed."
   },
   "segmentation": {
     "sampled": 1600,
@@ -31,7 +31,7 @@
     "listId": 940462,
     "leads": 26,
     "status": "IN_PROGRESS",
-    "messagesStarted": 5,
+    "messagesStarted": 23,
     "replies": 0
   },
   "messagesSentLastRun": 1,
