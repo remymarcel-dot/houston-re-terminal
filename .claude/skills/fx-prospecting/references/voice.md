@@ -119,6 +119,17 @@ Sign-offs: `Marcel` in English, `Abraço, Marcel` in Portuguese,
   Dr. John Min speaks at trade events. Both are genuine, useful things
   to offer.
 
+## Do not explain what they already understand
+
+When someone has already had the conversation, re-explaining the product
+is not helpful, it is evidence you do not remember talking to them. With
+an educated prospect the reopen carries no teaching at all: acknowledge
+the gap as mutual, ask whether they want to pick it up now or later,
+make both answers acceptable, and ask something human.
+
+Four lines is usually right. The temptation to add one more paragraph of
+value is the temptation to sell to someone who has already been sold to.
+
 ## Never raise an objection they have not raised
 
 Pre-empting a concern the other person never voiced does not disarm it,
