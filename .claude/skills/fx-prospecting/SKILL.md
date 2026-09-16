@@ -141,6 +141,20 @@ city when that is what distinguishes them.
   against the same sender — the daily caps are shared and they will
   starve each other.
 - **Two follow-ups maximum** on silence, then dormant.
+- **LinkedIn silence is not evidence that nothing happened.** Marcel's
+  real conversations move to WhatsApp, email and phone, none of which is
+  visible from here. A thread that looks abandoned may already be closed,
+  booked, or running elsewhere. This has been wrong four times: Johanna
+  Salcedo Black (emailed four days later), Hiro Watanabe (meeting
+  booked), Gregorio Elias (declined on WhatsApp), Carlos (active by
+  email).
+
+  So never write "you never followed up" or "they were ignored". Write
+  "no LinkedIn activity since X" and ask what happened off platform
+  before drafting anything. Treat a thread ending with a phone number or
+  an email address as *especially* likely to have continued elsewhere,
+  not as a dropped ball.
+
 - **Honor the pipeline's status field before anything else.** Some
   silence is agreed, not a miss:
   - `owned-by-marcel` — he is running it himself. Never message, never

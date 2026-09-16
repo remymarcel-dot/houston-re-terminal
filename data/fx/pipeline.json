@@ -815,13 +815,13 @@
   "play": "linkedin-archive-revival",
   "campaignId": null,
   "listId": null,
-  "status": "identified-not-contacted",
-  "outcome": null,
+  "status": "closed",
+  "outcome": "not-interested",
   "firstTouch": "2026-07-02",
   "lastTouch": "2026-07-02",
   "loggedOn": "2026-09-16",
-  "priority": "tier-1",
-  "note": "NOT VISIBLE IN HEYREACH (predates its 2026-07-30 sync). Sourced from Marcel's LinkedIn archive. HE SENT HIS PHONE NUMBER (805-896-1417) on 2026-07-02 and got no follow up. Strongest unworked signal in the whole LinkedIn history. Call him."
+  "priority": null,
+  "note": "DO NOT CONTACT. Declined on WhatsApp. The LinkedIn thread ends with him sending his phone number on 2026-07-02, which reads as a warm unworked signal, but the conversation continued off platform and he said no. Permanent."
  },
  {
   "name": "I'M Carlos .",
@@ -831,13 +831,13 @@
   "play": "linkedin-archive-revival",
   "campaignId": null,
   "listId": null,
-  "status": "identified-not-contacted",
-  "outcome": null,
+  "status": "owned-by-marcel",
+  "outcome": "active-elsewhere",
   "firstTouch": "2026-05-07",
   "lastTouch": "2026-05-07",
   "loggedOn": "2026-09-16",
-  "priority": "tier-1",
-  "note": "NOT VISIBLE IN HEYREACH (predates its 2026-07-30 sync). Sourced from Marcel's LinkedIn archive. Replied 'Comparto e Mail' on 2026-05-07, handing over his email. Never followed up."
+  "priority": null,
+  "note": "EXCLUDE FROM ALL AUTOMATION. Marcel is exchanging messages with him by email. The LinkedIn thread ends at 'Comparto e Mail' on 2026-05-07, which looks abandoned but is not. Do not message on LinkedIn and do not surface as stalled."
  },
  {
   "name": "Dan Cohen",
