@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-16T19:00:00-05:00",
+  "lastRun": "2026-09-17T09:00:00-05:00",
   "runType": "inbox-triage",
   "senderAccountId": 237851,
   "networkSize": 22078,
@@ -31,8 +31,10 @@
     "listId": 940462,
     "leads": 26,
     "status": "IN_PROGRESS",
-    "messagesStarted": 23,
-    "replies": 0
+    "messagesStarted": 26,
+    "replies": 1,
+    "replyRate": "3.8% at day 1",
+    "staleDataRate": "1 of 26 retired"
   },
   "messagesSentLastRun": 1,
   "connectionRequestsSentLastRun": 0,

@@ -103,6 +103,18 @@ been taken private, his headline ended "Aspiring Board Member", and
 Marcel's own opener said "as you look at your next seat". Lead on paper,
 peer in reality.
 
+Second worked example, and a warning about the limits of this screen:
+Steven Wojtowicz showed as "N.A. Treasury Director, Ferrero USA" and
+passed every filter. He had retired eight months earlier. LinkedIn still
+carried the old title and `get_my_network_for_sender` returns `headline`
+as null, so there was nothing in the data to catch it. Expect roughly
+one stale record in twenty five from network pulls, accept that the
+screen cannot catch them all, and never present the screen as complete.
+
+**Do not trust HeyReach's auto-tags.** It labelled that reply "Not
+interested". He had not declined anything, he had left the job. Read the
+reply itself and let it override the tag.
+
 ## Segmentation in practice
 
 `get_my_network_for_sender` returns `position`, `companyName`,
