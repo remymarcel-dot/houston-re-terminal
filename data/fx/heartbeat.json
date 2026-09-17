@@ -13,10 +13,7 @@
   },
   "cooldowns": "all clear",
   "inboxTriage": {
-    "repliesSinceLastCheck": 1,
-    "real": 1,
-    "vendorNoise": 0,
-    "note": "Fátima M. confirmed she is advisory/channel and opened the door to a conversation. Call proposed."
+    "note": "Fátima M. aceptó la llamada. ERROR DE MÉTODO: el barrido de hoy se filtró por campaignIds=[603316] y por eso no apareció su respuesta del 16 a las 21:36. Barrer SIEMPRE el inbox completo sin filtro de campaña, y luego separar por campaña si hace falta."
   },
   "segmentation": {
     "sampled": 1600,
@@ -36,7 +33,7 @@
     "replyRate": "3.8% at day 1",
     "staleDataRate": "1 of 26 retired"
   },
-  "messagesSentLastRun": 1,
+  "messagesSentLastRun": 2,
   "connectionRequestsSentLastRun": 0,
   "playsRun": [
     "inbox-triage",

@@ -88,7 +88,10 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
 
 1. **Load state** — `data/fx/heartbeat.json` and `data/fx/pipeline.json`.
    Without these the agent re-contacts people and burns trust.
-2. **Triage the inbox** — `get_conversations_v2`. Anyone waiting on a
+2. **Triage the inbox** — `get_conversations_v2` with NO `campaignIds`
+   filter. Filtering by campaign hides every reply from threads outside
+   it, which is where the live conversations usually are. Sweep the whole
+   inbox first, then split by campaign if useful. Anyone waiting on a
    reply goes to Tier 3 immediately, before anything else.
 3. **Check running campaigns** — `get_all_campaigns` plus
    `get_overall_stats`. If a campaign is live and healthy, let it run.
