@@ -69,3 +69,11 @@ Same pattern works here. A reasonable cadence:
 
 Ask before creating the schedule — a Routine that fires unattended is
 worth setting up deliberately.
+
+## Invitation volume, measured
+
+The 2026 archive shows 5,484 outgoing invitations, peaking at 790 in May,
+roughly 180 a week. That is at the edge of what LinkedIn tolerates. Keep
+connection requests at 15 a day. The bigger point is that volume was never
+the shortfall: 1,368 people who accepted were never messaged, so added
+invitations buy nothing until the existing network is worked.

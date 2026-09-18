@@ -120,3 +120,35 @@ A reasonable rhythm, if asked to run this on a schedule:
 - **Tue/Wed/Thu** — network mining, 15-20 drafts a day
 - **Friday** — follow-ups on stalled threads, log outcomes, weekly numbers
 - **Cold campaigns** — launch at most one at a time, let it run, don't stack
+
+## Play 0: message the connections who were never spoken to
+
+This sits above everything else. The LinkedIn archive (`data/fx/linkedin/`)
+showed 1,368 people accepted a connection request in 2026 and never received
+a single message, while the reply rate when Marcel does write is 20.9%.
+
+These are first degree, so they cost no invitation quota and carry no
+acceptance risk. Work `targets-tier-a.csv` first, then `targets-tier-b.csv`.
+
+Order of work each day:
+1. `unanswered-signals.csv` first. Someone gave a phone number or an email
+   and got no answer. Nothing else in the pipeline is warmer.
+2. `warm-dormant.csv` next, where they replied and it went quiet.
+3. `targets-tier-a.csv`, the never messaged finance decision makers.
+
+The opener for a never messaged connection cannot pretend there is history.
+There is none. Name the reason they are connected, say the one thing that is
+true about their exposure, and ask a question. Four lines.
+
+Do not send a template. The archive is explicit about this: one mass template
+went to 668 people and was accepted 5% of the time, while hand written notes
+in the same account run 17 to 25%.
+
+## Connection notes
+
+Test blank invitations against hand written ones on the same segment before
+assuming a note helps. In 2026 the no-note invitations were accepted 32 to
+54% of the time against 5% for the mass template, and 60 to 67% of those
+acceptances were CFOs, presidents and owners, so the quality held. The
+comparison is across months rather than controlled, so it is a reason to
+test, not a settled answer.
