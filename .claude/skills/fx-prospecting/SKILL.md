@@ -88,11 +88,23 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
 
 1. **Load state** — `data/fx/heartbeat.json` and `data/fx/pipeline.json`.
    Without these the agent re-contacts people and burns trust.
-2. **Triage the inbox** — `get_conversations_v2` with NO `campaignIds`
-   filter. Filtering by campaign hides every reply from threads outside
-   it, which is where the live conversations usually are. Sweep the whole
-   inbox first, then split by campaign if useful. Anyone waiting on a
-   reply goes to Tier 3 immediately, before anything else.
+2. **Triage the inbox.** Two sweeps, in this order, because each has
+   missed a live reply on its own:
+
+   a. `get_conversations_v2` with `seen: false`. Unread status is the
+      only signal that does not depend on a date or a filter guess. Run
+      this FIRST, every time.
+   b. `get_conversations_v2` with NO `campaignIds` filter and a
+      generous window, at least 48 hours back from the last run.
+
+   Two real misses drove this. Filtering by campaign hid a reply from a
+   thread that belonged to no campaign. Filtering from an arbitrary
+   timestamp missed a reply that landed nine minutes before the cutoff.
+   Never cut the window tight to save tokens: a missed reply costs far
+   more than a larger payload.
+
+   Anyone waiting on a reply goes to Tier 3 immediately, before anything
+   else.
 3. **Check running campaigns** — `get_all_campaigns` plus
    `get_overall_stats`. If a campaign is live and healthy, let it run.
    Launch a new one only when the current one is finishing or a

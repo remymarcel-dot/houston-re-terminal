@@ -413,12 +413,12 @@
   "play": "inbox",
   "campaignId": null,
   "listId": null,
-  "status": "call-accepted",
-  "outcome": "referral-channel-confirmed",
+  "status": "channel-nurture",
+  "outcome": "not-a-prospect-channel-only",
   "firstTouch": "2026-09-09",
-  "lastTouch": "2026-09-17",
+  "lastTouch": "2026-09-18",
   "loggedOn": "2026-09-15",
-  "note": "CANAL DE REFERIDOS, confirmado por ella. Está del lado de la asesoría y también participa en operaciones y relaciones comerciales de la cadena. 28 años en el negocio del limón persa mexicano, Veracruz a EE. UU. AHORA RADICA EN CALIFORNIA, no en México, lo que la deja dentro del alcance. ACEPTÓ LA LLAMADA 2026-09-16: quiere entender cómo funciona el anticipo de cuentas por cobrar en la práctica y qué operaciones califican. Su diagnóstico: en fresh produce el dinero se va por calidad, merma, reclamos, logística, crédito y capital de trabajo. 2026-09-17 se le propusieron tres horarios en hora del Pacífico: martes 22 a las 14:00, miércoles 23 a las 11:00, jueves 24 a las 11:00. Sin Calendly, a propósito. HECHOS FIJOS: el factoring es solo para entidades de EE. UU.; sus proveedores mexicanos no califican; el FX es secundario porque el cuello de botella es capital de trabajo, diagnóstico de ella. No mencionar comisiones ni ninguna aclaración que ella no haya pedido."
+  "note": "CANAL DE REFERIDOS ÚNICAMENTE, CONFIRMADO POR ELLA 2026-09-17: opera como PERSONA FÍSICA en Veracruz. NO es entidad estadounidense, así que NO califica ni para factoring ni para cuenta de Monex USA. Ella nunca fue el cliente y lo dijo ella misma. Preguntó de frente si la llamada era para venderle una cuenta. Marcel contestó que no y explicó por qué no podría vendérsela aunque quisiera, que es la verdad y es lo que desarma la sospecha. SE SOLTÓ LA AGENDA a petición suya: dijo que la próxima semana estaba complicada y que prefería no comprometer un horario. Se le ofreció el material por escrito en lugar de llamada. NO volver a proponer horarios hasta que ella lo pida. El valor real está en los intermediarios americanos, LLC o Inc, que ella describió: reciben USD del comprador americano y liquidan en MXN al proveedor mexicano. Esos sí califican para ambos productos. Interés alineado: un cliente suyo con capital sigue comprándole fruta. 28 años en el negocio del limón persa, ahora radicada en California. No mencionar comisiones ni ninguna aclaración que ella no haya pedido."
  },
  {
   "name": "Avery O'Brien",
@@ -1079,5 +1079,22 @@
   "loggedOn": "2026-09-18",
   "email": "fernando.tenuta@manpowergroup.com",
   "note": "WIN. Assistant Treasurer at a large multinational. Marcel's 2025 approach was a standard sales note and failed. The 2026-09-01 message asked for NOTHING: it acknowledged the earlier approach was wrong, referenced the treasury build in Porto, led with Marcel's own CFO background across US, Brazil, Mexico and Central America, and offered the monthly currency outlook. He replied 17 days later on 2026-09-18 giving his CORPORATE EMAIL and asking to be added. DO NOT PITCH HIM. He asked for a newsletter, not a meeting. Converting this to a call now burns it. The relationship builds over months of him receiving the outlook. ACTION REQUIRED FROM MARCEL: actually add him to the distribution list. If he asked and it never arrives, this dies."
+ },
+ {
+  "name": "Ritesh Vachhani",
+  "company": "Ferrero USA",
+  "title": "Treasury",
+  "location": "United States",
+  "profileUrl": "https://www.linkedin.com/in/ritesh-vachhani-3a44b3a4/",
+  "play": "referral",
+  "campaignId": null,
+  "listId": null,
+  "status": "identified-not-contacted",
+  "outcome": null,
+  "firstTouch": null,
+  "lastTouch": null,
+  "loggedOn": "2026-09-18",
+  "priority": "tier-1",
+  "note": "REFERIDO POR EL PREDECESOR. Tomó el asiento de tesorería para Norteamérica en Ferrero USA después de que Steven Wojtowicz se jubiló en enero de 2026. Steven mismo dio el nombre el 2026-09-18 cuando Marcel se lo pidió. Confirmado en Apollo: Ritesh, apellido enmascarado Va***i, Treasury en Ferrero, Estados Unidos. Marcel encontró el perfil completo. ÁNGULO: Ferrero tiene matriz italiana, así que la pata intercompañía en euros es permanente en su cierre mensual, no ocasional. Ese fue el ángulo del mensaje original a Steven y sigue siendo válido. La invitación debe abrir con el nombre de Steven. No es un desconocido escribiendo, es alguien a quien su predecesor mandó, y eso vale más que cualquier gancho."
  }
 ]
