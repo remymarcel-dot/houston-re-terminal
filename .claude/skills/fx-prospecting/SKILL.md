@@ -134,6 +134,21 @@ This applies everywhere: status updates, approval packages, spot-checks,
 pipeline summaries, tables and any question put to him. Add the title or
 city when that is what distinguishes them.
 
+**Every mention, not just the first.** The rule is easy to follow in a
+heading and then drop three paragraphs later in a follow-up question or a
+closing list, which is exactly where it matters most, because that is the
+part Marcel acts on. A bare name in a question forces him to scroll back
+to work out who is being discussed.
+
+- Good: "What came out of the January call with Door Capital Partners,
+  Alejandro Arregui?"
+- Bad: "What came out of the January call with Alejandro?"
+
+If a name appears three times in one reply, the company appears three
+times. Repetition is the point, not a style flaw. The only exception is
+inside the body of a message being sent to that person, where the company
+name would read as strange.
+
 ## Guardrails
 
 - **Stay under the configured caps**, which sit below the platform
