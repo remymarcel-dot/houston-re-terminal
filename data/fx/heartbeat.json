@@ -1,48 +1,63 @@
 {
-  "lastRun": "2026-09-18T12:00:00-05:00",
-  "runType": "inbox-triage",
-  "senderAccountId": 237851,
-  "networkSize": 22078,
-  "conversationsTotal": 222,
-  "accountLimitsAtRun": {
-    "connectionRequests": 15,
-    "messages": 30,
-    "profileViews": 40,
-    "postLikes": 30,
-    "follows": 12
-  },
-  "cooldowns": "all clear",
-  "inboxTriage": {
-    "repliesSinceLastCheck": 2,
-    "real": 2,
-    "vendorNoise": 0,
-    "note": "Fernando Tenuta (ManpowerGroup) gave his corporate email and asked for the currency outlook. Steven Wojtowicz gave his successor's first name, Ritesh, at Ferrero USA. Also confirmed the April threads DO eventually sync into HeyReach once reactivated; Jon Kimball's is now visible, so the 2026-07-30 boundary is a sync lag rather than a permanent wall."
-  },
-  "segmentation": {
-    "sampled": 1600,
-    "financeTitled": 400,
-    "usFxExposedQualified": 29,
-    "impliedAcrossFullNetwork": "~400",
-    "latamDropped": 65,
-    "reason": "user directive: US companies with FX exposure only"
-  },
-  "campaignBuilt": {
-    "campaignId": 603316,
-    "listId": 940462,
-    "leads": 26,
-    "status": "IN_PROGRESS",
-    "messagesStarted": 26,
-    "replies": 1,
-    "replyRate": "3.8% at day 1",
-    "staleDataRate": "1 of 26 retired"
-  },
-  "messagesSentLastRun": 2,
-  "connectionRequestsSentLastRun": 0,
-  "playsRun": [
-    "inbox-triage",
-    "network-mining",
-    "inbox-reconnect"
-  ],
-  "notes": "Cycle 1 complete and live. Three messages sent by hand: Daniel O'Quinn (peer acknowledgment, not a lead), Fátima Morales, Avery O'Brien and Luz Rodriguez. Campaign 603316 started 2026-09-15 with 26 leads carrying individually written openers. Account message cap left at 30/day rather than the 12/day week-1 ramp, at Marcel's direction, so the list will clear in roughly one to two days after four weeks of account dormancy — watch acceptance and reply behaviour closely on the first pass.",
-  "errors": []
+ "lastRun": "2026-09-18T15:05:00-05:00",
+ "runType": "inbox-triage",
+ "senderAccountId": 237851,
+ "networkSize": 22078,
+ "conversationsTotal": 256,
+ "accountLimitsAtRun": {
+  "connectionRequests": 15,
+  "messages": 30,
+  "profileViews": 40,
+  "postLikes": 30,
+  "follows": 12,
+  "inMail": 40
+ },
+ "cooldowns": "all clear",
+ "inboxTriage": {
+  "sweepA_unread": 2,
+  "sweepB_window": 30,
+  "awaitingReply": 0,
+  "real": 0,
+  "vendorNoise": 0,
+  "note": "Both sweeps clean. The two unread threads, Fatima M. and ManpowerGroup, Fernando Tenuta, are both ones Marcel spoke last on. Across the 30 most recent of 256 conversations, zero have the correspondent speaking last, so nobody is waiting on a reply."
+ },
+ "segmentation": {
+  "sampled": 1600,
+  "financeTitled": 400,
+  "usFxExposedQualified": 29,
+  "impliedAcrossFullNetwork": "~400",
+  "latamDropped": 65,
+  "reason": "user directive: US companies with FX exposure only"
+ },
+ "campaignBuilt": {
+  "campaignId": 603316,
+  "listId": 940462,
+  "leads": 26,
+  "status": "IN_PROGRESS",
+  "messagesStarted": 26,
+  "replies": 1,
+  "replyRate": "3.8% at day 1",
+  "staleDataRate": "1 of 26 retired"
+ },
+ "messagesSentLastRun": 2,
+ "connectionRequestsSentLastRun": 0,
+ "playsRun": [
+  "inbox-triage",
+  "network-mining",
+  "inbox-reconnect"
+ ],
+ "notes": "Cycle 1 complete and live. Three messages sent by hand: Daniel O'Quinn (peer acknowledgment, not a lead), Fátima Morales, Avery O'Brien and Luz Rodriguez. Campaign 603316 started 2026-09-15 with 26 leads carrying individually written openers. Account message cap left at 30/day rather than the 12/day week-1 ramp, at Marcel's direction, so the list will clear in roughly one to two days after four weeks of account dormancy — watch acceptance and reply behaviour closely on the first pass.",
+ "errors": [],
+ "archiveMined": {
+  "date": "2026-09-18",
+  "connections": 22536,
+  "messages": 24309,
+  "invitations": 5557,
+  "acceptedIn2026": 1766,
+  "everMessagedAfter": 398,
+  "everReplied": 83,
+  "replyRateWhenMessaged": "20.9%",
+  "neverMessaged": 1368,
+  "note": "The bottleneck is follow through, not acceptance or copy. See data/fx/linkedin/FINDINGS.md."
+ }
 }
