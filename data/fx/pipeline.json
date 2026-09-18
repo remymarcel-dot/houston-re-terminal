@@ -230,8 +230,8 @@
   "outcome": "retired-not-in-seat",
   "firstTouch": "2026-09-15",
   "loggedOn": "2026-09-15",
-  "lastTouch": "2026-09-17",
-  "note": "RETIRED JANUARY 2026, no longer at Ferrero USA. Replied 2026-09-16: 'I retired in January so no longer at Ferrero'. HEYREACH AUTO-TAGGED HIM 'Not interested', WHICH IS WRONG and must not be trusted: he did not decline, he left the seat. Treat the auto-tag as unreliable wherever the reply explains a change of role. Root cause: LinkedIn still showed him as N.A. Treasury Director eight months after he left, and get_my_network_for_sender returns headline as null, so the in-seat screen in icp.md could only check title and company and had nothing to catch this with. Asked 2026-09-17 for the name of his successor in the North American treasury seat. If he gives it, that person is the real lead at Ferrero USA."
+  "lastTouch": "2026-09-18",
+  "note": "RETIRED JANUARY 2026, no longer at Ferrero USA. Replied 2026-09-16: 'I retired in January so no longer at Ferrero'. HEYREACH AUTO-TAGGED HIM 'Not interested', WHICH IS WRONG and must not be trusted: he did not decline, he left the seat. Treat the auto-tag as unreliable wherever the reply explains a change of role. Root cause: LinkedIn still showed him as N.A. Treasury Director eight months after he left, and get_my_network_for_sender returns headline as null, so the in-seat screen in icp.md could only check title and company and had nothing to catch this with. Asked 2026-09-17 for the name of his successor in the North American treasury seat. If he gives it, that person is the real lead at Ferrero USA. 2026-09-18: HE GAVE THE SUCCESSOR'S NAME. First name RITESH, surname unknown, North American treasury seat at Ferrero USA. Find him via LinkedIn search on Ritesh plus Ferrero and open by saying Steven pointed the way. A retired predecessor's referral is worth far more than the original cold message. Marcel thanked him and closed the loop; do not ask him for anything further."
  },
  {
   "name": "Diamonic Edwards",
@@ -1062,5 +1062,22 @@
   "lastTouch": "2026-09-01",
   "loggedOn": "2026-09-16",
   "note": "DO NOT CONTACT. Marcel excluded her 2026-09-16. Based in Switzerland, outside the US-companies-only directive, notwithstanding that Casa Dragones is a Mexican company."
+ },
+ {
+  "name": "Fernando Tenuta",
+  "company": "ManpowerGroup",
+  "title": "Assistant Treasurer",
+  "location": "Milwaukee, Wisconsin, United States",
+  "profileUrl": "https://www.linkedin.com/in/ACoAAB-fernando-tenuta",
+  "play": "inbox",
+  "campaignId": null,
+  "listId": null,
+  "status": "nurture-subscribed",
+  "outcome": "email-obtained",
+  "firstTouch": "2025",
+  "lastTouch": "2026-09-18",
+  "loggedOn": "2026-09-18",
+  "email": "fernando.tenuta@manpowergroup.com",
+  "note": "WIN. Assistant Treasurer at a large multinational. Marcel's 2025 approach was a standard sales note and failed. The 2026-09-01 message asked for NOTHING: it acknowledged the earlier approach was wrong, referenced the treasury build in Porto, led with Marcel's own CFO background across US, Brazil, Mexico and Central America, and offered the monthly currency outlook. He replied 17 days later on 2026-09-18 giving his CORPORATE EMAIL and asking to be added. DO NOT PITCH HIM. He asked for a newsletter, not a meeting. Converting this to a call now burns it. The relationship builds over months of him receiving the outlook. ACTION REQUIRED FROM MARCEL: actually add him to the distribution list. If he asked and it never arrives, this dies."
  }
 ]

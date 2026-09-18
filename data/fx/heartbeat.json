@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-17T09:00:00-05:00",
+  "lastRun": "2026-09-18T12:00:00-05:00",
   "runType": "inbox-triage",
   "senderAccountId": 237851,
   "networkSize": 22078,
@@ -13,7 +13,10 @@
   },
   "cooldowns": "all clear",
   "inboxTriage": {
-    "note": "Fátima M. aceptó la llamada. ERROR DE MÉTODO: el barrido de hoy se filtró por campaignIds=[603316] y por eso no apareció su respuesta del 16 a las 21:36. Barrer SIEMPRE el inbox completo sin filtro de campaña, y luego separar por campaña si hace falta."
+    "repliesSinceLastCheck": 2,
+    "real": 2,
+    "vendorNoise": 0,
+    "note": "Fernando Tenuta (ManpowerGroup) gave his corporate email and asked for the currency outlook. Steven Wojtowicz gave his successor's first name, Ritesh, at Ferrero USA. Also confirmed the April threads DO eventually sync into HeyReach once reactivated; Jon Kimball's is now visible, so the 2026-07-30 boundary is a sync lag rather than a permanent wall."
   },
   "segmentation": {
     "sampled": 1600,
