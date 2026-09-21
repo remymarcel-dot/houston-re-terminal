@@ -1,6 +1,6 @@
 {
- "lastRun": "2026-09-21T14:30:00-05:00",
- "runType": "inbox-triage-and-sends",
+ "lastRun": "2026-09-21T16:00:00-05:00",
+ "runType": "session-close",
  "senderAccountId": 237851,
  "networkSize": 22078,
  "conversationsTotal": 256,
@@ -72,8 +72,9 @@
  ],
  "blocked": [],
  "owedByMarcel": [
-  "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook distribution",
-  "El Paso sourcing: company mapping for the nine pending LinkedIn URLs"
+  "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook",
+  "El Paso: company mapping for the nine pending LinkedIn URLs, which blocks all sending",
+  "El Paso: decide event note vs blank connection request"
  ],
  "recordCorrections": [
   "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
@@ -105,5 +106,11 @@
   "staged": 2,
   "pendingCompany": 9,
   "flagged": "Cristian Silva Lisboa has an invitation pending since 2026-05-18"
+ },
+ "channel": {
+  "who": "Fatima M.",
+  "state": "post approved, awaiting publication",
+  "why": "ineligible as an account, persona fisica in Veracruz, but has a Fresh Produce audience and proposed the referral herself",
+  "watch": "inbound US constituted importers and exporters; each still faces the US entity test"
  }
 }
