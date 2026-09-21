@@ -1151,13 +1151,15 @@
   "location": "Austin and Guadalajara",
   "profileUrl": "https://www.linkedin.com/in/alejandro-arregui",
   "play": "inbox-revival",
-  "status": "awaiting-marcel",
-  "outcome": null,
+  "status": "door-open",
+  "outcome": "no-fx-currently",
   "firstTouch": "2026-01-07",
   "lastLinkedInActivity": "2026-01-20",
   "signal": "meeting confirmed and rescheduled to 2:30pm on Jan 21 2026, he replied perfecto gracias",
-  "note": "NOT an unanswered signal. A call was agreed and almost certainly happened on 2026-01-21. Do not draft a reopen until Marcel says what came out of it, or it risks pitching something already answered.",
-  "loggedOn": "2026-09-18"
+  "note": "Closed out by Marcel on 2026-09-21. The meeting took place and the outcome was no current FX need. Do not chase. Revisit only on a real trigger, such as an acquisition with a Mexican entity or a fund raising in a second currency, since Austin plus Guadalajara means exposure could appear later.",
+  "loggedOn": "2026-09-18",
+  "lastActivity": "2026-01-21",
+  "objection": "Marcel confirms the call happened on 2026-01-21. Door Capital Partners has no FX exposure for now and nothing was left to follow up."
  },
  {
   "name": "Clifford D'Souza",
