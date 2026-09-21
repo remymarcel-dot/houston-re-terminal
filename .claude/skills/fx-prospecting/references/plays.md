@@ -152,3 +152,34 @@ assuming a note helps. In 2026 the no-note invitations were accepted 32 to
 acceptances were CFOs, presidents and owners, so the quality held. The
 comparison is across months rather than controlled, so it is a reason to
 test, not a settled answer.
+
+## Open loops where Marcel spoke last
+
+The archive screen for buying signals only caught threads where the
+prospect sent the final message. That misses a whole class, and the miss
+was expensive: Sanoxlabs, Inc, Sergio E Manriquez gave his email within
+forty minutes and then volunteered his own flow structure, North America
+to Mexico now and Mexico to North America starting in a few weeks. Marcel
+answered well and the thread stopped. Because Marcel spoke last, it never
+appeared on any list.
+
+A thread is an open loop when the prospect gave something real, an email,
+a phone number, a timeline, a structure, and nothing has happened since.
+Who typed last is irrelevant. Sweep for both directions.
+
+The most valuable ones carry a date the prospect named themselves. "In a
+few weeks" said in August is a live trigger in September, and repeating
+their own words back is the strongest possible reopen because it proves
+the first conversation was actually heard.
+
+## Never end on a calendar link
+
+Two threads died the same way. Jerome Soitel agreed to four calls across
+five months and every one died at scheduling, which only moved when the
+calendars came out and Marcel asked for a mobile number instead.
+Sanoxlabs, Inc, Sergio E Manriquez went silent immediately after a
+Calendly link, having been fully engaged one message earlier.
+
+A calendar link asks a busy person to do the work of choosing. Offer
+something concrete instead, propose specific times, or ask for their
+number. Reserve calendar links for people who ask for one.

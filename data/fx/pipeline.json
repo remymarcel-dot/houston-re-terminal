@@ -1259,5 +1259,28 @@
   "signal": "cold pitch for an RFP AI tool",
   "note": "Vendor noise. No reply owed.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "Sergio E Manriquez",
+  "company": "Sanoxlabs, Inc",
+  "title": "Presidente",
+  "location": "Texas, United States",
+  "profileUrl": "https://www.linkedin.com/in/sergio-e-manr%C3%ADquez-413373110",
+  "aliases": [
+   "https://www.linkedin.com/in/ACoAABvRcY8BebKhsBMbx2qUyYurRb0pmcfmZg4"
+  ],
+  "conversationId": "2-NTI2MGUyM2EtM2FlZS00NzJjLWJhMDctZmEzOWQyN2U2N2M2XzEwMA==",
+  "play": "inbox-revival",
+  "status": "open-loop",
+  "outcome": null,
+  "firstTouch": "2026-08-17",
+  "lastLinkedInActivity": "2026-08-17",
+  "connectedOn": "2026-08-13",
+  "email": "sergioemanriquez@sanoxusa.com",
+  "signal": "Gave his email unprompted within 40 minutes, then volunteered the flow structure himself: North America to Mexico today, and Mexico to North America starting in a few weeks.",
+  "trigger": "That second flow was due to start a few weeks after 2026-08-17. Five weeks have passed, so the trigger is live right now. This is the reason to write and it uses his own words.",
+  "note": "MISSED BY THE DETECTOR. The unanswered-signals screen only caught threads where the prospect spoke last, and here Marcel spoke last, so it never surfaced. An open loop where Marcel spoke last is just as much a dropped signal, and worse when the prospect volunteered a trigger first. Marcel also said 'le escribo ahora mismo' about the email, so check whether that was sent before writing. Strong ICP: agricultural and sanitization chemicals out of Texas, bidirectional USD and MXN. sanoxusa.com indicates a US entity, so factoring is not ruled out either, though he has not raised it.",
+  "lesson": "The thread ended with a Calendly link and went silent. Same failure as Jerome Soitel, where four agreed calls died at the scheduling step and the fix was removing calendars. No calendar link in the reopen.",
+  "loggedOn": "2026-09-21"
  }
 ]
