@@ -1,10 +1,14 @@
 [
  {
-  "profileUrl": "https://www.linkedin.com/in/raul-guevara-8680621b6",
-  "company": "EXPRESS TEAM FREIGHT INC",
-  "title": "none shown, headline is a degree",
-  "archiveCheck": "clean: not connected, never invited, never messaged",
-  "added": "2026-09-21",
-  "verdict": "SKIP, seat does not qualify. Find the owner or finance lead at the same company."
+  "name": "Gilbert Martinez",
+  "company": "Able Industrial Products, Inc.",
+  "title": "President",
+  "location": "Hacienda Heights, California",
+  "degree": "3rd",
+  "stand": "22, 17",
+  "tier": "3 MFG",
+  "profileUrl": null,
+  "blocker": "no URL supplied",
+  "added": "2026-09-21"
  }
 ]
