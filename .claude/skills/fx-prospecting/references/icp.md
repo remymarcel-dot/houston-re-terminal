@@ -245,3 +245,31 @@ plain sight in the thread itself. Screen on these before anything else:
 None of this is conclusive on its own, but each one is free and catches
 most of what the title based screen lets through. Apply it before spending
 a search, and certainly before putting a name in front of Marcel.
+
+## An English company name proves nothing about country
+
+"The Cash flow Doctor" reads American and is a Mexico business. Marcel
+closed it on the same test as Grupo Industrial Saltillo and NETCURIO.
+
+Three of the nine explicit-yes rows died on country alone, and in each case
+the company name pointed the wrong way or nowhere at all. Never infer
+country from the name. Use the tells in the thread, the domain, or ask.
+
+### Scoreboard for the explicit-yes exercise
+
+Nine rows surfaced, and Marcel killed them one at a time:
+
+| reason | count |
+|---|---|
+| Mexican business, belongs to Monex Mexico | 3 |
+| too small or not worth the time | 2 |
+| already a customer | 1 |
+| out of country entirely (Australia) | 1 |
+| the yes was about something else | 1 |
+| still open | 1 |
+
+The lesson is not that the detector was badly built. It is that **signal
+detection without qualification produces work for Marcel rather than
+leads.** Country, size and customer status decide almost everything, none
+of the three is in the LinkedIn export, and all three must be resolved
+before a name is shown to him.

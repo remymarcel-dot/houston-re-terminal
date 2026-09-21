@@ -1406,5 +1406,20 @@
   "objection": "Marcel closed it 2026-09-21: mostly Mexican business, so not his to chase.",
   "note": "Do not resurface. Same test as Grupo Industrial Saltillo: the business sits in Mexico, so the relationship is Monex Mexico's. A +52 mobile offered as the contact route was itself the tell and should have been screened before this reached Marcel.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "Jose Jaime Diaz Gonzalez",
+  "company": "The Cash flow Doctor",
+  "title": "Founder & Chief Financial Specialist",
+  "location": "Mexico",
+  "play": "inbox-revival",
+  "status": "closed",
+  "outcome": "mexican-entity",
+  "firstTouch": "2025-12-15",
+  "lastLinkedInActivity": "2025-12-15",
+  "signal": "Said he was open to discuss on 2025-12-15, maybe later for bigger projects.",
+  "objection": "Marcel closed it 2026-09-21: Mexico business, so not his to chase.",
+  "note": "Do not resurface. Third of the nine closed on the same test. The English company name hid a Mexican business, so the name itself proves nothing about country.",
+  "loggedOn": "2026-09-21"
  }
 ]
