@@ -199,3 +199,31 @@ from somewhere else before a name is put in front of Marcel:
 
 A strong signal is a reason to qualify a company, never a substitute for
 qualifying it.
+
+## The test is where the buying decision sits, not whether a US entity exists
+
+Grupo Industrial Saltillo was put forward as the strongest name in the warm
+set: roughly a billion dollars of revenue, listed, US subsidiaries, a real
+currency book. Marcel killed it in one line. It is a Mexican company.
+
+US subsidiaries were not enough, and that is the whole lesson. A Mexican
+listed group's CFO sits in Mexico and banks in Mexico. That relationship
+belongs to **Monex Mexico**, not Monex USA, which is a separate US licensed
+entity. Chasing it is not just out of scope, it is reaching across a
+colleague's desk.
+
+Compare with Grupo Palco, which Marcel did approve. Also Mexican
+headquartered, but the contact was engaging about a US event, the group
+runs operating US entities in El Paso, and the flows being discussed
+settle on the US side.
+
+So ask where the decision and the banking sit:
+
+| | verdict |
+|---|---|
+| US company, US treasury | yes |
+| Mexican group with US operating entities, US side flows, US contact | worth checking with Marcel |
+| Mexican parent, CFO in Mexico, group treasury in Mexico | no, that is Monex Mexico's |
+
+Revenue size does not override this. A billion dollar Mexican corporate is
+a worse target for Marcel than a twenty million dollar Texas importer.

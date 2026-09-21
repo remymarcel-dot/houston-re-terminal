@@ -1377,5 +1377,19 @@
   "objection": "Marcel closed it 2026-09-21: the thread was about joining an association, he already attended an event, and it is not worth pursuing.",
   "note": "Do not resurface. The detector read 'Could you please send me your email and/or phone number' as interest in the FX offer. It was about an association and an event, a different subject entirely. A request for contact details only counts as a signal when it answers what Marcel actually proposed; read what the exchange is about, not the shape of the sentence.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "Saul Castaneda de Hoyos",
+  "company": "Grupo Industrial Saltillo",
+  "title": "Chief Financial Officer",
+  "location": "Saltillo, Mexico",
+  "play": "inbox-revival",
+  "status": "closed",
+  "outcome": "mexican-entity",
+  "firstTouch": "2021-09-24",
+  "lastLinkedInActivity": "2025-11-25",
+  "objection": "Marcel closed it 2026-09-21: Grupo Industrial Saltillo is a Mexican company, so not his to chase.",
+  "note": "Do not resurface. US subsidiaries were NOT enough, and that is the point. A Mexican listed group's CFO sits in Mexico and banks in Mexico, which makes the relationship Monex Mexico's rather than Monex USA's. I argued the opposite on the strength of roughly a billion in revenue and US subsidiaries, and was wrong.",
+  "loggedOn": "2026-09-21"
  }
 ]
