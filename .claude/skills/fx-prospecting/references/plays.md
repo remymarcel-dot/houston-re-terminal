@@ -268,3 +268,36 @@ MesoCaribe Energy and Romero Brands were all ended properly on purpose.
 And reachability qualifies on its own. Whether the company has exposure
 does not matter if the person will not answer; a real signal is one that
 survives contact, not one that sounds willing.
+
+## The ineligible prospect who becomes the channel
+
+Fátima M. could never have been an account. Persona física in Veracruz,
+outside Monex USA's reach, ineligible for factoring, and she asked
+directly whether the call was just a sales pitch.
+
+On 2026-09-21 she offered, unprompted, to write a post from her own
+perspective on working capital in Fresh Produce, recommend Marcel inside
+it as a resource rather than as advertising, and channel qualifying US
+constituted importers and exporters to him directly.
+
+What produced that, in order:
+
+1. **An opener built on something she actually published**, a 4.84% net
+   margin and a 19 day cash cycle, not a product pitch.
+2. **Six exchanges of real technical conversation** where she taught
+   Marcel more about lime margins than he taught her about FX.
+3. **A direct honest answer** when she asked whether this was a sales
+   pitch: no, and I could not sell you an account even if I wanted to.
+4. **A written summary with real numbers**, including the unflattering
+   two to three week onboarding, given freely with nothing asked back.
+5. **Commission never mentioned**, on Marcel's explicit instruction,
+   across eight exchanges. She has never raised it either.
+
+The lesson worth keeping: **an ineligible contact with an audience in the
+right industry can be worth more than an account.** Screening for
+eligibility decides what can be sold, not whether the conversation is
+worth having. Someone who cannot buy can still be the reason twenty people
+do.
+
+When the channel produces a lead, it still passes the same US entity test
+as any other. A referral is a warm introduction, not an exemption.
