@@ -89,5 +89,14 @@
   "whyStrong": "Best structural fit sourced so far. US entity (LLC), the person is physically in El Paso rather than Mexico, and his actual remit is Mexican operations. So the dollars sit on his side of the border, the pesos are his job, and the decision is his to make.",
   "contrastWith": "Nexteer's CFO Mexico, Rogelio Villa, was cut from the tier A list on the country test. The difference is not the title, it is that Luis is US based at a mid size US manufacturer while that seat sits in Mexico at a global group with its own treasury. Read the location and the company, never the job title alone.",
   "added": "2026-09-21"
+ },
+ {
+  "name": "Luis Reynoso",
+  "company": "Jones Plastic & Engineering LLC",
+  "issue": "prior invitation in the export",
+  "detail": "An outgoing invitation exists in the archive and he is not a connection. Same shape as Cristian Silva Lisboa.",
+  "rule": "The export is a log, not live state. It flags the name; only LinkedIn knows whether the invite is still pending. Cristian's looked pending and was not.",
+  "action": "Marcel opens his profile before wave 2 goes. If the button says Pending, withdraw it first so the new request with the summit note can land. If it says Connect, send normally.",
+  "added": "2026-09-21"
  }
 ]
