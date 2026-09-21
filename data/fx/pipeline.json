@@ -414,7 +414,7 @@
   "play": "inbox",
   "campaignId": null,
   "listId": null,
-  "status": "channel-nurture",
+  "status": "channel-active",
   "outcome": null,
   "firstTouch": "2026-09-09",
   "lastTouch": "2026-09-18",
@@ -422,7 +422,10 @@
   "note": "Written summary delivered 2026-09-21, closing the commitment she accepted on Sep 19. She is a referral channel, not an account: persona fisica in Veracruz, ineligible for both products, now advising rather than operating. The summary gave her real terms so she can filter cases herself: recourse sits with the company, Monex never touches her client's buyer, up to 90% and 90 days, 0.80 to 1.25% per 30 days, onboarding 2 to 3 weeks stated honestly, and rate set on the company's own credit.",
   "lastActivity": "2026-09-21",
   "nextStep": "Nothing owed. Do not chase. If she goes quiet that is a fine outcome for a channel. Her season runs June to November, so a case is likeliest to arrive in that window, and anyone wanting facility for October has to start in September given the 2 to 3 week setup.",
-  "doNotRaise": "Commission or referral fees. She has never raised either and Marcel ruled it out as impolite."
+  "doNotRaise": "Commission or referral fees. She has never raised either and Marcel ruled it out as impolite.",
+  "breakthrough": "2026-09-21: she proposed the referral channel herself, unprompted. Offered to write a post from her own perspective on working capital in Fresh Produce, recommend Marcel as the resource in context rather than as advertising, channel qualifying US constituted importers and exporters directly to him, and share the content for review before publishing.",
+  "competitorIntel": "Previously used ReservePay factoring, well known in the Texas Valley. She already understands the product category.",
+  "whyItWorked": "She was never an account: persona fisica in Veracruz, ineligible for both products. Six exchanges of genuine technical conversation, one honest answer about not being able to sell her anything, and a written summary with real numbers turned her into a distribution channel instead. Commission was never mentioned, per Marcel's instruction, and she has never asked."
  },
  {
   "name": "Avery O'Brien",
@@ -1156,7 +1159,7 @@
   "location": "Mexico",
   "profileUrl": "https://www.linkedin.com/in/carlos-palma-0508bb175",
   "play": "event-driven",
-  "status": "awaiting-reply",
+  "status": "warm-handoff",
   "outcome": null,
   "firstTouch": "2026-08-07",
   "lastLinkedInActivity": "2026-08-07",
@@ -1175,8 +1178,9 @@
   "productEligibility": "FX: clearly yes, USD and MXN flows are the core of the business. Factoring: possible rather than confirmed. A US entity exists, which is the gating requirement, but the two El Paso carriers look small on paper, one with a single truck and driver, so whether meaningful receivables actually sit in the US entity is a question for the meeting and must not be assumed.",
   "secondAngle": "As a customs broker and forwarder they touch hundreds of importers and exporters, so they are a referral channel as well as an account, the same shape as Fatima M. Worth more than their own volume if it works.",
   "conversationId": "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==",
-  "nextStep": "If he confirms the address, the email to ventas@grupopalco.mx is the real ask and it needs to land well before Oct 22 so a pre summit meeting can actually be booked. If no reply by roughly Oct 8, write to ventas@grupopalco.mx anyway: he already gave that address in August, so it is an invitation rather than a cold approach.",
-  "doNotRaise": "Factoring, until it is known where the receivables actually sit. He has not raised it."
+  "nextStep": "WhatsApp Luis Merjil. That beats the generic sales inbox and it is off LinkedIn, so Marcel does it. Target a meeting before Oct 21. Still do not raise factoring until it is known where the receivables sit.",
+  "doNotRaise": "Factoring, until it is known where the receivables actually sit. He has not raised it.",
+  "reply": "2026-09-21: confirmed ventas@grupopalco.mx and additionally gave his Sales Manager, Luis Merjil, direct on WhatsApp at +52 1 656 375 6411."
  },
  {
   "name": "Alejandro Arregui",
