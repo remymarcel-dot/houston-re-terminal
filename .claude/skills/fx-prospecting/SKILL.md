@@ -283,3 +283,18 @@ happened with X" rather than anything implying it was missed.
 This is also a gap worth closing properly: pipeline.json has no way to
 learn about a win unless Marcel says so. When he mentions one, log it with
 status customer so the name is permanently excluded from outreach lists.
+
+## Never construct a LinkedIn URL
+
+A profile URL is only ever copied, never built from a name. Slugs carry
+arbitrary suffixes (`-9b7a97ba`, `-74098786`, `-86480213b`) that cannot be
+derived, so a guessed URL either fails outright or resolves to a different
+person, and the second failure is silent and far worse.
+
+This happened with Laura Plummer at W Silver Recycling: Marcel pasted her
+name, title, company and location but no URL, and the field was filled in
+with an invented slug rather than left empty. It was caught before the
+campaign launched, so nothing was sent.
+
+When profile details arrive without a URL, **ask for the URL**. An
+incomplete row is honest; a fabricated one looks complete and is not.

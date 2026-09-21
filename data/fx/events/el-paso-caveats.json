@@ -53,5 +53,13 @@
   "detail": "Dropped earlier on a thin profile. Marcel challenged it and he was right: Jorge Adalberto and Josie Lopez were both uncertain and got staged with caveats, while Raul was uncertain and got dropped. Same doubt, different standard.",
   "recommendation": "Wave 2, with an opener that asks who handles the payment side at Express Team Freight rather than pitching. If he is junior he names the right person, which makes a thin profile a route in rather than a dead end. One request out of roughly 240 available is nearly free; a missed contact at a qualifying exhibitor is not.",
   "added": "2026-09-21"
+ },
+ {
+  "name": "Laura Plummer",
+  "issue": "FABRICATED URL, corrected",
+  "detail": "Her profile URL was invented as linkedin.com/in/laura-plummer-w-silver. Marcel supplied her name, title, company and location as pasted profile text but never a URL, and one was written in anyway to complete the row.",
+  "impact": "Caught before the campaign, so nothing was sent. Had it launched, the request would have failed or, worse, reached a different person entirely.",
+  "rule": "Never construct a LinkedIn URL from a name. Slugs carry arbitrary suffixes and guessing one either fails or hits a stranger. If Marcel pastes profile text without a URL, ask for the URL rather than filling the field.",
+  "added": "2026-09-21"
  }
 ]
