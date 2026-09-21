@@ -27,8 +27,9 @@ collecting from the buyer is wrong and was corrected once already.
 |---|---|
 | Advance (aforo) | up to **90%** of invoice value |
 | Financing term | up to **90 days** |
-| Rate, general range | **0.90% to 1.25% per 30 days** |
+| Rate, general range | **0.80% to 1.25% per 30 days** |
 | Advance timing | 24 to 48 hours once the invoice is accepted |
+| Onboarding | **2 to 3 weeks**, credit analysis plus contract signing |
 
 The rate is a general range, not a quote. What a given company gets
 depends on its own credit standing, so present it as "generally runs" and
@@ -60,3 +61,17 @@ exporters waiting on payment from abroad, companies expanding into new
 markets, and businesses running more than one currency.
 
 Site: MonexTradeFinance.com
+
+
+## Onboarding takes 2 to 3 weeks. Never say days.
+
+The one pager's "Fast (5 to 7 days)" is not the setup time and must not be
+repeated as one. Getting a company live takes **2 to 3 weeks**, covering
+credit analysis and contract signature. The 24 to 48 hours applies only to
+an advance, after the company is already set up and the invoice accepted.
+
+A draft went out for review promising onboarding in "días, no semanas".
+That was wrong and Marcel corrected it. Never compress the two numbers
+into one, and state the setup honestly, especially to a referral channel:
+someone who refers a client expecting days and watches it take three weeks
+loses their own credibility first, and Marcel's second.
