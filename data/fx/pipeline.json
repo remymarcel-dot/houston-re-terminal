@@ -1333,5 +1333,19 @@
   "objection": "Marcel closed it on 2026-09-21: too small to be worth working. Not a fit on size.",
   "note": "Do not resurface. Worth recording because the signal looked as strong as a signal gets, an outright request to be called with a phone number, and it still was not a fit. Signal strength says someone will talk, not that the account is worth the time. Size and exposure have to be screened before a reopen is drafted.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "Alonso Duarte",
+  "company": "AUSY Engineering",
+  "title": "Chief Executive Officer",
+  "play": "inbox-revival",
+  "status": "customer",
+  "outcome": "won",
+  "firstTouch": "2026-08-10",
+  "onboarded": "2026-08",
+  "email": "alonso.duarte@ausyengineering.com",
+  "signal": "Gave availability and his email on 2026-08-10: Mon to Fri after 12 CT.",
+  "note": "WON. Marcel confirms on 2026-09-21 that he onboarded AUSY Engineering last month. The LinkedIn thread simply stops after the availability message, which is what a closed deal looks like from the archive: indistinguishable from a dropped lead. Do not include in any outreach list.",
+  "loggedOn": "2026-09-21"
  }
 ]

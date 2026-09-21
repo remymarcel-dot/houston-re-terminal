@@ -254,3 +254,32 @@ accepted an invitation and were never messaged at all. That is absence of
 any contact anywhere, which is a different claim and still stands. Keep the
 two apart: individual threads usually were worked, the bulk network was
 not.
+
+## The archive cannot see a win
+
+AUSY Engineering, Alonso Duarte gave his availability on 2026-08-10, the
+LinkedIn thread stopped, and it surfaced as an unanswered signal. He had
+been onboarded as a customer that month.
+
+**A closed deal and a dropped lead look identical from LinkedIn.** Both are
+a yes followed by silence, because the work moves to email, phone and
+onboarding and never comes back to the thread. Nothing in the export
+distinguishes them.
+
+So any list built from message silence is a list of questions, never a
+list of failures. Running score on the ones checked with Marcel:
+
+| outcome | count |
+|---|---|
+| already handled off platform | 4 |
+| won, now a customer | 1 |
+| not a fit on size | 1 |
+| never late, event still ahead | 1 |
+| genuinely dropped | 1 |
+
+One in eight. Ask before drafting, every time, and phrase it as "what
+happened with X" rather than anything implying it was missed.
+
+This is also a gap worth closing properly: pipeline.json has no way to
+learn about a win unless Marcel says so. When he mentions one, log it with
+status customer so the name is permanently excluded from outreach lists.
