@@ -183,3 +183,33 @@ Calendly link, having been fully engaged one message earlier.
 A calendar link asks a busy person to do the work of choosing. Offer
 something concrete instead, propose specific times, or ask for their
 number. Reserve calendar links for people who ask for one.
+
+## "Marcel spoke last" is not the same as an open loop
+
+A ranking that treated Marcel's message being last as a strong signal was
+wrong, and reading the threads caught it before ten bad drafts went out.
+Nine of the first ten ranked that way were conversations Marcel had closed
+correctly after the prospect declined:
+
+- Villa Seafood, Inc., Geir Myklebust: partners invoice in USD, equity
+  funded, credit insured, has an unused bank line. A textbook clean no,
+  closed gracefully.
+- colonet fresh organic, Ramiro Gutierrez: already a Monex client.
+- VALENCIA INTERNATIONAL, Memo Valencia and Chazey Partners, Edgar
+  Paralizabal: explicit declines.
+- Combs Wholesale Produce, Ben Combs: buys through US brokers, volume is
+  domestic.
+
+Writing again to any of them would undo work Marcel did well.
+
+So classify the prospect's LAST message before ranking anything:
+
+| their last message | meaning |
+|---|---|
+| a decline, and Marcel closed politely after it | finished, never reopen without a trigger |
+| an anniversary or "great to connect" pleasantry | noise, not engagement |
+| an inbound pitch at Marcel | not a prospect |
+| they left the company | trigger, but for wherever they are now |
+| an explicit yes, a phone number, an email, a time | **the only real open loop** |
+
+Only the last row is worth a reopen, and it is rare: nine out of 178.
