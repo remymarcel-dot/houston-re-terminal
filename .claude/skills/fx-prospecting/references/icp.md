@@ -227,3 +227,21 @@ So ask where the decision and the banking sit:
 
 Revenue size does not override this. A billion dollar Mexican corporate is
 a worse target for Marcel than a twenty million dollar Texas importer.
+
+## Cheap country tells already in the data
+
+Country is not a field in the LinkedIn export, but it is often sitting in
+plain sight in the thread itself. Screen on these before anything else:
+
+- **A +52 mobile, or any non US country code**, offered as the contact
+  route. NETCURIO, Pablo Sedano gave a +52 cell and asked for WhatsApp,
+  which was the answer before any research started.
+- **A .mx, .es or other country domain** on the email they hand over.
+- **The language and register of their own messages**, especially Mexican
+  business Spanish with no US context anywhere in the thread.
+- **Company suffixes**: S.A. de C.V., S.A.B., S. de R.L., Ltda.
+- **A US area code** is the positive version of the same tell.
+
+None of this is conclusive on its own, but each one is free and catches
+most of what the title based screen lets through. Apply it before spending
+a search, and certainly before putting a name in front of Marcel.
