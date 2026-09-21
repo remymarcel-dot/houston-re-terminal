@@ -1088,17 +1088,23 @@
   "company": "Ferrero USA",
   "title": "Treasury",
   "location": "United States",
-  "profileUrl": "https://www.linkedin.com/in/ritesh-vachhani-3a44b3a4/",
+  "profileUrl": "https://www.linkedin.com/in/ritesh-vachhani-3a44b3a4",
   "play": "referral",
   "campaignId": null,
   "listId": null,
-  "status": "identified-not-contacted",
+  "status": "awaiting-reply",
   "outcome": null,
-  "firstTouch": null,
+  "firstTouch": "2026-08-06",
   "lastTouch": null,
   "loggedOn": "2026-09-18",
   "priority": "tier-1",
-  "note": "REFERIDO POR EL PREDECESOR. Tomó el asiento de tesorería para Norteamérica en Ferrero USA después de que Steven Wojtowicz se jubiló en enero de 2026. Steven mismo dio el nombre el 2026-09-18 cuando Marcel se lo pidió. Confirmado en Apollo: Ritesh, apellido enmascarado Va***i, Treasury en Ferrero, Estados Unidos. Marcel encontró el perfil completo. ÁNGULO: Ferrero tiene matriz italiana, así que la pata intercompañía en euros es permanente en su cierre mensual, no ocasional. Ese fue el ángulo del mensaje original a Steven y sigue siendo válido. La invitación debe abrir con el nombre de Steven. No es un desconocido escribiendo, es alguien a quien su predecesor mandó, y eso vale más que cualquier gancho."
+  "note": "CORRECTED 2026-09-21. He was already connected and already messaged on 2026-08-06, six weeks before Steven Wojtowicz gave the name, and never replied. The earlier record wrongly said identified-not-contacted with an unsent connection note. Two likely reasons the August message died: it opened 'itesh', dropping the first letter of his name, and it asked a stranger a demanding structural question about whether policy is set in Luxembourg. Do not repeat that question.",
+  "aliases": [
+   "https://www.linkedin.com/in/ACoAABYkgWwBAXZFGFp_qVWcsLgUCSDyYsSGKD0"
+  ],
+  "conversationId": "2-Y2FjMmRjNjktNDYwMy00MGZlLTkwNDktYjlhNjViMWFhOThjXzEwMA==",
+  "lastLinkedInActivity": "2026-08-06",
+  "referralStrength": "THIN, do not overstate. Steven Wojtowicz did not discuss the euro intercompany leg with Marcel: Marcel wrote that line to him. Steven replied only that he had retired, then gave 'First name is Ritesh don't know the surname'. He confirmed the seat, nothing more. Saying he 'pointed me your way' about a specific topic would not survive Ritesh asking him."
  },
  {
   "name": "Jose Rene Tapia",
