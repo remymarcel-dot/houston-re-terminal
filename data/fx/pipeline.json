@@ -1363,5 +1363,19 @@
   "objection": "Marcel closed it 2026-09-21: Australian company and very small. Outside the US entity requirement and not worth chasing on size.",
   "note": "Do not resurface. Fails the standing directive on two counts at once, US companies only and worth the time. The agreed meeting made it look like the strongest kind of open loop.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "Marson Cunha",
+  "company": "ClearCloser",
+  "title": "COO",
+  "play": "inbox-revival",
+  "status": "closed",
+  "outcome": "not-a-lead",
+  "firstTouch": "2026-01-13",
+  "lastLinkedInActivity": "2026-01-13",
+  "signal": "Asked for Marcel's email or phone on 2026-01-13, which read as a buying signal.",
+  "objection": "Marcel closed it 2026-09-21: the thread was about joining an association, he already attended an event, and it is not worth pursuing.",
+  "note": "Do not resurface. The detector read 'Could you please send me your email and/or phone number' as interest in the FX offer. It was about an association and an event, a different subject entirely. A request for contact details only counts as a signal when it answers what Marcel actually proposed; read what the exchange is about, not the shape of the sentence.",
+  "loggedOn": "2026-09-21"
  }
 ]

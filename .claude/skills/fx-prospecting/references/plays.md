@@ -213,3 +213,16 @@ So classify the prospect's LAST message before ranking anything:
 | an explicit yes, a phone number, an email, a time | **the only real open loop** |
 
 Only the last row is worth a reopen, and it is rare: nine out of 178.
+
+## Read what the exchange is about, not the shape of the sentence
+
+ClearCloser, Marson Cunha wrote "Absolutely. Could you please send me your
+email and/or phone number?", which scored as a strong buying signal. The
+thread was about joining an association and an event he had already
+attended. Nothing to do with FX.
+
+A phrase that looks like agreement only counts when it answers what Marcel
+actually proposed. Before treating any yes as a signal, check what the
+preceding message asked. Pattern matching on "yes", a phone number or an
+email address finds every warm sounding sentence in the archive regardless
+of its subject, and each false one costs Marcel a correction.
