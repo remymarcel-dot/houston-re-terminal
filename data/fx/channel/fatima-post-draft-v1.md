@@ -45,3 +45,25 @@ Proposed single line, nothing else touched:
 This is the first content Marcel has not written that carries his name on
 its accuracy. The standing rule: **check data, never voice.** If the
 correction is not a factual one, it does not get made.
+
+
+## Review returned 2026-09-21
+
+Three things went back, and only one was a correction.
+
+**Confirmed, not corrected.** Her qualifiers were already right: "advance
+up to 90%", "extend for up to 90 days", "the rate generally ranges ...
+depending on the company's credit profile". Marcel's own summary had
+dropped those, not her draft. Told her so explicitly, because she avoided
+overstating the ceiling without being asked and that is worth naming.
+
+**Added, new information.** The credit analysis costs nothing and keeping
+the line open costs nothing. Tied to the onboarding time rather than left
+as a separate bullet: get approved before the season tightens and hold the
+line at no cost until it is needed. For an audience whose squeeze runs
+June to November, told in September, that is the practical framing.
+
+**Corrected, one item.** Recourse named but never defined.
+
+Nothing else was touched. Marcel told her outright to ignore any request
+from him that is not a factual correction.
