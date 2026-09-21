@@ -273,3 +273,22 @@ detection without qualification produces work for Marcel rather than
 leads.** Country, size and customer status decide almost everything, none
 of the three is in the LinkedIn export, and all three must be resolved
 before a name is shown to him.
+
+## "CFO Mexico" is not automatically disqualifying
+
+Two seats with almost the same title landed on opposite sides of the test.
+
+**Cut:** Nexteer, Rogelio Villa, "Chief Financial Officer - Mexico". Sits
+in Mexico, at a global automotive group that runs its own treasury.
+
+**Kept:** Jones Plastic & Engineering LLC, Luis Reynoso, "CFO - Mexican
+Operations". Sits in **El Paso, Texas**, at a mid size US LLC.
+
+Luis is the better target than most plain US CFOs on the list, because the
+dollars sit on his side of the border, the pesos are his actual remit, and
+the decision is his to make. A title mentioning Mexico can mean the person
+runs Mexico from Mexico, or that they run the Mexican exposure from the US
+side. Those are opposite prospects.
+
+Read **where the person is** and **what the company is**, never the job
+title alone.
