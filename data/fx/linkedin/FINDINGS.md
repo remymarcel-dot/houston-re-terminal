@@ -72,7 +72,7 @@ reason. Nothing in the archive shows a restriction, but the exposure is real.
 | `targets-tier-a.csv` | 45 finance decision makers, FX sector, US looking, first degree, never messaged, not in pipeline |
 | `targets-tier-b.csv` | 579 next best, same screen with a weaker sector or geography signal |
 | `warm-dormant.csv` | 113 who replied at least once and went quiet, vendors pitching Marcel removed by hand |
-| `unanswered-signals.csv` | 11 who gave a phone, an email or a yes and never got an answer |
+| `unanswered-signals.csv` | 11 who gave a phone, an email or a yes with no LinkedIn answer after it |
 
 Screening excludes Monex colleagues, FX and payments competitors, recruiters,
 coaches and vendors, the Seidor and SAP era, and large enterprises that run
@@ -103,3 +103,29 @@ rather than in git history. Only this aggregate analysis is committed.
 Regenerate them by re-running the screen against a fresh export. Nothing
 downstream depends on them being in version control: `pipeline.json` remains
 the record for anyone actually being worked.
+
+
+## Correction: what "unanswered" actually means
+
+The 11 in `unanswered-signals.csv` are threads where a buying signal is the
+last thing visible on LinkedIn. That is not the same as a dropped ball, and
+checking the first four proved it:
+
+| | what the archive showed | what actually happened |
+|---|---|---|
+| Door Capital Partners, Alejandro Arregui | email handed over, thread ends | call took place Jan 21, no FX exposure, closed |
+| TA Express, Jose Rene Tapia | mobile given, thread ends | followed up off platform, went nowhere, closed |
+| Solve Networks, Jason Bell | emails and time slots given | still unverified |
+| Grupo Palco, Carlos Palma | email given before the El Paso summit | still unverified |
+
+Two of the four verified were already handled, so the detector runs at
+roughly a 50% false positive rate on this sample. It finds where the
+LinkedIn record stops, not where Marcel stopped. Marcel's real
+conversations move to WhatsApp, email and phone, and none of that is
+visible here.
+
+Treat the list as a prompt to ask, never as a list of failures, and never
+write to anyone on it before Marcel confirms what happened off platform.
+Door Capital Partners, Alejandro Arregui is the case that proves the cost:
+a reopen there would have pitched hedging to someone who had already sat
+through a call and said he has no exposure.

@@ -1105,13 +1105,15 @@
   "location": "Laredo corridor, Texas and Mexico",
   "profileUrl": "https://www.linkedin.com/in/lic-jose-rene-tapia-35837b185",
   "play": "inbox-revival",
-  "status": "unanswered-signal",
-  "outcome": null,
+  "status": "closed",
+  "outcome": "no-result",
   "firstTouch": "2026-03-31",
   "lastLinkedInActivity": "2026-04-02",
   "signal": "gave mobile 956 282 9089 and said con gusto after Marcel asked to schedule a call",
-  "note": "Cross border trucking Laredo to Nuevo Leon and Coahuila plus JTS Logistics in Laredo. Strong ICP. Area code 956 is the Rio Grande Valley. Awaiting Marcel on whether the call happened by phone.",
-  "loggedOn": "2026-09-18"
+  "note": "Closed by Marcel. The mobile handoff in April was followed up off LinkedIn and produced nothing. Do not resurface and do not draft the reopen. Strong ICP on paper, cross border trucking on the Laredo corridor, which is a reminder that sector fit alone does not make a live opportunity.",
+  "loggedOn": "2026-09-18",
+  "lastActivity": "2026-04-02",
+  "objection": "Marcel confirms on 2026-09-21 that TA Express went nowhere. Skip."
  },
  {
   "name": "Jason Bell",
