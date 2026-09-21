@@ -1,6 +1,6 @@
 {
- "lastRun": "2026-09-21T16:00:00-05:00",
- "runType": "session-close",
+ "lastRun": "2026-09-21T16:15:00-05:00",
+ "runType": "campaign-launch",
  "senderAccountId": 237851,
  "networkSize": 22078,
  "conversationsTotal": 256,
@@ -112,5 +112,15 @@
   "state": "post approved, awaiting publication",
   "why": "ineligible as an account, persona fisica in Veracruz, but has a Fresh Produce audience and proposed the referral herself",
   "watch": "inbound US constituted importers and exporters; each still faces the US entity test"
+ },
+ "campaignLaunched": {
+  "campaignId": 613681,
+  "listId": 956421,
+  "name": "El Paso Summit - Exhibitors W1",
+  "leads": 9,
+  "sequence": "VIEW_PROFILE then CONNECTION_REQUEST with a per lead note, both branches END. No follow up message by design.",
+  "withdrawAfter": "30 days",
+  "schedule": "Mon to Fri 09:00 to 17:00 Central",
+  "held": "Soledad S., Munoz Trucking, wave 2, to avoid two approaches to one company on the same day"
  }
 }
