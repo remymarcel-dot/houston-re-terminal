@@ -1,54 +1,62 @@
 # Monex Trade Finance: the real terms
 
-Source: "MTF One Pager, Español", supplied by Marcel 2026-09-21.
-This replaces guesswork. Do not state a term that is not on this page.
+Sources: the "MTF One Pager, Español" and Marcel's own correction of it,
+both 2026-09-21. **Where the two disagree, Marcel wins.** Do not state a
+term that is not on this page.
 
-## What it is
+## What it actually is
 
-Recourse factoring (factoraje con recurso), backed by Monex's 40 plus
-years in global payments.
+Recourse factoring, and the recourse part is the whole shape of it.
 
-The four steps as the sheet describes them:
+Monex funds **the company** against the value and maturity of an invoice
+it has issued. The relationship is with that company throughout:
 
-1. The client ships the goods and issues an invoice to their overseas buyer.
-2. Monex reviews and accepts the invoice for factoring.
-3. Monex advances **up to 90% of invoice value within 24 to 48 hours**.
-4. The client collects from their customer on the original terms and repays
-   Monex 100% of the invoice.
+- Monex does **not** deal with the company's customer. No collection from
+  the buyer, no contact with the buyer, no notification.
+- The company receives the funds.
+- The company repays Monex **whether or not it has been paid by its own
+  customer**.
+
+So this is invoice backed funding to the company, not the purchase of a
+receivable and not a transfer of buyer risk. Describing it as Monex
+collecting from the buyer is wrong and was corrected once already.
+
+## The numbers
+
+| | |
+|---|---|
+| Advance (aforo) | up to **90%** of invoice value |
+| Financing term | up to **90 days** |
+| Rate, general range | **0.90% to 1.25% per 30 days** |
+| Advance timing | 24 to 48 hours once the invoice is accepted |
+
+The rate is a general range, not a quote. What a given company gets
+depends on its own credit standing, so present it as "generally runs" and
+never as the price for a specific deal.
+
+## What the credit decision rests on
+
+**The company's credit, not its customers'.** The credit line and the
+30 day discount rate are set on the company being funded.
+
+The one pager's line about terms being "basadas en toda la operación, no
+en los puntajes de crédito" overstates this, and building an argument on
+it produced a wrong draft. The honest version: no collateral is required
+and Monex serves PyME as well as Corporativos, but the company's own
+credit is what sets the rate.
+
+This also shapes qualification advice. A very thin or very new US entity
+is not automatically a good candidate just because a strong buyer sits on
+the other side, because the buyer is not what is being underwritten.
 
 ## Who qualifies
 
-**Import and export companies with operations in the United States.** That
-is the hard filter and it is the one that governs every conversation: a US
-LLC or Inc qualifies, a Mexican supplier does not, and a persona física
-does not.
+**Import and export companies with operations in the United States.** The
+hard filter: a US LLC or Inc qualifies, a Mexican supplier does not, a
+persona física does not.
 
-The sheet's differentiators:
-
-- Serves PyME as well as Corporativos
-- **No collateral** (sin garantías)
-- Terms built on **the whole operation, not credit scores**. This is the
-  line that matters most for a young US entity with a strong buyer on the
-  other side: it is often the difference between qualifying and not.
-- Real trade financing against purchase orders, invoices and shipments
-
-## Who it is built for
-
-- Importers who need to pay suppliers faster
-- Exporters waiting on payment from abroad
-- Companies expanding into new markets
-- Businesses running operations in more than one currency
-
-## What the sheet does NOT give
-
-**Pricing.** There is no rate, fee or spread anywhere on it. Never quote
-one. Cost depends on the buyer, the tenor and the volume, and saying so
-plainly is both true and more credible than a number, especially to
-someone deciding whether to refer clients.
-
-One ambiguity to handle carefully: the comparison table shows funding speed
-as "Fast (5 to 7 days)" while the process steps say the advance lands in 24
-to 48 hours. Read the 5 to 7 days as onboarding and the 24 to 48 hours as
-the advance once live, and do not pin an exact onboarding number.
+Built for importers needing to pay suppliers before they collect,
+exporters waiting on payment from abroad, companies expanding into new
+markets, and businesses running more than one currency.
 
 Site: MonexTradeFinance.com
