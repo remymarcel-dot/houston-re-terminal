@@ -60,7 +60,8 @@
   "profileUrl": "https://www.linkedin.com/in/cristian-silva-lisboa-7bb7996a",
   "company": null,
   "title": null,
-  "archiveCheck": "clean: not connected, never invited, never messaged",
-  "added": "2026-09-21"
+  "archiveCheck": "FLAG: invitation already sent 2026-05-18 with no note, still not connected after four months. Almost certainly a pending invite, and LinkedIn will not accept a second while one is outstanding.",
+  "added": "2026-09-21",
+  "action": "Withdraw the May invite first, then resend with the event note. Four months pending means it is sitting unseen in his invitation list, and the summit gives a genuine reason to appear again. Alternative: leave it and approach him at the stand instead."
  }
 ]

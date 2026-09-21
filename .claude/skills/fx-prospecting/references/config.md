@@ -77,3 +77,26 @@ roughly 180 a week. That is at the edge of what LinkedIn tolerates. Keep
 connection requests at 15 a day. The bigger point is that volume was never
 the shortfall: 1,368 people who accepted were never messaged, so added
 invitations buy nothing until the existing network is worked.
+
+## Check for a pending invitation before sending another
+
+A prospect who shows an outgoing invitation but no connection almost
+always has one still pending, and **LinkedIn will not accept a second
+invitation while the first is outstanding**. The request is silently
+wasted.
+
+Cristian Silva Lisboa was invited on 2026-05-18 with no note and has not
+accepted four months later. That is a pending invite, not a rejection: a
+blank request from a stranger sits unread in a list most people never
+open.
+
+Before any new request, check the Invitations export for an outgoing row
+with no matching connection. When one exists:
+
+1. **Withdraw the old invitation first**, then send a fresh one with a
+   real reason. A withdrawn invite frees the slot and the new one arrives
+   as a new notification.
+2. Or leave it and reach the person another way, which at an event means
+   the stand.
+
+Never simply fire a second request at them and assume it landed.
