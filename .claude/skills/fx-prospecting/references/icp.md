@@ -135,3 +135,23 @@ A person is a lead when they have confirmed, in their own words, that
 their company moves money in a currency other than USD. Everything
 before that is a target. Log the distinction in `pipeline.json` so the
 weekly numbers mean something.
+
+## Do not cut the network by connection date
+
+A segmentation run screened to connections made in 2025 or later, on the
+reasoning that everything older belonged to the Seidor and SAP years and
+was stale for FX work. That was wrong and it hid live prospects.
+
+Measured against the archive: **160 people connected before 2025 hold
+decision maker titles and have been in conversation since 2025, and 66 of
+them have replied at least once.** These are the older Mexico and LATAM
+relationships, and they answer at a far better rate than anyone cold,
+because the relationship predates the pitch.
+
+Safer Food Services (SFS US), Humberto Martinez is the proof. Connected in
+June 2019, agreed to a meeting twice in February 2026, gave his corporate
+email, and never appeared on any target list because of the date cut.
+
+Screen on the title, the company and whether there is real FX exposure.
+Connection date says when Marcel met someone, not whether they are worth
+talking to. The Hashtag_Follows export is stale; the people are not.
