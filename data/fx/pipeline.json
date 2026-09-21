@@ -1122,14 +1122,17 @@
   "location": "United States",
   "profileUrl": "https://www.linkedin.com/in/jason-bell-b03121195",
   "play": "inbox-revival",
-  "status": "unanswered-signal",
+  "status": "draft-ready-manual-send",
   "outcome": null,
   "firstTouch": "2025-12-17",
   "lastLinkedInActivity": "2025-12-19",
   "signal": "gave two work emails and offered specific slots on Dec 22, 23, 29 and the following week",
   "objection": "said he has little international payments experience and that customers are US HQ with domestic payments today",
-  "note": "Hook is their stated 2026 goal of expanding the global sim offering, not current exposure. Marcel had promised a Teams invite by email so this very likely continued off LinkedIn.",
-  "loggedOn": "2026-09-18"
+  "note": "Hook is their stated 2026 goal of expanding the global sim offering, not current exposure. Marcel had promised a Teams invite by email so this very likely continued off LinkedIn. | Draft deliberately makes no claim about what happened after December, because Marcel never confirmed whether it moved to email. Two of four signals checked this week turned out already handled, so the text is written to read correctly either way.",
+  "loggedOn": "2026-09-18",
+  "lastActivity": "2025-12-19",
+  "blocker": "Not sendable from HeyReach. The December 2025 thread has not synced, same pre 2026-07-30 lag seen before, and a lead search returns nothing. Marcel sends this one by hand from LinkedIn.",
+  "draft": "Jason, circling back on something you mentioned in December.\n\nWhat you described then was a 2026 goal: taking the sim offering beyond US domestic. Nine months in that is either moving or it is not, and if it is moving you are now paying carriers or suppliers in something other than dollars.\n\nDid the international side actually start?\n\nMarcel"
  },
  {
   "name": "Carlos Palma",
@@ -1200,13 +1203,14 @@
   "location": "Mexico City Metropolitan Area",
   "profileUrl": "https://www.linkedin.com/in/ACoAAAAooS0BunSGcFm1M-AwYt4sGbHws0FmTiE",
   "play": "event-driven",
-  "status": "courtesy-only",
+  "status": "reconnected",
   "outcome": null,
   "firstTouch": "2026-09-19",
-  "lastActivity": "2026-09-19",
+  "lastActivity": "2026-09-21",
   "signal": "met Marcel in person at The Woodlands and wrote to say it was a pleasure",
-  "note": "Branding and packaging agency in Mexico City. Not ICP: Mexican entity, service business, no evident FX volume. Warm human contact worth answering, no pitch.",
-  "loggedOn": "2026-09-21"
+  "note": "Branding and packaging agency in Mexico City. Not ICP: Mexican entity, service business, no evident FX volume. Warm human contact worth answering, no pitch. | Warm reply sent 2026-09-21 in Spanish, no pitch. He signs himself Javier rather than Francisco. Left open on a Houston visit. Nothing owed unless he comes back.",
+  "loggedOn": "2026-09-21",
+  "conversationId": "2-ZDI4ZWMyOGQtN2VkYS00ODZhLTk0NWMtZDI5NzhlYTc1MDYwXzEwMA=="
  },
  {
   "name": "Henry Rawcliffe",
