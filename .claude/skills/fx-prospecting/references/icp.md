@@ -170,3 +170,32 @@ on any list will keep being the ones that waste the most time.
 Company size is not in the LinkedIn export, so where a name is unfamiliar
 and the company is small or unknown, ask Marcel before drafting rather
 than assuming a loud signal means a real account.
+
+## Qualify before presenting, not after
+
+Three of the first nine "explicit yes" rows failed basic qualification the
+moment Marcel looked at them:
+
+| | why it should never have been shown |
+|---|---|
+| GOB ENERGY SOLUTIONS LLC | too small to work |
+| AUSY Engineering | already a customer, onboarded in August |
+| Xefco | Australian, and very small |
+
+Xefco is the worst of the three. US companies only has been a standing
+directive from the start, and an Australian company reached the list
+anyway, because the screen read titles and sector words and never checked
+where the company is.
+
+The LinkedIn export carries no country and no size, so those have to come
+from somewhere else before a name is put in front of Marcel:
+
+1. Apollo's free `organizations_lookup` resolves the domain, which often
+   settles the country on its own (a .mx or .es domain, or an obvious
+   local brand).
+2. A web search settles size and footprint for anything unfamiliar.
+3. Where both are still unclear, ask Marcel in one line rather than
+   drafting. He knows these companies in seconds.
+
+A strong signal is a reason to qualify a company, never a substitute for
+qualifying it.

@@ -1347,5 +1347,21 @@
   "signal": "Gave availability and his email on 2026-08-10: Mon to Fri after 12 CT.",
   "note": "WON. Marcel confirms on 2026-09-21 that he onboarded AUSY Engineering last month. The LinkedIn thread simply stops after the availability message, which is what a closed deal looks like from the archive: indistinguishable from a dropped lead. Do not include in any outreach list.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "Ty Morton, MSF",
+  "company": "Xefco",
+  "title": "Finance Manager",
+  "location": "Australia",
+  "play": "inbox-revival",
+  "status": "closed",
+  "outcome": "out-of-scope",
+  "firstTouch": "2026-02-02",
+  "lastLinkedInActivity": "2026-02-02",
+  "email": "t.morton@xefco.com",
+  "signal": "Agreed a time on 2026-02-02 and asked for the invite.",
+  "objection": "Marcel closed it 2026-09-21: Australian company and very small. Outside the US entity requirement and not worth chasing on size.",
+  "note": "Do not resurface. Fails the standing directive on two counts at once, US companies only and worth the time. The agreed meeting made it look like the strongest kind of open loop.",
+  "loggedOn": "2026-09-21"
  }
 ]
