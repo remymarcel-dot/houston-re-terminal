@@ -163,3 +163,37 @@ something needing justification.
 - Pitching FX to someone who is between roles (see `icp.md`)
 - More than one question per message
 - Any sentence that would read identically to fifty other recipients
+
+## The savings table
+
+Marcel's own figure, given 2026-09-21: against Wells Fargo, Chase or Bank
+of America he typically sees **1% to 3% difference per transaction**.
+
+Worked against annual volume:
+
+| annual volume | saving at 1% | saving at 3% |
+|---|---|---|
+| 100,000 USD | 1,000 | 3,000 |
+| 500,000 USD | 5,000 | 15,000 |
+| 1,000,000 USD | 10,000 | 30,000 |
+
+Naming the three banks is the strongest part. It turns an abstract claim
+into a yes or no question the reader answers instantly, and if they bank
+with one of the three the rest of the message is already about them.
+
+Three rules for using it:
+
+1. **Always call it an estimate, never a quote.** The range is three times
+   wide. Someone who reads 3% and later measures 0.8% concludes he was
+   oversold, which is the exact failure the execution time rule exists to
+   prevent.
+2. **Always keep the ask for real payments.** The table opens the
+   conversation and the measured comparison closes it. Dropping the ask
+   leaves a claim with nothing behind it.
+3. **Say what the range depends on:** their bank, and how their operations
+   are executing today. Naming the variables is what separates an estimate
+   from a guess.
+
+Best used on owners and presidents, who respond to a number against their
+own volume. A treasurer already knows the spread exists and will care more
+about the measured comparison than the illustration.
