@@ -231,7 +231,8 @@
   "firstTouch": "2026-09-15",
   "loggedOn": "2026-09-15",
   "lastTouch": "2026-09-18",
-  "note": "RETIRED JANUARY 2026, no longer at Ferrero USA. Replied 2026-09-16: 'I retired in January so no longer at Ferrero'. HEYREACH AUTO-TAGGED HIM 'Not interested', WHICH IS WRONG and must not be trusted: he did not decline, he left the seat. Treat the auto-tag as unreliable wherever the reply explains a change of role. Root cause: LinkedIn still showed him as N.A. Treasury Director eight months after he left, and get_my_network_for_sender returns headline as null, so the in-seat screen in icp.md could only check title and company and had nothing to catch this with. Asked 2026-09-17 for the name of his successor in the North American treasury seat. If he gives it, that person is the real lead at Ferrero USA. 2026-09-18: HE GAVE THE SUCCESSOR'S NAME. First name RITESH, surname unknown, North American treasury seat at Ferrero USA. Find him via LinkedIn search on Ritesh plus Ferrero and open by saying Steven pointed the way. A retired predecessor's referral is worth far more than the original cold message. Marcel thanked him and closed the loop; do not ask him for anything further."
+  "note": "RETIRED JANUARY 2026, no longer at Ferrero USA. Replied 2026-09-16: 'I retired in January so no longer at Ferrero'. HEYREACH AUTO-TAGGED HIM 'Not interested', WHICH IS WRONG and must not be trusted: he did not decline, he left the seat. Treat the auto-tag as unreliable wherever the reply explains a change of role. Root cause: LinkedIn still showed him as N.A. Treasury Director eight months after he left, and get_my_network_for_sender returns headline as null, so the in-seat screen in icp.md could only check title and company and had nothing to catch this with. Asked 2026-09-17 for the name of his successor in the North American treasury seat. If he gives it, that person is the real lead at Ferrero USA. 2026-09-18: HE GAVE THE SUCCESSOR'S NAME. First name RITESH, surname unknown, North American treasury seat at Ferrero USA. Find him via LinkedIn search on Ritesh plus Ferrero and open by saying Steven pointed the way. A retired predecessor's referral is worth far more than the original cold message. Marcel thanked him and closed the loop; do not ask him for anything further.",
+  "autoTagWarning": "HeyReach auto-tagged him 'Not interested' in campaign 603316. That is wrong. He is a retiree who answered politely and handed over his successor's name. Do not let the tag filter him out."
  },
  {
   "name": "Diamonic Edwards",
@@ -1104,7 +1105,11 @@
   ],
   "conversationId": "2-Y2FjMmRjNjktNDYwMy00MGZlLTkwNDktYjlhNjViMWFhOThjXzEwMA==",
   "lastLinkedInActivity": "2026-08-06",
-  "referralStrength": "THIN, do not overstate. Steven Wojtowicz did not discuss the euro intercompany leg with Marcel: Marcel wrote that line to him. Steven replied only that he had retired, then gave 'First name is Ritesh don't know the surname'. He confirmed the seat, nothing more. Saying he 'pointed me your way' about a specific topic would not survive Ritesh asking him."
+  "referralStrength": "THIN, do not overstate. Steven Wojtowicz did not discuss the euro intercompany leg with Marcel: Marcel wrote that line to him. Steven replied only that he had retired, then gave 'First name is Ritesh don't know the surname'. He confirmed the seat, nothing more. Saying he 'pointed me your way' about a specific topic would not survive Ritesh asking him.",
+  "lastActivity": "2026-09-21",
+  "touches": 2,
+  "angle": "Second touch. Owns the 'itesh' typo in the opening line, brings the one genuinely new fact since August, that Steven Wojtowicz confirmed the seat, and replaces the Luxembourg question with an easier one about who owns operational execution. Precedent for owning a bad first attempt: ManpowerGroup, Fernando Tenuta replied after exactly that move.",
+  "nextStep": "Two touches used. If silent in two to three weeks he goes dormant, no third message."
  },
  {
   "name": "Jose Rene Tapia",

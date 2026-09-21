@@ -1,5 +1,5 @@
 {
- "lastRun": "2026-09-21T10:30:00-05:00",
+ "lastRun": "2026-09-21T09:45:00-05:00",
  "runType": "sends",
  "senderAccountId": 237851,
  "networkSize": 22078,
@@ -65,15 +65,23 @@
   "TA Express, Jose Rene Tapia: followed up off platform, no result"
  ],
  "sentThisRun": [
-  "Aptean, Clifford D'Souza: first reply to a Treasury Director who opened the thread himself",
-  "Grupo Palco, Carlos Palma: pre summit reopen ahead of El Paso on Oct 22",
-  "DE LEON PROFESIONALES, Francisco Javier De Leon: warm courtesy reply, no pitch",
-  "Fatima M.: the written trade finance summary she accepted on Sep 19"
+  "Aptean, Clifford D'Souza",
+  "Grupo Palco, Carlos Palma",
+  "DE LEON PROFESIONALES, Francisco Javier De Leon",
+  "Fatima M. (written trade finance summary)",
+  "Sanoxlabs Inc, Sergio E Manriquez",
+  "Ferrero USA, Ritesh Vachhani"
  ],
  "blocked": [
   "Solve Networks, Jason Bell: Dec 2025 thread not synced to HeyReach, draft stored for manual send"
  ],
  "owedByMarcel": [
   "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook distribution"
+ ],
+ "recordCorrections": [
+  "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
+  "Sanoxlabs was missing entirely: the signal detector only swept threads where the prospect spoke last",
+  "Grupo Palco's El Paso summit is Oct 22 and still ahead, not past",
+  "unanswered-signals ran at roughly 50% false positives on the four verified"
  ]
 }
