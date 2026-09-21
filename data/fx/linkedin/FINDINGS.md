@@ -129,3 +129,35 @@ write to anyone on it before Marcel confirms what happened off platform.
 Door Capital Partners, Alejandro Arregui is the case that proves the cost:
 a reopen there would have pitched hedging to someone who had already sat
 through a call and said he has no exposure.
+
+
+## Correction: the 2025 date cut hid the best targets
+
+The first screen kept only connections made in 2025 or later, assuming
+anything older was Seidor and SAP era. Rebuilt without that cut, the
+qualified pool goes from 2,556 to **6,090**.
+
+More importantly it changes what the best target looks like. Across all
+years, **178 people have replied to Marcel at least once and have been in
+conversation since 2025**, are decision makers, and are not yet in the
+pipeline. Vendors and large enterprises are excluded. Of those, 98 are open
+loops where Marcel sent the last message.
+
+These outrank every cold name. The relationship already exists, they have
+already answered once, and many are the older Mexico and LATAM contacts
+from before Monex.
+
+Safer Food Services (SFS US), Humberto Martinez is the case that exposed
+it: connected June 2019, agreed to a meeting twice in February 2026, and
+invisible to every list because of the date filter.
+
+### Rebuilt files
+
+| file | what it is |
+|---|---|
+| `warm-replied-all-years.csv` | 178 who replied before and are active since 2025, ranked, open loops first |
+| `never-messaged-fin-fx-all-years.csv` | 153 finance decision makers in FX sectors, never messaged, any year |
+
+Work the warm file before the cold one. Screen on title, company and real
+exposure. Connection date says when Marcel met someone, not whether they
+are worth talking to.
