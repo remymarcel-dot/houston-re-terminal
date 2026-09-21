@@ -30,6 +30,8 @@ collecting from the buyer is wrong and was corrected once already.
 | Rate, general range | **0.80% to 1.25% per 30 days** |
 | Advance timing | 24 to 48 hours once the invoice is accepted |
 | Onboarding | **2 to 3 weeks**, credit analysis plus contract signing |
+| Cost of the credit analysis | **none** |
+| Cost of keeping the line open | **none**, no standby or maintenance fee |
 
 The rate is a general range, not a quote. What a given company gets
 depends on its own credit standing, so present it as "generally runs" and
@@ -94,3 +96,34 @@ her language instead of imposing new terms.
 
 The requirement being tested is a US constituted entity that can contract
 and be credit assessed, not a particular corporate form.
+
+
+## No cost to look, no cost to hold
+
+Added by Marcel 2026-09-21, and not on the one pager:
+
+- **The credit analysis is free.** A company can be assessed without
+  paying anything.
+- **Keeping the line open is free.** No standby fee, no maintenance
+  charge on an unused facility.
+
+This is a strong point and an easy one to state, because it removes the
+reason most people postpone the conversation. A company under seasonal
+pressure can get approved before it needs the money and carry the line at
+no cost until it does.
+
+Pair it with the onboarding time rather than hiding behind it: two to
+three weeks to set up, nothing to pay while doing it, and nothing to pay
+to keep it there.
+
+## Say "up to", always
+
+**"Up to 90%"** and **"up to 90 days"**, never "90%" and "90 days".
+**Rates "typically run" 0.80% to 1.25% per 30 days**, never "the rate is".
+
+Marcel flagged this on a draft where the summary had dropped the
+qualifiers: stating a ceiling as though it were the standard is
+misleading advertising, and it sets up an expectation the credit analysis
+will not always meet. The qualifier is not legal hedging, it is the
+difference between a number a prospect can trust and one they will later
+feel sold.
