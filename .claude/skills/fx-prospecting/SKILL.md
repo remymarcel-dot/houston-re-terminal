@@ -231,3 +231,26 @@ immediately.
 - `references/icp.md` — who qualifies, segmentation filters
 - `references/voice.md` — how Marcel writes, with real examples
 - `references/plays.md` — the four plays and when to run each
+
+## Marcel follows up more than the LinkedIn record shows
+
+Five threads were surfaced this week as signals that went unanswered. On
+checking each with Marcel, four of them he had already worked:
+
+| | what actually happened |
+|---|---|
+| Door Capital Partners, Alejandro Arregui | call took place, no FX exposure |
+| TA Express, Jose Rene Tapia | worked off platform, no result |
+| Grupo Palco, Carlos Palma | never late, the event is still ahead |
+| Safer Food Services, Humberto Martinez | emailed and chased three times, the prospect went quiet |
+| Solve Networks, Jason Bell | genuinely dropped, the only one |
+
+One in five. So never present a thread to Marcel as a failure of
+follow-through: ask what happened, and expect the answer to be that it was
+handled. The LinkedIn record shows where LinkedIn stops, nothing more.
+
+This does not soften the separate, measured finding that 1,368 people
+accepted an invitation and were never messaged at all. That is absence of
+any contact anywhere, which is a different claim and still stands. Keep the
+two apart: individual threads usually were worked, the bulk network was
+not.
