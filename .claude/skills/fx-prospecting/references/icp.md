@@ -155,3 +155,18 @@ email, and never appeared on any target list because of the date cut.
 Screen on the title, the company and whether there is real FX exposure.
 Connection date says when Marcel met someone, not whether they are worth
 talking to. The Hashtag_Follows export is stale; the people are not.
+
+## Screen for size before drafting a reopen
+
+GOB ENERGY SOLUTIONS LLC, Logun Roberts sent the strongest signal in the
+whole archive, an outright "Can you call me please sir" with his number,
+and Marcel closed it as too small to work.
+
+Signal strength tells you someone will take the call. It says nothing
+about whether the account is worth the hour. Screen size and real currency
+exposure before writing a reopen, not after, or the strongest looking rows
+on any list will keep being the ones that waste the most time.
+
+Company size is not in the LinkedIn export, so where a name is unfamiliar
+and the company is small or unknown, ask Marcel before drafting rather
+than assuming a loud signal means a real account.
