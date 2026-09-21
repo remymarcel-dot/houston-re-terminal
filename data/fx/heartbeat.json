@@ -1,6 +1,6 @@
 {
- "lastRun": "2026-09-21T09:45:00-05:00",
- "runType": "sends",
+ "lastRun": "2026-09-21T11:30:00-05:00",
+ "runType": "session-close",
  "senderAccountId": 237851,
  "networkSize": 22078,
  "conversationsTotal": 256,
@@ -67,21 +67,37 @@
  "sentThisRun": [
   "Aptean, Clifford D'Souza",
   "Grupo Palco, Carlos Palma",
-  "DE LEON PROFESIONALES, Francisco Javier De Leon",
-  "Fatima M. (written trade finance summary)",
   "Sanoxlabs Inc, Sergio E Manriquez",
-  "Ferrero USA, Ritesh Vachhani"
+  "Ferrero USA, Ritesh Vachhani",
+  "Fatima M. (written trade finance summary)",
+  "DE LEON PROFESIONALES, Francisco Javier De Leon",
+  "Solve Networks, Jason Bell (sent by Marcel)",
+  "Safer Food Services, Humberto Martinez (sent by Marcel)"
  ],
- "blocked": [
-  "Solve Networks, Jason Bell: Dec 2025 thread not synced to HeyReach, draft stored for manual send"
- ],
+ "blocked": [],
  "owedByMarcel": [
-  "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook distribution"
+  "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook distribution",
+  "Around Oct 8: email ventas@grupopalco.mx if Carlos Palma has not replied, ahead of the Oct 22 El Paso summit"
  ],
  "recordCorrections": [
   "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
   "Sanoxlabs was missing entirely: the signal detector only swept threads where the prospect spoke last",
   "Grupo Palco's El Paso summit is Oct 22 and still ahead, not past",
   "unanswered-signals ran at roughly 50% false positives on the four verified"
- ]
+ ],
+ "awaitingReply": [
+  "Aptean, Clifford D'Souza",
+  "Grupo Palco, Carlos Palma",
+  "Sanoxlabs Inc, Sergio E Manriquez",
+  "Ferrero USA, Ritesh Vachhani",
+  "Solve Networks, Jason Bell",
+  "Safer Food Services, Humberto Martinez"
+ ],
+ "warmArchiveExercise": {
+  "surfaced": 9,
+  "closed": 9,
+  "leads": 0,
+  "reasons": "3 Mexican business, 2 too small, 1 already a customer, 1 Australian, 1 yes was off topic, 1 unresponsive after a clean close",
+  "conclusion": "The warm archive is worked out. Next pool is the 4,767 qualified never messaged, screened for country, size and customer status before any name is shown."
+ }
 }
