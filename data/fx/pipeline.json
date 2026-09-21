@@ -1138,7 +1138,7 @@
   "location": "Mexico",
   "profileUrl": "https://www.linkedin.com/in/carlos-palma-0508bb175",
   "play": "event-driven",
-  "status": "event-pending",
+  "status": "awaiting-reply",
   "outcome": null,
   "firstTouch": "2026-08-07",
   "lastLinkedInActivity": "2026-08-07",
@@ -1146,7 +1146,7 @@
   "note": "CORRECTION on 2026-09-21. The El Paso event Carlos referred to is the Manufacturing and Supply Chain Summit on Oct 22 2026, which has NOT happened. I had confused it with the MEXICONOW Nearshoring Summit that Marcel already attended. Nothing was missed and his offer to meet the team beforehand is still open. About a month of runway, which is the right window to arrange pre event meetings. Mexican entity, so FX is fine but factoring stays US entity only and should not be raised unprompted.",
   "loggedOn": "2026-09-18",
   "eventDate": "2026-10-22",
-  "lastActivity": "2026-08-07",
+  "lastActivity": "2026-09-21",
   "usEntity": true,
   "usEntityEvidence": [
    "Grupo Palco's own site lists US business units: Ola Logistics LLC (USA) and Palco Cargo Logistic (USA)",
@@ -1155,7 +1155,10 @@
   ],
   "companyProfile": "Cross border trade services group founded 2011, headquartered in Ciudad Juarez, ten plus companies covering customs brokerage, international forwarding, IMMEX warehousing, distribution and materials recycling, positioned at the US Mexico crossings. El Paso is its twin city, which is why the Oct 22 summit matters to them.",
   "productEligibility": "FX: clearly yes, USD and MXN flows are the core of the business. Factoring: possible rather than confirmed. A US entity exists, which is the gating requirement, but the two El Paso carriers look small on paper, one with a single truck and driver, so whether meaningful receivables actually sit in the US entity is a question for the meeting and must not be assumed.",
-  "secondAngle": "As a customs broker and forwarder they touch hundreds of importers and exporters, so they are a referral channel as well as an account, the same shape as Fatima M. Worth more than their own volume if it works."
+  "secondAngle": "As a customs broker and forwarder they touch hundreds of importers and exporters, so they are a referral channel as well as an account, the same shape as Fatima M. Worth more than their own volume if it works.",
+  "conversationId": "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==",
+  "nextStep": "If he confirms the address, the email to ventas@grupopalco.mx is the real ask and it needs to land well before Oct 22 so a pre summit meeting can actually be booked. If no reply by roughly Oct 8, write to ventas@grupopalco.mx anyway: he already gave that address in August, so it is an invitation rather than a cold approach.",
+  "doNotRaise": "Factoring, until it is known where the receivables actually sit. He has not raised it."
  },
  {
   "name": "Alejandro Arregui",
