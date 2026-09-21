@@ -1179,9 +1179,23 @@
   "productEligibility": "FX: clearly yes, USD and MXN flows are the core of the business. Factoring: possible rather than confirmed. A US entity exists, which is the gating requirement, but the two El Paso carriers look small on paper, one with a single truck and driver, so whether meaningful receivables actually sit in the US entity is a question for the meeting and must not be assumed.",
   "secondAngle": "As a customs broker and forwarder they touch hundreds of importers and exporters, so they are a referral channel as well as an account, the same shape as Fatima M. Worth more than their own volume if it works.",
   "conversationId": "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==",
-  "nextStep": "WhatsApp Luis Merjil. That beats the generic sales inbox and it is off LinkedIn, so Marcel does it. Target a meeting before Oct 21. Still do not raise factoring until it is known where the receivables sit.",
-  "doNotRaise": "Factoring, until it is known where the receivables actually sit. He has not raised it.",
-  "reply": "2026-09-21: confirmed ventas@grupopalco.mx and additionally gave his Sales Manager, Luis Merjil, direct on WhatsApp at +52 1 656 375 6411."
+  "nextStep": "Marcel WhatsApps Luis Merjil today. Carlos is the warrant, so lead with his name. Goal is a call this week or a booked meeting at El Paso on Oct 21 or 22. Keep Carlos warm as sponsor but do not work him as the buyer; a Sales Manager at a Juarez logistics group is closer to the payment flows.",
+  "doNotRaise": "Factoring, still. Grupo Palco has US entities so it is not ruled out, but where the receivables actually sit is unknown and the El Paso carriers looked thin.",
+  "reply": "2026-09-21: confirmed ventas@grupopalco.mx and additionally gave his Sales Manager, Luis Merjil, direct on WhatsApp at +52 1 656 375 6411.",
+  "contacts": [
+   {
+    "name": "Carlos Palma",
+    "role": "CEO y Presidente",
+    "channel": "LinkedIn",
+    "state": "replied and referred, thanked 2026-09-21, invited to Stand 40"
+   },
+   {
+    "name": "Luis Merjil",
+    "role": "Sales Manager",
+    "channel": "WhatsApp +52 1 656 375 6411",
+    "state": "draft ready, Marcel sends"
+   }
+  ]
  },
  {
   "name": "Alejandro Arregui",
