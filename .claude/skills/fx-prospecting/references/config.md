@@ -110,3 +110,23 @@ So the export flags a name for checking, it does not decide anything:
 
 Never fire a second request without that check, and never assume the
 export's silence means the invite is still sitting there.
+
+
+### Both outcomes seen, same week
+
+The flag is worth running because it resolves either way:
+
+| | export said | live check said | outcome |
+|---|---|---|---|
+| Cristian Silva Lisboa | invited May 18, not connected | not pending, reads as never contacted | send normally |
+| Luis Reynoso | invited Aug 4, not connected | still pending | withdrawn, then send |
+
+Identical evidence, opposite answers. The export cannot tell them apart and
+neither can the agent, so the live check is not optional caution, it is the
+only thing that knows.
+
+Both were **blank requests to good prospects that went nowhere**: a CFO for
+Mexican operations and a logistics CFO, each invited with no note and each
+ignored. That is the cost of a blank request to someone who has no idea who
+Marcel is, and it is the argument for a note when there is a real reason to
+give one.

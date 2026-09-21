@@ -97,7 +97,9 @@
   "detail": "An outgoing invitation exists in the archive and he is not a connection. Same shape as Cristian Silva Lisboa.",
   "rule": "The export is a log, not live state. It flags the name; only LinkedIn knows whether the invite is still pending. Cristian's looked pending and was not.",
   "action": "Marcel opens his profile before wave 2 goes. If the button says Pending, withdraw it first so the new request with the summit note can land. If it says Connect, send normally.",
-  "added": "2026-09-21"
+  "added": "2026-09-21",
+  "resolved": "2026-09-21: Marcel checked and it WAS pending from Aug 4. He withdrew it, so the slot is free and the new request with the summit note can land.",
+  "lesson": "The export flagged it correctly and the live check confirmed it, the opposite outcome to Cristian Silva Lisboa whose invite had lapsed. Two flags, two different answers, which is exactly why the export flags and LinkedIn decides."
  },
  {
   "name": "Matthew Dauphinee",
