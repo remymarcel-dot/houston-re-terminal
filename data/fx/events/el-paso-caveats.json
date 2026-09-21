@@ -98,5 +98,16 @@
   "rule": "The export is a log, not live state. It flags the name; only LinkedIn knows whether the invite is still pending. Cristian's looked pending and was not.",
   "action": "Marcel opens his profile before wave 2 goes. If the button says Pending, withdraw it first so the new request with the summit note can land. If it says Connect, send normally.",
   "added": "2026-09-21"
+ },
+ {
+  "name": "Matthew Dauphinee",
+  "company": "Mission Plastics, Inc.",
+  "pronouns": "he/him",
+  "seat": "WEAKEST sourced so far, and clearly so rather than ambiguously.",
+  "why": "His own description is plant operations: engineering, production, maintenance, production control, Six Sigma. That role runs the factory, not the money. He will not touch supplier payments, banking or FX.",
+  "contrastWith": "AS Logistics, Hector Sanchez is also operations and was staged without this flag, because at a freight forwarder operations often owns carrier and agent settlement. At a plastics plant it does not. Same word in the title, different function.",
+  "notLikeRaul": "The Raul Guevara case was ambiguity, an unclear title that might have hidden a real seat. This is not ambiguous: the title is explicit and explicitly not finance.",
+  "recommendation": "Marcel decides. Either skip and find the CFO or controller at Mission Plastics, which is the better target, or send with an opener that only asks who handles supplier payments, making him a referral route rather than a prospect. Do not pitch FX to him.",
+  "added": "2026-09-21"
  }
 ]
