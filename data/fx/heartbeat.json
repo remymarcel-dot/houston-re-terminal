@@ -1,6 +1,6 @@
 {
- "lastRun": "2026-09-21T08:45:00-05:00",
- "runType": "inbox-triage-and-send",
+ "lastRun": "2026-09-21T10:30:00-05:00",
+ "runType": "sends",
  "senderAccountId": 237851,
  "networkSize": 22078,
  "conversationsTotal": 256,
@@ -63,5 +63,17 @@
  "closedThisRun": [
   "Door Capital Partners, Alejandro Arregui: call happened, no FX exposure",
   "TA Express, Jose Rene Tapia: followed up off platform, no result"
+ ],
+ "sentThisRun": [
+  "Aptean, Clifford D'Souza: first reply to a Treasury Director who opened the thread himself",
+  "Grupo Palco, Carlos Palma: pre summit reopen ahead of El Paso on Oct 22",
+  "DE LEON PROFESIONALES, Francisco Javier De Leon: warm courtesy reply, no pitch",
+  "Fatima M.: the written trade finance summary she accepted on Sep 19"
+ ],
+ "blocked": [
+  "Solve Networks, Jason Bell: Dec 2025 thread not synced to HeyReach, draft stored for manual send"
+ ],
+ "owedByMarcel": [
+  "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook distribution"
  ]
 }

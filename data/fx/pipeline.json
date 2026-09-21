@@ -413,13 +413,15 @@
   "play": "inbox",
   "campaignId": null,
   "listId": null,
-  "status": "owed-written-summary",
-  "outcome": "not-a-prospect-channel-only",
+  "status": "channel-nurture",
+  "outcome": null,
   "firstTouch": "2026-09-09",
   "lastTouch": "2026-09-18",
   "loggedOn": "2026-09-15",
-  "note": "CANAL DE REFERIDOS ÚNICAMENTE, CONFIRMADO POR ELLA 2026-09-17: opera como PERSONA FÍSICA en Veracruz. NO es entidad estadounidense, así que NO califica ni para factoring ni para cuenta de Monex USA. Ella nunca fue el cliente y lo dijo ella misma. Preguntó de frente si la llamada era para venderle una cuenta. Marcel contestó que no y explicó por qué no podría vendérsela aunque quisiera, que es la verdad y es lo que desarma la sospecha. SE SOLTÓ LA AGENDA a petición suya: dijo que la próxima semana estaba complicada y que prefería no comprometer un horario. Se le ofreció el material por escrito en lugar de llamada. NO volver a proponer horarios hasta que ella lo pida. El valor real está en los intermediarios americanos, LLC o Inc, que ella describió: reciben USD del comprador americano y liquidan en MXN al proveedor mexicano. Esos sí califican para ambos productos. Interés alineado: un cliente suyo con capital sigue comprándole fruta. 28 años en el negocio del limón persa, ahora radicada en California. No mencionar comisiones ni ninguna aclaración que ella no haya pedido. | On 2026-09-19 she replied Si, accepting the written summary Marcel offered in place of a call. That summary is now owed: what is needed, how long it takes, which operations qualify. She stays a referral channel, not an account.",
-  "lastActivity": "2026-09-19"
+  "note": "Written summary delivered 2026-09-21, closing the commitment she accepted on Sep 19. She is a referral channel, not an account: persona fisica in Veracruz, ineligible for both products, now advising rather than operating. The summary gave her real terms so she can filter cases herself: recourse sits with the company, Monex never touches her client's buyer, up to 90% and 90 days, 0.80 to 1.25% per 30 days, onboarding 2 to 3 weeks stated honestly, and rate set on the company's own credit.",
+  "lastActivity": "2026-09-21",
+  "nextStep": "Nothing owed. Do not chase. If she goes quiet that is a fine outcome for a channel. Her season runs June to November, so a case is likeliest to arrive in that window, and anyone wanting facility for October has to start in September given the 2 to 3 week setup.",
+  "doNotRaise": "Commission or referral fees. She has never raised either and Marcel ruled it out as impolite."
  },
  {
   "name": "Avery O'Brien",
