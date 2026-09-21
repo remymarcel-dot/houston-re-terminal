@@ -197,3 +197,29 @@ Three rules for using it:
 Best used on owners and presidents, who respond to a number against their
 own volume. A treasurer already knows the spread exists and will care more
 about the measured comparison than the illustration.
+
+## Closing a vendor who asked for an answer
+
+A salesperson who has chased three times and then writes "let me know
+either way" has earned a reply. Silence at that point is not neutral, it
+is the discourteous option, and Marcel is on the receiving end of enough
+of these to know how it reads.
+
+The close that works gives a real reason, because a reason is what stops
+the chasing:
+
+> Henry, thanks for following up, and fair enough for asking directly.
+>
+> It is a no, and you deserve the reason rather than another silence. My
+> patch is Houston and the US Mexico corridor, so a London room full of UK
+> SMEs sits outside what I cover. Exhibition spend also sits with marketing
+> rather than with me, so I am not the person who could say yes even if the
+> fit were right.
+>
+> If either of those changes I know where to find you. Good luck with
+> November.
+
+Two reasons, both true, neither softened into a maybe. Never write "not
+right now" or "let's revisit next quarter" to end something that is
+actually finished, since that buys another three messages rather than
+closing it.
