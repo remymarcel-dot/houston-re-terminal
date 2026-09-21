@@ -1138,13 +1138,15 @@
   "location": "Mexico",
   "profileUrl": "https://www.linkedin.com/in/carlos-palma-0508bb175",
   "play": "event-driven",
-  "status": "unanswered-signal",
+  "status": "event-pending",
   "outcome": null,
   "firstTouch": "2026-08-07",
   "lastLinkedInActivity": "2026-08-07",
   "signal": "gave ventas@grupopalco.mx and offered to introduce his team ahead of the El Paso summit",
-  "note": "The Nearshoring Summit in El Paso has since happened and Marcel attended. Needs confirming whether they met there. Mexican entity, so check for a US entity before offering factoring.",
-  "loggedOn": "2026-09-18"
+  "note": "CORRECTION on 2026-09-21. The El Paso event Carlos referred to is the Manufacturing and Supply Chain Summit on Oct 22 2026, which has NOT happened. I had confused it with the MEXICONOW Nearshoring Summit that Marcel already attended. Nothing was missed and his offer to meet the team beforehand is still open. About a month of runway, which is the right window to arrange pre event meetings. Mexican entity, so FX is fine but factoring stays US entity only and should not be raised unprompted.",
+  "loggedOn": "2026-09-18",
+  "eventDate": "2026-10-22",
+  "lastActivity": "2026-08-07"
  },
  {
   "name": "Alejandro Arregui",
