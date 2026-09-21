@@ -1421,5 +1421,19 @@
   "objection": "Marcel closed it 2026-09-21: Mexico business, so not his to chase.",
   "note": "Do not resurface. Third of the nine closed on the same test. The English company name hid a Mexican business, so the name itself proves nothing about country.",
   "loggedOn": "2026-09-21"
+ },
+ {
+  "name": "David G. Wong",
+  "company": "WARDENHALL Financial Group",
+  "title": "Founder",
+  "play": "inbox-revival",
+  "status": "closed",
+  "outcome": "unresponsive",
+  "firstTouch": "2026-08-03",
+  "lastLinkedInActivity": "2026-08-03",
+  "signal": "Replied 'Si lo hacemos' on 2026-08-03 across an 11 message thread.",
+  "objection": "Marcel closed it 2026-09-21: not responsive in practice.",
+  "note": "Do not resurface. Eleven messages and a yes still produced nothing. Thread volume and a literal 'si lo hacemos' both scored as strength, and neither reflected how the person actually behaves. Marcel's read of someone he has dealt with beats any count of messages or agreeable phrases in the archive.",
+  "loggedOn": "2026-09-21"
  }
 ]

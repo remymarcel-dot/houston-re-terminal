@@ -226,3 +226,22 @@ actually proposed. Before treating any yes as a signal, check what the
 preceding message asked. Pattern matching on "yes", a phone number or an
 email address finds every warm sounding sentence in the archive regardless
 of its subject, and each false one costs Marcel a correction.
+
+## A yes is not a behaviour
+
+WARDENHALL Financial Group, David G. Wong replied "Si lo hacemos" inside an
+eleven message thread, which scored as one of the strongest rows in the
+archive. Marcel closed it in five words: not responsive.
+
+Two things were being read as strength that are not. A long thread can mean
+engagement or it can mean someone agreeable who never moves, and the
+archive cannot tell them apart. A literal yes measures politeness at least
+as often as intent.
+
+Jerome Soitel is the same shape: four agreed calls across five months, none
+of which happened.
+
+So when a name carries agreeable language but no meeting, no number, no
+email and no next step that ever landed, treat it as a pattern rather than
+a prospect, and ask Marcel before drafting. He has the one input the
+archive does not hold, which is how the person actually behaves.
