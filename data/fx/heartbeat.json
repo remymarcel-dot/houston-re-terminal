@@ -1,6 +1,6 @@
 {
- "lastRun": "2026-09-21T11:30:00-05:00",
- "runType": "session-close",
+ "lastRun": "2026-09-21T14:30:00-05:00",
+ "runType": "inbox-triage-and-sends",
  "senderAccountId": 237851,
  "networkSize": 22078,
  "conversationsTotal": 256,
@@ -65,19 +65,15 @@
   "TA Express, Jose Rene Tapia: followed up off platform, no result"
  ],
  "sentThisRun": [
-  "Aptean, Clifford D'Souza",
-  "Grupo Palco, Carlos Palma",
-  "Sanoxlabs Inc, Sergio E Manriquez",
-  "Ferrero USA, Ritesh Vachhani",
-  "Fatima M. (written trade finance summary)",
-  "DE LEON PROFESIONALES, Francisco Javier De Leon",
-  "Solve Networks, Jason Bell (sent by Marcel)",
-  "Safer Food Services, Humberto Martinez (sent by Marcel)"
+  "Fatima M.: accepted her referral channel offer",
+  "Grupo Palco, Carlos Palma: thanks plus Stand 40 invitation",
+  "Business Show Media, Henry Rawcliffe: closed with a real reason",
+  "Grupo Palco, Luis Merjil: WhatsApp sent by Marcel"
  ],
  "blocked": [],
  "owedByMarcel": [
   "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook distribution",
-  "Around Oct 8: email ventas@grupopalco.mx if Carlos Palma has not replied, ahead of the Oct 22 El Paso summit"
+  "El Paso sourcing: company mapping for the nine pending LinkedIn URLs"
  ],
  "recordCorrections": [
   "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
@@ -87,11 +83,12 @@
  ],
  "awaitingReply": [
   "Aptean, Clifford D'Souza",
-  "Grupo Palco, Carlos Palma",
   "Sanoxlabs Inc, Sergio E Manriquez",
   "Ferrero USA, Ritesh Vachhani",
   "Solve Networks, Jason Bell",
-  "Safer Food Services, Humberto Martinez"
+  "Safer Food Services, Humberto Martinez",
+  "Grupo Palco, Luis Merjil (WhatsApp, off platform)",
+  "Fatima M. (sending her draft post for review)"
  ],
  "warmArchiveExercise": {
   "surfaced": 9,
@@ -99,5 +96,14 @@
   "leads": 0,
   "reasons": "3 Mexican business, 2 too small, 1 already a customer, 1 Australian, 1 yes was off topic, 1 unresponsive after a clean close",
   "conclusion": "The warm archive is worked out. Next pool is the 4,767 qualified never messaged, screened for country, size and customer status before any name is shown."
+ },
+ "elPaso": {
+  "event": "2026-10-21/22",
+  "stand": 40,
+  "matchmakingOpens": "~2026-10-07",
+  "sourced": 11,
+  "staged": 2,
+  "pendingCompany": 9,
+  "flagged": "Cristian Silva Lisboa has an invitation pending since 2026-05-18"
  }
 }
