@@ -141,5 +141,10 @@
   "inCampaign": 19,
   "blocked": 1,
   "companies": 19
+ },
+ "nextMeeting": {
+  "who": "Grupo Palco, Luis Merjil",
+  "when": "2026-09-22 16:00 Central",
+  "prep": "see pipeline entry"
  }
 }

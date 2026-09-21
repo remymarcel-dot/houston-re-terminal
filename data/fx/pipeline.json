@@ -1164,7 +1164,7 @@
   "location": "Mexico",
   "profileUrl": "https://www.linkedin.com/in/carlos-palma-0508bb175",
   "play": "event-driven",
-  "status": "warm-handoff",
+  "status": "meeting-booked",
   "outcome": null,
   "firstTouch": "2026-08-07",
   "lastLinkedInActivity": "2026-08-07",
@@ -1197,11 +1197,28 @@
     "name": "Luis Merjil",
     "role": "Sales Manager",
     "channel": "WhatsApp +52 1 656 375 6411",
-    "state": "WhatsApp SENT by Marcel 2026-09-21. Awaiting reply."
+    "state": "MEETING BOOKED 2026-09-22, 15:00 Mountain, which is 16:00 Central for Marcel in Houston",
+    "email": "luis.merjil@grupopalco.mx"
    }
   ],
   "watchFor": "Marcel must relay anything Luis says, since WhatsApp is invisible from here and this thread now lives there.",
-  "boothConfirmed": "2026-09-21: Carlos replied 'See you there' to the Stand 40 invitation. He is expecting to meet at the stand, which is a confirmed in person meeting before any matchmaking request."
+  "boothConfirmed": "2026-09-21: Carlos replied 'See you there' to the Stand 40 invitation. He is expecting to meet at the stand, which is a confirmed in person meeting before any matchmaking request.",
+  "meeting": {
+   "with": "Luis Merjil, Sales Manager",
+   "when": "2026-09-22 15:00 Mountain / 16:00 Central",
+   "channel": "Teams, Marcel sends the invite to luis.merjil@grupopalco.mx",
+   "speed": "WhatsApp sent 15:25, replied 16:33, booked 16:39. Under 90 minutes from first contact."
+  },
+  "meetingPrep": {
+   "whoHeIs": "Sales Manager, not finance. He sells logistics services and will not own the banking decision.",
+   "twoAngles": [
+    "Palco's own cost: US entities receive dollars and Mexican entities need pesos, so somebody absorbs that conversion. Ola Logistics LLC, Palco Cargo Logistic USA, Palco Logistics LLC and Palco Transportation LLC are the US side.",
+    "The channel, which is probably worth more: as customs broker and forwarder Palco touches hundreds of importers and exporters. Same shape as Fatima M. A Sales Manager is exactly the right seat for that conversation, unlike the account one."
+   ],
+   "doNotRaise": "Factoring. The US entities exist so it is not ruled out, but where the receivables sit is unknown and the El Paso carriers looked thin.",
+   "askFor": "Who handles the conversions between the US and Mexican entities today, and whether Palco's clients ever ask about payment or FX.",
+   "timeZoneWarning": "3pm Mountain is 4pm Central. Marcel is in Houston."
+  }
  },
  {
   "name": "Alejandro Arregui",
