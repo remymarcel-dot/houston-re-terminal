@@ -245,3 +245,26 @@ So when a name carries agreeable language but no meeting, no number, no
 email and no next step that ever landed, treat it as a pattern rather than
 a prospect, and ask Marcel before drafting. He has the one input the
 archive does not hold, which is how the person actually behaves.
+
+## Count Marcel's unanswered follow-ups before calling anything open
+
+MesoCaribe Energy, Ron Chamness said "I would be open for a call" and that
+was scored as an open signal. It was his only reply across eleven messages.
+Marcel had already chased five times after it, ending in a clean no-ask
+close that told Ron not to reply.
+
+The detector read their last message and ignored everything Marcel sent
+afterwards. That is the whole error. Before calling a thread open:
+
+1. Find the prospect's last reply.
+2. Count Marcel's messages since. **Two or more unanswered means dead**,
+   whatever the reply said.
+3. Read his final message. If it is a graceful close, the thread is
+   finished and reopening undoes good work.
+
+Marcel's closes are deliberate and well written. Villa Seafood, Inc.,
+MesoCaribe Energy and Romero Brands were all ended properly on purpose.
+
+And reachability qualifies on its own. Whether the company has exposure
+does not matter if the person will not answer; a real signal is one that
+survives contact, not one that sounds willing.
