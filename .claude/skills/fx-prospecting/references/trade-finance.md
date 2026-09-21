@@ -75,3 +75,22 @@ That was wrong and Marcel corrected it. Never compress the two numbers
 into one, and state the setup honestly, especially to a referral channel:
 someone who refers a client expecting days and watches it take three weeks
 loses their own credibility first, and Marcel's second.
+
+
+## How to name the qualifying entity
+
+Say **"empresa americana"**, or "constituida en Estados Unidos" where
+precision matters. Do not enumerate entity types.
+
+"LLC o Inc" is what the early drafts used and it is incomplete: a Corp, an
+S-Corp or an LP qualifies just as well, and any list goes stale the moment
+someone arrives in a form it omits. A list also reads legalistic inside a
+message that is otherwise plain.
+
+Naming one example in the prospect's own words is fine and usually better.
+Fatima M. herself wrote "una LLC, Inc. o compania registrada en EE. UU.",
+so echoing that once and then using "empresa americana" throughout matches
+her language instead of imposing new terms.
+
+The requirement being tested is a US constituted entity that can contract
+and be credit assessed, not a particular corporate form.
