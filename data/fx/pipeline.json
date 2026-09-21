@@ -1200,7 +1200,8 @@
     "state": "WhatsApp SENT by Marcel 2026-09-21. Awaiting reply."
    }
   ],
-  "watchFor": "Marcel must relay anything Luis says, since WhatsApp is invisible from here and this thread now lives there."
+  "watchFor": "Marcel must relay anything Luis says, since WhatsApp is invisible from here and this thread now lives there.",
+  "boothConfirmed": "2026-09-21: Carlos replied 'See you there' to the Stand 40 invitation. He is expecting to meet at the stand, which is a confirmed in person meeting before any matchmaking request."
  },
  {
   "name": "Alejandro Arregui",

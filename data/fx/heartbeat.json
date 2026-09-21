@@ -1,6 +1,6 @@
 {
- "lastRun": "2026-09-21T16:30:00-05:00",
- "runType": "campaign-launch-w2",
+ "lastRun": "2026-09-21T16:45:00-05:00",
+ "runType": "inbox-triage",
  "senderAccountId": 237851,
  "networkSize": 22078,
  "conversationsTotal": 256,
@@ -14,12 +14,10 @@
  },
  "cooldowns": "all clear",
  "inboxTriage": {
-  "sweepA_unread": 7,
-  "real": 2,
-  "vendorNoise": 3,
-  "courtesyOnly": 1,
-  "awaitingMarcel": 1,
-  "note": "Aptean, Clifford D'Souza, Treasury Director, accepted and opened the thread himself. Reply approved and sent. Fatima M. accepted the written summary, which is owed and blocked on real Monex terms. Business Show Media, FOURSYS and Conveyor are vendors selling to Marcel."
+  "unread": 2,
+  "real": 0,
+  "awaitingMarcel": 0,
+  "note": "Both unread are closing pleasantries. Grupo Palco, Carlos Palma said 'See you there' to the Stand 40 invitation, which confirms an in person meeting. DE LEON PROFESIONALES, Francisco Javier De Leon closed with thanks. Nothing owed."
  },
  "segmentation": {
   "sampled": 1600,
