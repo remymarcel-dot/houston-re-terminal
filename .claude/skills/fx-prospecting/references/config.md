@@ -90,13 +90,23 @@ accepted four months later. That is a pending invite, not a rejection: a
 blank request from a stranger sits unread in a list most people never
 open.
 
-Before any new request, check the Invitations export for an outgoing row
-with no matching connection. When one exists:
+**But the export cannot tell you whether it is still pending.** It is a
+historical log of invitations sent, not a live state. An outgoing row with
+no matching connection means only "invited at some point, not connected
+now". The invitation may since have lapsed, been declined, or been auto
+withdrawn by LinkedIn, all of which vanish silently.
 
-1. **Withdraw the old invitation first**, then send a fresh one with a
-   real reason. A withdrawn invite frees the slot and the new one arrives
-   as a new notification.
-2. Or leave it and reach the person another way, which at an event means
-   the stand.
+Cristian Silva Lisboa proved this. The export showed a May invitation and
+no connection, which was read here as pending. Marcel checked LinkedIn
+live and the profile reads as never contacted, so a fresh request sends
+normally.
 
-Never simply fire a second request at them and assume it landed.
+So the export flags a name for checking, it does not decide anything:
+
+1. Export shows an outgoing row with no connection, **flag it**.
+2. **Marcel checks the live profile.** Only LinkedIn knows the real state.
+3. Still pending, withdraw it first, then resend with a real reason.
+   Not pending, send normally.
+
+Never fire a second request without that check, and never assume the
+export's silence means the invite is still sitting there.
