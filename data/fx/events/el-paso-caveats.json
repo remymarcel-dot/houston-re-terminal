@@ -61,5 +61,16 @@
   "impact": "Caught before the campaign, so nothing was sent. Had it launched, the request would have failed or, worse, reached a different person entirely.",
   "rule": "Never construct a LinkedIn URL from a name. Slugs carry arbitrary suffixes and guessing one either fails or hits a stranger. If Marcel pastes profile text without a URL, ask for the URL rather than filling the field.",
   "added": "2026-09-21"
+ },
+ {
+  "name": "Amy Trojanowski",
+  "company": "TW Metals LLC",
+  "pronouns": "she/her",
+  "status": "blocked, no URL supplied",
+  "seat": "CFO, the strongest seat sourced so far. Greater Philadelphia, so US, and a genuine decision maker.",
+  "sizeQuestion": "Worth checking before spending the request. TW Metals is a large metals distributor and part of O'Neal Industries, which may put it in the group that already runs its own treasury with bank FX lines, the same reason US Steel, GE Aerospace and Conagra were cut from the tier A list. Her profile mentions global shared services and governance, which points that way.",
+  "counter": "Against that: metals distribution carries real import exposure, and she is CFO of the TW Metals entity rather than of O'Neal, so the decision may genuinely sit with her.",
+  "recommendation": "Marcel decides. He knows whether a distributor that size in El Paso is worth the approach.",
+  "added": "2026-09-21"
  }
 ]
