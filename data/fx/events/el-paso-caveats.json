@@ -222,5 +222,22 @@
   "notes": "Ends on an open question rather than a calendar offer or a yes or no. US side framing: DFW pays outward, Mexico is the destination. Jose Shabot deliberately not mentioned, since naming a second person you have mapped reads as research rather than an approach.",
   "added": "2026-09-22",
   "mechanism": "He is first degree so this is a MESSAGE, not a CONNECTION_REQUEST. Sequence is CHECK_IS_CONNECTION with the message on the connected branch. A MESSAGE node is rejected without a fallbackMessage, same as a connection request, and the fallback still cannot carry merge fields beyond FIRST_NAME."
+ },
+ {
+  "name": "Carlos Tabuenca",
+  "company": "Ingenia Polymers, El Paso summit stand 70",
+  "status": "SENT 2026-09-22, campaign 616268 IN_PROGRESS",
+  "seat": "Group Chief Financial Officer, Houston, in the seat since Aug 2023. 350 people, $20M to $50M, plastics and resins, founded 1986. Group registered in Luxembourg but the CFO and the banking sit in Houston.",
+  "history": "Marcel wrote 2026-01-22 in Spanish, pitching international payments and hedging and asking for a coffee in Houston or ten minutes. No reply in eight months. 1st degree connection.",
+  "whyTheMessageLooksLikeThis": [
+   "He ignored a capabilities pitch once. A better version of the same pitch is the one thing guaranteed not to work, so there is no pitch in this message at all, not even a softened one.",
+   "What changed since January is a fact rather than an argument: both companies are exhibiting at the same event. A fact needs no persuasion attached.",
+   "It names the silence without apologising for it. Telling him you noticed he did not reply and left him alone is the opposite of what most follow ups signal.",
+   "It ends on two doors and neither is a meeting request. El Paso if he goes, Houston if he does not. He can answer in one line or ignore it at no cost.",
+   "Spanish, matching January.",
+   "Hedging, payments and margins appear nowhere. Those words are already in his inbox from Marcel, unanswered. They come back only if he replies."
+  ],
+  "dataLesson": "This thread was briefly and wrongly declared invented because HeyReach held no conversation and the archive CSVs held no mention. Both were true and neither was evidence. See config.md.",
+  "added": "2026-09-22"
  }
 ]
