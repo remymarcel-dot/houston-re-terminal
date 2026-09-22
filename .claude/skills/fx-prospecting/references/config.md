@@ -171,3 +171,32 @@ Mexican operations and a logistics CFO, each invited with no note and each
 ignored. That is the cost of a blank request to someone who has no idea who
 Marcel is, and it is the argument for a note when there is a real reason to
 give one.
+
+## Never assert prior contact that the data does not show
+
+On 2026-09-21 a brief recorded "Ingenia, Carlos Tabuenca, Group CFO, one
+prior message". On 2026-09-22 that was repeated to Marcel as "you already
+have one message of history with him", and he acted on it. Neither
+statement had any basis: no HeyReach conversation existed, and the name
+appears in none of the archive files.
+
+Prior contact is a **checkable fact**, and it changes the message
+completely. A dormant thread gets a reopener that references what was
+said. A stranger gets an introduction. Sending the wrong one is
+immediately obvious to the recipient.
+
+**Before writing any line that implies history**, confirm it from one of:
+
+1. `get_conversations_v2` with `leadProfileUrl`, which is authoritative
+   for anything sent through HeyReach.
+2. The archive CSVs under `data/fx/linkedin/local/`.
+3. Marcel, who can see the thread and the connection degree directly.
+
+If none of the three shows contact, **say that no prior contact was
+found** rather than filling the gap. "I could not find a previous
+exchange, so this is written as a first approach" is a useful sentence.
+An invented history is not.
+
+The same rule covers connection degree. A database record proves the
+person exists and gives a URL. It says nothing about whether Marcel is
+connected to them.

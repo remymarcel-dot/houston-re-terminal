@@ -193,8 +193,24 @@ Ingenia Polymers, plastics and resins, 350 people, $20M to $50M, founded
 
 The group is registered in Luxembourg, but the Group CFO sits in Houston,
 which is where the decision and the banking sit. He passes the country
-test, passes the size test, is in Marcel's own city, is exhibiting at the
-summit, and there is already one message of history with him.
+test, passes the size test, is in Marcel's own city, and is exhibiting at
+the summit.
 
-That is the best single name on the entire floor and it sat unworked for
-a day while the sourcing went after companies with no web presence.
+**Correction, 2026-09-22.** The phrase "one prior message" in the
+original brief is **not supported by any data in this repository**.
+Checked on the day: no HeyReach conversation exists with him, and neither
+"Tabuenca" nor "Ingenia" appears anywhere in the LinkedIn archive, not in
+warm-replied, warm-dormant, targets-tier-a, targets-tier-b or
+never-messaged. It was asserted in the first brief, repeated to Marcel a
+day later as established fact, and both times it was invented.
+
+**What is actually known:** the company qualifies, the seat qualifies,
+the location qualifies, and the URL is confirmed against a database
+record rather than constructed. **What is not known:** whether Marcel is
+connected to him at all, and whether they have ever spoken. Marcel has to
+check the profile before anything is sent, because the opener for a
+stranger and the opener for a dormant thread are different messages.
+
+The lesson is narrower than it looks. The error was not the screening, it
+was stating a relationship detail with confidence when the only honest
+answer was that nothing in the data said either way.
