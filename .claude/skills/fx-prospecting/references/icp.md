@@ -49,6 +49,40 @@ Disqualify on sight and never draft to:
 - **Anyone who has opted out**, permanently
 - **Anyone not currently in the seat.** A person between roles has no
   payments to move and pitching them reads as tone-deaf.
+- **Venezuela, in any form.** See the hard stop below.
+
+## Venezuela is a hard stop, not a judgement call
+
+Marcel, 2026-09-22: *"venezuela is forbidden we can nt touch"*.
+
+This is not a preference to weigh against a good lead. It is a rule with
+no exceptions and no clever workarounds. Disqualify on sight:
+
+- A company operating in Venezuela, entering it, or re-entering it
+- A person whose seat names Venezuela, even as one country among several
+  (a "CFO, Central America, Caribbean and Venezuela" is out)
+- A consultant or advisor whose practice is Venezuela entry
+- Any flow whose counterparty sits in Venezuela
+
+**The workaround that does not work.** Venezuela-bound activity usually
+routes through Panama or Colombia in practice, and both of those
+corridors are ones Monex genuinely covers. It is therefore tempting to
+offer the Panama or Colombia leg and call it a different transaction. It
+is not a different transaction. The counterparty behind it is still
+Venezuelan and the sanctions exposure travels with the flow, not with the
+country code on the payment. Never propose this, in a draft or in a
+conversation.
+
+This was drafted once, on 2026-09-22, to J Mears Consulting, Jesus Mears,
+whose whole practice is Venezuela entry advisory. Marcel caught it before
+it sent. The reasoning that produced it was that he looked like a channel
+rather than a prospect, which was true and entirely beside the point: a
+channel into a forbidden market is still the forbidden market.
+
+**When Venezuela appears in a live thread**, do not pivot, do not offer an
+adjacent corridor, and do not keep the relationship warm for later. Close
+it out courteously on a human note with nothing offered, and mark the
+contact do not contact.
 
 ## Product eligibility — check before offering anything
 

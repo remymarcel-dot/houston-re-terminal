@@ -28,8 +28,9 @@
   },
   "2-N2M0MDQ2NTktNDQ1OS00ZTAxLWE2YzctYzA3YjEyNjVkZGI3XzEwMA==": {
    "who": "J Mears Consulting, Jesus Mears CPA",
-   "state": "OPEN. He answered a substantive question about Venezuela payment routing on Aug 20 and got no reply for 33 days. Found only when the sweep finally reached past offset 120. Draft written 2026-09-22, waiting on Marcel.",
-   "note": "Not a prospect. One person Houston consultancy advising US companies on Venezuela entry. He is a channel, his clients are the flow. Venezuela itself is not bankable for Monex, so the reply must stay on the Panama and Colombia corridors, which is where the activity actually routes and which Monex does cover."
+   "state": "CLOSED, do not contact. Venezuela is forbidden for Monex and his entire practice is Venezuela entry advisory.",
+   "draftKilled": "A reply was drafted 2026-09-22 offering the Panama and Colombia legs of Venezuela bound flow. Marcel stopped it: \"venezuela is forbidden we can nt touch\". The draft was wrong on the substance, not the wording. Routing through Panama or Colombia does not change who the counterparty is.",
+   "lesson": "A channel into a forbidden market is still the forbidden market. Being a router rather than a prospect does not make someone safe to work."
   }
  },
  "vendorNoReplyOwed": [
@@ -57,5 +58,8 @@
   "realOpenLoops": 1,
   "everythingElse": "thumbs up emoji, Monex one year anniversary congratulations, you are welcome, and vendor pitches. Closed, nothing owed.",
   "lesson": "The tail was not swept because earlier sweeps stopped at offset 120 and the tail looked old. It was old and almost entirely closed, but it hid one real open loop for 33 days. Sweep to the end of the list, not to a comfortable depth."
- }
+ },
+ "doNotContact": [
+  "J Mears Consulting, Jesus Mears CPA: Venezuela entry advisory, forbidden market, permanent"
+ ]
 }
