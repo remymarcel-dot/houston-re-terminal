@@ -1,6 +1,6 @@
 {
  "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
- "lastFullSweep": "2026-09-22, offsets 0 to 120 of 264 conversations",
+ "lastFullSweep": "2026-09-22 second sweep, offsets 0 to 240, all 265 conversations, complete tail coverage for the first time",
  "dispositioned": {
   "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
    "who": "Grupo Palco, Carlos Palma",
@@ -25,6 +25,11 @@
   "2-N2RiYzUxOTQtMTI2My00ZTc4LTg1NDctNWE0NmJhNWRlZThhXzEwMA==": {
    "who": "Cosechari, Marcial Hernandez-Manzano",
    "state": "answered 2026-09-22 after 25 days. Agreed with his point, added Fatima's framing that risk changes hands in the chain, offered real numbers if he writes about the intermediary. Potential second produce channel."
+  },
+  "2-N2M0MDQ2NTktNDQ1OS00ZTAxLWE2YzctYzA3YjEyNjVkZGI3XzEwMA==": {
+   "who": "J Mears Consulting, Jesus Mears CPA",
+   "state": "OPEN. He answered a substantive question about Venezuela payment routing on Aug 20 and got no reply for 33 days. Found only when the sweep finally reached past offset 120. Draft written 2026-09-22, waiting on Marcel.",
+   "note": "Not a prospect. One person Houston consultancy advising US companies on Venezuela entry. He is a channel, his clients are the flow. Venezuela itself is not bankable for Monex, so the reply must stay on the Panama and Colombia corridors, which is where the activity actually routes and which Monex does cover."
   }
  },
  "vendorNoReplyOwed": [
@@ -45,5 +50,12 @@
  ],
  "closedByThem": [
   "Sweet Seasons LLC, Marina Bernal: not interested"
- ]
+ ],
+ "tailFindings2026_09_22": {
+  "sweptRange": "offsets 120 to 265, never covered by any earlier sweep",
+  "correspondentLastRows": 44,
+  "realOpenLoops": 1,
+  "everythingElse": "thumbs up emoji, Monex one year anniversary congratulations, you are welcome, and vendor pitches. Closed, nothing owed.",
+  "lesson": "The tail was not swept because earlier sweeps stopped at offset 120 and the tail looked old. It was old and almost entirely closed, but it hid one real open loop for 33 days. Sweep to the end of the list, not to a comfortable depth."
+ }
 }
