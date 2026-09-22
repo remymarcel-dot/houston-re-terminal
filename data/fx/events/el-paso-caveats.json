@@ -131,5 +131,16 @@
   "action": "Marcel opens his profile before wave 3 goes. Pending means withdraw first so the summit note can land; Connect means send normally. Third such flag: Cristian Silva Lisboa had lapsed, Luis Reynoso was genuinely pending.",
   "extraReason": "Worth withdrawing and resending even if borderline. The old invite predates his August move to CFO, so it reached a different person in a different job. A fresh note referencing the summit lands on the man he is now.",
   "added": "2026-09-22"
+ },
+ {
+  "name": "Rebeca Talamantes, MAcc",
+  "company": "Franklin Packaging",
+  "stand": "F",
+  "status": "blocked on URL, and flagged",
+  "concern1_reachability": "15 connections. That is the lowest of anyone sourced, well below Raul Guevara's 66, and it suggests a profile that is barely used. The risk is not that she is the wrong person, it is that the request is never seen at all.",
+  "concern2_seat": "Accounting Manager is execution rather than decision. She would run the payments, not choose who processes them. Unlike Raul Guevara this is explicit rather than ambiguous.",
+  "counterpoint": "At a small El Paso packaging company the accounting manager is often the entire finance function and touches banking daily, so she may be closer to the money than the title suggests.",
+  "recommendation": "Better target is the owner or president of Franklin Mountain Packaging, stand F. If she is the only contact findable, take her with an opener that asks who chooses the payment provider rather than pitching, so a wrong seat still yields the right name.",
+  "added": "2026-09-22"
  }
 ]
