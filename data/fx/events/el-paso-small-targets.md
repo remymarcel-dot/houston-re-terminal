@@ -128,14 +128,24 @@ These are real booths belonging to companies with no database footprint,
 which is itself a signal that they are small and privately held. Badge
 scan on the day, not pre event outreach.
 
-**2. The list itself is probably incomplete, and that is the real answer.**
+**2. The list was incomplete. Marcel supplied the full floorplan the
+same day, and it is now closed out.**
 
-The brief carries **71 distinct stand numbers** and the highest is
-**226**. Marcel describes the expo as roughly 200 companies. So somewhere
-between a third and a half of the floor was never screened, because it
-was never in the list that was pasted. No amount of searching fixes that.
-**Ask Marcel for the rest of the exhibitor list.** That is where any
-remaining small companies are.
+The real count is **148 exhibitors**, not the 200 estimated, and **46 had
+never been screened** because they were not in the original paste. The
+full floorplan is saved at `el-paso-floorplan-full.txt`.
+
+Screening those 46 produced **nothing new in the small tier**. The ones
+that exist in the databases are all the wrong size: Keytronic at 3,000
+people and $100M to $500M, Intermatic at 750 and $100M to $500M, Clayens
+at 7,500. The rest are large multinationals that need no research to cut
+(Bombardier, BRP, Lear, Textron, Safran twice, Flextronics, Kuehne Nagel,
+KIA, Bendix, Regal Rexnord, Resideo, Veritiv, Bell Helicopter, Embraer,
+Phinia, Aptiv, Diehl, Actia, BWI, Capcom, Toray) or have no database
+footprint at all.
+
+**The floor is now fully screened and exhibitor sourcing is finished.**
+The qualified set is the one already in hand.
 
 **3. One warm name was sitting unworked the whole time.**
 
@@ -166,3 +176,25 @@ business card.
 
 That also frees matchmaking requests, which open around Oct 7 and are
 finite, for prospects who actually need a scheduled slot.
+
+## The one that was named in the first brief and never worked
+
+**INGENIA INDUSTRIAL SUPPLIES AND SERVICES, stand 70.**
+
+The original 2026-09-21 brief ended its warm-set analysis with this
+sentence: *"Net usable from the warm set: roughly one, Ingenia, Carlos
+Tabuenca, Group CFO, one prior message."* He was then never mentioned
+again, and every subsequent day went to sourcing strangers.
+
+**Carlos Tabuenca**, Group Chief Financial Officer,
+`linkedin.com/in/carlos-tabuenca-00ab051`. Based in **Houston, Texas**.
+Ingenia Polymers, plastics and resins, 350 people, $20M to $50M, founded
+1986, and he has held the seat since August 2023.
+
+The group is registered in Luxembourg, but the Group CFO sits in Houston,
+which is where the decision and the banking sit. He passes the country
+test, passes the size test, is in Marcel's own city, is exhibiting at the
+summit, and there is already one message of history with him.
+
+That is the best single name on the entire floor and it sat unworked for
+a day while the sourcing went after companies with no web presence.
