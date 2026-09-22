@@ -108,6 +108,27 @@ So the export flags a name for checking, it does not decide anything:
 3. Still pending, withdraw it first, then resend with a real reason.
    Not pending, send normally.
 
+## Withdrawing starts a three week clock, so plan the date
+
+**LinkedIn blocks a new invitation to the same person for about three
+weeks after you withdraw one.** Step 3 above is therefore not "withdraw
+and resend", it is "withdraw, wait, resend". Queueing the person into a
+campaign inside that window is worse than doing nothing: the request may
+report as sent on our side while LinkedIn never delivers it, so we lose
+the slot and believe it worked.
+
+**CYH Packaging, Cynthia Alvidrez.** Invited 2026-08-05 with a note that
+already mentioned the summit, which is why she was held rather than
+resent. Marcel withdrew that invitation on 2026-09-22. She is therefore
+not sendable until roughly **2026-10-13**, eight days before the summit.
+
+**The practical rule.** Before withdrawing, count the weeks to the
+deadline that matters. If three weeks does not fit inside it, do not
+withdraw, and reach the person another way instead: event matchmaking,
+email, a mutual introduction, or the stand itself. A pending invitation
+that is quietly ignored costs nothing. A withdrawal inside the window
+costs the only route you had.
+
 Never fire a second request without that check, and never assume the
 export's silence means the invite is still sitting there.
 
