@@ -172,31 +172,36 @@ ignored. That is the cost of a blank request to someone who has no idea who
 Marcel is, and it is the argument for a note when there is a real reason to
 give one.
 
-## Never assert prior contact that the data does not show
+## Checking for prior contact: the sources are incomplete
 
 On 2026-09-21 a brief recorded "Ingenia, Carlos Tabuenca, Group CFO, one
-prior message". On 2026-09-22 that was repeated to Marcel as "you already
-have one message of history with him", and he acted on it. Neither
-statement had any basis: no HeyReach conversation existed, and the name
-appears in none of the archive files.
+prior message". On 2026-09-22 that was checked against HeyReach and the
+archive CSVs, found in neither, and declared invented. Marcel then
+produced the message: **sent 2026-01-22, in Spanish, unanswered, and he
+is a 1st degree connection.** The original brief was right and the
+correction was wrong.
 
-Prior contact is a **checkable fact**, and it changes the message
-completely. A dormant thread gets a reopener that references what was
-said. A stranger gets an introduction. Sending the wrong one is
-immediately obvious to the recipient.
+**The real lesson is that the sources do not cover everything.**
 
-**Before writing any line that implies history**, confirm it from one of:
+- `get_conversations_v2` holds only what HeyReach manages. Messages
+  Marcel sent directly in LinkedIn, and anything predating the HeyReach
+  connection, are invisible to it. An empty result means **HeyReach has
+  no record**, not that no message exists.
+- The archive CSVs are a filtered extract, not the full message history.
+  A name missing from them proves nothing either.
 
-1. `get_conversations_v2` with `leadProfileUrl`, which is authoritative
-   for anything sent through HeyReach.
-2. The archive CSVs under `data/fx/linkedin/local/`.
-3. Marcel, who can see the thread and the connection degree directly.
+So neither absence is evidence. Two rules follow, and they pull in
+opposite directions, which is the point:
 
-If none of the three shows contact, **say that no prior contact was
-found** rather than filling the gap. "I could not find a previous
-exchange, so this is written as a first approach" is a useful sentence.
-An invented history is not.
+1. **Do not assert prior contact the data does not show.** State it as
+   unknown.
+2. **Do not assert the absence of prior contact either.** "No record
+   found in HeyReach or the archive" is true. "You have never spoken to
+   him" is a claim those sources cannot support.
 
-The same rule covers connection degree. A database record proves the
-person exists and gives a URL. It says nothing about whether Marcel is
-connected to them.
+**Only Marcel can settle it**, because only he can see the LinkedIn
+thread. Ask him, and say which sources were checked and came back empty
+so he knows what the question is actually about.
+
+Connection degree has the same shape. A database record gives a URL and
+nothing more. Marcel reads the degree off the profile in one look.

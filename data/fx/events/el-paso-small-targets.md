@@ -196,21 +196,23 @@ which is where the decision and the banking sit. He passes the country
 test, passes the size test, is in Marcel's own city, and is exhibiting at
 the summit.
 
-**Correction, 2026-09-22.** The phrase "one prior message" in the
-original brief is **not supported by any data in this repository**.
-Checked on the day: no HeyReach conversation exists with him, and neither
-"Tabuenca" nor "Ingenia" appears anywhere in the LinkedIn archive, not in
-warm-replied, warm-dormant, targets-tier-a, targets-tier-b or
-never-messaged. It was asserted in the first brief, repeated to Marcel a
-day later as established fact, and both times it was invented.
+**History, confirmed by Marcel 2026-09-22.** He wrote to Tabuenca on
+**2026-01-22**, in Spanish, pitching Monex USA on international payments
+and hedging and asking for a coffee in Houston or ten minutes. **No
+reply**, eight months ago. Tabuenca is a **1st degree connection**.
 
-**What is actually known:** the company qualifies, the seat qualifies,
-the location qualifies, and the URL is confirmed against a database
-record rather than constructed. **What is not known:** whether Marcel is
-connected to him at all, and whether they have ever spoken. Marcel has to
-check the profile before anything is sent, because the opener for a
-stranger and the opener for a dormant thread are different messages.
+An earlier note here claimed the prior message was invented, on the
+grounds that HeyReach held no conversation and the archive CSVs held no
+mention. Both were true and neither was evidence: HeyReach only sees what
+it manages, and the CSVs are a filtered extract. The rule is recorded in
+config.md.
 
-The lesson is narrower than it looks. The error was not the screening, it
-was stating a relationship detail with confidence when the only honest
-answer was that nothing in the data said either way.
+**What this means for the approach.** He ignored a Spanish pitch once, so
+repeating it is pointless. What has changed since January is not the
+argument, it is a fact: both companies are exhibiting at the same event.
+That is a reason to write that did not exist before, and it needs no
+persuasion attached to it.
+
+He is the best single name on the floor: right size, right seat, Houston,
+exhibiting, first degree, and one unanswered approach rather than a
+refusal.
