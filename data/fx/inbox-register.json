@@ -1,0 +1,49 @@
+{
+ "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
+ "lastFullSweep": "2026-09-22, offsets 0 to 120 of 264 conversations",
+ "dispositioned": {
+  "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
+   "who": "Grupo Palco, Carlos Palma",
+   "state": "closed, meeting confirmed at Stand 40"
+  },
+  "2-ZDI4ZWMyOGQtN2VkYS00ODZhLTk0NWMtZDI5NzhlYTc1MDYwXzEwMA==": {
+   "who": "DE LEON PROFESIONALES, Francisco Javier De Leon",
+   "state": "closed, courtesy"
+  },
+  "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==": {
+   "who": "Aptean, Clifford D'Souza",
+   "state": "answered 2026-09-22, three slots proposed"
+  },
+  "2-MjQzMDgyYmYtY2ZmNi00YjE2LTg2YWItOTg1ZjFlZTQ4MGQ1XzEwMA==": {
+   "who": "Atlas Oil Company, Robert Guerrero",
+   "state": "answered 2026-09-22, footprint question"
+  },
+  "2-MGJiYWJmYjYtNzI1OC00MGNkLWFkNzEtNzZjMGE3ZWQwNDBlXzEwMA==": {
+   "who": "DNV, Wylson Neto",
+   "state": "MISSED 13 days, reply drafted 2026-09-22"
+  },
+  "2-N2RiYzUxOTQtMTI2My00ZTc4LTg1NDctNWE0NmJhNWRlZThhXzEwMA==": {
+   "who": "Cosechari, Marcial Hernandez-Manzano",
+   "state": "MISSED 25 days, reply drafted 2026-09-22"
+  }
+ },
+ "vendorNoReplyOwed": [
+  "Belkins, Michael Maximoff",
+  "FOURSYS, Rodrigo S. Martineli",
+  "Conveyor, Raphael Rivero",
+  "The Entrepreneur's Source, John Senich",
+  "Renaissance Executive Forums, Rony Zagursky",
+  "Natalie Gomez (LTL freight)",
+  "BOTKERS, Carlos Garcia Pino",
+  "Impact Speakers, Jimmy Pomerance",
+  "Snowflake, Dash DesAI",
+  "Info-graphics, Georgina Rivero",
+  "Steve's Sizzling Steaks, Tristan Carty",
+  "Handshake, Garrett Lord",
+  "Mounir Akram Romani",
+  "boardsi, Lisa Williams"
+ ],
+ "closedByThem": [
+  "Sweet Seasons LLC, Marina Bernal: not interested"
+ ]
+}

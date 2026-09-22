@@ -121,6 +121,21 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
    Never cut the window tight to save tokens: a missed reply costs far
    more than a larger payload.
 
+   c. **Paginate.** One page of 40 is not the inbox. Sweep offsets 0,
+      40 and 80 at minimum. Both misses found on 2026-09-22 beyond the
+      first page were 13 and 25 days old, because recent pages had been
+      treated as the whole inbox.
+
+   d. **Reconcile against `data/fx/inbox-register.json`.** Every thread
+      where the correspondent spoke last is listed there with a
+      disposition. Anything live that is not in the register is
+      **untriaged** and must be handled before the inbox is called clean.
+
+   **Never report the inbox clean without stating two numbers:** how many
+   conversations were swept, and how many had the correspondent speaking
+   last. "Inbox is clean" with no numbers means the sweep was skipped, and
+   it was skipped three times running before Marcel had to ask.
+
    Anyone waiting on a reply goes to Tier 3 immediately, before anything
    else.
 3. **Check running campaigns** — `get_all_campaigns` plus
