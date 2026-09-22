@@ -97,3 +97,49 @@ Manager by hand the same day this was written, which is the point: the
 databases index who publishes a title, not who signs. Both are still a
 five minute conversation at their stand. The B2B matchmaking list opens
 around Oct 7 and both should be on the request list day one.
+
+## Marcel asked on 2026-09-22 whether more small ones remain. Three answers.
+
+**1. Of the names I hold, no. They were searched individually this time.**
+
+The first pass searched the leftover Tier 3 names as one batch with exact
+matching, got zero, and wrote them off. That was a weak search, not
+proof. Re-run one company at a time: LA BELLE INDUSTRIAL SALES, MONTILLA
+CORP, GGS CORPORATION, M82 GROUP, FLEXPERTECH, KRAFT 3D, TAC GLOBAL
+SOLUTIONS, SOLUTIONS TOOLS MOLD & DIE, WATTERA / MCUSA TOOL, BEND
+WORLDCLASS, ACCEL WORLDWIDE, 4G ENGINEERING, RELIABLE ENGINEERING,
+MENTOR MEDIA, ADMIRAL CABLE, TEKMART INTERNATIONAL, SELTEK INTERNATIONAL,
+WORLDHAUL LOGISTICS, SOUTH EAST FREIGHT LINES, NATIONAL TRANSPORT
+SERVICES. Still nothing usable. Only two returned anything at all:
+
+- **Starion** matched three unrelated companies, a European group, a
+  North Dakota bank and a Connecticut energy retailer. None is the
+  exhibitor.
+- **Heil Trailer International**, Athens TN, 750 people, $500M to $1B.
+  Real, but the wrong shelf.
+
+These are real booths belonging to companies with no database footprint,
+which is itself a signal that they are small and privately held. Badge
+scan on the day, not pre event outreach.
+
+**2. The list itself is probably incomplete, and that is the real answer.**
+
+The brief carries **71 distinct stand numbers** and the highest is
+**226**. Marcel describes the expo as roughly 200 companies. So somewhere
+between a third and a half of the floor was never screened, because it
+was never in the list that was pasted. No amount of searching fixes that.
+**Ask Marcel for the rest of the exhibitor list.** That is where any
+remaining small companies are.
+
+**3. One warm name was sitting unworked the whole time.**
+
+**DFW INTERNATIONAL**, stand 208. **Santiago Stel, SVP and CFO**, has
+been a first degree connection since 2026-09-08, and **Jose Shabot**, the
+CEO, is connected too. No connection request is needed and none has ever
+been sent. There is no conversation with either of them.
+
+This is better than anything queued in wave 3, because it skips the
+accept step entirely, and it was missed because the company name in
+targets-tier-b.csv is truncated to "Inter", so every name match against
+the exhibitor list failed on it. Worth checking that file for other
+truncated company names before trusting a match against it again.
