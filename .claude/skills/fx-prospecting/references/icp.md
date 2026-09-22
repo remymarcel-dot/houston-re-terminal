@@ -25,7 +25,11 @@ strong signals: the person likely owns a multi-currency P&L.
 2. Border and nearshoring corridors — El Paso/Juárez, Laredo, Eagle Pass,
    San Antonio, Monterrey
 3. US-wide with genuine cross-border flows
-4. Mexico, Brazil and LATAM where the US entity does the paying
+4. **Canada.** Marcel, 2026-09-22: *"do not skip canadian companies we
+   can also on board them"*. Monex USA onboards Canadian companies.
+   A Canadian head office is **not** a reason to cut a lead, and the
+   standing "US companies only" line does not extend to Canada.
+5. Mexico, Brazil and LATAM where the US entity does the paying
 
 **Buying signals**
 
@@ -233,6 +237,25 @@ from somewhere else before a name is put in front of Marcel:
 
 A strong signal is a reason to qualify a company, never a substitute for
 qualifying it.
+
+## Canada is in scope, Mexico is the one to test
+
+The country rule exists because a Mexican parent banks in Mexico and that
+business belongs to Monex Mexico, not to Marcel. It was over applied on
+2026-09-22 to **Vexos**, cut for having a Markham, Ontario head office.
+Marcel corrected it: Canadian companies can be onboarded.
+
+So the country screen is not "is it American". It is:
+
+- **Mexico** — apply the decision seat test below in full
+- **Canada** — in scope, no special test
+- **Venezuela** — forbidden, see the hard stop above
+- **Elsewhere** — the test is whether a US or Canadian entity does the
+  paying
+
+Vexos remains cut, but on size alone: 750 people, $100M to $500M, with a
+CFO, an SVP of Global Supply Chain and an Asia organisation. That is the
+Siemens and Bosch shelf, not the owner-signs-the-wire shelf.
 
 ## The test is where the buying decision sits, not whether a US entity exists
 

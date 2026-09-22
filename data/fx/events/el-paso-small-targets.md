@@ -37,23 +37,30 @@ or suppliers on the Mexican side.
 
 ## Cut this round
 
-**Vexos**, stand 178. Cut on country first and size second.
+**Vexos**, stand 178. Cut on size. The country reason was wrong.
+
+Marcel, 2026-09-22: *"do not skip canadian companies we can also on board
+them"*. Monex USA onboards Canadian companies, so a Markham head office
+is not a disqualifier and the paragraph below overreached when it treated
+Canada like Mexico. Corrected in icp.md.
 
 Seamless reported the head office as New York. That is wrong. Vexos is
 headquartered in **Markham, Ontario, Canada**, with plants in LaGrange
 Ohio, Vancouver Washington, Ho Chi Minh City, Dongguan, and since early
 2024 a 40,000 square foot facility in Juarez. The US sites are
-subsidiaries of a Canadian parent, so the treasury decision sits in
-Markham. That is the shape that cut Grupo Industrial Saltillo, running
-the other way round.
+subsidiaries of a Canadian parent. That placement is a fact about the
+company, not a reason to cut it.
 
-Size confirms it independently: 750 people, $100M to $500M, a CFO, an SVP
+What actually cuts them is size: 750 people, $100M to $500M, a CFO, an SVP
 of Global Supply Chain and an Asia organisation. They have bank FX lines.
 
 Marcel surfaced **Hadi Farashahi**, Senior Vice President, on 2026-09-22
 because he is 2nd degree through a mutual connection, which made him the
-easiest connect in the whole campaign. He sits in Toronto, the parent's
-home market rather than an outpost of it. Skipped.
+easiest connect in the whole campaign. Held rather than skipped, and the
+decision is Marcel's: Toronto is fine, but an unspecified SVP at a 750
+person company with a sitting CFO is not the seat that picks a payments
+provider. If Vexos is worth pursuing despite the size, the CFO is the
+seat and the mutual connection is the route to him.
 
 **The lesson worth keeping.** A Juarez plant opening is a real nearshoring
 signal and it is right to notice it. But the signal says where the work
