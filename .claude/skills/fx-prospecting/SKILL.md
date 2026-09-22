@@ -91,11 +91,29 @@ Re-read limits live each cycle with `get_all_linked_in_accounts`. The
 2. **Triage the inbox.** Two sweeps, in this order, because each has
    missed a live reply on its own:
 
-   a. `get_conversations_v2` with `seen: false`. Unread status is the
-      only signal that does not depend on a date or a filter guess. Run
-      this FIRST, every time.
-   b. `get_conversations_v2` with NO `campaignIds` filter and a
-      generous window, at least 48 hours back from the last run.
+   a. `get_conversations_v2` with `seen: false`. Run this FIRST.
+   b. `get_conversations_v2` with **NO filters at all**, `limit` 40.
+      Then keep only rows where `lastMessageSender == "CORRESPONDENT"`,
+      **regardless of `read` status**.
+
+   **Sweep (b) is not optional and it is the one that matters.** Marcel
+   opens threads in LinkedIn himself, which marks them `read: true` and
+   makes them permanently invisible to sweep (a). The threads he has
+   glanced at are exactly the ones carrying live replies, so an
+   unread-only check is blind precisely where it needs to see.
+
+   This failed twice on 2026-09-22, both found only when Marcel asked:
+
+   - **Atlas Oil Company, Robert Guerrero**, Director of Operations,
+     replied 2026-09-18 asking "Atlas does global/LATAM, what's your
+     footprint here?" Four days unanswered.
+   - **Aptean, Clifford D'Souza**, Treasury Director, replied 2026-09-21
+     proposing a call in October. Twenty hours unanswered, on a thread
+     opened that same day.
+
+   Both were marked read. Three inbox checks were run in between and all
+   three used sweep (a) alone. The rule existed and was skipped, which is
+   worse than not having it.
 
    Two real misses drove this. Filtering by campaign hid a reply from a
    thread that belonged to no campaign. Filtering from an arbitrary
