@@ -301,3 +301,31 @@ do.
 
 When the channel produces a lead, it still passes the same US entity test
 as any other. A referral is a warm introduction, not an exemption.
+
+## Ask Marcel who he has already met before sending a cold opener
+
+A database says a person is new. It does not say Marcel has never shaken
+their hand.
+
+On 2026-09-22 the El Paso sourcing produced **ROM Industrial, Roman
+Bojorquez** out of Seamless, and an opener was drafted for him as a
+stranger. Marcel: *"roman yo le conoci en el ultimo el paso expo en marzo
+asi que podria ser mas friendly deciendo que sera un gusto
+reecontrarlo"*. He had met the man in person in March. The same day,
+Marcel supplied the Intercast seat that no database could return.
+
+**The rule.** When sourcing for an event Marcel has attended before, or
+in a city he works, put the list in front of him and ask which ones he
+already knows before writing a single opener. It costs one message and it
+is the difference between a cold request and a reconnection.
+
+**Why the message has to change, not just soften.** A reconnection note
+that carries a business question makes the reconnection look like the
+pretext for the question, and the recipient feels that immediately. A
+warm note does one job: being glad to see them again, and naming where
+you will be. The business question waits for the reply, where it reads as
+conversation instead of as the reason you wrote.
+
+Cold openers earn the right to ask something in the first message,
+because without the question there is no reason to write at all. Warm
+ones do not need it and are weakened by it.
