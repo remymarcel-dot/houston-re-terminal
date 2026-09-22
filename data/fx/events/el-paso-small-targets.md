@@ -9,9 +9,9 @@ better targets, and they were under represented on the first worksheet.
 Every rejection so far came from size or country, never from the pitch.
 Siemens, Bosch, Eaton, Schneider, Nexteer all run their own treasury with
 bank FX lines. Vexos, which the sourcing surfaced this round, is the same
-story: 750 people, $100M to $500M, New York head office. A company that
-size already has a banking relationship and a person whose job is to
-manage it.
+story at 750 people and $100M to $500M, and turned out to be Canadian
+besides. A company that size already has a banking relationship and a
+person whose job is to manage it.
 
 The companies where the owner still signs the wire are the ones where
 Monex changes something. On this exhibitor list that means under roughly
@@ -32,14 +32,33 @@ or suppliers on the Mexican side.
 |---|---|---|---|---|---|---|
 | **Aries Worldwide Logistics** | 14 | Houston TX | 125 | $20M to $50M | Bryan Bartels, Corporate Counsel and Controller | Houston, which is Marcel's own city, and the controller wears two hats, which is the tell that there is no treasury function. They also carry a Regional Director of Mexico and a Mexico account desk, so the cross border flow is real. Best single name found this round. |
 | **Accudyn** | 9 | Erie PA | 125 | $35M | Danielle Bates CPA, VP of Finance | Family owned, plants in the US and Mexico, and the Mexican plant staff sit under the Erie record. Bates was already staged, this round confirms the seat is right. Theodore Bly, President, is the second approach if she does not accept. |
-| **Intercast** | 25 | McAllen TX | 125 | $17M | none found | Foundry in Reynosa with 160 associates, US warehouse in McAllen, maquiladora cost structure, family held since 1949. Textbook exposure. But no US finance seat exists in Seamless or ZoomInfo, and ZoomInfo's Intercast record is contaminated with unrelated Brazilian, Turkish and UK companies of the same name. Work this one at the stand. |
+| **Intercast** | 25 | McAllen TX | 125 | $17M | Oscar Espinosa, General Manager | Foundry in Reynosa with 160 associates, US warehouse in McAllen, maquiladora cost structure, family held since 1949. Textbook exposure. No US finance seat exists in Seamless or ZoomInfo, and ZoomInfo's record is contaminated with unrelated Brazilian, Turkish and UK companies of the same name. Marcel found Espinosa on 2026-09-22. He sits in Reynosa and General Manager is an operations seat, so his opener asks who owns the McAllen entity's payments rather than assuming. See the caveats file. |
 | **Universal Metal Products** | 37 | Wickliffe OH | 350 | $50M to $100M | Patrick Gaughan CPA, Director of Finance | Fills a gap from the worksheet. Larger and further from the border than the rest, so lower priority, but a named finance seat at a company that travelled to El Paso is still worth a request. |
 
-## Cut on size this round
+## Cut this round
 
-**Vexos**, stand 178. 750 people, $100M to $500M, New York. Has a CFO and
-an SVP of Global Supply Chain and an Asia organisation. They run their own
-FX. Drop it.
+**Vexos**, stand 178. Cut on country first and size second.
+
+Seamless reported the head office as New York. That is wrong. Vexos is
+headquartered in **Markham, Ontario, Canada**, with plants in LaGrange
+Ohio, Vancouver Washington, Ho Chi Minh City, Dongguan, and since early
+2024 a 40,000 square foot facility in Juarez. The US sites are
+subsidiaries of a Canadian parent, so the treasury decision sits in
+Markham. That is the shape that cut Grupo Industrial Saltillo, running
+the other way round.
+
+Size confirms it independently: 750 people, $100M to $500M, a CFO, an SVP
+of Global Supply Chain and an Asia organisation. They have bank FX lines.
+
+Marcel surfaced **Hadi Farashahi**, Senior Vice President, on 2026-09-22
+because he is 2nd degree through a mutual connection, which made him the
+easiest connect in the whole campaign. He sits in Toronto, the parent's
+home market rather than an outpost of it. Skipped.
+
+**The lesson worth keeping.** A Juarez plant opening is a real nearshoring
+signal and it is right to notice it. But the signal says where the work
+moved, not where the payer banks. Check the parent's country before
+spending a request on the signal.
 
 **Ventek Solutions**, stand 105 and 92. $300M, Charleston SC. Same reason.
 
@@ -66,6 +85,8 @@ stand on the day.
 ## What the databases could not tell us and Marcel can
 
 Franklin Mountain Packaging and Intercast both have real exposure and no
-findable finance seat. Both are a five minute conversation at their stand.
-The B2B matchmaking list opens around Oct 7 and both should be on the
-request list day one.
+finance seat any database could return. Marcel found Intercast's General
+Manager by hand the same day this was written, which is the point: the
+databases index who publishes a title, not who signs. Both are still a
+five minute conversation at their stand. The B2B matchmaking list opens
+around Oct 7 and both should be on the request list day one.
