@@ -679,12 +679,17 @@
   "play": "inbox-reconnect",
   "campaignId": null,
   "listId": null,
-  "status": "reconnected",
+  "status": "live-conversation",
   "outcome": null,
   "firstTouch": "2026-07/08",
   "lastTouch": "2026-09-16",
   "loggedOn": "2026-09-16",
-  "note": "Second touch sent 2026-09-16 after one unanswered Jul/Aug message. Angle: Exposure is the Mexican settlement leg, not the hedge. Had an explicit out in Aug. TERMINAL. Never repeat the original question — that was the whole design."
+  "note": "Second touch sent 2026-09-16 after one unanswered Jul/Aug message. Angle: Exposure is the Mexican settlement leg, not the hedge. Had an explicit out in Aug. TERMINAL. Never repeat the original question — that was the whole design.",
+  "lastActivity": "2026-09-22",
+  "reply": "2026-09-18: 'Atlas does global/LATAM - what's your footprint here?' A direct capability question.",
+  "nextStep": "Answered honestly: strongest in Mexico, 130 plus currencies, depth varies elsewhere. Asked which two or three countries matter. When he names them, be straight about where Monex is weak; he came from Vitol and will know if he is being sold to.",
+  "correction": "Was marked TERMINAL after the Sep 16 second touch. He replied two days later, so terminal is a plan rather than a state, and a reply reopens any thread.",
+  "missNote": "Sat four days unanswered for the same read-status reason."
  },
  {
   "name": "Navreet Dhillon",
@@ -1244,14 +1249,17 @@
   "location": "Atlanta Metropolitan Area",
   "profileUrl": "https://www.linkedin.com/in/ACoAAADg0wQBLD_4sHDNiheP1XnlFWj-CFaALSI",
   "play": "network-mining",
-  "status": "awaiting-reply",
+  "status": "scheduling",
   "outcome": null,
   "firstTouch": "2026-09-21",
-  "lastActivity": "2026-09-21",
+  "lastActivity": "2026-09-22",
   "signal": "accepted the invitation and opened the thread himself with a thank you",
   "note": "Sent 2026-09-21 and confirmed delivered. Angle is the inherited currency book from Aptean's acquisitions across Europe, India and Australia, opened with Marcel's CFO past rather than a pitch, and closed on one question about consolidating inherited banking relationships. Two follow ups maximum on silence, then dormant.",
   "loggedOn": "2026-09-21",
-  "conversationId": "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA=="
+  "conversationId": "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==",
+  "reply": "2026-09-21 16:14: 'Thanks for the interest. It may be easier to talk about it. Perhaps Oct after the first week is a good time in the morning EST.' A yes to a call from a Treasury Director.",
+  "nextStep": "Three EST morning slots proposed: Thu Oct 8 9:30, Tue Oct 13 10:00, Thu Oct 15 9:30. No calendar link, per the Jerome Soitel and Sanoxlabs pattern. When he picks one, send the invite same day.",
+  "missNote": "Sat twenty hours unanswered because the thread was marked read and the sweep only checked unread."
  },
  {
   "name": "Francisco Javier De Leon",
