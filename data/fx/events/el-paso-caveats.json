@@ -195,5 +195,20 @@
   "whySheIsTheBetterSeat": "Vasquez was staged only as a router, because no finance seat was findable at the company and a Director of Sales can at least name one. Talamantes is the finance seat. At thirty people the Accounting Manager either releases the supplier payments herself or sits next to whoever does. Sourcing found the router and missed the signer.",
   "howTheSwapWasDone": "A SCHEDULED HeyReach campaign accepts lead removals through its list but rejects additions, both through the list and through AddLeadsToCampaign, and cannot be paused because it is not yet active. There is also no delete campaign tool. So 616214 keeps the four it correctly holds and Talamantes went into her own campaign, 616228, on the same date and the same sequence. Two campaigns, five people, no duplicates, nothing orphaned.",
   "added": "2026-09-22"
+ },
+ {
+  "name": "Aries Worldwide Logistics, two contacts one company",
+  "issue": "Jeff McIntyre, CEO, sent 2026-09-21 in wave 1. Bryan Bartels, Corporate Counsel and Controller, scheduled 2026-09-24 in wave 4.",
+  "checked": "McIntyre had not accepted as of 2026-09-22, no conversation exists.",
+  "decision": "Send Bartels as scheduled. Not held.",
+  "why": [
+   "The Munoz Trucking rule is not do not send two, it is do not send two on the same day, space them, and give them different angles. Three days apart at genuinely different seats with different messages is the rule being followed, not broken.",
+   "Aries is 125 people, not 30. Two approaches read very differently at that size than at Franklin Packaging's.",
+   "Bartels is the better seat and should not be hostage to a CEO's inbox habits. A controller wearing a second hat as counsel is the person who actually releases payments. CEOs accept and reply least of any title in the archive.",
+   "Holding him has a real cost now: a scheduled HeyReach campaign will not accept additions, so re-adding him later means building a third campaign."
+  ],
+  "theUpsideWeAreGivingUp": "If McIntyre accepts, an internal introduction from the CEO would beat a cold request to his controller. That is a genuine loss, judged smaller than the cost of waiting on an acceptance that may never come.",
+  "ifMcIntyreAcceptsLater": "Do not treat the two threads as separate. Whichever one opens first, mention the other by name rather than letting them discover a second approach on their own.",
+  "added": "2026-09-22"
  }
 ]
