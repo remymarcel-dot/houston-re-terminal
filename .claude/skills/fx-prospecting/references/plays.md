@@ -329,3 +329,51 @@ conversation instead of as the reason you wrote.
 Cold openers earn the right to ask something in the first message,
 because without the question there is no reason to write at all. Warm
 ones do not need it and are weakened by it.
+
+## Referral sources get a handshake, not a campaign
+
+Marcel, 2026-09-22, on the economic development and trade bodies at the
+El Paso summit: *"for the referral I think is best to just go over the
+boot and say hello isntead of doing a campaign, i think is better"*.
+
+He is right, and the reason generalises.
+
+A pre event LinkedIn approach exists to buy a meeting slot from someone
+whose time is scarce and who has no reason to give it. A trade
+association or economic development agency has the opposite problem: they
+are staffing a booth precisely so people will walk up. Sending them a
+connection request first is asking permission for something already on
+offer, and it starts the relationship in the weakest register available.
+
+**The rule.** Decide the medium from what the person is at the event to
+do.
+
+- **Prospects** are there to sell to their own customers. Their time is
+  spoken for, so buy the slot in advance: LinkedIn, then matchmaking.
+- **Referral sources** are there to meet people. Walk up.
+
+**What makes the booth visit worth anything.** Turning up and being
+pleasant produces nothing. These organisations hold one asset worth
+having, which is a map of who operates in their region:
+
+- **EL PASO FOREIGN TRADE ZONE**, stand 46, knows every company operating
+  inside the zone, which is a list of US entities importing at volume.
+- **MVEDA NEW MEXICO BORDERPLEX**, stand 106, knows the manufacturers who
+  have landed in Santa Teresa and Dona Ana County, including who arrived
+  recently.
+- **TEXAS MANUFACTURING ASSISTANCE CENTER**, stand 146, works directly
+  with small and mid sized Texas manufacturers, which is the exact ICP.
+- **INDEX JUAREZ**, stand 125, is the maquiladora association. Its member
+  list is effectively a directory of US companies with Juarez operations,
+  read from the Mexican side.
+
+So the ask at the booth is never "can we work together". It is a specific
+question about who they serve, followed by an offer they can say yes to
+without a meeting: the currency outlook, a conversation with their
+members, a joint session. The thing to leave with is a name, not a
+business card.
+
+**INDEX Juarez needs one caution.** The association is Mexican and so are
+its members as legal entities. The prospect is the **US parent** behind
+the maquiladora, never the Mexican operating company. Ask about the
+companies, not the members.

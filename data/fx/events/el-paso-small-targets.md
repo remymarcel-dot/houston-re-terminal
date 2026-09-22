@@ -143,3 +143,20 @@ accept step entirely, and it was missed because the company name in
 targets-tier-b.csv is truncated to "Inter", so every name match against
 the exhibitor list failed on it. Worth checking that file for other
 truncated company names before trusting a match against it again.
+
+## Referral organisations are a floor walk, not a campaign
+
+Decided 2026-09-22. EL PASO FOREIGN TRADE ZONE (46), MVEDA (106), TEXAS
+MANUFACTURING ASSISTANCE CENTER (146), INDEX JUAREZ (125), TORNILLO PORT
+OF ENTRY (24), THE CITY OF EAGLE PASS (120) and COFOCE (138) come out of
+campaign planning entirely. No LinkedIn sourcing, no requests, no
+matchmaking slots spent on them.
+
+Marcel visits the stands. The reasoning and the specific ask for each one
+are in plays.md under "Referral sources get a handshake, not a campaign".
+The short version: they are staffing a booth so that people walk up, and
+the thing to leave with is the name of a company they serve, not a
+business card.
+
+That also frees matchmaking requests, which open around Oct 7 and are
+finite, for prospects who actually need a scheduled slot.
