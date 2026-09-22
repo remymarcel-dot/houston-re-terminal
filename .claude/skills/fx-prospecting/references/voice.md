@@ -130,6 +130,45 @@ make both answers acceptable, and ask something human.
 Four lines is usually right. The temptation to add one more paragraph of
 value is the temptation to sell to someone who has already been sold to.
 
+## Always ask about the US side of the payment
+
+Marcel, 2026-09-22, correcting a draft: *"should say in the us side
+always, remember i can not go after mexican companies"*.
+
+The opener that asks who handles payments **on the Mexican side** is
+wrong, even though it sounds like the same question. Two things break:
+
+1. It implies Monex USA serves the Mexican entity. It does not. The
+   client is the US company doing the paying, and the Mexican side is
+   where the money lands.
+2. It invites the wrong answer. Ask about the Mexican side and a helpful
+   prospect hands over a name in Juarez or Monterrey, which is a dead end
+   and costs the thread its momentum.
+
+**Wrong**
+
+- "who handles your supplier payments on the Mexican side"
+- "how the Mexico side of your settlements is handled"
+- centering the opener on the Mexican sister company by name
+
+**Right**
+
+- "who on your US side handles the payments going out to Mexico"
+- "who in Houston handles paying your Mexico agents and carriers"
+- "whether paying the Mexico side out of Wickliffe sits in your seat"
+- "who handles the McAllen entity's payments for the Reynosa side"
+
+The grammar to keep: **a US place or entity is the subject of the
+sentence, and Mexico is the destination.** Name the US city, the US
+entity or the person's own seat, then point the payment outward. Mexico
+should never be the thing being asked about, only the place the money
+goes.
+
+This also does useful qualifying work. A prospect who answers "that is
+handled out of Monterrey" has told you the decision sits in Mexico, which
+is the country test answering itself, and you can close the thread
+politely instead of chasing it.
+
 ## Never raise an objection they have not raised
 
 Pre-empting a concern the other person never voiced does not disarm it,
