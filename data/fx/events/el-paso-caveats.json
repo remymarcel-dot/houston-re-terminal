@@ -186,5 +186,14 @@
   "approvedText": "Roman, que gusto. Nos conocimos en el expo de El Paso en marzo. Veo que ROM Industrial estara en el summit de nearshoring en octubre, y yo tambien, Stand 40 con Monex USA. Sera un gusto reencontrarnos por alla. Marcel",
   "followUp": "The payments question waits until he accepts or replies. Then it is conversation rather than the reason for writing. Keep the US side framing: who handles the El Paso payments going out to Mexico.",
   "added": "2026-09-22"
+ },
+ {
+  "name": "Rebeca Talamantes, MAcc",
+  "company": "Franklin Packaging, stand F, the same company as Franklin Mountain Packaging",
+  "status": "swapped into wave 4, campaign 616228, sends 2026-09-24",
+  "whatHappened": "Two names were staged for stand F under two spellings of the company. Jaime Vasquez, Director of Sales, went into wave 4 on 2026-09-24. Rebeca Talamantes, Accounting Manager, sat in the wave 3 queue for 2026-09-25. Two requests into a thirty person company on consecutive days is the Munoz Trucking mistake. Marcel: 'ok just send to rebeca'.",
+  "whySheIsTheBetterSeat": "Vasquez was staged only as a router, because no finance seat was findable at the company and a Director of Sales can at least name one. Talamantes is the finance seat. At thirty people the Accounting Manager either releases the supplier payments herself or sits next to whoever does. Sourcing found the router and missed the signer.",
+  "howTheSwapWasDone": "A SCHEDULED HeyReach campaign accepts lead removals through its list but rejects additions, both through the list and through AddLeadsToCampaign, and cannot be paused because it is not yet active. There is also no delete campaign tool. So 616214 keeps the four it correctly holds and Talamantes went into her own campaign, 616228, on the same date and the same sequence. Two campaigns, five people, no duplicates, nothing orphaned.",
+  "added": "2026-09-22"
  }
 ]
