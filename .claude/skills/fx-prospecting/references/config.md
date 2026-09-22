@@ -73,10 +73,30 @@ worth setting up deliberately.
 ## Invitation volume, measured
 
 The 2026 archive shows 5,484 outgoing invitations, peaking at 790 in May,
-roughly 180 a week. That is at the edge of what LinkedIn tolerates. Keep
-connection requests at 15 a day. The bigger point is that volume was never
-the shortfall: 1,368 people who accepted were never messaged, so added
-invitations buy nothing until the existing network is worked.
+roughly 180 a week. That is at the edge of what LinkedIn tolerates.
+
+**Roughly 15 a day, up to about 20, and the daily number must vary.**
+Marcel, 2026-09-22: *"it is not mandatory maxumum of 15 sometimes you can
+go over a bit to like 20 but needs to be a bit random"*.
+
+The shape matters more than the ceiling. Exactly 15 every weekday is a
+machine signature and reads worse than an irregular 9, 0, 19, 4. So do
+not plan waves to hit a number. Plan them to look like a person who was
+busy on Tuesday and had time on Thursday, which includes days with no
+requests at all.
+
+Practical consequences:
+
+- Do not split a wave purely to stay under a cap. If eighteen names are
+  ready, eighteen can go.
+- Do not top a light day up to the ceiling just because there is room.
+- Leave gaps. A day at zero is part of the pattern, not a wasted day.
+- The 500 series of consecutive equal days is the thing to avoid, not any
+  single number.
+
+The bigger point is unchanged: volume was never the shortfall. 1,368
+people who accepted were never messaged, so added invitations buy nothing
+until the existing network is worked.
 
 ## Check for a pending invitation before sending another
 
