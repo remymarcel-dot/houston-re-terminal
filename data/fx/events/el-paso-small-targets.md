@@ -116,7 +116,13 @@ SERVICES. Still nothing usable. Only two returned anything at all:
   North Dakota bank and a Connecticut energy retailer. None is the
   exhibitor.
 - **Heil Trailer International**, Athens TN, 750 people, $500M to $1B.
-  Real, but the wrong shelf.
+  **Do not source this one.** It is a real company and the only real
+  match in the batch, which makes it a trap: it looks like a find. At
+  that size it has a treasury team and bank FX lines already, the same
+  shelf as Siemens and Bosch. Marcel spent time hunting a contact there
+  on 2026-09-22 because the verdict above was written as "real, but the
+  wrong shelf", which reads like a note rather than a decision. Say do
+  not source it.
 
 These are real booths belonging to companies with no database footprint,
 which is itself a signal that they are small and privately held. Badge
