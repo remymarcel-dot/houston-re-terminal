@@ -210,5 +210,16 @@
   "theUpsideWeAreGivingUp": "If McIntyre accepts, an internal introduction from the CEO would beat a cold request to his controller. That is a genuine loss, judged smaller than the cost of waiting on an acceptance that may never come.",
   "ifMcIntyreAcceptsLater": "Do not treat the two threads as separate. Whichever one opens first, mention the other by name rather than letting them discover a second approach on their own.",
   "added": "2026-09-22"
+ },
+ {
+  "name": "Santiago Stel",
+  "company": "DFW International, stand 208",
+  "status": "DRAFTED 2026-09-22, awaiting Marcel",
+  "why": "First degree connection since 2026-09-08 with no conversation ever. Play 0 territory: costs no invitation quota, carries no acceptance risk, and skips the wait entirely. Better than anything queued in wave 3.",
+  "seat": "SVP and CFO. Jose Shabot, CEO, is also connected but is not being approached. One approach per company.",
+  "howItWasMissed": "The company name in targets-tier-b.csv is truncated to 'Inter', so every name match against the exhibitor list failed on him silently.",
+  "draft": "Santiago, we connected a couple of weeks back and I have not written since, which the summit is a good excuse to fix.\n\nI saw DFW International has stand 208 in El Paso next month. Monex USA is at Stand 40 and I will be there both days.\n\nI work the FX and cross border payments side. For a forwarder, the cost of paying agents and carriers across the border usually sits inside the exchange rate rather than arriving as a fee, so it tends to go years without anyone looking at it.\n\nHow are you handling that side of it at the moment?\n\nMarcel",
+  "notes": "Ends on an open question rather than a calendar offer or a yes or no. US side framing: DFW pays outward, Mexico is the destination. Jose Shabot deliberately not mentioned, since naming a second person you have mapped reads as research rather than an approach.",
+  "added": "2026-09-22"
  }
 ]
