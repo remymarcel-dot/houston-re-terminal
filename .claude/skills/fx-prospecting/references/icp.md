@@ -292,3 +292,25 @@ side. Those are opposite prospects.
 
 Read **where the person is** and **what the company is**, never the job
 title alone.
+
+## A CFO in their first six months is the best timing signal available
+
+SMTC Corporation, Sravan Sura became CFO in August 2026. Two months in.
+
+Most prospects have no reason to change anything: the bank relationship
+works, the spread is invisible, and switching costs attention nobody has.
+A new CFO is the exception. They are explicitly reviewing what the
+business pays for, they carry no loyalty to decisions they did not make,
+and they are expected to find something.
+
+Look for it on every profile. A start date inside the last six months on a
+finance seat changes the opener from "here is a cost you have" to "you are
+already looking for these".
+
+Stronger still when the background is private equity, as his is, Apollo
+and H.I.G. A PE trained CFO is hired to find margin, and a spread buried
+inside a bank rate is exactly the kind of cost that survives only because
+nobody examined it.
+
+Do not open on the new role as flattery. Open on what the job actually
+involves right now.
