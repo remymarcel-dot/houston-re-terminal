@@ -18,10 +18,17 @@ A colleague from India may attend, at 19:30 their time.
 Marcel, 2026-09-23: *"clifford said he invited madhu his colleague from
 india, thats all information i have"*.
 
-**Almost certainly Madhusudan N, Treasury Manager, Bengaluru**,
-`linkedin.com/in/madhusudan-n-03756713b`. He is the only Madhu in
-Aptean's India finance organisation and the only one in treasury. Strong
-inference, not proof. Confirm it on the call, not before.
+**Madhusudan N, Treasury Manager, Bengaluru**,
+`linkedin.com/in/madhusudan-n-03756713b`.
+
+Clifford confirmed on 2026-09-23 that the colleague is **in Bengaluru**.
+Two independent attributes now line up, the name and the city, against
+exactly one person in Aptean's India finance organisation, who is also
+the only one in treasury. Treat it as settled for planning purposes.
+
+**Worth reading his profile before the call.** How long he has been in
+treasury, whether he came from a bank or from audit, and how long at
+Aptean, all change how to pitch the operational questions to him.
 
 **The search turned up more than the name.** Aptean has around 25 finance
 staff in India, nearly all in Bengaluru, and the shape of that team is
