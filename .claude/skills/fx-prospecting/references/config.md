@@ -205,3 +205,35 @@ so he knows what the question is actually about.
 
 Connection degree has the same shape. A database record gives a URL and
 nothing more. Marcel reads the degree off the profile in one look.
+
+## Never change a lead list after its campaign exists
+
+Learned 2026-09-23, the hard way.
+
+Campaign 618477 was created against a list of eight, then two more leads
+were added to that same list, then the campaign was started. It sat in
+`STARTING` with `startedAt: null` and `totalUsers: 2` and never ran. Two
+is exactly the count of leads added after creation. Every other campaign
+built the same afternoon reached `IN_PROGRESS` within seconds.
+
+**The rule: fill the list completely, then create the campaign, then
+start it. In that order, every time.** If a lead needs to be added after
+the fact, build a new list and a new campaign rather than editing the
+list in place.
+
+### If a campaign is wedged in STARTING
+
+1. **Check `startedAt` first.** If it is null, nothing has been sent and
+   nobody can be double messaged. That is what makes it safe to act.
+2. **Pause it before building anything new.** `pause_campaign` works on
+   `STARTING`, unlike on `SCHEDULED`, where it returns "You cannot pause
+   an inactive campaign".
+3. **Rebuild on a brand new list** carrying every lead from the start.
+4. **Set `excludeContactedFromOtherCampaigns` to false on the rebuild.**
+   Any lead the wedged campaign captured counts as being in another
+   campaign, so the default exclusion drops them silently and the
+   rebuilt batch goes out short with nothing reporting an error.
+5. **Record that the dead campaign must never be resumed.** There is no
+   `delete_campaign` in the API. A paused campaign holding leads who are
+   now live elsewhere will double message them if anyone resumes it, and
+   a note is the only thing standing in the way.

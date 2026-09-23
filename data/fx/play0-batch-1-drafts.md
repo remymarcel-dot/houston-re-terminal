@@ -197,7 +197,7 @@ still cannot be used to look up one person.
 
 ## Batch state
 
-Campaign **618477**, list **963801**, ten leads, zero failed. Sequence
+Campaign **618489**, list **963812**, ten leads, zero failed, zero excluded. Sequence
 is CHECK_IS_CONNECTION, then MESSAGE after three hours, both branches
 ending. These are messages to existing connections, so they draw on the
 30 a day message allowance and cost nothing against the 15 a day
@@ -234,3 +234,34 @@ message text to avoid any encoding surprise on send.
 
 Fixed in this pass: the Ohad Gold draft read "Mexican labor", written
 before the American English rule was set. Now "labor".
+
+
+## The 618477 wedge, 2026-09-23
+
+The first build of this batch never ran. Campaign **618477** sat in
+STARTING for five minutes with `startedAt: null` and `totalUsers: 2`
+while every other campaign created that afternoon went to IN_PROGRESS
+within seconds.
+
+**Two is the number of leads that were added to list 963801 after the
+campaign was already created**, Ohad Gold and Richard Labib. The campaign
+appears to have bound to the list at creation and then choked when the
+list changed underneath it, ending up with only the late arrivals and
+never starting.
+
+Handled by pausing 618477 first and confirming `startedAt` was still
+null, so nothing had been sent and nobody could be messaged twice, then
+rebuilding as **618489** on a brand new list carrying all ten from the
+start. That went IN_PROGRESS immediately with ten users and zero
+excluded.
+
+**618477 is dead and must never be resumed.** It is PAUSED and holds two
+leads who are now live in 618489. Resuming it would double message Ohad
+Gold and Richard Labib. There is no delete_campaign in the API, so the
+only protection is this note.
+
+One detail that mattered on the rebuild: 618489 had to be created with
+`excludeContactedFromOtherCampaigns` set to **false**. Those two leads sit
+in the dead 618477, so the usual exclusion would have silently dropped
+them from the rebuild and the batch would have gone out as eight without
+anything reporting a problem.
