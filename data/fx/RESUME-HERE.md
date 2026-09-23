@@ -37,9 +37,10 @@ Wave 1 (613681) finished 9 of 9, zero failed.
    not yet drafted: Keats Manufacturing Ron McConville, Accudyn Danielle
    Bates, Able Industrial Gilbert Martinez, Conveyors and Materials
    Handling Christopher Solon, SMTC Sravan Sura.
-3. **MGS Mfg. Group, Paul Manley** and **Mount Franklin Foods, Enrique
-   Grajeda**, both President and CEO, both already first degree, both
-   never messaged, both El Paso. Not yet drafted.
+3. **MGS Mfg. Group, Paul Manley**, President and CEO, already first
+   degree, never messaged, El Paso. Mount Franklin Foods was cut from
+   this line on 2026-09-23: Marcel is already in conversation with them
+   and the whole company is do not contact.
 4. **Around Oct 7**, event matchmaking opens. Request meetings day one.
    **CYH Packaging, Cynthia Alvidrez** goes through matchmaking rather
    than LinkedIn, since her withdrawal cooldown runs to about Oct 13.

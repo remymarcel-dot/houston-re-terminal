@@ -18,10 +18,12 @@ Message Manley instead and drop Murphy from wave 3, or the company gets
 two approaches for no reason. Same mistake as Franklin Packaging, caught
 before it sent this time.
 
-**Mount Franklin Foods, Enrique Grajeda**, President and CEO. Connected
-2026-07-21. El Paso confectionery manufacturer, US entity, imports
-heavily. Never messaged. Not an exhibitor, but he is in the city Marcel
-is travelling to in October.
+**Mount Franklin Foods: do not contact, company level.** Marcel,
+2026-09-23: *"do not engage with anyone of mount franklin i already
+talking to them"*. This covers every seat there, not only Enrique
+Grajeda. The company is blacklisted in HeyReach (ids 14524 and 14525),
+so no future campaign can pick anyone up there even if a sourcing pass
+surfaces them again. Removed from targets-tier-b.
 
 ## Tier A, produce and fresh, the proven segment
 
@@ -56,7 +58,6 @@ World each have a second contact in the list. Do not write to both.
 | Company | Person | Seat |
 |---|---|---|
 | MGS Mfg. Group | Paul Manley | President and CEO |
-| Mount Franklin Foods | Enrique Grajeda | President and CEO |
 | Plastic Design and Manufacturing | Randy Scheid | CFO |
 | AFCO Industries | Dale Sexton | CFO |
 | The Pavement Group | Mark Kuczinski | CFO |
