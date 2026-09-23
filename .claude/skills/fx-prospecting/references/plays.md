@@ -377,3 +377,56 @@ business card.
 its members as legal entities. The prospect is the **US parent** behind
 the maquiladora, never the Mexican operating company. Ask about the
 companies, not the members.
+
+## Check the pipeline for prior contact before drafting, not after
+
+Learned 2026-09-23, caught by luck rather than by process.
+
+Katie Dubon at Bravo Foods USA was pulled from the accepted since March
+worksheet into Play 0 batch 2 and given an opener reading *"we connected
+a while back and I never wrote, which I should have."* She had been
+written to twice: once in July or August, and a second touch on
+2026-09-16, seven days earlier. A third message opening on the premise
+that Marcel had never written would have been visibly false to her.
+
+It surfaced only because `pipeline.json` refused to add a duplicate name
+at the logging step, which happens *after* drafting and after the
+campaign is built. She was stopped in campaign 618515 with
+`stop_lead_in_campaign` before the message node fired.
+
+**The two files say different things and neither is a substitute for the
+other:**
+
+- A **target worksheet** like `accepted-since-march-2026.md` says who is
+  qualified and believed unmessaged. That belief can be months stale.
+- **`pipeline.json` is the record of what was actually sent.** It is the
+  only authority on prior contact.
+
+**So: screen every name against `pipeline.json` before writing a single
+opener.** One pass over the names at the start of a batch costs nothing.
+Discovering it at the logging step means the campaign is already built
+and the only remedy left is stopping a lead mid flight.
+
+This is the same failure as Franklin Packaging and as Derek Murphy at
+MGS, in a new place. The pattern is always the same: a name reaches a
+draft without anyone asking what has already been said to that person.
+
+### Stopping a lead after a campaign has started
+
+`delete_leads_from_list_by_profile_url` fails once a campaign is running,
+with "The list you selected cannot be currently modified because it is
+used by a running campaign". Use **`stop_lead_in_campaign`** with
+`campaignId` and `leadUrl` instead. Confirm it worked by reading
+`totalUsersManuallyStopped` on the campaign.
+
+Note the URL format: that endpoint wants the full
+`https://www.linkedin.com/in/username/` form. The `http://` and no
+trailing slash form that Apollo returns is rejected.
+
+## Campaign STARTING is often just latency, not a wedge
+
+Campaign 618515 sat at `STARTING` with zero users for over two minutes
+and then reached `IN_PROGRESS` with all thirteen. Do not rebuild on the
+first slow poll. The genuine wedge, 618477, was distinguishable: after
+five minutes it still had `startedAt: null` and held only the two leads
+added to its list after creation, never the full set.
