@@ -1,6 +1,6 @@
 {
  "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
- "lastFullSweep": "2026-09-23. Full 265 swept 2026-09-22 to offset 240; today offsets 0 and 40 cover everything with activity since Sep 11, since the list sorts by recency.",
+ "lastFullSweep": "2026-09-23 afternoon. 268 conversations swept unfiltered; 2 with the correspondent speaking last, both new and both dispositioned below. seen:false returned 0 again, the known false negative.",
  "dispositioned": {
   "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
    "who": "Grupo Palco, Carlos Palma",
@@ -12,8 +12,8 @@
   },
   "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==": {
    "who": "Aptean, Clifford D’Souza, Treasury Director",
-   "state": "MEETING CONFIRMED BOTH SIDES. Tuesday 2026-10-13, 10:00 EST. Calendar invite sent by Marcel from his corporate email and accepted by Clifford on 2026-09-23.",
-   "owed": "Nothing until the call. If Clifford sends the India colleague’s address, add them to the invite.",
+   "state": "MEETING CONFIRMED BOTH SIDES. Tuesday 2026-10-13, 10:00 EST. Calendar invite sent by Marcel from his corporate email and accepted by Clifford on 2026-09-23. Clifford wrote back the same day: “I have forwarded to Madhu my colleague in Bangalore.” He forwarded the invite rather than passing the address, so nothing is owed on the logistics.",
+   "owed": "One short warm acknowledgment, then nothing until the call. Madhu joins from Bengaluru at 19:30 IST, so name that once now rather than on the day.",
    "howItCame": "He accepted the connection Sep 20 with a courtesy note. Marcel replied Sep 21 naming the specific problem, that growth by acquisition leaves treasury holding a currency book nobody designed, and citing his own time running finance across the US, Brazil, Mexico and Central America. Clifford asked to talk and gave his email the same day.",
    "whatWorked": "The opener did not pitch. It named a condition specific to how that company grew, then established standing by having sat on the same side of it, then asked one question. Three lines of substance and no capabilities.",
    "sizeNote": "Aptean is a large PE backed ERP company, well above the usual size screen. The realistic outcome is one corridor or one acquired entity, not the whole treasury. Worth knowing going in rather than pitching the full book.",
@@ -37,6 +37,12 @@
    "state": "CLOSED, do not contact. Venezuela is forbidden for Monex and his entire practice is Venezuela entry advisory.",
    "draftKilled": "A reply was drafted 2026-09-22 offering the Panama and Colombia legs of Venezuela bound flow. Marcel stopped it: \"venezuela is forbidden we can nt touch\". The draft was wrong on the substance, not the wording. Routing through Panama or Colombia does not change who the counterparty is.",
    "lesson": "A channel into a forbidden market is still the forbidden market. Being a router rather than a prospect does not make someone safe to work."
+  },
+  "bramwick-2026-09-23": {
+   "who": "Bramwick Advisory, Katherine Joy Bernardino, Associate",
+   "state": "Not a prospect and not Marcel’s to field. Cold approach on 2026-09-23 saying a PE fund is looking at acquisitions in the industry and that Monex USA fits the criteria, asking for time this week. This is an M&A approach to Marcel’s own employer, addressed to him because he is a findable Monex name on LinkedIn, not because he owns anything here.",
+   "owed": "Nothing. Corporate development at Monex is not Marcel’s seat, and answering even to decline puts him in a conversation he has no mandate for. If he wants to be courteous he can forward it internally, but that is his call, not an outreach action.",
+   "note": "Different species from the usual vendor noise, so it sits here rather than in vendorNoReplyOwed: worth Marcel seeing once, worth no reply."
   }
  },
  "vendorNoReplyOwed": [
