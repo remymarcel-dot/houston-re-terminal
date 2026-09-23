@@ -1,173 +1,146 @@
-# Aptean, Clifford D'Souza, Treasury Director
-Tuesday 13 October 2026, 10:00 Eastern. Video. Invite accepted.
-A colleague from India may attend, at 19:30 their time.
+# Aptean: Clifford D'Souza and Madhusudan N
+Tuesday 13 October 2026, 10:00 Eastern. Invite accepted.
+Madhu joins from Bengaluru at 19:30 IST.
 
-## What is actually known, checked not remembered
+## The room
 
-- **Alpharetta, Georgia**, which is why Clifford shows as Atlanta metro.
-- Formed 2012 by merging Consona and CDC Software, put together by Vista
-  Equity Partners.
-- **Over 55 acquisitions since 2018** under CEO TVN Reddy.
-- **Four private equity shareholders at once**: TA Associates as lead
-  since October 2022, plus Insight Partners, Charlesbank and Clearlake.
-- **10,000+ customers across 20+ industries in more than 50 countries.**
-- Offices in North America, Europe and Asia Pacific.
+**Clifford D'Souza**, Treasury Director, Atlanta. Sets policy.
 
-## Madhu, and what he tells you about the meeting
+**Madhusudan N**, Treasury Manager, Bengaluru, in seat since Sep 2022.
+`linkedin.com/in/madhusudan-n-03756713b`. 2nd degree, Clifford is the
+mutual. **He runs the operation, and he has published its scale.**
 
-Marcel, 2026-09-23: *"clifford said he invited madhu his colleague from
-india, thats all information i have"*.
+## What Madhu says he manages, in his own headline
 
-**Madhusudan N, Treasury Manager, Bengaluru**,
-`linkedin.com/in/madhusudan-n-03756713b`.
+> "Global Treasury Leader → $50M daily liquidity → $1B+ payments → 150+
+> accounts → 100+ entities → 10+ banks → global scope → team leadership
+> → transformation"
 
-Clifford confirmed on 2026-09-23 that the colleague is **in Bengaluru**.
-Two independent attributes now line up, the name and the city, against
-exactly one person in Aptean's India finance organisation, who is also
-the only one in treasury. Treat it as settled for planning purposes.
+Self reported, but it is how he describes his own job, which is what
+matters in the room. **Do not ask how many bank accounts they have.** He
+has answered that publicly and asking would say Marcel did not look.
 
-**Worth reading his profile before the call.** How long he has been in
-treasury, whether he came from a bank or from audit, and how long at
-Aptean, all change how to pitch the operational questions to him.
+## The single most important revision
 
-**The search turned up more than the name.** Aptean has around 25 finance
-staff in India, nearly all in Bengaluru, and the shape of that team is
-the finding:
+**This is not a broken treasury.** The earlier read, that a 55
+acquisition rollup leaves banking unrationalised because nobody gets to
+it, was wrong here. Madhu's own Aptean bullets say he has spent four
+years doing exactly that work:
 
-| Role | Count |
-|---|---|
-| Treasury Manager | 1, Madhusudan N |
-| Treasury Finance Associate | 1, Veeresh Vishwanath |
-| Finance Managers, incl FP&A | 3 |
-| Accountants and senior accountants | ~19 |
+- cash pooling structures designed and implemented
+- **account rationalisation** with global banks
+- payment automation initiatives
+- treasury system implementation
+- SOX compliance
 
-Twenty accountants in one city is not a development centre with a
-finance function attached. **That is a shared services centre**, running
-the transactional accounting for a group assembled from 55 acquisitions.
-And treasury has operational staff sitting inside it.
+So the pitch is not "you have a mess". It is narrower and more
+respectful: **inside a structure that has already been worked hard,
+which corridors still get poor execution?**
 
-**So the org splits the way these usually do.** Clifford sets treasury
-policy from Atlanta. Madhu executes it from Bengaluru. Clifford knows
-what the policy is; **Madhu knows what actually happens**, which bank
-each entity pays through, what the rate looks like on the day, and which
-payments are painful.
+## The trap, and the way through it
 
-**Three consequences for the call:**
+Their strategy is **fewer banks**. Account rationalisation is an active
+workstream Madhu owns. A new provider looks, on its face, like the
+opposite of that. If Marcel does not address this directly, both of them
+will be thinking it and neither will say it.
 
-1. **This is not an exploratory chat.** Clifford brought the person who
-   touches the money. People do not do that to be polite.
-2. **Questions 4 and 5 belong to Madhu.** Who executes, and what it
-   actually costs, are things Clifford may only know in the abstract.
-   Ask Clifford the strategy questions and ask Madhu the operational
-   ones, explicitly and by name.
-3. **Anything Monex ends up doing would be operated by Madhu's team.**
-   If he is not comfortable, it does not happen, whatever Clifford
-   decides. Treat him as a decision maker, not an attendee.
+**The answer to have ready:** the reason they still need bank seven,
+eight, nine and ten is almost certainly the long tail, the currencies and
+countries their main banks serve badly. One provider covering that tail
+lets rationalisation go **further**, not backwards. Monex replaces the
+banks they only keep for awkward corridors, rather than adding to the
+count.
 
-**Do not approach Madhu separately before the call.** He is attending
-Clifford's meeting. Going around him or to him would be read exactly as
-it looks.
+That reframing is the whole call. Have it ready in one sentence.
 
-## Why he took the meeting
+## Madhu's background, and what it means
 
-Marcel's opener said: *"Aptean has grown mostly by acquisition, which
-usually leaves treasury holding a currency book nobody designed: each
-entity arriving with its own bank and its own euro, sterling or rupee
-flows."* Clifford replied within three hours asking to talk and gave his
-email unprompted.
+- **Aptean**, Treasury Manager, Sep 2022 to date
+- **Ola**, Treasury Manager, 2019 to 2022. Indian ride hailing, enormous
+  payment volumes
+- **ECOM Trading**, Senior Treasury Analyst, 2013 to 2019. E-commerce,
+  gateway reconciliation
+- **HP**, Treasury Accountant, 2011 to 2013. Global shared services
+- MBA, Bangalore
 
-**That framing was right, and the number makes it sharper.** Fifty five
-acquisitions in eight years across fifty countries. Nobody rationalises
-banking during an integration, because integration is about product and
-customers. The accounts, the rates and the local FX decisions simply
-accumulate.
+**He is a payments operations person, not a markets person.** Fifteen
+years of throughput, reconciliation, control and automation. He did not
+come from a bank dealing desk.
 
-## The one thing to establish in the first five minutes
+Consequences: he will engage hard with straight through processing, cut
+off times, payment status visibility, reconciliation and control. He may
+be less moved by basis points in the abstract, **but he will care
+intensely about basis points he can measure**, because measurement is how
+his whole career has worked. Frame savings as something his reporting can
+show, not as a rate quote.
 
-Is this a **live rationalisation project**, or a **specific problem**?
+The Ola years also mean he knows INR and high volume payment pain better
+than almost anyone Marcel will meet this year. Do not explain India to
+him.
 
-He engaged on inherited banking relationships and he is bringing someone
-from India to a call at half past seven their evening. People do not do
-that for a general chat. Either there is a workstream with India in it,
-or there is an India problem. Find out which before saying anything
-about Monex.
+## Questions, revised
 
-## Questions, in order
+**To Clifford, strategy:**
 
-**1. "How many bank accounts came with the 55 acquisitions, and where
-are you now?"**
-The best opening question available. It returns a number, and the number
-tells you everything: whether the project is real, how far along, and
-whether anyone is measuring it.
+1. **"You have rationalised down to around 150 accounts and ten banks.
+   What is the floor, and what is stopping it going lower?"**
+   Uses his own numbers, credits the work already done, and the answer
+   names the corridors where they are stuck. That is the opening.
 
-**2. "Which currencies actually move, and in which direction?"**
-Software revenue arrives in local currency across fifty countries, costs
-sit wherever the acquired teams are. The shape of that mismatch is the
-whole opportunity. Let him draw it.
+2. **"What are the sponsors asking for on cash and FX?"**
+   Four PE shareholders, TA leading since 2022, so roughly year four of
+   a hold. Year four is exit preparation: clean numbers, no EBITDA
+   surprises.
 
-**3. "Where does the India piece sit in this?"**
-Direct, and it lets the colleague speak. If someone joins a call after
-hours they should be asked something in the first fifteen minutes.
+**To Madhu, by name, operations:**
 
-**4. "Who executes the FX today, and is it dealt or just taken?"**
-The real question underneath: does anyone negotiate, or does each entity
-accept whatever its local bank applies. At 55 acquisitions the honest
-answer is usually the second, and he may not know for certain.
+3. **"Across the hundred entities, where does the conversion physically
+   happen? At the paying entity's bank, or centrally before it goes
+   out?"**
+   This is the question that locates the money. Decentralised conversion
+   at local banks is where the cost hides.
 
-**5. "Do you know what FX actually costs you by corridor?"**
-Most treasurers at this structure do not, because the cost sits inside
-the rate and never appears as a line. If he cannot answer, that is not a
-failing to point out. It is the opening.
+4. **"You have done payment automation and a treasury system. Does rate
+   capture sit inside that automation, or outside it?"**
+   **The best question on the list.** Automated payments with
+   unmeasured FX is the classic gap, and it is a gap he will recognise
+   immediately because it offends his own standards.
 
-**6. "What do the sponsors ask for on cash and FX?"**
-Four sponsors, TA leading since 2022, so roughly year four of a hold.
-Year four is exit preparation: clean numbers, working capital discipline,
-no surprises in EBITDA. FX noise at year four is exactly what a sponsor
-does not want. If that pressure exists, he will say so and it becomes the
-reason to act now rather than later.
+5. **"Of the billion in payments, roughly how much crosses a currency?"**
+   Sizing. Turns the conversation into arithmetic.
+
+6. **"Which corridor is the one you cannot fix?"**
+   Direct, and it respects four years of work. Everyone who runs a
+   treasury this size has one. Getting him to name it is the meeting's
+   real objective.
 
 ## What not to do
 
-**Do not pitch replacing their bank.** A company this size with four PE
-sponsors has real banking relationships and probably a syndicate.
-Suggesting a swap makes Marcel sound like he does not understand the
-business.
-
-**Do not present capabilities in the first half.** The opener worked
-precisely because it contained no product. Keep that going. If he asks
-what Monex does, answer briefly and return to his situation.
-
-**Do not repeat the credibility line.** "I ran finance across the US,
-Brazil, Mexico and Central America" has already landed and done its job.
-Saying it twice turns a fact into a sales move.
-
-**Do not treat the size as the prize.** Ten thousand customers in fifty
-countries is not ten thousand customers of FX. See below.
+- **Do not ask how many accounts.** Published.
+- **Do not explain India, INR or payment operations** to a man who ran
+  treasury at Ola.
+- **Do not pitch replacing their banks.** Ten banking relationships with
+  SOX compliance and pooling structures do not get swapped out.
+- **Do not present capabilities in the first half.** The opener that won
+  this meeting had no product in it.
+- **Do not repeat the credibility line.** "I ran finance across the US,
+  Brazil, Mexico and Central America" has landed. Twice is a sales move.
+- **Do not approach Madhu on LinkedIn before the call.** After is fine
+  and natural.
 
 ## The realistic prize
 
-Not the treasury. **One corridor, or one set of entities.**
+Not the treasury, and not the ten banks. **One corridor, priced.**
 
-Where a provider like Monex genuinely beats a large bank is the flows the
-bank does not care about: smaller European currencies, INR, LATAM, the
-Asia Pacific tail, and the acquired entities too small to get attention
-from a relationship manager. A rollup of 55 companies has a long tail by
-definition.
+The outcome to aim for: *"name the three corridors that annoy you most
+and we will price them against what you pay now."* Madhu can authorise
+that without a committee, it is measurable, which is how he thinks, and
+it does not disturb the rationalisation programme.
 
-So the outcome to aim for is not "Aptean becomes a client". It is **"we
-priced your three worst corridors and here is the difference"**. That is
-a test he can authorise without a committee, and it is how a company this
-size actually starts.
+## Practical
 
-## Two practical notes
-
-**19:30 in India.** If the colleague joins, acknowledge it in the first
-minute. It costs nothing and it is noticed.
-
-**He said "this one is good for now."** Slightly provisional. Confirm the
-day before rather than assuming it holds.
-
-## After the call
-
-Log the outcome in `pipeline.json`. If there is a corridor to price,
-that is a concrete next step with a date on it, not a follow up.
+- **19:30 in Bengaluru.** Acknowledge it in the first minute.
+- **Clifford said "this one is good for now."** Slightly provisional.
+  Confirm the day before.
+- After the call, log it in `pipeline.json`. If there is a corridor to
+  price, that is a dated next step, not a follow up.
