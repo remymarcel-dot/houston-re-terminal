@@ -11,7 +11,7 @@ connection notes, so there is no character limit and no acceptance wait.
 | Fernando Narvaez | Vann Family Orchards | **confirmed** linkedin.com/in/fernando-narvaez-74b8259 |
 | Paul Ferachi | Capitol City Produce | **AMBIGUOUS, two profiles, see below** |
 | Elena Tavares | Monte Vista Farming | **resolved** elena-tavares-a218939 |
-| Ohad Gold | Ahern Agribusiness | **STILL NEEDED**, low confidence match |
+| Ohad Gold | Ahern Agribusiness | **confirmed by Marcel** linkedin.com/in/ohad-gold |
 | Christi Alise | Gulf Coast Produce Distributors | **resolved** christi-alise-a753a374 |
 | Alan Arredondo | Nova World Fresh | **resolved** alan-arredondo-50ba7b114 |
 | Jennifer Ayers | T H Gonzalez | **resolved** jennifer-ayers-1868402a |
@@ -82,10 +82,10 @@ Marcel
 Ohad, we connected recently and I have not written since, which I want to
 fix.
 
-I handle FX and cross border payments at Monex USA. A transplant
-operation running nurseries on both sides of the border pays Mexican
-labor and inputs out of a US entity, and that conversion usually sits
-inside the rate rather than showing up as a fee.
+I handle FX and cross border payments at Monex USA. A seed business run
+out of Otay Mesa with growers on the Mexico side usually ends up paying
+those costs from a US entity, and the conversion tends to sit inside the
+rate rather than show up as a fee.
 
 Who handles that side of it at Ahern?
 
@@ -203,8 +203,25 @@ ending. These are messages to existing connections, so they draw on the
 30 a day message allowance and cost nothing against the 15 a day
 invitation ceiling.
 
-Held back: **Ohad Gold** and **Richard Labib**, on URL confidence only.
-Both drafts are written and ready the moment a URL arrives.
+**Ohad Gold added 2026-09-23** after Marcel confirmed the URL from his
+own profile view. Apollo's low confidence guess at the slug turned out to
+be correct, which says the confidence field is conservative rather than
+wrong. Nine leads now.
+
+His draft was rewritten at the same time. It had described Ahern as "a
+transplant operation running nurseries on both sides of the border".
+Everything verifiable says vegetable seed company: seed genetics, seed
+production and distribution, 140 people, founded 1981, the ahernseeds.com
+domain, a Spanish language presence as AhernSemillas, and an address on
+Customhouse Plaza at the Otay Mesa crossing. A wrong claim about his own
+business in the first substantive line would have ended the message
+before the question. Now anchored on the border location and the Mexico
+side growers, both of which hold up.
+
+Still held: **Richard Labib**, on URL confidence only. His draft is
+written and ready the moment a URL arrives. Note that his employer
+resolved to the German parent, 2,700 people and $1.6B, rather than
+Rohlig USA, so the size screen wants a second look before he sends.
 
 Fixed in this pass: the Ohad Gold draft read "Mexican labor", written
 before the American English rule was set. Now "labor".
