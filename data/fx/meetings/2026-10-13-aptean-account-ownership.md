@@ -1,5 +1,48 @@
 # Aptean account ownership, and the email to Jason Roof
 
+## The email, final
+
+**Subject: Aptean, Oct 13 call and how you want to handle this**
+
+Hi [Name],
+
+I went to register Aptean in the CRM this morning and saw your name on
+it. I didn't know that before today, so I figured I'd come to you right
+away instead of letting you find out some other way.
+
+Here's where it stands. I got to Clifford D'Souza, their Treasury
+Director, on LinkedIn, and we've got a call Tuesday October 13 at 10:00
+ET. He's bringing his Treasury Manager, Madhusudan N, who's in Bengaluru
+and staying on until 7:30 his evening for it.
+
+I can see this account's had work on it before I came near it, and I'm
+not trying to plant a flag on something you've been building.
+
+What I'd really like is for you to be on the call with me. Aptean isn't a
+soft one. They're running 150 bank accounts across 100 entities and 10
+banks, they've already done cash pooling and account rationalization, and
+the direction they talk about publicly is fewer banking relationships,
+not more. I'd rather have you in the room than take that solo.
+
+Two things I want to run by you.
+
+First, how do you want to handle the account? It's yours in the system
+and I'll go with whatever works for you.
+
+Second, is there anyone over there you're already talking to? I'd rather
+we show up as one company than two guys arriving separately.
+
+I've put together a pretty detailed prep note on the company and both
+people. Happy to send it over whenever you want it.
+
+Marcel
+
+*If the recipient is notably senior, "two guys" becomes "two people".
+Everything else holds.*
+
+---
+
+
 ## The situation
 
 Aptean is claimed in Monex's CRM by **Jason Roof**. Marcel discovered
