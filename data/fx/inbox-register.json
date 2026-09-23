@@ -1,6 +1,6 @@
 {
  "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
- "lastFullSweep": "2026-09-22 second sweep, offsets 0 to 240, all 265 conversations, complete tail coverage for the first time",
+ "lastFullSweep": "2026-09-23. Full 265 swept 2026-09-22 to offset 240; today offsets 0 and 40 cover everything with activity since Sep 11, since the list sorts by recency.",
  "dispositioned": {
   "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
    "who": "Grupo Palco, Carlos Palma",
@@ -11,8 +11,12 @@
    "state": "closed, courtesy"
   },
   "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==": {
-   "who": "Aptean, Clifford D'Souza",
-   "state": "answered 2026-09-22, three slots proposed"
+   "who": "Aptean, Clifford D’Souza, Treasury Director",
+   "state": "MEETING BOOKED. He chose Tuesday 2026-10-13, 10:00 EST, from three slots offered. His words: \"Tuesday Oct 13, 10:00 EST. This one is good for now.\"",
+   "owed": "Marcel must send a calendar invite to cdsouza@aptean.com. A colleague from India may attend, so ask for that address too.",
+   "howItCame": "He accepted the connection Sep 20 with a courtesy note. Marcel replied Sep 21 naming the specific problem, that growth by acquisition leaves treasury holding a currency book nobody designed, and citing his own time running finance across the US, Brazil, Mexico and Central America. Clifford asked to talk and gave his email the same day.",
+   "whatWorked": "The opener did not pitch. It named a condition specific to how that company grew, then established standing by having sat on the same side of it, then asked one question. Three lines of substance and no capabilities.",
+   "sizeNote": "Aptean is a large PE backed ERP company, well above the usual size screen. The realistic outcome is one corridor or one acquired entity, not the whole treasury. Worth knowing going in rather than pitching the full book."
   },
   "2-MjQzMDgyYmYtY2ZmNi00YjE2LTg2YWItOTg1ZjFlZTQ4MGQ1XzEwMA==": {
    "who": "Atlas Oil Company, Robert Guerrero",
