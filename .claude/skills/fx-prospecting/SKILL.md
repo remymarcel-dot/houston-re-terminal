@@ -71,6 +71,32 @@ line while the campaign still runs unattended.
 If a lead has no usable hook, **drop them**. A generic line is worse
 than one fewer contact. Expect to discard 30-50% of any raw segment.
 
+## Always write American English
+
+Marcel, 2026-09-23: *"always use american english"*. A standing rule, not
+a preference, and it covers **everything**: client messages, internal
+memos, prep notes, commit messages, pipeline entries and anything else
+written in English.
+
+His readers are American. He is also conscious that English is not his
+first language, so any phrasing that reads as non-native costs him
+credibility he should not be spending.
+
+- **Spelling**: realize, organize, recognize, analyze, center, color,
+  behavior, canceled, traveled. Never the -ise or -our forms.
+- **Vocabulary**: "run it by you" not "give me a steer", "figure it out"
+  not "sort it out", "while" not "whilst", "call you" not "ring you",
+  "schedule" not "diary", "quarter" not "quarter's end" phrasing that
+  reads British.
+- **Contractions**: American business writing contracts. "I'd", "I'm",
+  "we'll", "hasn't". Full forms are not wrong but read formal, and in
+  anything warm the contraction is the more native choice.
+- **Dates spoken aloud**: October 13, not 13 October.
+
+Full list of traps caught so far is in `references/voice.md`.
+
+**Spanish messages are unaffected.** This governs English only.
+
 ## Account facts
 
 | Item | Value |
