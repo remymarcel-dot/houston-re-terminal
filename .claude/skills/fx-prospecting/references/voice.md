@@ -323,3 +323,31 @@ the word literally.
 The facts are more persuasive than the label anyway. A classification
 invites an argument about the classification. A sequence of things the
 person actually did invites no argument at all.
+
+## Write American English, and contract more than feels natural
+
+Marcel, 2026-09-23, catching a draft: *"it is common to say steer on? in
+american english?"* It is not. "A steer" as a noun is British and
+Australian, and it reads foreign to an American colleague.
+
+Marcel's readers are overwhelmingly American. He is also conscious that
+English is not his first language, so any phrasing that reads as
+non-native costs him something he should not be paying.
+
+**Britishisms that have appeared in drafts here and must not:**
+
+| Wrong | Right |
+|---|---|
+| "your steer on" | "run by you", "your input", "your read" |
+| realised, organised, recognised | realized, organized, recognized |
+| "straight away" is fine, "whilst" is not | "while" |
+| "have a think" | "think about it" |
+| "sort it out" | "figure it out", "work it out" |
+
+**Contractions.** Drafts here have defaulted to full forms, "I would",
+"I am", "I have not". American business writing contracts: "I'd", "I'm",
+"I haven't". Full forms are not wrong but read a shade formal, and in
+anything warm, a colleague note or a reconnection, the contraction is
+the friendlier and more native choice.
+
+Spanish messages are unaffected. This applies to English only.
