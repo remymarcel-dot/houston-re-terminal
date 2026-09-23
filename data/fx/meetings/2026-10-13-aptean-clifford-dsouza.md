@@ -37,6 +37,73 @@ So the pitch is not "you have a mess". It is narrower and more
 respectful: **inside a structure that has already been worked hard,
 which corridors still get poor execution?**
 
+## Kantox. Read this before anything else.
+
+Monex's CRM carries a task, created 2026-07-20 and still overdue, reading
+**"Contact Aptean (had meeting w/ Kantox) / John Meade"**.
+
+**Kantox is Currency Management Automation, and it has been 100% owned by
+BNP Paribas since July 2023.** It automates the end to end corporate FX
+workflow: capturing exposure data, automating hedging, and running
+payment and collection processes with real time pricing embedded.
+
+Now set that beside Madhusudan's own Aptean bullets:
+
+- "Led **payment automation** initiatives improving efficiency and
+  control"
+- "Supported **treasury system implementation** and process
+  transformation"
+
+**The sharpest question on this list, whether rate capture sits inside
+the payment automation or outside it, may already have the answer
+"inside, via Kantox".** Walking into that unprepared would be the worst
+outcome of the call.
+
+### Do not ask about Kantox directly
+
+"Did you evaluate Kantox?" reveals that Marcel has read an internal note
+and sounds like checking up on them. The question already planned does
+the work: ask where rate capture sits, and if they are on Kantox they
+will say so themselves.
+
+### Have both answers ready
+
+**If they are not on it.** The meeting proceeds as prepped. The gap is
+real and the long tail argument holds.
+
+**If they are on it**, which is the case to prepare properly:
+
+Kantox automates the *workflow*. It does not by itself determine **who is
+on the other side of the trade**. Under BNP ownership, execution
+gravitates to BNP pricing. So the honest question back is not "replace
+Kantox", it is:
+
+> "Kantox handles the workflow well. The part worth checking is who is
+> pricing the other side, and whether that is the right counterparty for
+> every corridor or just the European ones."
+
+BNP is strong across Europe. It is not automatically the best price in
+Mexico, LATAM, or parts of APAC. **That is Marcel's actual edge and it is
+a true statement rather than a sales line.** He ran finance across the
+US, Brazil, Mexico and Central America; those are precisely the corridors
+where a European bank's automated rate is least likely to be sharp.
+
+The ask becomes narrower and more credible: keep the automation, price
+three corridors independently, compare.
+
+## Other names in the CRM, for awareness only
+
+- **John Meade**, named on the Kantox task, role unknown
+- **Hiroshi Tanaka**, worked through 16 steps of a BDR calling sequence
+  in June 2026, no answer at any point
+- **Kevin McAdams**, noted as CFO in 2019, seven years stale
+- **Brad DeBold**, SVP Corporate Development, 2019, stale
+- **Susan Ricker**, treasury, cold called June 2024, no answer
+
+None of these should be raised on the call. They are context for
+understanding how long Monex has been circling this account without
+landing it.
+
 ## The trap, and the way through it
 
 Their strategy is **fewer banks**. Account rationalisation is an active
