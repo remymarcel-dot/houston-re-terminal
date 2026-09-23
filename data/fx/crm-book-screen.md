@@ -160,4 +160,6 @@ already done.
 - Eight invitations against a 15 a day ceiling, so the wave clears in
   one day and leaves room for the Play 0 messages.
 
-Held in DRAFT pending Marcel's read of the eight notes.
+Started 2026-09-23 19:54 UTC on Marcel's go. Eight users, zero failed,
+zero excluded, which confirms none of the eight was already sitting in
+another campaign.
