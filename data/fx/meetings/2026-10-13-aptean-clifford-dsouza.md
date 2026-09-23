@@ -11,9 +11,55 @@ A colleague from India may attend, at 19:30 their time.
 - **Four private equity shareholders at once**: TA Associates as lead
   since October 2022, plus Insight Partners, Charlesbank and Clearlake.
 - **10,000+ customers across 20+ industries in more than 50 countries.**
-- Offices in North America, Europe and Asia Pacific. India specifically
-  is **not confirmed** by any source read. The colleague exists; the
-  office structure behind him does not. Ask, do not assume.
+- Offices in North America, Europe and Asia Pacific.
+
+## Madhu, and what he tells you about the meeting
+
+Marcel, 2026-09-23: *"clifford said he invited madhu his colleague from
+india, thats all information i have"*.
+
+**Almost certainly Madhusudan N, Treasury Manager, Bengaluru**,
+`linkedin.com/in/madhusudan-n-03756713b`. He is the only Madhu in
+Aptean's India finance organisation and the only one in treasury. Strong
+inference, not proof. Confirm it on the call, not before.
+
+**The search turned up more than the name.** Aptean has around 25 finance
+staff in India, nearly all in Bengaluru, and the shape of that team is
+the finding:
+
+| Role | Count |
+|---|---|
+| Treasury Manager | 1, Madhusudan N |
+| Treasury Finance Associate | 1, Veeresh Vishwanath |
+| Finance Managers, incl FP&A | 3 |
+| Accountants and senior accountants | ~19 |
+
+Twenty accountants in one city is not a development centre with a
+finance function attached. **That is a shared services centre**, running
+the transactional accounting for a group assembled from 55 acquisitions.
+And treasury has operational staff sitting inside it.
+
+**So the org splits the way these usually do.** Clifford sets treasury
+policy from Atlanta. Madhu executes it from Bengaluru. Clifford knows
+what the policy is; **Madhu knows what actually happens**, which bank
+each entity pays through, what the rate looks like on the day, and which
+payments are painful.
+
+**Three consequences for the call:**
+
+1. **This is not an exploratory chat.** Clifford brought the person who
+   touches the money. People do not do that to be polite.
+2. **Questions 4 and 5 belong to Madhu.** Who executes, and what it
+   actually costs, are things Clifford may only know in the abstract.
+   Ask Clifford the strategy questions and ask Madhu the operational
+   ones, explicitly and by name.
+3. **Anything Monex ends up doing would be operated by Madhu's team.**
+   If he is not comfortable, it does not happen, whatever Clifford
+   decides. Treat him as a decision maker, not an attendee.
+
+**Do not approach Madhu separately before the call.** He is attending
+Clifford's meeting. Going around him or to him would be read exactly as
+it looks.
 
 ## Why he took the meeting
 
