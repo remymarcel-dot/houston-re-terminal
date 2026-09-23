@@ -237,3 +237,62 @@ list in place.
    `delete_campaign` in the API. A paused campaign holding leads who are
    now live elsewhere will double message them if anyone resumes it, and
    a note is the only thing standing in the way.
+
+## Acceptance and reply rate baseline, snapshot 2026-09-23
+
+Recorded as a fixed point to measure against, not as a conclusion.
+Marcel, 2026-09-23: *"lets wait by the end of septmber and do the
+statistics with more pool of invitations and messages"*. The analysis
+happens at the start of October. This is only the raw state on the day,
+captured because cohort attribution gets harder once more campaigns
+overlap.
+
+### Connection requests, from `get_overall_stats` on account 237851
+
+| Cohort | Campaign | Sent | Accepted at 2026-09-23 |
+|---|---|---|---|
+| 2026-08-17 | Houston Treasury FX Discovery Q3, 552667 | 18 | 1 |
+| 2026-09-22 | El Paso Summit W1, 613681 | 9 | 0 |
+| 2026-09-23 | JEAR Logistics, 618521 | 1 | 0 |
+| **Total** | | **28** | **1** |
+
+HeyReach reports `connectionAcceptanceRate` of 0.0357. **Do not quote
+that as the rate.** Ten of the twenty eight were less than forty eight
+hours old on the day it was read.
+
+**The only cohort with enough age to judge is August 17: 18 sent, 1
+accepted, 5.6% over five weeks.** That is the real baseline, and it is
+weak. It was generic treasury seat targeting, which is part of why the
+September waves were built on named conditions specific to each company
+instead.
+
+### The blind spot
+
+HeyReach counts only what HeyReach sent. **Clifford D'Souza accepted on
+2026-09-20 and produced the only booked meeting in the book, and he does
+not appear in these statistics at all.** September 20 reads zero sent and
+zero accepted. Treat every number here as a floor on a partial view.
+
+### Messages
+
+HeyReach reports a 6.9% reply rate, 2 replies against 29 started. The
+pipeline history puts Marcel's real reply rate to existing connections at
+**20.9%**, and the same blind spot explains the gap: hand sent messages
+are invisible here.
+
+### What lands before the October read
+
+32 invitations across El Paso W3, W4, W4b and CRM W1 and W2, going out
+2026-09-24 and 2026-09-25. Plus 23 messages sent 2026-09-23 through Play
+0 batches 1 and 2 and the MGS direct.
+
+So the October denominator should be roughly **60 invitations and 50
+messages**, against 28 and 29 today.
+
+### The question to answer in October
+
+Cold invitations ran at 5.6% on the one measurable cohort. Messages to
+existing connections run at 20.9%. If the new invitation waves do not
+land well above 5.6%, the answer is not better copy. It is fewer
+invitations and more Play 0, because the message channel costs nothing
+scarce and converts about four times better.
