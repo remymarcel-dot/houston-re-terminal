@@ -17,7 +17,7 @@ connection notes, so there is no character limit and no acceptance wait.
 | Jennifer Ayers | T H Gonzalez | **resolved** jennifer-ayers-1868402a |
 | Esteban Jose Sartorio | Circle Logistics | **resolved** esteban-jose-sartorio-b4608b49 |
 | Juan Emilio Villarreal | Kotick Cold JV | **resolved** juan-emilio-villarreal-b668913b |
-| Richard Labib | Röhlig USA | **STILL NEEDED**, low confidence match |
+| Richard Labib | Röhlig USA | **confirmed by Marcel** richard-labib-9b604112 |
 
 **Paul Ferachi: resolved to paul-ferachi-05161037b.** Two live profiles
 exist at the same company. Apollo returned this one at high confidence
@@ -197,7 +197,7 @@ still cannot be used to look up one person.
 
 ## Batch state
 
-Campaign **618477**, list **963801**, eight leads, zero failed. Sequence
+Campaign **618477**, list **963801**, ten leads, zero failed. Sequence
 is CHECK_IS_CONNECTION, then MESSAGE after three hours, both branches
 ending. These are messages to existing connections, so they draw on the
 30 a day message allowance and cost nothing against the 15 a day
@@ -218,10 +218,19 @@ business in the first substantive line would have ended the message
 before the question. Now anchored on the border location and the Mexico
 side growers, both of which hold up.
 
-Still held: **Richard Labib**, on URL confidence only. His draft is
-written and ready the moment a URL arrives. Note that his employer
-resolved to the German parent, 2,700 people and $1.6B, rather than
-Rohlig USA, so the size screen wants a second look before he sends.
+**Richard Labib added 2026-09-23**, also confirmed by Marcel from his own
+profile view, and Apollo's low confidence slug was right for him too.
+Both low confidence guesses in this batch turned out correct, so treat
+that field as conservative rather than wrong: it is a reason to verify,
+not a reason to discard.
+
+His profile also settles the size question. His headline reads Chief
+Financial Officer at Rohlig USA, so he sits at the US entity, not the
+German parent whose 2,700 people and $1.6B triggered the flag. No
+correction needed to his draft, and the umlaut was dropped from the
+message text to avoid any encoding surprise on send.
+
+**Batch 1 is complete at ten leads.**
 
 Fixed in this pass: the Ohad Gold draft read "Mexican labor", written
 before the American English rule was set. Now "labor".
