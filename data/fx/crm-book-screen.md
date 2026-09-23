@@ -163,3 +163,68 @@ already done.
 Started 2026-09-23 19:54 UTC on Marcel's go. Eight users, zero failed,
 zero excluded, which confirms none of the eight was already sitting in
 another campaign.
+
+## Wave 2 build state
+
+Wave 2 did not survive contact with the data in the shape it was
+planned, and the reason is worth keeping.
+
+**The Nogales seven yield four seats, not seven.** Big Chuy Distributors
+has an administrator and an employee on LinkedIn and nothing else.
+Kaliroy Fresh has no one at all. Splendid by Porvenir has a sales
+coordinator. These are small family houses that do not maintain a
+LinkedIn presence, so for those three the CRM row is a phone and email
+play, not a campaign target. Sourcing them again through LinkedIn will
+keep returning the same nothing.
+
+**The Hispanic food segment is mostly US manufacturers, not importers.**
+Cacique, V&V Supremo, Nuestro Queso and Winona Foods all have good
+LinkedIn coverage and several finance seats each, and all four are US
+manufacturers of Hispanic style food rather than importers of it. The
+peso payables thesis does not hold for them, so coverage is not the same
+thing as fit. Cacique additionally returns four different current CFO
+records, which is stale data and would need verifying before anyone is
+approached there.
+
+So Wave 2 is the thesis, not the segment: US companies that pay Mexican
+suppliers, wherever they sit in the book.
+
+| Company | Seat | Hook |
+|---|---|---|
+| Wilson Produce (Nogales) | German Moreno, CFO | CFO since 2022, came out of public accounting. 17 people, $24.9M. |
+| Ciruli Brothers (Rio Rico) | Susan Banzhof, Controller | Controller since 1991. Mangoes from Mexico, founded 1940. |
+| Malena Produce (Rio Rico) | Gonzalo Avila, CEO | Former Chairman of the Fresh Produce Association of the Americas, and before that a director at a Mexican greenhouse company. |
+| Tricar Sales (Rio Rico) | Juan Cardenas, VP | Was a credit analyst at Scotiabank before joining in 1996. A banker running a produce house. |
+| Dulcelandia and San Jose Imports (Chicago) | Marco Rodriguez, SVP | He is SVP of both, so this one seat covers two CRM rows. Buys in pesos, sells in dollars. |
+| La Hispamex (Bedford Park IL) | Luis Galvez, CEO | Came from Sigma and from E2 Energias in Mexico. Approached in Spanish. |
+| HERNAN (San Antonio) | Isela Hernandez, Founder and President | Artisanal mole and chocolate made in Mexico. Small book, real swings. |
+
+**Cut after enrichment:**
+
+- **Azteca Mexican Candy.** Four employees. The ticket does not justify
+  an invitation slot.
+- **Sunrise Confections.** A name collision worth remembering. Apollo
+  returns an owner in Berwick, Maine who also owns a goat milk soap
+  business and a bakery. The Sunrise Confections in the CRM is the
+  1,500 person candy manufacturer with a plant on Calle Ishikawa in
+  Ciudad Juarez. Wrong person entirely, and the account is legitimate
+  and worth a separate sourcing pass rather than a cut.
+- **Iris Rodriguez, Grower Accounting at Ciruli Brothers.** The title is
+  precisely the function that pays Mexican growers, but the company has
+  42 people and Susan Banzhof is already the seat. Two invitations into
+  one small company reads as a list, not a person.
+
+### State
+
+- Lead list **963765**, 7 leads, 0 failed.
+- Campaign **618450**, status DRAFT. Same shape as Wave 1, connection
+  request at 5 hours rather than 4 so the two waves do not fire together.
+
+### Open question for Marcel before this starts
+
+Three of these CRM rows carry a second date: Ciruli Brothers 2026-04-08,
+Tricar Sales 2026-03-30, Big Chuy 2025-07-01. HeyReach has no
+conversation with any of them, but HeyReach only sees what HeyReach
+sent, so that proves nothing about a call or an email. If either Ciruli
+or Tricar was already worked this year, the opener should acknowledge it
+rather than arrive cold.
