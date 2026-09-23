@@ -2447,5 +2447,25 @@
   "listId": 963843,
   "loggedOn": "2026-09-23",
   "nextStep": "Two follow ups maximum on silence, then dormant. The question is the whole message; do not add capability if he or she replies short."
+ },
+ {
+  "name": "Matt Hurd",
+  "company": "JEAR Logistics",
+  "title": "Chief Financial Officer",
+  "location": "United States",
+  "profileUrl": "https://www.linkedin.com/in/matt-hurd-1754164/",
+  "play": "network-mining",
+  "status": "invitation-queued",
+  "degree": "2nd, so this is a connection request and it costs invitation quota, unlike the rest of Play 0",
+  "firstTouch": "2026-09-23",
+  "lastActivity": "2026-09-23",
+  "signal": "Marcel surfaced him on 2026-09-23 after Blake Sherrill was cut from Play 0 batch 2 on seat quality. Hurd is the actual finance seat at JEAR.",
+  "note": "Charleston SC, 260 people, $124.7M, 3PL and freight broker founded 2007. Temperature controlled and perishable freight for food, agriculture and pharma across the continental US and Canada. Acquired by Worldwide Express in February 2025. The opener is that acquisition, asked as an open question about whether carrier settlement stayed with him or moved to the group, rather than assuming either.",
+  "invitationNote": "Matt, JEAR moves a lot of perishable freight into Canada, and an acquisition like WWEX usually decides whether carrier settlement stays with the CFO or moves up to the group. I ran finance across four countries before Monex USA. Curious which way that landed. Worth connecting.",
+  "campaignId": 618521,
+  "listId": 963859,
+  "loggedOn": "2026-09-23",
+  "priorContactCheck": "Screened against pipeline.json and the HeyReach inbox before drafting. No prior contact.",
+  "nextStep": "On acceptance, open on the Canada carrier leg. If he says settlement moved to WWEX, ask who there owns it and treat him as the introduction rather than the buyer."
  }
 ]

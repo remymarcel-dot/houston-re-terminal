@@ -18,7 +18,28 @@ of Grupo Bimbo and treasury is captive at the parent. The same company
 should not pass one screen and fail another on the same day.
 
 **JEAR Logistics, Blake Sherrill.** "Senior Logistics Executive" is a
-sales title, not a finance seat.
+sales title, not a finance seat. Marcel then went and found the right
+one: **Matt Hurd, CFO**, on 2026-09-23. He is second degree rather than
+first, so he is a connection request against the daily invitation
+ceiling and not a free Play 0 message. Built separately as campaign
+**618521**, list **963859**.
+
+JEAR is Charleston SC, 260 people, $124.7M, a 3PL and freight broker
+founded 2007, heavy on temperature controlled and perishable freight for
+food, agriculture and pharma, running the continental US and Canada. It
+was **acquired by Worldwide Express in February 2025**, nineteen months
+ago.
+
+That acquisition is the opener. It is the Aptean thesis inverted: there,
+a buyer inherited a currency book nobody designed; here, an acquired
+company's finance function got absorbed into a larger group, and whether
+the CFO still owns carrier settlement is a genuinely open question. So
+the note asks which way it landed rather than assuming he still owns it,
+the same correction applied to Guillermo Lopez Larios an hour earlier.
+
+Checked against `pipeline.json` and against the HeyReach inbox before
+drafting, per the rule written today. No prior contact with him or with
+anyone at JEAR.
 
 **BLOOM FRESH, Carlos Bonet.** Apollo puts the company in London, 190
 people, classified as research and biotechnology. It is a fruit genetics
