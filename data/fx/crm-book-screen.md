@@ -220,11 +220,23 @@ suppliers, wherever they sit in the book.
 - Campaign **618450**, status DRAFT. Same shape as Wave 1, connection
   request at 5 hours rather than 4 so the two waves do not fire together.
 
-### Open question for Marcel before this starts
+### Prior contact: resolved
 
-Three of these CRM rows carry a second date: Ciruli Brothers 2026-04-08,
-Tricar Sales 2026-03-30, Big Chuy 2025-07-01. HeyReach has no
-conversation with any of them, but HeyReach only sees what HeyReach
-sent, so that proves nothing about a call or an email. If either Ciruli
-or Tricar was already worked this year, the opener should acknowledge it
-rather than arrive cold.
+Marcel confirmed on 2026-09-23 that Ciruli Brothers and Tricar Sales
+have had no prior contact, so the second dates on those CRM rows are
+system noise rather than activity. Both openers stand as written and go
+out cold.
+
+Campaign **618450** started 2026-09-23 20:04 UTC. Seven users, zero
+failed, zero excluded.
+
+## Still owed on this book
+
+- **Big Chuy, Kaliroy Fresh, Splendid by Porvenir.** No usable LinkedIn
+  seat exists. Phone play or nothing. Call sheets rather than campaigns.
+- **Sunrise Confections.** Real account, 1,500 people, plant in Ciudad
+  Juarez. Needs its own sourcing pass after the Maine name collision.
+- **Cacique Foods.** Four competing current CFO records in Apollo. Not
+  approachable until one is verified, and the payables thesis is weak
+  there anyway since they manufacture in the US.
+- **Waves 3 to 5.** Stone and surfaces, floral, cross border logistics.
