@@ -86,10 +86,11 @@ Batch 1 of ten is drafted and has been sitting blocked since
    reading Owner and one Owner and CEO. Which one is he connected to. A
    URL is copied, never guessed.
 
-One more is identified, first degree, never messaged: **MGS Mfg Group,
-Paul Manley**, President and CEO, El Paso. Mount Franklin Foods came off
-this list on 2026-09-23, company level: Marcel is already talking to
-them.
+**MGS Mfg Group, Paul Manley** was the one remaining name here and it
+went out on 2026-09-23 as campaign 618471. He is first degree, so it is
+a message rather than an invitation and costs nothing against the 15 a
+day. Mount Franklin Foods came off this list the same day, company
+level: Marcel is already talking to them.
 
 ## Ordering
 
