@@ -262,3 +262,37 @@ Two reasons, both true, neither softened into a maybe. Never write "not
 right now" or "let's revisit next quarter" to end something that is
 actually finished, since that buys another three messages rather than
 closing it.
+
+## Never write a sentence that commits Marcel to an action in progress
+
+On 2026-09-23 a reply to Aptean, Clifford D'Souza, was drafted with the
+line *"Invite going to cdsouza@aptean.com now."* Marcel stopped it and
+asked what email was being used.
+
+The answer was none. The HeyReach connector sends LinkedIn messages and
+nothing else. There is no ability to send an email or a calendar invite,
+and the address shown on the LinkedIn account inside HeyReach
+(`remy.marcel@gmail.com`) is an account identifier, not a sending
+address.
+
+**That is exactly why the sentence was wrong.** It described an action as
+already underway that only Marcel can perform, from a system nobody here
+can see, at a time nobody here controls. Had it sent, the recipient would
+have been told an invite was coming and then waited for one that had not
+been created.
+
+**The rule.** A message may describe what Marcel will do. It must never
+describe what is happening right now unless the thing has already
+happened.
+
+- Wrong: "Invite going out now." "Sending that over." "Just added you."
+- Right: "I will get the invite over to you." "I will send that across."
+
+**Calendar invites are always manual and always Marcel's.** He sends them
+from his corporate email, which is deliberate: the invite should come
+from the address the client will recognise and reply to, not from a
+personal account. Do not offer to send one, and do not assume a connected
+calendar is the right one.
+
+**The safer sequencing** when a meeting is agreed: Marcel sends the
+invite first, then the confirming message goes out and is simply true.
