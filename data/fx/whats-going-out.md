@@ -112,6 +112,23 @@ If HeyReach interleaves them instead, the fix is to pause the two CRM
 campaigns until Friday. Worth doing only if Thursday actually shows El
 Paso names being pushed behind CRM names.
 
+## Sent 2026-09-23, after this file was first written
+
+| What | Campaign | Count | Type |
+|---|---|---|---|
+| Play 0 batch 1 | 618489 | 10 | messages |
+| Play 0 batch 2 | 618515 | 12 sending of 13 | messages |
+| MGS Mfg Group, Paul Manley | 618471 | 1 | message |
+| JEAR Logistics, Matt Hurd | 618521 | 1 | invitation |
+
+Twenty three messages against a 30 a day allowance, and one invitation.
+Katie Dubon was stopped inside 618515 before sending; she had already
+been messaged twice, most recently 2026-09-16.
+
+Dead campaigns that must never be resumed: **618477** (wedged, holds two
+leads now live in 618489) and **618510** (superseded by 618515 before it
+ever started).
+
 ## Also live, nothing owed
 
 - **Aptean, Clifford D'Souza.** Meeting confirmed Tuesday October 13,

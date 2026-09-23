@@ -2455,7 +2455,7 @@
   "location": "United States",
   "profileUrl": "https://www.linkedin.com/in/matt-hurd-1754164/",
   "play": "network-mining",
-  "status": "invitation-queued",
+  "status": "invitation-sent",
   "degree": "2nd, so this is a connection request and it costs invitation quota, unlike the rest of Play 0",
   "firstTouch": "2026-09-23",
   "lastActivity": "2026-09-23",
@@ -2466,6 +2466,7 @@
   "listId": 963859,
   "loggedOn": "2026-09-23",
   "priorContactCheck": "Screened against pipeline.json and the HeyReach inbox before drafting. No prior contact.",
-  "nextStep": "On acceptance, open on the Canada carrier leg. If he says settlement moved to WWEX, ask who there owns it and treat him as the introduction rather than the buyer."
+  "nextStep": "On acceptance, open on the Canada carrier leg. If he says settlement moved to WWEX, ask who there owns it and treat him as the introduction rather than the buyer.",
+  "startedAt": "2026-09-23T20:44:01Z, campaign IN_PROGRESS, 1 user, 0 failed"
  }
 ]
