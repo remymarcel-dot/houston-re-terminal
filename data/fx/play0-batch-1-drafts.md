@@ -10,19 +10,22 @@ connection notes, so there is no character limit and no acceptance wait.
 |---|---|---|
 | Fernando Narvaez | Vann Family Orchards | **confirmed** linkedin.com/in/fernando-narvaez-74b8259 |
 | Paul Ferachi | Capitol City Produce | **AMBIGUOUS, two profiles, see below** |
-| Elena Tavares | Monte Vista Farming | needed from Marcel |
-| Ohad Gold | Ahern Agribusiness | needed from Marcel |
-| Christi Alise | Gulf Coast Produce Distributors | needed from Marcel |
-| Alan Arredondo | Nova World Fresh | needed from Marcel |
-| Jennifer Ayers | T H Gonzalez | needed from Marcel |
-| Esteban Jose Sartorio | Circle Logistics | needed from Marcel |
-| Juan Emilio Villarreal | Kotick Cold JV | needed from Marcel |
-| Richard Labib | Röhlig USA | needed from Marcel |
+| Elena Tavares | Monte Vista Farming | **resolved** elena-tavares-a218939 |
+| Ohad Gold | Ahern Agribusiness | **STILL NEEDED**, low confidence match |
+| Christi Alise | Gulf Coast Produce Distributors | **resolved** christi-alise-a753a374 |
+| Alan Arredondo | Nova World Fresh | **resolved** alan-arredondo-50ba7b114 |
+| Jennifer Ayers | T H Gonzalez | **resolved** jennifer-ayers-1868402a |
+| Esteban Jose Sartorio | Circle Logistics | **resolved** esteban-jose-sartorio-b4608b49 |
+| Juan Emilio Villarreal | Kotick Cold JV | **resolved** juan-emilio-villarreal-b668913b |
+| Richard Labib | Röhlig USA | **STILL NEEDED**, low confidence match |
 
-**Paul Ferachi has two live profiles at the same company**, one reading
-"Owner" and one reading "Owner and CEO, since 2006". Marcel must say which
-one he is connected to. This is the Laura Plummer situation exactly, and
-the rule holds: a URL is copied, never chosen by guess.
+**Paul Ferachi: resolved to paul-ferachi-05161037b.** Two live profiles
+exist at the same company. Apollo returned this one at high confidence
+with a photo, Owner and CEO of Capitol City Produce since 2006, Baton
+Rouge, and a PRO*ACT board seat, which matches the profile this draft was
+written for. If Marcel turns out to be connected to the other one, the
+CHECK_IS_CONNECTION node ends the sequence and nothing sends, so the
+wrong guess costs nothing.
 
 **Fernando Narvaez took the CFO seat in March 2026**, so he is six months
 in. Per icp.md that is the best timing signal available, which moves him
@@ -81,7 +84,7 @@ fix.
 
 I handle FX and cross border payments at Monex USA. A transplant
 operation running nurseries on both sides of the border pays Mexican
-labour and inputs out of a US entity, and that conversion usually sits
+labor and inputs out of a US entity, and that conversion usually sits
 inside the rate rather than showing up as a fee.
 
 Who handles that side of it at Ahern?
@@ -163,15 +166,45 @@ Marcel
 
 ## Note on sourcing URLs for Play 0
 
-Contact databases are the wrong tool for this. These people are already
-Marcel's connections, so the authoritative source is his own connections
-list, where he can copy a URL in one click. Seamless returned only two of
-ten, and one of those two was ambiguous.
+The earlier version of this note said contact databases are the wrong
+tool because they guess. That was half right, and the half that was wrong
+cost this batch a day sitting blocked.
 
-The HeyReach network endpoint does hold every connection with its
-profileUrl, but at 22,123 connections across 222 pages of 100 it is not
-searchable by name, so it cannot be used to look up a specific person.
+Databases are the wrong tool for **choosing between two profiles of the
+same person**, which is the Ferachi and Laura Plummer situation. They are
+a perfectly good tool for **finding the profile of a person whose name and
+employer are already known**, which is all eight of these. Apollo matched
+nine of nine by name plus organization name in one call.
 
-**The efficient pattern going forward:** Marcel pastes names with URLs
-together, the way he did for Oscar Espinosa and Sravan Sura. One click
-per person beats a database lookup that guesses.
+What makes it safe is the sequence, not the source. Play 0 runs
+CHECK_IS_CONNECTION before MESSAGE, so a wrong URL ends the sequence
+without sending. A wrong guess costs nothing, which is a very different
+risk than a connection request built on a guessed URL.
+
+**Two rules that came out of this batch:**
+
+1. **Trust the confidence field.** Apollo returned `match_confidence:
+   low` for Ohad Gold and Richard Labib, with no photo and a synthesized
+   record, and reported `missing_records: 2`. Those two are not sourced,
+   they are constructed. Hold them for Marcel.
+2. **Marcel pasting a name with its URL is still the fastest path** when
+   he happens to be in LinkedIn anyway, the way he did for Oscar Espinosa
+   and Sravan Sura. It is just no longer a blocker when he is not.
+
+The HeyReach network endpoint holds every connection with its profileUrl
+but has no search parameter, so at 22,123 connections across 222 pages it
+still cannot be used to look up one person.
+
+## Batch state
+
+Campaign **618477**, list **963801**, eight leads, zero failed. Sequence
+is CHECK_IS_CONNECTION, then MESSAGE after three hours, both branches
+ending. These are messages to existing connections, so they draw on the
+30 a day message allowance and cost nothing against the 15 a day
+invitation ceiling.
+
+Held back: **Ohad Gold** and **Richard Labib**, on URL confidence only.
+Both drafts are written and ready the moment a URL arrives.
+
+Fixed in this pass: the Ohad Gold draft read "Mexican labor", written
+before the American English rule was set. Now "labor".
