@@ -296,3 +296,30 @@ calendar is the right one.
 
 **The safer sequencing** when a meeting is agreed: Marcel sends the
 invite first, then the confirming message goes out and is simply true.
+
+## Never use the word "inbound"
+
+Marcel, 2026-09-23: *"do not say inbound as it triggers aditional
+compliance scrutiny"*.
+
+At Monex, inbound and outbound are **lead classifications with
+regulatory consequences**, not casual descriptions of how enthusiastic a
+prospect seemed. Writing that something is "closer to inbound than
+outbound" because the person replied quickly is not a compliment, it is
+a misfiling, and it pulls review onto an opportunity that does not need
+it.
+
+This applies to internal writing as much as anything a client sees.
+Memos, prep notes and pipeline entries all get read by people who take
+the word literally.
+
+**Describe the behaviour instead, and let the reader conclude.**
+
+- Wrong: "this is closer to inbound than outbound", "he came to us",
+  "effectively an inbound lead"
+- Right: "he replied within three hours", "he sent his email unprompted",
+  "he picked the slot himself and accepted the same day"
+
+The facts are more persuasive than the label anyway. A classification
+invites an argument about the classification. A sequence of things the
+person actually did invites no argument at all.
