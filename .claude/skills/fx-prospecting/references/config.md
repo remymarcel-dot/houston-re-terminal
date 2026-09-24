@@ -296,3 +296,50 @@ existing connections run at 20.9%. If the new invitation waves do not
 land well above 5.6%, the answer is not better copy. It is fewer
 invitations and more Play 0, because the message channel costs nothing
 scarce and converts about four times better.
+
+## Four contact databases are connected. Use more than one before saying "not found"
+
+Learned 2026-09-24, after Marcel asked why only Apollo was being used.
+
+Three webinar attendees were declared unfindable on the strength of one
+Apollo query. Two of the three were in Seamless immediately.
+
+**Connected and working:**
+
+- **Apollo** (`apollo_people_bulk_match`, `apollo_mixed_people_api_search`).
+  Best for enriching a known name plus employer. Returns
+  `match_confidence`; `low` means the record was constructed, so verify
+  before using, though both low confidence guesses on 2026-09-23 turned
+  out correct.
+- **Seamless** (`search_contacts`). Deepest coverage of the four on small
+  US companies. **The LinkedIn URL field is `liUrl`**, not `linkedinUrl`.
+  Missing that field name is what made the first pass look empty.
+  Searching by `companyName` beats searching by `fullName`: a name search
+  for Tammy Lewis returned 394 people, while the company search returned
+  the whole roster with URLs. Does not consume credits.
+- **Lusha** (`prospecting_contact_search`, `contacts_search`). Returns
+  zero cleanly and charges nothing when there is no match, so it is a
+  cheap third opinion.
+- **Clay** (`search-contacts-by-name`). Takes a name plus a company
+  domain. Not yet tried in anger.
+
+**ZoomInfo is connected but unauthenticated.** Its tools cannot be called
+until someone completes the OAuth flow, which cannot be done from a
+non interactive session. Worth Marcel authorising it, since ZoomInfo is
+usually strongest exactly where the others are weak.
+
+**The rule: never report a person as unfindable until at least two
+sources have been tried.** "Not in Apollo" and "does not exist" are
+different statements and only one of them was true.
+
+### A second reason to check more than one source
+
+Seamless did not just find the missing people, it corrected the brief.
+Shelly Dunlavey was listed as Fess Parker Winery on the webinar attendee
+list. Seamless has her as an **Accounting Assistant at Bartlett, Pringle
+& Wolf LLP**, a Santa Barbara CPA firm, since October 2021. The drafted
+note opened "if Fess Parker buys French oak direct", which would have
+been a wrong premise sent to a stranger.
+
+A single source that returns nothing tells you nothing. A second source
+that returns something different tells you the brief was wrong.
