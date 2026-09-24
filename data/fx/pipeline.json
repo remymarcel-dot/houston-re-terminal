@@ -708,7 +708,21 @@
   "note": "Second touch sent 2026-09-16 after one unanswered Jul/Aug message. Angle: Mexican carrier settlement plus longer shipper payment gap. Had an explicit out in Aug. Never repeat the original question — that was the whole design.",
   "lastActivity": "2026-09-24",
   "engagement2026_09_24": "First two way interaction after two unanswered messages. Marcel commented on her Houston sales win post: \"Good to see another Houston shop ringing the bell. Congratulations to the team.\" She reacted with Celebrate within minutes. Note which version worked: the shared city line, not the wittier persistence line. Houston to Houston is the hook with her.",
-  "nextStep": "DO NOT message on the back of this. A DM hours after she reacts confirms the comment was instrumental and re files Marcel as someone who flattered her to get attention, which is worse than where he started. Wait 10 to 14 days, so roughly 2026-10-06 to 2026-10-10. Then a third touch that is different in kind from the first two. Those went at her cost line, Mexican carrier settlement and the shipper payment gap. She posts about winning business, her team and her headquarters: she is in growth mode, not cost cutting mode. Frame the third touch around what happens to the cash cycle as she adds shippers, not what she is overpaying today."
+  "nextStep": "DO NOT message on the back of this. A DM hours after she reacts confirms the comment was instrumental and re files Marcel as someone who flattered her to get attention, which is worse than where he started. Wait 10 to 14 days, so roughly 2026-10-06 to 2026-10-10. Then a third touch that is different in kind from the first two. Those went at her cost line, Mexican carrier settlement and the shipper payment gap. She posts about winning business, her team and her headquarters: she is in growth mode, not cost cutting mode. Frame the third touch around what happens to the cash cycle as she adds shippers, not what she is overpaying today.",
+  "thirdTouchDraft": {
+   "sendWindow": "2026-10-06 to 2026-10-10. Not before. Ten to fourteen days after the 2026-09-24 reaction.",
+   "message": "Navreet, from the outside it looks like you have had a strong few months, and Q4 is usually when that turns into a pricing decision for the year ahead.\n\nThe thing that catches growing brokerages is this: the rates you set now hold for twelve months, but any cost line sitting in another currency does not hold at all. The margin you price in January is not the margin you get in June.\n\nIf that is worth a conversation before you lock 2027, I am in Houston too and happy to make it an easy one.\n\nMarcel",
+   "whyThisAngle": "New ground on purpose. The July and September messages both went at her cost line, Mexican carrier settlement and the shipper payment gap, and the standing rule on her is never repeat the original question. This one is about setting 2027 shipper rates, which is a Q4 decision and a growth decision rather than a cost complaint. It fits what she actually posts about: winning business, her team, her headquarters.",
+   "whyHouston": "The comment she reacted to was the shared city line, not the wittier one about persistence. Houston to Houston is the proven hook, so the close uses it.",
+   "deliberateOmissions": [
+    "No reference to the comment or her reaction. Mentioning it would make the comment retroactively instrumental.",
+    "No apology for the earlier messages and no acknowledgment of her silence. Both read as needy.",
+    "No Calendly link and no proposed times. Judith Cruz at Inclusive Logistics went silent on exactly that and is now do not contact.",
+    "No capability list. No 130 currencies, no same day settlement, no forwards. The September 9 message to Ivan Onita shows what that reads like.",
+    "No phrase like 'no agenda', which announces an agenda."
+   ],
+   "ifSilent": "Mark dormant after this one. Three touches plus a public comment is the honest limit. She is a Houston owner, so the remaining route is a room, not an inbox."
+  }
  },
  {
   "name": "Agostinho Nobre",
