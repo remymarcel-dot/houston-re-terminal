@@ -120,3 +120,64 @@ Senior Manager FX Management, Treasury Analyst at PVH. Those are peers
 and competitors, not prospects, and it explains the junior treasury
 analysts at large companies turning up in these batches. The algorithm
 will keep pulling toward the wrong room.
+
+---
+
+# The remaining thirteen, campaign 620992, list 967468
+
+Scheduled to start **2026-09-25 at 09:00 Central**, not sent tonight.
+Six invitations already went out today; thirteen more would have breached
+the daily ceiling.
+
+## Five of thirteen are not in English
+
+| Person | Language | Why |
+|---|---|---|
+| Mayra Romero | Spanish | Tec de Monterrey Campus Colima, which is where her family's groves are |
+| Adriano Pereira | **Portuguese** | Brazilian, and Marcel ran finance in Sao Paulo 1999 to 2004 |
+| Juan Moreno | Spanish | Seven years running finance for Mexico and Central America at Cereal Partners |
+| Diego Lorenzo | Spanish | Mexican brands, ex Coca-Cola Exports Mexico |
+| Roberto Ahumada | Spanish | Owns a Mexican consultancy as well as the Laredo business |
+
+This is the part of the desk almost no competitor can copy, and until
+tonight it was going unused.
+
+## Two low confidence URLs, both verified before sending
+
+Apollo returned **Tim Teske** and **Ted Skodol** at `match_confidence:
+"low"`, the same flag that stopped the wrong Rebecca Ross this morning.
+Both were checked against Seamless independently, and both came back with
+the **same URL and the same seat**. They stand.
+
+The rule holds and now has both outcomes behind it: a low confidence
+match is a prompt to check, not a reason to discard.
+
+## Two where the pitch inverts
+
+**Juan Moreno at Adams Group** and **Leanne Lindsay at Leatherman** are
+exporters. Opening with "currency is eating your margin" is false for
+them and they will say so. Both notes carry the reverse argument, that
+invoicing in the buyer's currency wins business the competitor loses.
+Moreno's says it explicitly in Spanish: *el tema suele ser el revés*.
+
+## One deliberate omission
+
+**Diego Lorenzo is also a Vistage Managing Director**, chairing peer
+groups of mid market CEOs since 2022. That makes him a channel worth
+more than his own $6M account. It is **not** in the invitation, because
+leading with Vistage reads as wanting access to his members. Raise it
+only if he raises it.
+
+## Where the data is not to be trusted
+
+- **Fresco Produce**, Seamless says $2.5M. Four thousand acres of limes
+  and coconuts is not a $2.5M business.
+- **Ocean Mist**, ZoomInfo says 1,260 people and $100M, Apollo says 220
+  and $15M. Unknown; let him say.
+- **Legend Produce**, Apollo says $3.5M for the largest cantaloupe
+  shipper in the United States. Plainly wrong.
+- **Leatherman**, Apollo $58M against ZoomInfo $136M.
+
+Private food and consumer companies are systematically understated in
+all four databases. Size them from what they do, not from the revenue
+field.
