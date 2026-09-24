@@ -2702,5 +2702,26 @@
     "listId": 967010,
     "priorContactCheck": "Screened by person and company against pipeline.json and inbox-register.json. Clean.",
     "nextStep": "On acceptance, the Foundation is the conversation, not Foxen. Ask what the members complain about on input costs. Do not ask for introductions on the first exchange."
+  },
+  {
+    "name": "Becky Ross",
+    "company": "Lasseter Family Winery",
+    "title": "General Manager & Chief Financial Officer",
+    "location": "Glen Ellen, California",
+    "profileUrl": null,
+    "email": "becky@lfwinery.com",
+    "channel": "email",
+    "play": "webinar-innovint-cost-of-a-case",
+    "status": "email-sent",
+    "firstTouch": "2026-09-24",
+    "lastActivity": "2026-09-24",
+    "loggedOn": "2026-09-24",
+    "signal": "Co attendee on the InnoVint webinar The Real Cost of a Case, 2026-09-24. Marcel sent from his own Monex address.",
+    "note": "Lasseter Family Winery, 1 Vintage Lane, Glen Ellen, Sonoma Valley. Founded 2003, 17 to 30 people, $1M to $5M revenue. Owned by John and Nancy Lasseter, which is why a twenty person winery carries a dedicated GM and CFO seat at all and why the payables are probably larger than the headcount suggests. Bordeaux and Rhone varieties plus heritage Zinfandel, organically and biodynamically farmed. Bordeaux and Rhone means French oak, and French oak is priced in euros.",
+    "whyEmailNotLinkedIn": "Apollo has her at low confidence with the title scraped as the literal string 'Title General Manager & Chief Financial Officer'. Seamless returns 16 at Lasseter, ZoomInfo 9, Lusha 9, and none has a Rebecca Ross. Marcel checked the company People list himself and found Melina Acuros, Accounting Manager, instead. She is most likely not on LinkedIn, or on it without her employer attached, which is ordinary for a GM and CFO at a small family winery. Email costs nothing from the invitation quota and reaches her where she evidently works.",
+    "emailSent": "Subject: Today's cost of a case webinar. Becky, We were both on the InnoVint webinar this morning on the real cost of a case. I work the currency side of that question at Monex USA, for companies whose costs are set in one currency and whose sales are in another. If Lasseter buys its French oak direct, the cost per case keeps moving after you have priced it. The Bordeaux and Rhone program is what made me think of it. And if you buy in dollars instead, someone in the chain is carrying that risk for you, which is worth knowing the price of. Either way, happy to compare notes on how wineries your size handle it. Good to find someone else who gives up an hour to cost per case.",
+    "companyLock": "One seat per company. Melina Acuros, Accounting Manager, https://www.linkedin.com/in/melina-acuros-66366a140, is now off limits while Becky is live. Melina was considered and declined: not on the webinar, 84 connections and 3rd degree so a dormant account, and she executes payments rather than setting policy. She is the fallback only if Becky goes quiet for good.",
+    "priorContactCheck": "Screened by person and company against pipeline.json and inbox-register.json. Clean.",
+    "nextStep": "If nothing by about 2026-10-02, one short follow up. Do not repeat the question. The unused half of the first email is the follow up: the dollar branch, that a US importer quoting in dollars has the FX margin inside the price. That is new information, not a nudge."
   }
 ]

@@ -1,5 +1,10 @@
 # Becky Ross, Lasseter Family Winery
 
+**Sent 2026-09-24** by Marcel from his own Monex address. Closed with a
+bare name, no thanks. Logged in pipeline.json. Follow up around
+2026-10-02 if quiet, using the dollar branch rather than repeating the
+question.
+
 To: becky@lfwinery.com (Apollo verified)
 Seat: General Manager & Chief Financial Officer
 Hook: co attendee, InnoVint webinar The Real Cost of a Case, 2026-09-24
