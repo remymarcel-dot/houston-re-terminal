@@ -2573,5 +2573,43 @@
   "listId": 966071,
   "priorContactCheck": "Company level collision check run BEFORE drafting, against all 268 inbox threads and against pipeline.json by person and by company.",
   "nextStep": "Two follow ups maximum on silence, then dormant. Every opener in this batch asks a yes or no question about foreign payments; if the answer is no, close warmly and mark dormant rather than arguing the premise."
+ },
+ {
+  "name": "Louise Lalor",
+  "company": "Hillside Winery & Bistro",
+  "title": "CPA",
+  "location": "Penticton, British Columbia, Canada",
+  "profileUrl": "http://www.linkedin.com/in/louise-lalor-982467b6",
+  "note": "Better seat than the attendee list suggested. She is a CPA at Hillside and was previously CFO at Tinhorn Creek Vineyards and Controller at Blaze King Industries, so she is the finance person, not hospitality. Hillside is 20 people, Naramata Bench, founded 1984. Canadian entity, which is in scope: Monex USA onboards Canadian companies. Thesis is a CAD entity paying USD for tanks, barrels and glass.",
+  "invitationNote": "Louise, we were both on the InnoVint cost of a case webinar today. For a BC winery the line that moves without warning is usually the one priced in US dollars: tanks, barrels, glass. I work that side of it at Monex USA. Worth connecting.",
+  "play": "webinar-innovint-cost-of-a-case",
+  "status": "invitation-sent",
+  "firstTouch": "2026-09-24",
+  "lastActivity": "2026-09-24",
+  "loggedOn": "2026-09-24",
+  "signal": "Co attendee on the InnoVint webinar The Real Cost of a Case, 2026-09-24. Shared context is the whole hook.",
+  "campaignId": 620518,
+  "listId": 966886,
+  "priorContactCheck": "Screened against all 268 inbox threads and pipeline.json by person and company before drafting. Clean.",
+  "nextStep": "On acceptance, open on where the non dollar cost line actually sits. Do not pitch capability. One question, then stop."
+ },
+ {
+  "name": "Karen Saul",
+  "company": "Andante Vineyard",
+  "title": "Co-Founder and Manager",
+  "location": "Salem, Oregon",
+  "profileUrl": "http://www.linkedin.com/in/karen-saul-569927106",
+  "note": "Co founder since 2010 and an attorney at Farleigh Wada Witt from 1983 to 2011 before that. Andante is 3 people in Dallas, Oregon, Willamette Valley. Small ticket, and the French oak euro exposure is real but modest. Sent on the strength of the webinar context rather than size.",
+  "invitationNote": "Karen, we were both on the InnoVint cost of a case webinar today. French oak is one of the few lines that moves the cost per case without anyone making a decision, because it is priced in euros. I work that side at Monex USA. Worth connecting.",
+  "play": "webinar-innovint-cost-of-a-case",
+  "status": "invitation-sent",
+  "firstTouch": "2026-09-24",
+  "lastActivity": "2026-09-24",
+  "loggedOn": "2026-09-24",
+  "signal": "Co attendee on the InnoVint webinar The Real Cost of a Case, 2026-09-24. Shared context is the whole hook.",
+  "campaignId": 620518,
+  "listId": 966886,
+  "priorContactCheck": "Screened against all 268 inbox threads and pipeline.json by person and company before drafting. Clean.",
+  "nextStep": "On acceptance, open on where the non dollar cost line actually sits. Do not pitch capability. One question, then stop."
  }
 ]
