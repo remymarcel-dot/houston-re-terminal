@@ -369,3 +369,47 @@ All four agreed that Tammy Lewis is not at Untamed Wine Estates. When
 four sources agree, the brief is wrong, not the databases: either she
 self described the company on the webinar registration, or she works
 somewhere else. Ask Marcel rather than guessing a URL.
+
+## The four source sweep is a checklist step, not a principle
+
+Written 2026-09-24 because the principle was written earlier the same day
+and then not followed. Marcel had to ask twice. A principle that needs
+remembering is not working; this is the mechanical version.
+
+**Before telling Marcel a person cannot be found, all four must have been
+tried and the result stated per source:**
+
+1. **Apollo** `apollo_people_bulk_match` with name plus organization_name.
+2. **Seamless** `search_contacts` with **`companyName`**, not `fullName`.
+   Name search returns hundreds and buries the answer; company search
+   returns the roster with `liUrl` on every row.
+3. **Lusha** `prospecting_contact_search`. Fuzzy on surnames, which is
+   how Isaac Aframian was found when three others missed the misspelling.
+4. **ZoomInfo** `search_contacts`. Takes `firstName`/`lastName` or
+   `companyName` as plain strings, and `userIntent` is required.
+
+**Then and only then say not found, and say which four were tried.**
+
+### Two failure modes this catches
+
+**A misspelling in the source list.** Afranian for Aframian hid a $44.3M
+importer's VP of Finance from three databases. If several sources return
+nothing on a name someone typed by hand, suspect the spelling and search
+the surname alone before concluding anything.
+
+**A wrong company in the source list.** Shelly Dunlavey was listed as
+Fess Parker Winery. Seamless has her as an accounting assistant at a
+Santa Barbara CPA firm. One source returning nothing tells you nothing;
+a second source returning something different tells you the brief was
+wrong.
+
+### Worked example, the InnoVint attendee list
+
+Three names survived all four sources with no match: Patty Ketchum,
+Keith Crawford, Kristina Williams. That is a real answer. The same three
+after only Apollo and Seamless would have been a guess.
+
+The sweep also produced a name that was never on the list: searching
+Frog's Leap by company rather than hunting Patty Ketchum surfaced
+**Shannon McLaren, their CFO**. Searching the company often beats
+searching the person.
