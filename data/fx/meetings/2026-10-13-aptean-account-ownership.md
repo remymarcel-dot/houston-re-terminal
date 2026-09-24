@@ -181,3 +181,43 @@ sentence describing how long Monex had been "circling this account
 without landing it" now reads as how long the account has been worked
 and by how many people. True either way, and the first version is a barb
 aimed at the man who owns it.
+
+
+## The reply Marcel sent, 2026-09-24
+
+> Jason, I appreciate that. Thank you.
+>
+> Friday works. Pick whatever time suits you once you are back and I will
+> work around it. I am on Central.
+>
+> I am sending the prep note now so you have it before we talk: the
+> company, Clifford, and Madhusudan N, their Treasury Manager in
+> Bengaluru who is joining the call.
+>
+> The Kantox history is the part I most want to hear. I had read that CRM
+> task as Aptean having taken a meeting with Kantox, not as you having
+> carried them yourself. Knowing first hand how they buy changes how we
+> run the call on the 13th.
+>
+> Safe travels.
+>
+> Marcel
+
+**A first draft opened "Jason, that is good of you."** Marcel flagged
+that he did not understand the phrase, which is the right test: he
+should not send a line he cannot say out loud, because Jason may quote
+it back on the call. It also leans British, against the standing
+American English rule. Replaced with "I appreciate that." Same edit for
+"fit around it" to "work around it" and "changes the shape of the call"
+to "changes how we run the call".
+
+**Note the "we" in how we run the call.** It assumes the collaboration
+Jason just offered without negotiating anything, and it keeps Marcel in
+the room by default rather than by permission.
+
+### Rule for drafting in Marcel's voice
+
+Plain American English, and nothing he would not say out loud. Idioms
+that read well but do not survive being spoken back to him are a
+liability, not polish. When in doubt, use the shorter and more literal
+phrase.
