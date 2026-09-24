@@ -2250,7 +2250,7 @@
   "title": "Director of Finance",
   "profileUrl": "http://www.linkedin.com/in/malcolm-pais-a2605415",
   "play": "play-0-accepted-never-messaged",
-  "status": "message-sent",
+  "status": "held-do-not-send",
   "firstTouch": "2026-09-23",
   "lastActivity": "2026-09-23",
   "signal": "Accepted Marcel's connection since March 2026 and was never messaged. First degree, so no invitation quota and no acceptance wait.",
@@ -2259,7 +2259,9 @@
   "campaignId": 618515,
   "listId": 963843,
   "loggedOn": "2026-09-23",
-  "nextStep": "Two follow ups maximum on silence, then dormant. The question is the whole message; do not add capability if he or she replies short."
+  "nextStep": "Two follow ups maximum on silence, then dormant. The question is the whole message; do not add capability if he or she replies short.",
+  "heldReason": "Stopped in campaign 618515 on 2026-09-24 before the message node fired. F&S Fresh Foods already has a live thread with Jenna Bussard, Corporate Controller, in the same Vineland NJ office: three messages on 2026-05-27, 2026-09-16 and 2026-09-21, all unanswered. A fourth approach to the company, aimed at her colleague, three days after the third went unanswered, reads as a machine working a list. Nothing was sent to him.",
+  "revisit": "Hold until roughly November. If Jenna stays silent, Malcolm is a legitimate second seat, but the opener must not claim Marcel never followed up, because the company has heard from him three times. Better: acknowledge that he may have seen the earlier notes to Jenna."
  },
  {
   "name": "Tiffanie Freeman",
@@ -2468,5 +2470,20 @@
   "priorContactCheck": "Screened against pipeline.json and the HeyReach inbox before drafting. No prior contact.",
   "nextStep": "On acceptance, open on the Canada carrier leg. If he says settlement moved to WWEX, ask who there owns it and treat him as the introduction rather than the buyer.",
   "startedAt": "2026-09-23T20:44:01Z, campaign IN_PROGRESS, 1 user, 0 failed"
+ },
+ {
+  "name": "Jenna Bussard",
+  "company": "F&S Fresh Foods",
+  "title": "Corporate Controller",
+  "location": "Vineland, New Jersey",
+  "profileUrl": "https://www.linkedin.com/in/jenna-bussard-cpa-mba-1395a44",
+  "play": "inbox",
+  "status": "dormant-three-touches",
+  "firstTouch": "2026-05-27",
+  "lastTouch": "2026-09-21",
+  "loggedOn": "2026-09-24",
+  "note": "CPA and MBA, Corporate Controller at a 330 person, $112.7M fresh cut produce processor. Three messages, no reply: 2026-05-27 on peso payments to Mexican growers, 2026-09-16 the non USD settlement question, 2026-09-21 the concrete offer to price two or three recent payments side by side. She was not in pipeline.json before today, which is why the company collision was nearly missed.",
+  "nextStep": "No fourth touch. She has had the strongest offer already. Leave it. If F&S ever replies it will be to that comparison offer.",
+  "companyRule": "F&S Fresh Foods is worked through Jenna. Do not approach Malcolm Pais or any other seat there without checking here first."
  }
 ]

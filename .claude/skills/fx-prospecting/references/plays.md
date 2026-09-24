@@ -430,3 +430,55 @@ and then reached `IN_PROGRESS` with all thirteen. Do not rebuild on the
 first slow poll. The genuine wedge, 618477, was distinguishable: after
 five minutes it still had `startedAt: null` and held only the two leads
 added to its list after creation, never the full set.
+
+## Screen by COMPANY against the inbox, not just by person against the pipeline
+
+Learned 2026-09-24, one day after the weaker version of this rule was
+written, and the weaker version did not catch it.
+
+Yesterday's rule said: screen names against `pipeline.json` before
+drafting. That rule caught Katie Dubon, because she was the same person
+already in the pipeline. It could not possibly have caught this:
+
+**F&S Fresh Foods.** Malcolm Pais, Director of Finance, was drafted into
+Play 0 batch 2. The company already had a live thread with **Jenna
+Bussard, Corporate Controller, in the same Vineland NJ office**: three
+messages on 2026-05-27, 2026-09-16 and 2026-09-21, all unanswered, the
+last one three days before Malcolm's was due to fire. A fourth approach
+to the company, aimed at the colleague sitting next to her, three days
+after the third went unanswered, reads as a machine working a list.
+
+Two reasons the name level check was blind to it:
+
+1. **Malcolm is a different person.** A name comparison finds nothing.
+2. **Jenna was not in `pipeline.json` at all.** She existed only as a
+   HeyReach conversation. The pipeline holds what the plays sent; the
+   inbox holds everything, including threads that predate the pipeline.
+
+### The check that actually works
+
+Before any batch goes out, normalize company names and cross reference
+**every target company against every conversation in the inbox**, not
+just the target people against the pipeline. Fetch all conversations in
+pages of 100, which saves to a tool results file rather than context, and
+diff company names in a script.
+
+Run it on the whole batch at once. It took one pass over 268
+conversations and 24 targets to find exactly one collision, and that one
+collision was a message about to go to a company that had already gone
+quiet three times.
+
+### Normalizing matters
+
+Strip `LLC`, `Inc`, `Ltd`, `Corp`, `Company`, `Group`, `USA` and
+punctuation before comparing. "F&S Fresh Foods" in one record and
+"F&S Fresh Foods, LLC" in another must collide, or the check silently
+passes.
+
+### What to do with a collision
+
+Stop the new one, not the old one. The existing thread has history and a
+standing offer; the new approach has neither. Then decide whether the
+company is genuinely worth a second seat, and if it is, wait long enough
+that it does not read as pressure, and never open with a line claiming
+Marcel has not been in touch, because the company knows otherwise.
