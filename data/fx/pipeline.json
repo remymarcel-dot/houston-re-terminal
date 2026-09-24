@@ -700,12 +700,15 @@
   "play": "inbox-reconnect",
   "campaignId": null,
   "listId": null,
-  "status": "reconnected",
+  "status": "warm-signal-no-reply",
   "outcome": null,
   "firstTouch": "2026-07/08",
   "lastTouch": "2026-09-16",
   "loggedOn": "2026-09-16",
-  "note": "Second touch sent 2026-09-16 after one unanswered Jul/Aug message. Angle: Mexican carrier settlement plus longer shipper payment gap. Had an explicit out in Aug. Never repeat the original question — that was the whole design."
+  "note": "Second touch sent 2026-09-16 after one unanswered Jul/Aug message. Angle: Mexican carrier settlement plus longer shipper payment gap. Had an explicit out in Aug. Never repeat the original question — that was the whole design.",
+  "lastActivity": "2026-09-24",
+  "engagement2026_09_24": "First two way interaction after two unanswered messages. Marcel commented on her Houston sales win post: \"Good to see another Houston shop ringing the bell. Congratulations to the team.\" She reacted with Celebrate within minutes. Note which version worked: the shared city line, not the wittier persistence line. Houston to Houston is the hook with her.",
+  "nextStep": "DO NOT message on the back of this. A DM hours after she reacts confirms the comment was instrumental and re files Marcel as someone who flattered her to get attention, which is worse than where he started. Wait 10 to 14 days, so roughly 2026-10-06 to 2026-10-10. Then a third touch that is different in kind from the first two. Those went at her cost line, Mexican carrier settlement and the shipper payment gap. She posts about winning business, her team and her headquarters: she is in growth mode, not cost cutting mode. Frame the third touch around what happens to the cash cycle as she adds shippers, not what she is overpaying today."
  },
  {
   "name": "Agostinho Nobre",
