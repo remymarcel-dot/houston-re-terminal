@@ -1,7 +1,8 @@
 # Play 0 batch 3, the manufacturing CFOs
 
 Built 2026-09-24. Campaign **619976**, list **966071**, four leads, zero
-failed. Held in DRAFT for Marcel's read.
+failed. Started 2026-09-24 14:40 UTC on Marcel's go: 4 in progress, 0 failed,
+0 excluded.
 
 **Four of the nine survive.** This tier was assembled on seniority, a CFO
 title at a US mid market manufacturer, rather than on foreign currency
