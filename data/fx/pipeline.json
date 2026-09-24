@@ -2621,5 +2621,25 @@
   "listId": 966886,
   "priorContactCheck": "Screened against all 268 inbox threads and pipeline.json by person and company before drafting. Clean.",
   "nextStep": "On acceptance, open on where the non dollar cost line actually sits. Do not pitch capability. One question, then stop."
+ },
+ {
+  "name": "Isaac Aframian",
+  "company": "Royal Wine Corp.",
+  "title": "Vice President of Finance",
+  "location": "Briarcliff Manor, New York",
+  "profileUrl": "https://www.linkedin.com/in/isaacaframian",
+  "play": "webinar-innovint-cost-of-a-case",
+  "status": "invitation-sent",
+  "firstTouch": "2026-09-24",
+  "lastActivity": "2026-09-24",
+  "loggedOn": "2026-09-24",
+  "signal": "Co attendee on the InnoVint webinar The Real Cost of a Case, 2026-09-24.",
+  "note": "The strongest lead of the whole webinar batch by an order of magnitude. Royal Wine Corp, Bayonne NJ, founded 1948, family owned by the Herzog family across eight generations. 500 employees, $44.3M, six people in finance and three in accounting. The company describes itself as importing from over eighteen countries and distributing to thirty one, covering Israeli wine, French and Italian kosher wine and Scotch and Irish spirits, plus two US wineries. So shekel, euro and pound on the payable side and receivables across thirty one countries on the other. Exposure on both sides of the book, with a VP of Finance sitting on top of it. Compare with the rest of the batch: Andante is three people and Hillside is twenty.",
+  "nameNote": "The surname is Aframian, not Afranian as the attendee list had it, and the databases carry his first name as Itzhac. His LinkedIn vanity URL is isaacaframian, so Isaac is what he goes by. Seamless, ZoomInfo and Apollo all returned nothing on the misspelling; Lusha found him on a fuzzy surname match. One transposed letter hid the best lead in the batch from three databases.",
+  "invitationNote": "Isaac, we were both on the InnoVint cost of a case webinar today. Importing from eighteen countries means the cost per case keeps moving with the shekel, the euro and the pound long after the case is priced. That is the part I work on at Monex USA. Worth connecting.",
+  "campaignId": 620571,
+  "listId": 966939,
+  "priorContactCheck": "Screened against all 268 inbox threads and pipeline.json by person and company. Clean.",
+  "nextStep": "On acceptance, ask which side hurts more, the payable in shekels and euros or the receivable across thirty one countries. One question, then stop. Do not pitch capability: a $44.3M importer with six in finance has heard every capability list there is."
  }
 ]

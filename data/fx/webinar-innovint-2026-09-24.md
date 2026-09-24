@@ -32,9 +32,27 @@ Apollo has no record for these three, so they were not guessed at:
 Their notes are written and ready in the session; one URL each and they
 go.
 
-## Also open
+## Isaac Aframian, the best of the batch
 
-**Isaac Afranian.** Still needs his company before a note can be written.
+**Royal Wine Corp, VP of Finance.** Sent 2026-09-24, campaign 620571,
+list 966939. https://www.linkedin.com/in/isaacaframian
+
+Bayonne NJ, founded 1948, Herzog family, eight generations. 500 people,
+$44.3M, six in finance. **Imports from over eighteen countries and
+distributes to thirty one**: Israeli wine, French and Italian kosher
+wine, Scotch and Irish spirits, plus two US wineries. Shekel, euro and
+pound on the payables, receivables across thirty one countries on the
+other side, and a VP of Finance over both.
+
+**A single transposed letter hid him from three databases.** The
+attendee list read Afranian; the name is Aframian. Seamless, ZoomInfo
+and Apollo all returned zero. Lusha found him on a fuzzy surname match,
+filed under Itzhac Aframian, with a LinkedIn vanity URL of
+isaacaframian.
+
+Worth remembering: when four databases return nothing on a name from a
+list someone typed, suspect the spelling before concluding the person
+does not exist. Try a surname only fuzzy search.
 
 ## What the drafts got fixed for
 
