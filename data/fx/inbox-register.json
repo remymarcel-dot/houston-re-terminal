@@ -73,7 +73,8 @@
  },
  "doNotContact": [
   "J Mears Consulting, Jesus Mears CPA: Venezuela entry advisory, forbidden market, permanent",
-  "Mount Franklin Foods, all seats including Enrique Grajeda, President and CEO. Marcel, 2026-09-23: \"do not engage with anyone of mount franklin i already talking to them\". Company level, not person level. Blacklisted in HeyReach as company ids 14524 and 14525 so no future campaign can pick anyone up there."
+  "Mount Franklin Foods, all seats including Enrique Grajeda, President and CEO. Marcel, 2026-09-23: \"do not engage with anyone of mount franklin i already talking to them\". Company level, not person level. Blacklisted in HeyReach as company ids 14524 and 14525 so no future campaign can pick anyone up there.",
+  "F&S Fresh Foods, company level. Marcel, 2026-09-24: \"agreed, leave F&S alone\". Jenna Bussard, Corporate Controller, has had three unanswered messages ending 2026-09-21 including the strongest offer available. Malcolm Pais was stopped before sending. Blacklisted in HeyReach as ids 15604, 15605, 15606. Her thread stays open; the blacklist gates campaigns, not a reply if one comes."
  ],
  "companyCollisions": [
   {
@@ -82,7 +83,8 @@
    "inboxThread": "Jenna Bussard, Corporate Controller, 3 messages, last 2026-09-21, unanswered",
    "nearlySent": "Malcolm Pais, Director of Finance, same Vineland NJ office, Play 0 batch 2",
    "outcome": "Stopped in campaign 618515 before the message node fired. Nothing sent. Marcel's own rule is one seat per company.",
-   "howItWasMissed": "The pre draft screen checked person names against pipeline.json. Jenna was not in pipeline.json at all, she only existed as an inbox thread, and Malcolm is a different person, so a name level check against one file could never have caught it."
+   "howItWasMissed": "The pre draft screen checked person names against pipeline.json. Jenna was not in pipeline.json at all, she only existed as an inbox thread, and Malcolm is a different person, so a name level check against one file could never have caught it.",
+   "resolution": "Marcel, 2026-09-24: leave F&S alone. Company level do not contact, blacklisted. No November revisit."
   }
  ]
 }

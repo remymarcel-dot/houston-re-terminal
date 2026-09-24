@@ -38,7 +38,7 @@ companies, all first degree, none messaged.
 | Monte Vista Farming | Elena Tavares | CFO |
 | Ahern Agribusiness | Ohad Gold | CFO |
 | Vann Family Orchards | Fernando Narvaez | CFO |
-| F&S Fresh Foods | Malcolm Pais | Director of Finance |
+| ~~F&S Fresh Foods~~ | ~~Malcolm Pais~~ | **DO NOT CONTACT, company level, 2026-09-24** |
 | Bravo Foods USA | Katie Dubon | CFO |
 | Cobblestone Fruit | Tiffanie Freeman | Controller |
 | Square One Farms | Luz A Rodriguez, MAcc | Controller |
