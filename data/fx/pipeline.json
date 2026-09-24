@@ -700,7 +700,7 @@
   "play": "inbox-reconnect",
   "campaignId": null,
   "listId": null,
-  "status": "warm-signal-no-reply",
+  "status": "third-touch-scheduled",
   "outcome": null,
   "firstTouch": "2026-07/08",
   "lastTouch": "2026-09-16",
@@ -722,7 +722,17 @@
     "No phrase like 'no agenda', which announces an agenda."
    ],
    "ifSilent": "Mark dormant after this one. Three touches plus a public comment is the honest limit. She is a Houston owner, so the remaining route is a room, not an inbox."
-  }
+  },
+  "profileUrl": "https://www.linkedin.com/in/navreetkaurdhillon/",
+  "scheduled": {
+   "campaignId": 620565,
+   "listId": 966927,
+   "status": "SCHEDULED, startDate 2026-09-28, Mon to Fri 09:00 to 17:00 America/Chicago",
+   "sequence": "CHECK_IS_CONNECTION then MESSAGE after 3 hours, both branches END. She is first degree, so this costs nothing against the invitation ceiling.",
+   "willSend": "Monday 2026-09-28, shortly after 12:00 Central once the 3 hour node delay clears the 09:00 window open."
+  },
+  "ifSheWritesFirst": "If she messages Marcel before Monday, STOP campaign 620565 with stop_lead_in_campaign before it fires and reply to her directly. Her opening the thread is worth more than this message, and sending a prepared pitch on top of her own note would waste it.",
+  "ifSilentAfterThis": "Mark dormant. Three messages plus a public comment is the honest limit. She is a Houston owner, so the remaining route is a room, not an inbox."
  },
  {
   "name": "Agostinho Nobre",
