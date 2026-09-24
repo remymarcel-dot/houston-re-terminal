@@ -323,10 +323,14 @@ Apollo query. Two of the three were in Seamless immediately.
 - **Clay** (`search-contacts-by-name`). Takes a name plus a company
   domain. Not yet tried in anger.
 
-**ZoomInfo is connected but unauthenticated.** Its tools cannot be called
-until someone completes the OAuth flow, which cannot be done from a
-non interactive session. Worth Marcel authorising it, since ZoomInfo is
-usually strongest exactly where the others are weak.
+- **ZoomInfo** (`search_contacts`, `enrich_contacts`, `search_companies`).
+  **It works.** A session notice claimed it needed authentication and
+  that claim was wrong; Marcel checked his settings, it read Connected,
+  and a live call returned a clean empty result rather than an auth
+  error. **Test a connector with a real call before reporting it
+  unavailable.** A system notice about auth is not evidence.
+  Note its search takes `fullName` and `companyName` as plain strings,
+  not arrays, and `userIntent` is required.
 
 **The rule: never report a person as unfindable until at least two
 sources have been tried.** "Not in Apollo" and "does not exist" are
@@ -343,3 +347,25 @@ been a wrong premise sent to a stranger.
 
 A single source that returns nothing tells you nothing. A second source
 that returns something different tells you the brief was wrong.
+
+
+### Coverage is not uniform, so the order matters
+
+On Untamed Wine Estates, a 2026-09-24 test:
+
+| Source | People returned |
+|---|---|
+| Seamless | 5, including the Chairman and a VP |
+| ZoomInfo | 3 |
+| Apollo | 5, but no LinkedIn URLs on most |
+| Lusha | 0 |
+
+**Seamless was deepest on this small private company** and is the one to
+reach for first on small US and Canadian businesses. ZoomInfo's strength
+is larger companies, intent signals and org structure, which is a
+different job.
+
+All four agreed that Tammy Lewis is not at Untamed Wine Estates. When
+four sources agree, the brief is wrong, not the databases: either she
+self described the company on the webinar registration, or she works
+somewhere else. Ask Marcel rather than guessing a URL.
