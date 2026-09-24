@@ -60,12 +60,12 @@ World each have a second contact in the list. Do not write to both.
 | MGS Mfg. Group | Paul Manley | President and CEO |
 | Plastic Design and Manufacturing | Randy Scheid | CFO |
 | AFCO Industries | Dale Sexton | CFO |
-| The Pavement Group | Mark Kuczinski | CFO |
+| ~~The Pavement Group~~ | ~~Mark Kuczinski~~ | cut, no FX thesis, domestic pavement contracting |
 | Clark Bros Inc | Kate Clark | CFO |
 | A-Line Flooring / Case Floors | Jody Williams | CFO |
 | PURIS | Matt Wharton | CFO |
-| Miller Insulation | Corey Hager | CFO |
-| AUSY USA | Alonso Duarte | CEO and CFO |
+| ~~Miller Insulation~~ | ~~Corey Hager~~ | cut, no FX thesis, domestic industrial insulation |
+| ~~AUSY USA~~ | ~~Alonso Duarte~~ | **ALREADY A CLIENT, never campaign, 2026-09-24** |
 | Barcel USA | Guillermo G Lopez Larios | VP of Finance |
 
 ## Tier A, cross border logistics and customs
