@@ -42,6 +42,24 @@ which corridors still get poor execution?**
 Monex's CRM carries a task, created 2026-07-20 and still overdue, reading
 **"Contact Aptean (had meeting w/ Kantox) / John Meade"**.
 
+**Revised 2026-09-24, and this changes the reading.** Jason Roof replied
+to Marcel's courtesy email with: *"They were a prospect of mine while I
+was at Kantox last year, so I'm familiar with them and have experience
+with this kind of situation."*
+
+So the task is not a note that Aptean happened to meet Kantox. **Jason
+was at Kantox and carried Aptean himself.** He wrote the task from his
+own firsthand history, and **John Meade is most likely the Aptean side
+contact from that pursuit**, not a Monex name.
+
+That makes Jason the best source on this account that exists anywhere.
+He may know whether Aptean actually bought Kantox, who decided, what the
+objection was, and what their setup looked like from the inside. Every
+branch below, on it or not on it, is a question Jason can probably
+answer outright before 13 October.
+
+**Get this from him on the Friday call before doing anything else.**
+
 **Kantox is Currency Management Automation, and it has been 100% owned by
 BNP Paribas since July 2023.** It automates the end to end corporate FX
 workflow: capturing exposure data, automating hedging, and running
@@ -100,9 +118,8 @@ three corridors independently, compare.
 - **Brad DeBold**, SVP Corporate Development, 2019, stale
 - **Susan Ricker**, treasury, cold called June 2024, no answer
 
-None of these should be raised on the call. They are context for
-understanding how long Monex has been circling this account without
-landing it.
+None of these should be raised on the call. They are context for how
+long this account has been worked, and by how many people.
 
 ## The trap, and the way through it
 

@@ -119,3 +119,65 @@ If still quiet, go to a manager with a **question, not a complaint**:
 *"Jason owns Aptean, I have a meeting booked, how would you like us to
 handle it?"* That is a process question and it is very hard to answer
 badly.
+
+
+---
+
+# Jason's reply, 2026-09-24
+
+> Hi Marcel.
+>
+> Thank you for this. I'll gladly collaborate with you on this. They were
+> a prospect of mine while I was at Kantox last year, so I'm familiar
+> with them and have experience with this kind of situation. Travelling
+> internationally today. May we talk Friday?
+>
+> Jason
+
+## What it settles
+
+**The courtesy first play worked.** No flag planted, no conflict, no
+manager needed. "I'll gladly collaborate" is an acceptance of a shared
+account, offered without being asked for a split. The contingency plan
+below, two business days then a nudge then a process question to a
+manager, is now dead and can be ignored.
+
+## What it opens, which is larger
+
+**Jason was at Kantox and Aptean was his prospect there.** The CRM task
+"Contact Aptean (had meeting w/ Kantox) / John Meade" was written from
+his own history, not as an observation about a competitor. John Meade is
+most likely the Aptean side contact from that pursuit.
+
+This makes the Friday call worth far more than a scheduling courtesy.
+The prep note's biggest open risk was walking into 13 October without
+knowing whether Aptean is already inside BNP via Kantox. **Jason can
+probably just tell him.**
+
+What to get from Jason on Friday, in this order:
+
+1. **Did Aptean buy Kantox, and if so when and how much of it.** The
+   single fact that decides which half of the prepared call happens.
+2. **Who actually decided.** Clifford, Madhu, or someone above them.
+3. **What the objection was**, if they did not buy.
+4. **Who John Meade is** and whether he is still there.
+5. **What their setup looked like from the inside**, which is worth more
+   than anything reconstructed from LinkedIn.
+
+## Still held for the call, not for email
+
+**Offering Jason the lead on the 13th.** Unchanged. Said out loud on
+Friday, not written down. More likely to be declined or halved than
+accepted, and worth the most as a spoken offer.
+
+**The account split.** Jason did not raise it and neither should the
+reply. "How do you want to handle it" was already asked in the first
+email; let him answer it on Friday in his own words.
+
+## The prep note went with the reply
+
+Sent on Jason's reply, as planned. One line was softened first: a
+sentence describing how long Monex had been "circling this account
+without landing it" now reads as how long the account has been worked
+and by how many people. True either way, and the first version is a barb
+aimed at the man who owns it.
