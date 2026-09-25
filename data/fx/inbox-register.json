@@ -11,8 +11,8 @@
       "state": "closed, courtesy"
     },
     "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==": {
-      "who": "Aptean, Clifford D’Souza, Treasury Director",
-      "state": "MEETING CONFIRMED BOTH SIDES. Tuesday 2026-10-13, 10:00 EST. Calendar invite sent by Marcel from his corporate email and accepted by Clifford on 2026-09-23. Clifford wrote back the same day: “I have forwarded to Madhu my colleague in Bangalore.” He forwarded the invite rather than passing the address, so nothing is owed on the logistics.",
+      "who": "Aptean, Clifford D\u2019Souza, Treasury Director",
+      "state": "MEETING CONFIRMED BOTH SIDES. Tuesday 2026-10-13, 10:00 EST. Calendar invite sent by Marcel from his corporate email and accepted by Clifford on 2026-09-23. Clifford wrote back the same day: \u201cI have forwarded to Madhu my colleague in Bangalore.\u201d He forwarded the invite rather than passing the address, so nothing is owed on the logistics.",
       "owed": "One short warm acknowledgment, then nothing until the call. Madhu joins from Bengaluru at 19:30 IST, so name that once now rather than on the day.",
       "howItCame": "He accepted the connection Sep 20 with a courtesy note. Marcel replied Sep 21 naming the specific problem, that growth by acquisition leaves treasury holding a currency book nobody designed, and citing his own time running finance across the US, Brazil, Mexico and Central America. Clifford asked to talk and gave his email the same day.",
       "whatWorked": "The opener did not pitch. It named a condition specific to how that company grew, then established standing by having sat on the same side of it, then asked one question. Three lines of substance and no capabilities.",
@@ -43,8 +43,8 @@
     },
     "bramwick-2026-09-23": {
       "who": "Bramwick Advisory, Katherine Joy Bernardino, Associate",
-      "state": "Not a prospect and not Marcel’s to field. Cold approach on 2026-09-23 saying a PE fund is looking at acquisitions in the industry and that Monex USA fits the criteria, asking for time this week. This is an M&A approach to Marcel’s own employer, addressed to him because he is a findable Monex name on LinkedIn, not because he owns anything here.",
-      "owed": "Nothing. Corporate development at Monex is not Marcel’s seat, and answering even to decline puts him in a conversation he has no mandate for. If he wants to be courteous he can forward it internally, but that is his call, not an outreach action.",
+      "state": "Not a prospect and not Marcel\u2019s to field. Cold approach on 2026-09-23 saying a PE fund is looking at acquisitions in the industry and that Monex USA fits the criteria, asking for time this week. This is an M&A approach to Marcel\u2019s own employer, addressed to him because he is a findable Monex name on LinkedIn, not because he owns anything here.",
+      "owed": "Nothing. Corporate development at Monex is not Marcel\u2019s seat, and answering even to decline puts him in a conversation he has no mandate for. If he wants to be courteous he can forward it internally, but that is his call, not an outreach action.",
       "note": "Different species from the usual vendor noise, so it sits here rather than in vendorNoReplyOwed: worth Marcel seeing once, worth no reply."
     }
   },
@@ -101,6 +101,19 @@
       "actual": "NO DUPLICATE WAS DELIVERED. The conversation threads were checked one by one: Fernando Narvaez has 1 message, Alan Arredondo has 1, Elena Tavares has 3 but only one dated 2026-09-24. HeyReach's two campaign records point at the same underlying send and the platform deduplicated at the conversation level.",
       "actionTaken": "Paused 618477 and manually stopped Ohad Gold in 618489. Both were correct regardless: every one of 618477's ten people is covered by 618489, Jennifer Ayers had already been messaged by 618489 at 01:26, and Ohad Gold had already been messaged by 618477 at 19:55. Nothing useful was lost and nothing was at risk of going twice.",
       "lesson": "Two rules out of this. First, PAUSED IS NOT DEAD. A campaign that wedges and gets paused can resume; the repo said 618477 would never run again and it ran. Verify campaign state, do not carry an assumption forward. Second, CAMPAIGN STATS ARE NOT THE TRUTH, THE THREAD IS. Two campaigns can both report MessageSent for one actual message. Before telling Marcel someone was double contacted, open the conversation and count."
+    }
+  ],
+  "meetings": [
+    {
+      "date": "2026-09-25",
+      "who": "Jason Roof",
+      "org": "Monex USA (internal)",
+      "role": "Director Enterprise Sales",
+      "outcome": "positive; scope widened to MXN and BRL",
+      "nextStep": "Jason to send calendar invite for a planning call 'a few days before' an unnamed event; confirm which date he meant; nudge if nothing by 2026-10-02",
+      "owner": "Jason",
+      "notes": "Asked explicitly for directness. Uses Portuguese. Wants an in-person strategy dinner.",
+      "log": "data/fx/meetings/2026-09-25-jason-roof-outcome.md"
     }
   ]
 }

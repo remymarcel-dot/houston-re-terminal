@@ -37,17 +37,49 @@ handed over the part that can be worked without further research.
 
 ## Breakdown of the 199
 
-| sector | count | of which finance seat |
+Ranked by **who can sign**, not by job title. A small importer has no CFO, so the
+owner *is* the finance function and is the better seat, not the fallback. Owner and
+finance titles therefore rank together; operations titles rank below them because a
+GM or VP of ops usually has to go and ask someone.
+
+| seat | count | what it means here |
 |---|---|---|
-| produce / fresh | 47 | 5 |
-| logistics / freight | 41 | 6 |
-| food / protein | 22 | 4 |
-| wine / spirits | 14 | 1 |
-| import / manufacturing | 4 | 1 |
-| other, matched on bio text | 71 | 20 |
+| owner | 119 | owner, founder, president, CEO, managing partner or managing director. Signs the wire himself. |
+| finance | 36 | CFO, controller, treasurer, VP finance. Owns the exposure but may need the owner to approve a change. |
+| operations | 43 | COO, GM, VP ops, VP sales. Feels the problem, rarely decides it. Work these second. |
+| other | 1 | division president at a large grower. |
+
+Twenty-one were flagged and pushed to the bottom of the file rather than deleted:
+14 **too big, has a desk** (Sunkist, Constellation Brands, Chiquita, DSV, Mastronardi,
+Daimler, Volkswagen, Rich Products and similar — they already run treasury in house),
+4 **trade bodies** that buy no foreign currency, and 3 **consulting** firms.
+
+That leaves **143 people in a signing seat at a company worth approaching**, of which
+28 are in produce and fresh.
+
+| sector | count |
+|---|---|
+| produce / fresh | 47 |
+| logistics / freight | 41 |
+| food / protein | 22 |
+| wine / spirits | 14 |
+| import / manufacturing | 4 |
+| other, matched on bio text | 71 |
 
 Ranked produce and fresh first, because every conversion this month came from there.
-Full list: `data/fx/linkedin/first-degree-qualified-2026-09-25.csv`.
+Full list, ranked, with seat and flag columns:
+`data/fx/linkedin/first-degree-qualified-2026-09-25.csv`.
+
+### A note on how the seat was read
+
+The first cut of this ranking sorted finance titles above everything else. That was
+wrong and Marcel caught it: it buried the owner of a twelve-person importer beneath a
+treasury analyst at a company that already has a bank desk. Corrected as above.
+
+One thing the rule cannot do from this data: there is no headcount field, so "small
+enough that the owner decides" is inferred from the title and the company being
+unrecognizable, not measured. The `too big, has a desk` flag is a hand-built list of
+names, so it will miss large private companies nobody has heard of.
 
 ## Collisions caught before the list was handed over
 
