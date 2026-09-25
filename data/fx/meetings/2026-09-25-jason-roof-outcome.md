@@ -141,7 +141,7 @@ travelled heavily.
 
 | item | owner | when |
 |---|---|---|
-| Prep call before Aptean: agenda, objectives, the 2 to 3 sentence overview | Jason said he would find the time; Marcel should propose slots rather than wait | **Oct 8 to 10**, ahead of Oct 13 |
+| Prep call before Aptean: agenda, objectives, the 2 to 3 sentence overview | **Scheduled. Jason sent the invite 2026-09-25 and Marcel has it.** Date is on the Monex work calendar, not visible from here. | ahead of Oct 13 |
 | Answer his two diagnostic questions on Aptean: operational vs risk, and spoken vs email only | Marcel | at the prep call |
 | Draft the 2 to 3 sentence "who we are" | Marcel, jointly with Jason | bring a version to the prep call |
 | Aptean discovery call | Marcel leads, Jason on the call, nobody else | **Oct 13, 10:00 ET** |
