@@ -3011,7 +3011,8 @@
     "urlVerification": "Apollo returned this URL at LOW confidence. Verified independently against Seamless, which returns the same URL and the same person at Green Coffee Company in Chicago. Apollo and Seamless both still carry his title as Chief Revenue Officer while his LinkedIn reads President, North America, so he has been promoted since the databases last refreshed.",
     "seatCaution": "He is a commercial leader, not a treasury one. Ex Intelligentsia VP of Sales and Marketing, joined as CRO in November 2023. He is the door, not the room. The seat Marcel actually wants is their CFO, and Ted is the cheapest way to learn who that is. The invitation says so openly, which is disarming rather than insulting.",
     "invitationNote": "Ted, building a US roasting operation on top of 45 farms in Colombia puts a currency line through the middle of the business. I work that side at Monex USA. Worth connecting, even if the finance conversation belongs with someone else.",
-    "nextStep": "Confirm Monex has no issue with a Colombian agricultural group before investing real time. Colombia is in scope on its own terms; the standing Venezuela stop covers Venezuelan business routed through Colombia or Panama, which this is not."
+    "nextStep": "Confirm Monex has no issue with a Colombian agricultural group before investing real time. Colombia is in scope on its own terms; the standing Venezuela stop covers Venezuelan business routed through Colombia or Panama, which this is not.",
+    "complianceCheck": "CLEARED. Marcel, 2026-09-25: 'no issue with Green Coffee Company'. The Colombian agricultural group question is answered; the invitation runs as built. Colombia is in scope on its own terms and the Venezuela hard stop does not reach it."
   },
   {
     "campaignId": 620992,
@@ -3269,5 +3270,44 @@
     "note": "Founded 2010. LARGEST KING CRAB AND SNOW CRAB IMPORTER IN THE UNITED STATES, plus top private label shrimp programs and a market-leading Argentinian wild caught shrimp line. 7,651 bills of lading between Oct 2012 and Jul 2026, with 54 in the last 30 days and 142 in the last 90. A CFO seat at a heavy, currently active importer. Arguably the strongest lead surfaced from the 143, stronger than anything in batch 5. Her surname is not in the LinkedIn record, which shows lastName as CPA.",
     "priorContactCheck": "checked against pipeline.json and the 143-row qualified pool; URLs read back from the list and compared to the source CSV before launch",
     "nextStep": "message sends from 2026-10-01 09:00 America/Chicago; no follow-up until a reply or 7 days"
+  },
+  {
+    "name": "O. Castellon (first name not on record)",
+    "company": "Two Brothers Produce",
+    "title": "Owner",
+    "location": "Pompano Beach, Florida, United States",
+    "profileUrl": "https://www.linkedin.com/in/two-brothers-produce-966162245",
+    "email": "ocastellon@twobrothersproduce.us",
+    "play": "play-0-first-degree",
+    "campaignId": 622602,
+    "listId": 969994,
+    "status": "in-campaign",
+    "outcome": null,
+    "firstTouch": "2026-10-01",
+    "loggedOn": "2026-09-25",
+    "note": "Reinstated after being cut earlier today. The cut was wrong: the LinkedIn record looked like a company page, but Marcel confirmed 2026-09-25 that it IS the owner's profile, used as a company page. Started in the early 1990s in a small town in Honduras. Imports capsicum and pimenta peppers plus fennel seed, mainly from the Dominican Republic and Costa Rica. 2025: $477.5K import value across 261 shipments; 285 bills of lading between Nov 2021 and Feb 2026. Written in Spanish: Honduran owner, Spanish-language company site, sourcing from DR and Costa Rica.",
+    "languageNote": "Spanish, with full accents. Prior practice was to strip accents from Spanish messages to avoid encoding surprises. Tested here instead: the accented note was read back from HeyReach intact, so accents are safe in customUserFields. The earlier caution applies to profile URLs, not message bodies.",
+    "nameGap": "First name unknown. The email prefix ocastellon gives the surname only, and the LinkedIn record reads 'Two Produce'. The message opens 'Hola,' with no first name, which is unremarkable on a company-branded profile. If Marcel knows the first name it should be added.",
+    "priorContactCheck": "no prior contact; company page profile, no existing thread",
+    "nextStep": "message sends from 2026-10-01. Email route also available at ocastellon@twobrothersproduce.us if LinkedIn stays quiet, since a company-branded profile may be checked rarely."
+  },
+  {
+    "name": "Louise L. (Lalor)",
+    "company": "Hillside Winery & Bistro",
+    "title": "CPA",
+    "location": "Okanagan Falls, British Columbia, Canada",
+    "profileUrl": "https://www.linkedin.com/in/louise-l-982467b6",
+    "play": "play-4-cold-invitation",
+    "campaignId": 622608,
+    "listId": 969998,
+    "status": "invitation-scheduled",
+    "outcome": null,
+    "firstTouch": "2026-10-01",
+    "loggedOn": "2026-09-25",
+    "note": "Correct URL supplied by Marcel 2026-09-25, replacing the one that returned CannotViewProfileDoesnotExist. CPA, member of CPA Canada, 314 connections. BC winery in the Okanagan. FX thesis is the same one used for Lasseter Family Winery: barrels and equipment bought in euros, wine sold in Canadian dollars, and nobody reprices the vintage in between. A CPA will recognize that framing immediately.",
+    "degreeNote": "SHE IS THIRD DEGREE, not first. This is the only reason she is not in a Play 0 batch: a CHECK_IS_CONNECTION sequence would have silently dropped her. Built as a cold VIEW_PROFILE then CONNECTION_REQUEST instead, note at 236 characters against the 300 cap, withdraw after 30 days.",
+    "canadaNote": "Canada is in scope and Monex USA onboards Canadian companies directly per Marcel 2026-09-25, so this is his deal rather than a Monex Canada referral.",
+    "priorContactCheck": "never contacted; the previous failure was a bad URL, not a rejection",
+    "nextStep": "invitation sends from 2026-10-01. If she accepts, the first message works the barrel and euro line; if silent, withdraw at 30 days."
   }
 ]

@@ -191,5 +191,36 @@
   },
   "openQuestions": [
     "Bondi Produce is a Toronto company and the note signs as Monex USA. Monex Canada exists and Andrew Barranca sits there. Canada is in scope per Marcel's rule, but which entity should carry a Canadian client is his call."
+  ],
+  "campaignBuilt4": {
+    "campaignId": 622602,
+    "listId": 969994,
+    "leads": 1,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Two Brothers Produce, O. Castellon. Reinstated after a wrong cut: the profile is the owner's, used as a company page. Spanish, accents intact and verified on read-back."
+  },
+  "campaignBuilt5": {
+    "campaignId": 622608,
+    "listId": 969998,
+    "leads": 1,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Hillside Winery, Louise L. Third degree, so a cold connection request rather than a Play 0 message. Correct URL supplied by Marcel."
+  },
+  "decisionsCleared": [
+    "Green Coffee Company, Ted Skodol: Marcel 2026-09-25, 'no issue with Green Coffee Company'. Colombian agricultural group cleared, invitation runs.",
+    "Two Brothers Produce: the profile is the owner's, used as a company page. Email ocastellon@twobrothersproduce.us supplied.",
+    "Hillside Winery, Louise L: correct URL supplied, and she is third degree so the play changed.",
+    "El Paso confirmed Oct 21-22 and added to the two border operators.",
+    "Canada: Monex USA onboards Canadian companies directly, no referral to Monex Canada."
+  ],
+  "stillOpen": [
+    "Grupo Palco, Carlos Palma: waiting on Luis Merjil by WhatsApp, which Marcel sees first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.",
+    "Wylson Zon Neto: Woodlands coffee Tuesday Sep 29, never confirmed a time or place. Marcel to chase or drop.",
+    "Monte Vista Farming, Elena Tavares: three messages, no reply. Recommended dormant, awaiting Marcel's agreement.",
+    "Play 0 cadence: 122 signing seats left. Recommendation is to pause after the current batches and wait for reply data before batch 7.",
+    "German-American Chamber: Jason Roof asked for German-community companies. Offered to build a target list of German-owned Texas companies with LatAm operations. Awaiting Marcel's go.",
+    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18."
   ]
 }
