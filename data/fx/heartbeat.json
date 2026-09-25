@@ -157,5 +157,29 @@
   "incidents": [
     "Two fabricated profile URLs were written into list 969709 and caught by reading the list back against the source CSV before the campaign left DRAFT. Nothing sent. Second occurrence after Laura Plummer.",
     "The batch 4 carried in session notes was stale: four of its six had already been cut for cause (Bloom Fresh, Lighthouse Transportation, Kingdom Cold, A-Line Flooring)."
-  ]
+  ],
+  "campaignBuilt2": {
+    "campaignId": 622554,
+    "listId": 969943,
+    "leads": 6,
+    "status": "SCHEDULED",
+    "startDate": "2026-09-30",
+    "note": "Play 0 batch 5, export and border. Two notes rewritten after enrichment revealed materially bigger roles: Rami Abdeljaber (also EVP/COO of Atlas Factoring plus five other entities, accountant by training) and Geir Myklebust (also a partner in Blue Resource Group in Norway, so on both ends of the payment)."
+  },
+  "enrichment": {
+    "decision": "stopped by Marcel after one measured batch",
+    "enriched": 110,
+    "listId": 969766,
+    "newlyVisible": 6,
+    "genuineNewLeads": 1,
+    "yield": "roughly one real new lead per hundred enriched",
+    "note": "The pre-run estimate of 450 to 700 did not survive the first batch. Sample was alphabetically sorted, so the yield figure is weak; the false-positive shape (agri software, consulting, exec search, wealth management, large public cos) should generalize.",
+    "log": "data/fx/enrichment-stopped-2026-09-25.md"
+  },
+  "inFlight": {
+    "batch4": "622397, 6 leads, from 2026-09-28",
+    "batch5": "622554, 6 leads, from 2026-09-30",
+    "remainingSigningSeats": 126
+  },
+  "openQuestion": "El Paso in October: the record carries both an Oct 21-22 summit with stand 98 and a nearshoring summit Marcel already attended in El Paso this month. The claim was cut from Rami Abdeljaber's and Louie Guerra's notes rather than risk a false statement. Needs Marcel to confirm."
 }
