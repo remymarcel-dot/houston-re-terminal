@@ -219,8 +219,17 @@
     "Grupo Palco, Carlos Palma: waiting on Luis Merjil by WhatsApp, which Marcel sees first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.",
     "Wylson Zon Neto: Woodlands coffee Tuesday Sep 29, never confirmed a time or place. Marcel to chase or drop.",
     "Monte Vista Farming, Elena Tavares: three messages, no reply. Recommended dormant, awaiting Marcel's agreement.",
-    "Play 0 cadence: 122 signing seats left. Recommendation is to pause after the current batches and wait for reply data before batch 7.",
     "German-American Chamber: Jason Roof asked for German-community companies. Offered to build a target list of German-owned Texas companies with LatAm operations. Awaiting Marcel's go.",
     "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18."
-  ]
+  ],
+  "play0Decision": {
+    "decision": "STOP at batch 6. No batch 7 until a review.",
+    "by": "Marcel, 2026-09-25",
+    "quote": "play o stop on batch 6 and we can anlalizy how it is going and if er need to change something ok?",
+    "totalPlay0Messages": 42,
+    "remainingSigningSeats": 122,
+    "reviewDate": "around 2026-10-08, roughly a week after the last send",
+    "caution": "At n=6 per sector the data cannot support sector comparisons. The review is qualitative: what replies say, whether the closing question gets answered, and whether the inverted openers outperform. The only comparison with a real denominator is Play 0 overall against the 5.6% cold baseline from campaign 552667.",
+    "plan": "data/fx/play0-review-plan.md"
+  }
 }
