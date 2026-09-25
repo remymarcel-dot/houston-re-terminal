@@ -179,7 +179,19 @@
   "inFlight": {
     "batch4": "622397, 6 leads, from 2026-09-28",
     "batch5": "622554, 6 leads, from 2026-09-30",
-    "remainingSigningSeats": 126
+    "batch6": "622570, 2 leads, from 2026-10-01",
+    "remainingSigningSeats": 124
   },
-  "openQuestion": "El Paso in October: the record carries both an Oct 21-22 summit with stand 98 and a nearshoring summit Marcel already attended in El Paso this month. The claim was cut from Rami Abdeljaber's and Louie Guerra's notes rather than risk a false statement. Needs Marcel to confirm."
+  "campaignBuilt3": {
+    "campaignId": 622570,
+    "listId": 969959,
+    "leads": 2,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Play 0 batch 6. Bondi owner seat chosen by Marcel over the EVP. Direct Source Seafood added on verification: largest king crab and snow crab importer in the US, 7,651 bills of lading, 54 in the last 30 days."
+  },
+  "openQuestions": [
+    "El Paso in October: the record carries both an Oct 21-22 summit with stand 98 and a nearshoring summit Marcel already attended in El Paso this month. The claim was cut from Rami Abdeljaber's and Louie Guerra's notes rather than risk a false statement. Needs Marcel to confirm.",
+    "Bondi Produce is a Toronto company and the note signs as Monex USA. Monex Canada exists and Andrew Barranca sits there. Canada is in scope per Marcel's rule, but which entity should carry a Canadian client is his call."
+  ]
 }

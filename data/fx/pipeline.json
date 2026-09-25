@@ -3235,5 +3235,39 @@
     "note": "New York. Sources from local farms and brings exotic fruit and vegetables from around the world through an international supplier network. Enrichment also shows him as Wholesale Buyer at Cherry Hill Gourmet. Thinnest hook in the batch but the international grower network is stated on the company's own site.",
     "priorContactCheck": "checked against pipeline.json and the 143-row qualified pool; URLs read back from the list and compared to the source CSV before launch",
     "nextStep": "message sends from 2026-09-30 09:00 America/Chicago; no follow-up until a reply or 7 days"
+  },
+  {
+    "name": "Ezio Bondi",
+    "company": "Bondi Produce and Specialty Foods",
+    "title": "Managing Partner",
+    "location": "Etobicoke, Ontario, Canada",
+    "profileUrl": "https://www.linkedin.com/in/ezio-bondi-095b8026",
+    "play": "play-0-first-degree",
+    "campaignId": 622570,
+    "listId": 969959,
+    "status": "in-campaign",
+    "outcome": null,
+    "firstTouch": "2026-10-01",
+    "loggedOn": "2026-09-25",
+    "note": "Toronto, family-owned since 1976, largest foodservice distributor of produce and specialty ingredients in Ontario. Shops 400+ farms and producers local AND abroad, 1000+ items. Specialty side is fresh pasta, artisanal cheese, dairy, cured meats, oils and dry goods, which points at euro payables. Broke ground on a facility expansion. Ignazio Bondi founded it in 1976, handed to son Gus in 1990. Marcel chose the owner seat over Matt DuPerrouzel, EVP, who is also in the pool. Title is ambiguous across sources (LinkedIn and theorg say Managing Partner, other sources say VP Sales and Marketing, and his own headline reads Produce Enthusiast), so the note asks whether paying overseas producers sits on his side or with someone else in the family rather than assuming.",
+    "priorContactCheck": "checked against pipeline.json and the 143-row qualified pool; URLs read back from the list and compared to the source CSV before launch",
+    "nextStep": "message sends from 2026-10-01 09:00 America/Chicago; no follow-up until a reply or 7 days"
+  },
+  {
+    "name": "Natalya (surname not on record)",
+    "company": "Direct Source Seafood LLC.",
+    "title": "Chief Financial Officer",
+    "location": "Bellevue, Washington, United States",
+    "profileUrl": "https://www.linkedin.com/in/ACoAAAOaMzwByO2blHXnW6IqasN24m2qJvSdOoU",
+    "play": "play-0-first-degree",
+    "campaignId": 622570,
+    "listId": 969959,
+    "status": "in-campaign",
+    "outcome": null,
+    "firstTouch": "2026-10-01",
+    "loggedOn": "2026-09-25",
+    "note": "Founded 2010. LARGEST KING CRAB AND SNOW CRAB IMPORTER IN THE UNITED STATES, plus top private label shrimp programs and a market-leading Argentinian wild caught shrimp line. 7,651 bills of lading between Oct 2012 and Jul 2026, with 54 in the last 30 days and 142 in the last 90. A CFO seat at a heavy, currently active importer. Arguably the strongest lead surfaced from the 143, stronger than anything in batch 5. Her surname is not in the LinkedIn record, which shows lastName as CPA.",
+    "priorContactCheck": "checked against pipeline.json and the 143-row qualified pool; URLs read back from the list and compared to the source CSV before launch",
+    "nextStep": "message sends from 2026-10-01 09:00 America/Chicago; no follow-up until a reply or 7 days"
   }
 ]
