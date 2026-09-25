@@ -257,6 +257,25 @@ Vexos remains cut, but on size alone: 750 people, $100M to $500M, with a
 CFO, an SVP of Global Supply Chain and an Asia organisation. That is the
 Siemens and Bosch shelf, not the owner-signs-the-wire shelf.
 
+### A Canadian company is onboarded by Monex USA, not handed to Monex Canada
+
+Marcel, 2026-09-25, asked directly whether the Bondi Produce message should
+sign as Monex USA when Bondi is a Toronto company and Monex Canada exists with
+Andrew Barranca sitting there: *"we can on board canadian compan so with monex
+usa"*.
+
+So a Canadian prospect is Marcel's own deal, not a referral. **Write to them
+exactly as to a US prospect, signing Monex USA.** Do not hedge the entity, do
+not offer to pass them to a colleague, and do not raise the question in the
+message. Monex Canada being a sister company is not a reason to route a lead
+away from him.
+
+The payment grammar still applies, just with Canada as the paying side rather
+than the destination: the Canadian entity is the subject of the sentence and
+the money points outward, the same way a US entity would. Bondi buys in euros
+and sells in Canadian dollars, so the question asked was who pays the overseas
+producers, not anything about the European side.
+
 ## The test is where the buying decision sits, not whether a US entity exists
 
 Grupo Industrial Saltillo was put forward as the strongest name in the warm
