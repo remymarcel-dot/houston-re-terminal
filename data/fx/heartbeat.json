@@ -219,8 +219,8 @@
     "Grupo Palco, Carlos Palma: waiting on Luis Merjil by WhatsApp, which Marcel sees first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.",
     "Wylson Zon Neto: Woodlands coffee Tuesday Sep 29, never confirmed a time or place. Marcel to chase or drop.",
     "Monte Vista Farming, Elena Tavares: three messages, no reply. Recommended dormant, awaiting Marcel's agreement.",
-    "German-American Chamber: Jason Roof asked for German-community companies. Offered to build a target list of German-owned Texas companies with LatAm operations. Awaiting Marcel's go.",
-    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18."
+    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18.",
+    "Rohlig Logistics, Richard Labib: reply drafted, awaiting Marcel's yes or no on sending it."
   ],
   "play0Decision": {
     "decision": "STOP at batch 6. No batch 7 until a review.",
@@ -231,5 +231,12 @@
     "reviewDate": "around 2026-10-08, roughly a week after the last send",
     "caution": "At n=6 per sector the data cannot support sector comparisons. The review is qualitative: what replies say, whether the closing question gets answered, and whether the inverted openers outperform. The only comparison with a real denominator is Play 0 overall against the 5.6% cold baseline from campaign 552667.",
     "plan": "data/fx/play0-review-plan.md"
+  },
+  "germanChamberPlay": {
+    "status": "PAUSED by Marcel 2026-09-25. He is getting the member roster from the Chamber directly, which is the better route.",
+    "partialScan": "196 DACH-marked records in the network: 24 US, 84 Mexico, 48 elsewhere, only 4 in Texas. The network holds the Mexican side of these groups, not the Texas side, so it could not deliver the thesis alone.",
+    "objectionToSolve": "Rohlig Logistics, Richard Labib, CFO NORAM, declined on cash pooling within 21 hours. German groups run centralized treasury; this play needs an answer to that before it scales.",
+    "resumeWhen": "Marcel supplies the GACC South roster.",
+    "log": "data/fx/german-chamber-play.md"
   }
 }
