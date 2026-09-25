@@ -1,0 +1,242 @@
+{
+  "lastRun": "2026-09-25T11:30:00-05:00",
+  "runType": "pool-sizing-and-campaign-build",
+  "senderAccountId": 237851,
+  "networkSize": 22137,
+  "conversationsTotal": 256,
+  "accountLimitsAtRun": {
+    "connectionRequests": 15,
+    "messages": 30,
+    "profileViews": 40,
+    "postLikes": 30,
+    "follows": 12,
+    "inMail": 40
+  },
+  "cooldowns": "all clear",
+  "inboxTriage": {
+    "unread": 2,
+    "real": 0,
+    "awaitingMarcel": 0,
+    "note": "Both unread are closing pleasantries. Grupo Palco, Carlos Palma said 'See you there' to the Stand 40 invitation, which confirms an in person meeting. DE LEON PROFESIONALES, Francisco Javier De Leon closed with thanks. Nothing owed."
+  },
+  "segmentation": {
+    "sampled": 1600,
+    "financeTitled": 400,
+    "usFxExposedQualified": 29,
+    "impliedAcrossFullNetwork": "~400",
+    "latamDropped": 65,
+    "reason": "user directive: US companies with FX exposure only"
+  },
+  "campaignBuilt": {
+    "campaignId": 622397,
+    "listId": 969709,
+    "leads": 6,
+    "status": "SCHEDULED",
+    "startDate": "2026-09-28",
+    "cut": 9,
+    "note": "Play 0 batch 4, produce signing seats. Scheduled for Monday deliberately: ~19 first-degree messages already in flight against a shared 30/day message cap."
+  },
+  "messagesSentLastRun": 2,
+  "connectionRequestsSentLastRun": 0,
+  "playsRun": [
+    "network-sizing",
+    "network-mining"
+  ],
+  "notes": "Jason Roof call logged separately. Aptean prep call invite received by Marcel; date sits on the Monex work calendar.",
+  "errors": [],
+  "archiveMined": {
+    "date": "2026-09-18",
+    "connections": 22536,
+    "messages": 24309,
+    "invitations": 5557,
+    "acceptedIn2026": 1766,
+    "everMessagedAfter": 398,
+    "everReplied": 83,
+    "replyRateWhenMessaged": "20.9%",
+    "neverMessaged": 1368,
+    "note": "The bottleneck is follow through, not acceptance or copy. See data/fx/linkedin/FINDINGS.md."
+  },
+  "closedThisRun": [
+    "Door Capital Partners, Alejandro Arregui: call happened, no FX exposure",
+    "TA Express, Jose Rene Tapia: followed up off platform, no result"
+  ],
+  "sentThisRun": [
+    "Fatima M.: accepted her referral channel offer",
+    "Grupo Palco, Carlos Palma: thanks plus Stand 40 invitation",
+    "Business Show Media, Henry Rawcliffe: closed with a real reason",
+    "Grupo Palco, Luis Merjil: WhatsApp sent by Marcel"
+  ],
+  "blocked": [],
+  "owedByMarcel": [
+    "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook",
+    "El Paso: company mapping for the nine pending LinkedIn URLs, which blocks all sending",
+    "El Paso: decide event note vs blank connection request"
+  ],
+  "recordCorrections": [
+    "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
+    "Sanoxlabs was missing entirely: the signal detector only swept threads where the prospect spoke last",
+    "Grupo Palco's El Paso summit is Oct 22 and still ahead, not past",
+    "unanswered-signals ran at roughly 50% false positives on the four verified"
+  ],
+  "awaitingReply": [
+    "Aptean, Clifford D'Souza",
+    "Sanoxlabs Inc, Sergio E Manriquez",
+    "Ferrero USA, Ritesh Vachhani",
+    "Solve Networks, Jason Bell",
+    "Safer Food Services, Humberto Martinez",
+    "Grupo Palco, Luis Merjil (WhatsApp, off platform)",
+    "Fatima M. (sending her draft post for review)"
+  ],
+  "warmArchiveExercise": {
+    "surfaced": 9,
+    "closed": 9,
+    "leads": 0,
+    "reasons": "3 Mexican business, 2 too small, 1 already a customer, 1 Australian, 1 yes was off topic, 1 unresponsive after a clean close",
+    "conclusion": "The warm archive is worked out. Next pool is the 4,767 qualified never messaged, screened for country, size and customer status before any name is shown."
+  },
+  "elPaso": {
+    "confirmed": "2026-10-21 to 2026-10-22, El Paso nearshoring summit, confirmed by Marcel 2026-09-25",
+    "addedTo": [
+      "Rami Abdeljaber, Russell Transport, El Paso: offered half an hour in his own city",
+      "Louie Guerra, RLS International Transport, Laredo: mentioned as an event, not a meeting offer, since Laredo is 570 miles away"
+    ],
+    "notAddedTo": "Batch 4 produce (Sterling Produce, Marabella, Produce Team) are McAllen and the Rio Grande Valley, roughly 800 miles from El Paso, and the summit is manufacturing and supply chain rather than produce. Bolting it on would have read as a mail merge."
+  },
+  "channel": {
+    "who": "Fatima M.",
+    "state": "post approved, awaiting publication",
+    "why": "ineligible as an account, persona fisica in Veracruz, but has a Fresh Produce audience and proposed the referral herself",
+    "watch": "inbound US constituted importers and exporters; each still faces the US entity test"
+  },
+  "campaignLaunched": {
+    "campaignId": 613681,
+    "listId": 956421,
+    "name": "El Paso Summit - Exhibitors W1",
+    "leads": 9,
+    "sequence": "VIEW_PROFILE then CONNECTION_REQUEST with a per lead note, both branches END. No follow up message by design.",
+    "withdrawAfter": "30 days",
+    "schedule": "Mon to Fri 09:00 to 17:00 Central",
+    "held": "Soledad S., Munoz Trucking, wave 2, to avoid two approaches to one company on the same day"
+  },
+  "elPasoCampaigns": [
+    {
+      "id": 613681,
+      "name": "W1",
+      "leads": 9,
+      "started": "2026-09-21"
+    },
+    {
+      "id": 613743,
+      "name": "W2",
+      "leads": 10,
+      "startDate": "2026-09-23",
+      "why": "delayed so Juan Munoz and Soledad S. at the same company do not land together"
+    }
+  ],
+  "elPasoTotals": {
+    "sourced": 20,
+    "inCampaign": 19,
+    "blocked": 1,
+    "companies": 19
+  },
+  "nextMeeting": {
+    "who": "Grupo Palco, Luis Merjil",
+    "when": "2026-09-22 16:00 Central",
+    "prep": "see pipeline entry"
+  },
+  "poolSizing": {
+    "uniqueEnumerated": 22115,
+    "decisionSeats": 5771,
+    "bothTests": 224,
+    "cleanAfterCollisions": 199,
+    "signingSeatUnflagged": 143,
+    "note": "headline is null across the whole network export and about is present for only 3859 of 22115, so the business filter could read company name only. 199 is a floor; 450 to 700 remains the honest estimate.",
+    "cheaperEnrichmentPath": "get_leads_from_list returns a populated headline where get_my_network_for_sender does not. Pushing the 5771 decision seats through lists in batches of 100 reads headlines back for free, roughly 58 calls."
+  },
+  "incidents": [
+    "Two fabricated profile URLs were written into list 969709 and caught by reading the list back against the source CSV before the campaign left DRAFT. Nothing sent. Second occurrence after Laura Plummer.",
+    "The batch 4 carried in session notes was stale: four of its six had already been cut for cause (Bloom Fresh, Lighthouse Transportation, Kingdom Cold, A-Line Flooring)."
+  ],
+  "campaignBuilt2": {
+    "campaignId": 622554,
+    "listId": 969943,
+    "leads": 6,
+    "status": "SCHEDULED",
+    "startDate": "2026-09-30",
+    "note": "Play 0 batch 5, export and border. Two notes rewritten after enrichment revealed materially bigger roles: Rami Abdeljaber (also EVP/COO of Atlas Factoring plus five other entities, accountant by training) and Geir Myklebust (also a partner in Blue Resource Group in Norway, so on both ends of the payment)."
+  },
+  "enrichment": {
+    "decision": "stopped by Marcel after one measured batch",
+    "enriched": 110,
+    "listId": 969766,
+    "newlyVisible": 6,
+    "genuineNewLeads": 1,
+    "yield": "roughly one real new lead per hundred enriched",
+    "note": "The pre-run estimate of 450 to 700 did not survive the first batch. Sample was alphabetically sorted, so the yield figure is weak; the false-positive shape (agri software, consulting, exec search, wealth management, large public cos) should generalize.",
+    "log": "data/fx/enrichment-stopped-2026-09-25.md"
+  },
+  "inFlight": {
+    "batch4": "622397, 6 leads, from 2026-09-28",
+    "batch5": "622554, 6 leads, from 2026-09-30",
+    "batch6": "622570, 2 leads, from 2026-10-01",
+    "remainingSigningSeats": 124
+  },
+  "campaignBuilt3": {
+    "campaignId": 622570,
+    "listId": 969959,
+    "leads": 2,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Play 0 batch 6. Bondi owner seat chosen by Marcel over the EVP. Direct Source Seafood added on verification: largest king crab and snow crab importer in the US, 7,651 bills of lading, 54 in the last 30 days."
+  },
+  "openQuestions": [
+    "Bondi Produce is a Toronto company and the note signs as Monex USA. Monex Canada exists and Andrew Barranca sits there. Canada is in scope per Marcel's rule, but which entity should carry a Canadian client is his call."
+  ],
+  "campaignBuilt4": {
+    "campaignId": 622602,
+    "listId": 969994,
+    "leads": 1,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Two Brothers Produce, O. Castellon. Reinstated after a wrong cut: the profile is the owner's, used as a company page. Spanish, accents intact and verified on read-back."
+  },
+  "campaignBuilt5": {
+    "campaignId": 622608,
+    "listId": 969998,
+    "leads": 1,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Hillside Winery, Louise L. Third degree, so a cold connection request rather than a Play 0 message. Correct URL supplied by Marcel."
+  },
+  "decisionsCleared": [
+    "Green Coffee Company, Ted Skodol: Marcel 2026-09-25, 'no issue with Green Coffee Company'. Colombian agricultural group cleared, invitation runs.",
+    "Two Brothers Produce: the profile is the owner's, used as a company page. Email ocastellon@twobrothersproduce.us supplied.",
+    "Hillside Winery, Louise L: correct URL supplied, and she is third degree so the play changed.",
+    "El Paso confirmed Oct 21-22 and added to the two border operators.",
+    "Canada: Monex USA onboards Canadian companies directly, no referral to Monex Canada."
+  ],
+  "stillOpen": [
+    "Grupo Palco, Carlos Palma: waiting on Luis Merjil by WhatsApp, which Marcel sees first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.",
+    "Wylson Zon Neto: Woodlands coffee Tuesday Sep 29, never confirmed a time or place. Marcel to chase or drop.",
+    "Monte Vista Farming, Elena Tavares: three messages, no reply. Recommended dormant, awaiting Marcel's agreement.",
+    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18.",
+    "Rohlig Logistics, Richard Labib: reply drafted, awaiting Marcel's yes or no on sending it."
+  ],
+  "play0Decision": {
+    "decision": "STOP at batch 6. No batch 7 until a review.",
+    "by": "Marcel, 2026-09-25",
+    "quote": "play o stop on batch 6 and we can anlalizy how it is going and if er need to change something ok?",
+    "totalPlay0Messages": 42,
+    "remainingSigningSeats": 122,
+    "reviewDate": "around 2026-10-08, roughly a week after the last send",
+    "caution": "At n=6 per sector the data cannot support sector comparisons. The review is qualitative: what replies say, whether the closing question gets answered, and whether the inverted openers outperform. The only comparison with a real denominator is Play 0 overall against the 5.6% cold baseline from campaign 552667.",
+    "plan": "data/fx/play0-review-plan.md"
+  },
+  "germanChamberPlay": {
+    "status": "PAUSED by Marcel 2026-09-25. He is getting the member roster from the Chamber directly, which is the better route.",
+    "partialScan": "196 DACH-marked records in the network: 24 US, 84 Mexico, 48 elsewhere, only 4 in Texas. The network holds the Mexican side of these groups, not the Texas side, so it could not deliver the thesis alone.",
+    "objectionToSolve": "Rohlig Logistics, Richard Labib, CFO NORAM, declined on cash pooling within 21 hours. German groups run centralized treasury; this play needs an answer to that before it scales.",
+    "resumeWhen": "Marcel supplies the GACC South roster.",
+    "log": "data/fx/german-chamber-play.md"
+  }
+}

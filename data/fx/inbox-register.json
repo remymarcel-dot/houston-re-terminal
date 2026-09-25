@@ -1,0 +1,161 @@
+{
+  "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
+  "lastFullSweep": "2026-09-25 second sweep. 291 conversations swept unfiltered across offsets 0, 100 and 200, with offset 300 empty confirming the end of the list. Up 5 from the 286 of the morning sweep. 60 threads have the correspondent speaking last, up 1. The one new arrival is a real prospect reply: Rohlig Logistics, Richard Labib, CFO NORAM. The unread filter returned exactly 1 thread and it was Wylson with Marcel speaking last, which is another reminder that the unread filter finds nothing that matters.",
+  "dispositioned": {
+    "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
+      "who": "Grupo Palco, Carlos Palma",
+      "state": "closed, meeting confirmed at Stand 40"
+    },
+    "2-ZDI4ZWMyOGQtN2VkYS00ODZhLTk0NWMtZDI5NzhlYTc1MDYwXzEwMA==": {
+      "who": "DE LEON PROFESIONALES, Francisco Javier De Leon",
+      "state": "closed, courtesy"
+    },
+    "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==": {
+      "who": "Aptean, Clifford D\u2019Souza, Treasury Director",
+      "state": "MEETING CONFIRMED BOTH SIDES. Tuesday 2026-10-13, 10:00 EST. Calendar invite sent by Marcel from his corporate email and accepted by Clifford on 2026-09-23. Clifford wrote back the same day: \u201cI have forwarded to Madhu my colleague in Bangalore.\u201d He forwarded the invite rather than passing the address, so nothing is owed on the logistics.",
+      "owed": "One short warm acknowledgment, then nothing until the call. Madhu joins from Bengaluru at 19:30 IST, so name that once now rather than on the day.",
+      "howItCame": "He accepted the connection Sep 20 with a courtesy note. Marcel replied Sep 21 naming the specific problem, that growth by acquisition leaves treasury holding a currency book nobody designed, and citing his own time running finance across the US, Brazil, Mexico and Central America. Clifford asked to talk and gave his email the same day.",
+      "whatWorked": "The opener did not pitch. It named a condition specific to how that company grew, then established standing by having sat on the same side of it, then asked one question. Three lines of substance and no capabilities.",
+      "sizeNote": "Aptean is a large PE backed ERP company, well above the usual size screen. The realistic outcome is one corridor or one acquired entity, not the whole treasury. Worth knowing going in rather than pitching the full book.",
+      "timezoneWatch": "10:00 Eastern on Oct 13 is 19:30 in India. The colleague who may join would be taking it after hours. Worth acknowledging on the day.",
+      "nextAction": "Prep before 2026-10-13. He is Treasury Director at a large PE backed ERP company that grew by acquisition. The live question he engaged on was consolidating inherited banking relationships across entities carrying euro, sterling and rupee flows. Go in scoped to one corridor or one acquired entity, not the whole treasury book."
+    },
+    "2-MjQzMDgyYmYtY2ZmNi00YjE2LTg2YWItOTg1ZjFlZTQ4MGQ1XzEwMA==": {
+      "who": "Atlas Oil Company, Robert Guerrero",
+      "state": "answered 2026-09-22, footprint question"
+    },
+    "2-MGJiYWJmYjYtNzI1OC00MGNkLWFkNzEtNzZjMGE3ZWQwNDBlXzEwMA==": {
+      "who": "DNV, Wylson Neto",
+      "state": "OPEN AND WARM. He replied 2026-09-24 15:25 with two things: he is chasing the DNV treasury contact unprompted (\"vou dar um foco nisso esses dias\"), and he proposed meeting in The Woodlands on Tuesday 2026-09-29, taking up the coffee Marcel offered on 2026-08-31. Answered same day at 19:53 agreeing to Tuesday and asking for his time and location, offering to travel to him.",
+      "whatWasDeliberatelyOmitted": "The reply does not mention the DNV treasury. He volunteered that he is getting to it, and Marcel had already nudged once on 2026-09-22. Asking again in the same message would turn a favor he is offering into a chore he owes. It will surface better across a table. Let him bring it.",
+      "nextStep": "Wait for his time and place. Marcel must confirm Tuesday against his Monex work calendar, which is not connected here: the only calendar visible is remy.marcel@gmail.com, his personal one, where Tuesday 2026-09-29 is free apart from the 8:30pm walk. At the coffee, do not open with the treasury ask.",
+      "seat": "Senior Surveyor / Offshore Unit Coordinator at DNV. Not the buyer. He is a route to the treasury seat, met in person at the Bratecc event in August."
+    },
+    "2-N2RiYzUxOTQtMTI2My00ZTc4LTg1NDctNWE0NmJhNWRlZThhXzEwMA==": {
+      "who": "Cosechari, Marcial Hernandez-Manzano",
+      "state": "answered 2026-09-22 after 25 days. Agreed with his point, added Fatima's framing that risk changes hands in the chain, offered real numbers if he writes about the intermediary. Potential second produce channel."
+    },
+    "2-N2M0MDQ2NTktNDQ1OS00ZTAxLWE2YzctYzA3YjEyNjVkZGI3XzEwMA==": {
+      "who": "J Mears Consulting, Jesus Mears CPA",
+      "state": "CLOSED, do not contact. Venezuela is forbidden for Monex and his entire practice is Venezuela entry advisory.",
+      "draftKilled": "A reply was drafted 2026-09-22 offering the Panama and Colombia legs of Venezuela bound flow. Marcel stopped it: \"venezuela is forbidden we can nt touch\". The draft was wrong on the substance, not the wording. Routing through Panama or Colombia does not change who the counterparty is.",
+      "lesson": "A channel into a forbidden market is still the forbidden market. Being a router rather than a prospect does not make someone safe to work."
+    },
+    "bramwick-2026-09-23": {
+      "who": "Bramwick Advisory, Katherine Joy Bernardino, Associate",
+      "state": "Not a prospect and not Marcel\u2019s to field. Cold approach on 2026-09-23 saying a PE fund is looking at acquisitions in the industry and that Monex USA fits the criteria, asking for time this week. This is an M&A approach to Marcel\u2019s own employer, addressed to him because he is a findable Monex name on LinkedIn, not because he owns anything here.",
+      "owed": "Nothing. Corporate development at Monex is not Marcel\u2019s seat, and answering even to decline puts him in a conversation he has no mandate for. If he wants to be courteous he can forward it internally, but that is his call, not an outreach action.",
+      "note": "Different species from the usual vendor noise, so it sits here rather than in vendorNoReplyOwed: worth Marcel seeing once, worth no reply."
+    }
+  },
+  "vendorNoReplyOwed": [
+    "Belkins, Michael Maximoff",
+    "FOURSYS, Rodrigo S. Martineli",
+    "Conveyor, Raphael Rivero",
+    "The Entrepreneur's Source, John Senich",
+    "Renaissance Executive Forums, Rony Zagursky",
+    "Natalie Gomez (LTL freight)",
+    "BOTKERS, Carlos Garcia Pino",
+    "Impact Speakers, Jimmy Pomerance",
+    "Snowflake, Dash DesAI",
+    "Info-graphics, Georgina Rivero",
+    "Steve's Sizzling Steaks, Tristan Carty",
+    "Handshake, Garrett Lord",
+    "Mounir Akram Romani",
+    "boardsi, Lisa Williams",
+    "Pavan Chandrashekar (presentation design, cold pitch 2026-09-25)",
+    "Gabriel Sales, Carol Springer (Salesforce agency)",
+    "Sara Molina (board seat search)",
+    "RMJ Tax Consultant, Hanz Cardenas",
+    "El Primer Piso, Ramon Chavez Rosas (leadership study)",
+    "PetroFit, Nick MBA",
+    "Jhanna Reyes (on behalf of Daniel Popple)",
+    "Joorney Srbija, Tamara Doncic",
+    "TechupR, Dhaval Patel",
+    "Leadbird, Cermy De Marquez",
+    "Beth Mastre Enterprises, Beth Mastre",
+    "Now Elevate LLC, Sheila Mullen",
+    "Jose Kuri (podcast)",
+    "OUTPERFORM INTERNATIONAL, Ahsan jawaid"
+  ],
+  "closedByThem": [
+    "Sweet Seasons LLC, Marina Bernal: not interested",
+    "Rohlig Logistics, Richard Labib, CFO NORAM region at Rohlig USA, Greater Chicago. Replied 2026-09-25: 'thanks for reaching out. We use cashpooling and aren't in the market.' A real, treasury-literate decline from a CFO roughly 21 hours after Marcel's first message. Not an opt-out and not rude, so the door stays open, but no chasing. Reply drafted for Marcel: acknowledge cash pooling, leave it there, no ask."
+  ],
+  "tailFindings2026_09_22": {
+    "sweptRange": "offsets 120 to 265, never covered by any earlier sweep",
+    "correspondentLastRows": 44,
+    "realOpenLoops": 1,
+    "everythingElse": "thumbs up emoji, Monex one year anniversary congratulations, you are welcome, and vendor pitches. Closed, nothing owed.",
+    "lesson": "The tail was not swept because earlier sweeps stopped at offset 120 and the tail looked old. It was old and almost entirely closed, but it hid one real open loop for 33 days. Sweep to the end of the list, not to a comfortable depth."
+  },
+  "doNotContact": [
+    "J Mears Consulting, Jesus Mears CPA: Venezuela entry advisory, forbidden market, permanent",
+    "Mount Franklin Foods, all seats including Enrique Grajeda, President and CEO. Marcel, 2026-09-23: \"do not engage with anyone of mount franklin i already talking to them\". Company level, not person level. Blacklisted in HeyReach as company ids 14524 and 14525 so no future campaign can pick anyone up there.",
+    "F&S Fresh Foods, company level. Marcel, 2026-09-24: \"agreed, leave F&S alone\". Jenna Bussard, Corporate Controller, has had three unanswered messages ending 2026-09-21 including the strongest offer available. Malcolm Pais was stopped before sending. Blacklisted in HeyReach as ids 15604, 15605, 15606. Her thread stays open; the blacklist gates campaigns, not a reply if one comes.",
+    "AUSY USA, Alonso Duarte, CEO and CFO. Company level exclusion from campaigns: he is already a Monex USA client (Marcel, 2026-09-24). Blacklisted as HeyReach ids 15628, 15629, 15630. Campaigns only; a manual message from Marcel is unaffected."
+  ],
+  "companyCollisions": [
+    {
+      "date": "2026-09-24",
+      "company": "F&S Fresh Foods",
+      "inboxThread": "Jenna Bussard, Corporate Controller, 3 messages, last 2026-09-21, unanswered",
+      "nearlySent": "Malcolm Pais, Director of Finance, same Vineland NJ office, Play 0 batch 2",
+      "outcome": "Stopped in campaign 618515 before the message node fired. Nothing sent. Marcel's own rule is one seat per company.",
+      "howItWasMissed": "The pre draft screen checked person names against pipeline.json. Jenna was not in pipeline.json at all, she only existed as an inbox thread, and Malcolm is a different person, so a name level check against one file could never have caught it.",
+      "resolution": "Marcel, 2026-09-24: leave F&S alone. Company level do not contact, blacklisted. No November revisit."
+    }
+  ],
+  "campaignAudits": [
+    {
+      "date": "2026-09-25",
+      "trigger": "Marcel asked whether the other scheduled batches had gone out. Nobody had audited campaign state since they were built.",
+      "finding": "Campaign 618477, Play 0 batch 1, was recorded in this repo as 'dead, never to resume' after it wedged in STARTING on 2026-09-23. That was WRONG. It resumed, and by 2026-09-25 it showed 4 finished with MessageSent, 5 excluded and 1 in sequence, running alongside 618489, the rebuild, which covers the same ten people.",
+      "feared": "That Narvaez, Tavares, Arredondo and Ohad Gold had each received the same Play 0 message twice.",
+      "actual": "NO DUPLICATE WAS DELIVERED. The conversation threads were checked one by one: Fernando Narvaez has 1 message, Alan Arredondo has 1, Elena Tavares has 3 but only one dated 2026-09-24. HeyReach's two campaign records point at the same underlying send and the platform deduplicated at the conversation level.",
+      "actionTaken": "Paused 618477 and manually stopped Ohad Gold in 618489. Both were correct regardless: every one of 618477's ten people is covered by 618489, Jennifer Ayers had already been messaged by 618489 at 01:26, and Ohad Gold had already been messaged by 618477 at 19:55. Nothing useful was lost and nothing was at risk of going twice.",
+      "lesson": "Two rules out of this. First, PAUSED IS NOT DEAD. A campaign that wedges and gets paused can resume; the repo said 618477 would never run again and it ran. Verify campaign state, do not carry an assumption forward. Second, CAMPAIGN STATS ARE NOT THE TRUTH, THE THREAD IS. Two campaigns can both report MessageSent for one actual message. Before telling Marcel someone was double contacted, open the conversation and count."
+    }
+  ],
+  "meetings": [
+    {
+      "date": "2026-09-25",
+      "who": "Jason Roof",
+      "org": "Monex USA (internal)",
+      "role": "Director Enterprise Sales, Charlotte NC",
+      "outcome": "strong. Aptean co-sell agreed (Marcel leads, Jason on call, nobody else). Second thread opened: German-American Chamber GACC South, where Monex is already a corporate member and German subsidiaries in TX often run MXN and BRL exposure.",
+      "nextStep": "Prep call ahead of the Aptean discovery call (Oct 13, 10:00 ET). Jason sent the invite and Marcel has it; the date sits on the Monex work calendar, not visible here. Bring: answers to his two diagnostic questions (operational vs risk difficulty; spoken vs email only) and a draft 2-3 sentence 'who we are'.",
+      "owner": "scheduled by Jason, confirmed received 2026-09-25",
+      "notes": "Ex-Kantox, ex-GPS/Corpay, ex-SunTrust; ~25 yrs. Tried Aptean twice before and failed, congratulated Marcel on getting the meeting. In Atlanta often, offered to meet Aptean in person. Asked explicitly for directness, twice. German fluent, Spanish good (prefers Castilian), Portuguese only bom dia/obrigado.",
+      "log": "data/fx/meetings/2026-09-25-jason-roof-outcome.md"
+    }
+  ],
+  "courtesyOnlyNothingOwed": [
+    "Threads whose last message is an emoji, a thank you, or a work-anniversary congratulation. No reply owed and none of them is a prospect signal. Logged so a future sweep does not keep re-surfacing them as untriaged:",
+    "Banamex, Mario Alberto Ochoa Barajas (competitor, anniversary)",
+    "The Energists, Gregg Pope (anniversary)",
+    "DELTA Asesores, Jose T. (anniversary)",
+    "Novacomp, Pedro Vazquez (anniversary)",
+    "SAP Concur, Ivette Loftus",
+    "Santander Mexico, Miguel C. (competitor)",
+    "SMU Continuing and Professional Education, Kris Fitzgerald",
+    "Treasury Directions LLC, Simha Chandran (possible channel, not a prospect)",
+    "Galletas de Calidad, Gabriel Espinosa",
+    "ASESORES Y CONSULTORES EN PREVISION Y RIESGOS, Ramon Madariaga Rumoroso",
+    "Grupo Estrategico Sigma, Juan Meza",
+    "OMB Media, Aldo Mizrahi",
+    "Up Pharma, Luis Sandin",
+    "ARM Seguros, Alejandro Mora",
+    "Rafael Ortiz-Canavate",
+    "Marco Mendez",
+    "Francisco Romero",
+    "Jorge O. Arce",
+    "JH Consulting Group, John MBA",
+    "Novamex, Mauricio Prado (courtesy connect, no ask)",
+    "Rosa Vazquez (complimented Marcel's FX and treasury work, warm, no ask)",
+    "Monex USA, Jose Flores Madero (colleague, empty thread)",
+    "Agrifruits Holdings, Hiro Watanabe ('Perfect!') \u2014 already owned by Marcel offline, meeting booked, do not resurface"
+  ],
+  "registerDrift": "2026-09-25: reconciling the 60 correspondent-last threads against this file found 34 that were not named anywhere in it. Almost all were harmless, emoji acknowledgments, anniversary notes and vendor pitches, but the register's whole value is the rule that anything absent from it is untriaged. A register missing 34 of 60 cannot do that job. All 34 are now dispositioned above, most into courtesyOnlyNothingOwed.",
+  "heyReachAutoTags": "2026-09-25 discovery, from the Rohlig thread. HeyReach writes an `autoTags` array on the correspondent profile, and it had tagged Richard Labib 'Not interested' at 18:55Z, 47 minutes after his reply arrived and before anyone had read it, naming the source campaign (618489). USE THIS. A sweep can read autoTags to find declines and sentiment immediately instead of inferring them from message text, and the tag also names which campaign produced the reply, which is exactly what the Play 0 review needs. It does not replace reading the thread: the tag says 'not interested', it does not say 'because we cash pool', and the reason is the part worth keeping."
+}

@@ -3,3 +3,12 @@ config.js
 __pycache__/
 *.pyc
 .DS_Store
+
+# LinkedIn raw exports are never committed: private message content and third party contact details
+data/fx/linkedin/raw/
+*_80632734.csv
+messages.csv
+Connections.csv
+Invitations.csv
+Receipts_v2.csv
+data/fx/linkedin/local/
