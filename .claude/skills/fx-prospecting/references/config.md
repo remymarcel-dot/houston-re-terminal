@@ -413,3 +413,30 @@ The sweep also produced a name that was never on the list: searching
 Frog's Leap by company rather than hunting Patty Ketchum surfaced
 **Shannon McLaren, their CFO**. Searching the company often beats
 searching the person.
+
+## Paused is not dead, and campaign stats are not the thread
+
+**2026-09-25.** Campaign 618477 was recorded here as "dead, never to
+resume" after it wedged in STARTING on 2026-09-23 and was paused. It
+resumed on its own and ran four leads to MessageSent alongside 618489,
+the rebuild covering the same ten people.
+
+Two rules:
+
+1. **A paused campaign can resume.** Never write "dead" in the record on
+   the strength of having paused something. Re-read the campaign state
+   before relying on it. `get_all_campaigns` with statuses IN_PROGRESS,
+   SCHEDULED, STARTING, PAUSED and DRAFT gives the whole picture in one
+   call and should be run at every inbox sweep, not only when something
+   looks wrong.
+
+2. **Campaign level `MessageSent` is not proof a message was sent.** Two
+   campaigns holding the same lead can both report MessageSent for a
+   single underlying action. On 2026-09-25 the stats implied three people
+   had been double contacted; opening the three conversations showed one
+   message each. **Before reporting a duplicate to Marcel, open the
+   thread and count the messages.** The thread is the record; the
+   campaign is a controller.
+
+Both halves matter. The first nearly let a real duplicate through. The
+second nearly reported a duplicate that never happened.

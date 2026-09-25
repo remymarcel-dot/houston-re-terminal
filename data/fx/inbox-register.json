@@ -1,6 +1,6 @@
 {
   "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
-  "lastFullSweep": "2026-09-24, second sweep of the day. 275 conversations swept unfiltered across three pages of 100, 100 and 75, to the end of the list. Up 7 from the 268 of the morning sweep, all of which are records created by today's own outbound. 59 threads have the correspondent speaking last: 14 on page 1, 20 on page 2, 25 on page 3. Every one is already in this file except Wylson Zon Neto, who replied again today and is now handled. Pages 2 and 3 contain nothing newer than 2026-09-08, so the 2026-09-22 tail sweep still covers them.",
+  "lastFullSweep": "2026-09-25. 286 conversations swept unfiltered across three pages of 100, 100 and 86, to the end of the list. Up 11 from the 275 of 2026-09-24, all from Marcel's own outbound. 59 threads have the correspondent speaking last, unchanged. One new: Pavan Chandrashekar, a cold presentation design vendor pitch at 11:57 UTC, filed to vendorNoReplyOwed, nothing owed. Wylson has not yet answered the Tuesday coffee question. This sweep also audited every live campaign, which is how the 618477 problem below surfaced.",
   "dispositioned": {
     "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
       "who": "Grupo Palco, Carlos Palma",
@@ -62,7 +62,8 @@
     "Steve's Sizzling Steaks, Tristan Carty",
     "Handshake, Garrett Lord",
     "Mounir Akram Romani",
-    "boardsi, Lisa Williams"
+    "boardsi, Lisa Williams",
+    "Pavan Chandrashekar (presentation design, cold pitch 2026-09-25)"
   ],
   "closedByThem": [
     "Sweet Seasons LLC, Marina Bernal: not interested"
@@ -89,6 +90,17 @@
       "outcome": "Stopped in campaign 618515 before the message node fired. Nothing sent. Marcel's own rule is one seat per company.",
       "howItWasMissed": "The pre draft screen checked person names against pipeline.json. Jenna was not in pipeline.json at all, she only existed as an inbox thread, and Malcolm is a different person, so a name level check against one file could never have caught it.",
       "resolution": "Marcel, 2026-09-24: leave F&S alone. Company level do not contact, blacklisted. No November revisit."
+    }
+  ],
+  "campaignAudits": [
+    {
+      "date": "2026-09-25",
+      "trigger": "Marcel asked whether the other scheduled batches had gone out. Nobody had audited campaign state since they were built.",
+      "finding": "Campaign 618477, Play 0 batch 1, was recorded in this repo as 'dead, never to resume' after it wedged in STARTING on 2026-09-23. That was WRONG. It resumed, and by 2026-09-25 it showed 4 finished with MessageSent, 5 excluded and 1 in sequence, running alongside 618489, the rebuild, which covers the same ten people.",
+      "feared": "That Narvaez, Tavares, Arredondo and Ohad Gold had each received the same Play 0 message twice.",
+      "actual": "NO DUPLICATE WAS DELIVERED. The conversation threads were checked one by one: Fernando Narvaez has 1 message, Alan Arredondo has 1, Elena Tavares has 3 but only one dated 2026-09-24. HeyReach's two campaign records point at the same underlying send and the platform deduplicated at the conversation level.",
+      "actionTaken": "Paused 618477 and manually stopped Ohad Gold in 618489. Both were correct regardless: every one of 618477's ten people is covered by 618489, Jennifer Ayers had already been messaged by 618489 at 01:26, and Ohad Gold had already been messaged by 618477 at 19:55. Nothing useful was lost and nothing was at risk of going twice.",
+      "lesson": "Two rules out of this. First, PAUSED IS NOT DEAD. A campaign that wedges and gets paused can resume; the repo said 618477 would never run again and it ran. Verify campaign state, do not carry an assumption forward. Second, CAMPAIGN STATS ARE NOT THE TRUTH, THE THREAD IS. Two campaigns can both report MessageSent for one actual message. Before telling Marcel someone was double contacted, open the conversation and count."
     }
   ]
 }
