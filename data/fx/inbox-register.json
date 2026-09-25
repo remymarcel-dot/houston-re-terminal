@@ -1,6 +1,6 @@
 {
   "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
-  "lastFullSweep": "2026-09-25. 286 conversations swept unfiltered across three pages of 100, 100 and 86, to the end of the list. Up 11 from the 275 of 2026-09-24, all from Marcel's own outbound. 59 threads have the correspondent speaking last, unchanged. One new: Pavan Chandrashekar, a cold presentation design vendor pitch at 11:57 UTC, filed to vendorNoReplyOwed, nothing owed. Wylson has not yet answered the Tuesday coffee question. This sweep also audited every live campaign, which is how the 618477 problem below surfaced.",
+  "lastFullSweep": "2026-09-25 second sweep. 291 conversations swept unfiltered across offsets 0, 100 and 200, with offset 300 empty confirming the end of the list. Up 5 from the 286 of the morning sweep. 60 threads have the correspondent speaking last, up 1. The one new arrival is a real prospect reply: Rohlig Logistics, Richard Labib, CFO NORAM. The unread filter returned exactly 1 thread and it was Wylson with Marcel speaking last, which is another reminder that the unread filter finds nothing that matters.",
   "dispositioned": {
     "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
       "who": "Grupo Palco, Carlos Palma",
@@ -63,10 +63,24 @@
     "Handshake, Garrett Lord",
     "Mounir Akram Romani",
     "boardsi, Lisa Williams",
-    "Pavan Chandrashekar (presentation design, cold pitch 2026-09-25)"
+    "Pavan Chandrashekar (presentation design, cold pitch 2026-09-25)",
+    "Gabriel Sales, Carol Springer (Salesforce agency)",
+    "Sara Molina (board seat search)",
+    "RMJ Tax Consultant, Hanz Cardenas",
+    "El Primer Piso, Ramon Chavez Rosas (leadership study)",
+    "PetroFit, Nick MBA",
+    "Jhanna Reyes (on behalf of Daniel Popple)",
+    "Joorney Srbija, Tamara Doncic",
+    "TechupR, Dhaval Patel",
+    "Leadbird, Cermy De Marquez",
+    "Beth Mastre Enterprises, Beth Mastre",
+    "Now Elevate LLC, Sheila Mullen",
+    "Jose Kuri (podcast)",
+    "OUTPERFORM INTERNATIONAL, Ahsan jawaid"
   ],
   "closedByThem": [
-    "Sweet Seasons LLC, Marina Bernal: not interested"
+    "Sweet Seasons LLC, Marina Bernal: not interested",
+    "Rohlig Logistics, Richard Labib, CFO NORAM region at Rohlig USA, Greater Chicago. Replied 2026-09-25: 'thanks for reaching out. We use cashpooling and aren't in the market.' A real, treasury-literate decline from a CFO roughly 21 hours after Marcel's first message. Not an opt-out and not rude, so the door stays open, but no chasing. Reply drafted for Marcel: acknowledge cash pooling, leave it there, no ask."
   ],
   "tailFindings2026_09_22": {
     "sweptRange": "offsets 120 to 265, never covered by any earlier sweep",
@@ -115,5 +129,32 @@
       "notes": "Ex-Kantox, ex-GPS/Corpay, ex-SunTrust; ~25 yrs. Tried Aptean twice before and failed, congratulated Marcel on getting the meeting. In Atlanta often, offered to meet Aptean in person. Asked explicitly for directness, twice. German fluent, Spanish good (prefers Castilian), Portuguese only bom dia/obrigado.",
       "log": "data/fx/meetings/2026-09-25-jason-roof-outcome.md"
     }
-  ]
+  ],
+  "courtesyOnlyNothingOwed": [
+    "Threads whose last message is an emoji, a thank you, or a work-anniversary congratulation. No reply owed and none of them is a prospect signal. Logged so a future sweep does not keep re-surfacing them as untriaged:",
+    "Banamex, Mario Alberto Ochoa Barajas (competitor, anniversary)",
+    "The Energists, Gregg Pope (anniversary)",
+    "DELTA Asesores, Jose T. (anniversary)",
+    "Novacomp, Pedro Vazquez (anniversary)",
+    "SAP Concur, Ivette Loftus",
+    "Santander Mexico, Miguel C. (competitor)",
+    "SMU Continuing and Professional Education, Kris Fitzgerald",
+    "Treasury Directions LLC, Simha Chandran (possible channel, not a prospect)",
+    "Galletas de Calidad, Gabriel Espinosa",
+    "ASESORES Y CONSULTORES EN PREVISION Y RIESGOS, Ramon Madariaga Rumoroso",
+    "Grupo Estrategico Sigma, Juan Meza",
+    "OMB Media, Aldo Mizrahi",
+    "Up Pharma, Luis Sandin",
+    "ARM Seguros, Alejandro Mora",
+    "Rafael Ortiz-Canavate",
+    "Marco Mendez",
+    "Francisco Romero",
+    "Jorge O. Arce",
+    "JH Consulting Group, John MBA",
+    "Novamex, Mauricio Prado (courtesy connect, no ask)",
+    "Rosa Vazquez (complimented Marcel's FX and treasury work, warm, no ask)",
+    "Monex USA, Jose Flores Madero (colleague, empty thread)",
+    "Agrifruits Holdings, Hiro Watanabe ('Perfect!') \u2014 already owned by Marcel offline, meeting booked, do not resurface"
+  ],
+  "registerDrift": "2026-09-25: reconciling the 60 correspondent-last threads against this file found 34 that were not named anywhere in it. Almost all were harmless, emoji acknowledgments, anniversary notes and vendor pitches, but the register's whole value is the rule that anything absent from it is untriaged. A register missing 34 of 60 cannot do that job. All 34 are now dispositioned above, most into courtesyOnlyNothingOwed."
 }

@@ -3309,5 +3309,22 @@
     "canadaNote": "Canada is in scope and Monex USA onboards Canadian companies directly per Marcel 2026-09-25, so this is his deal rather than a Monex Canada referral.",
     "priorContactCheck": "never contacted; the previous failure was a bad URL, not a rejection",
     "nextStep": "invitation sends from 2026-10-01. If she accepts, the first message works the barrel and euro line; if silent, withdraw at 30 days."
+  },
+  {
+    "name": "Richard Labib",
+    "company": "Rohlig Logistics (Rohlig USA)",
+    "title": "Chief Financial Officer NORAM region",
+    "location": "Greater Chicago Area",
+    "profileUrl": "https://www.linkedin.com/in/richard-labib-9b604112",
+    "play": "play-0-first-degree",
+    "campaignId": null,
+    "listId": null,
+    "status": "closed",
+    "outcome": "declined-cash-pooling",
+    "firstTouch": "2026-09-24",
+    "loggedOn": "2026-09-25",
+    "note": "German freight forwarder, Bremen, founded 1852. Marcel's opener went out 2026-09-24 21:12 on agent settlements being the quiet part of a forwarder's P&L. Labib replied 2026-09-25 18:08, about 21 hours later: 'thanks for reaching out. We use cashpooling and aren't in the market.' The opener worked; the answer was no.",
+    "objection": "Cash pooling. This is the centralized-treasury objection, and it is the one to expect across German-owned subsidiaries, because German groups run group treasury and net intragroup flows centrally. Directly relevant to the German-American Chamber play being built: the first German company to answer said the treasury decision is not local.",
+    "nextStep": "Reply drafted for Marcel to approve: acknowledge cash pooling, leave it there, no ask. Then dormant. No chasing."
   }
 ]
