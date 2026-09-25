@@ -1,150 +1,161 @@
 {
- "lastRun": "2026-09-21T16:45:00-05:00",
- "runType": "inbox-triage",
- "senderAccountId": 237851,
- "networkSize": 22078,
- "conversationsTotal": 256,
- "accountLimitsAtRun": {
-  "connectionRequests": 15,
-  "messages": 30,
-  "profileViews": 40,
-  "postLikes": 30,
-  "follows": 12,
-  "inMail": 40
- },
- "cooldowns": "all clear",
- "inboxTriage": {
-  "unread": 2,
-  "real": 0,
-  "awaitingMarcel": 0,
-  "note": "Both unread are closing pleasantries. Grupo Palco, Carlos Palma said 'See you there' to the Stand 40 invitation, which confirms an in person meeting. DE LEON PROFESIONALES, Francisco Javier De Leon closed with thanks. Nothing owed."
- },
- "segmentation": {
-  "sampled": 1600,
-  "financeTitled": 400,
-  "usFxExposedQualified": 29,
-  "impliedAcrossFullNetwork": "~400",
-  "latamDropped": 65,
-  "reason": "user directive: US companies with FX exposure only"
- },
- "campaignBuilt": {
-  "campaignId": 603316,
-  "listId": 940462,
-  "leads": 26,
-  "status": "IN_PROGRESS",
-  "messagesStarted": 26,
-  "replies": 1,
-  "replyRate": "3.8% at day 1",
-  "staleDataRate": "1 of 26 retired"
- },
- "messagesSentLastRun": 2,
- "connectionRequestsSentLastRun": 0,
- "playsRun": [
-  "inbox-triage",
-  "network-mining",
-  "inbox-reconnect"
- ],
- "notes": "Cycle 1 complete and live. Three messages sent by hand: Daniel O'Quinn (peer acknowledgment, not a lead), Fátima Morales, Avery O'Brien and Luz Rodriguez. Campaign 603316 started 2026-09-15 with 26 leads carrying individually written openers. Account message cap left at 30/day rather than the 12/day week-1 ramp, at Marcel's direction, so the list will clear in roughly one to two days after four weeks of account dormancy — watch acceptance and reply behaviour closely on the first pass.",
- "errors": [],
- "archiveMined": {
-  "date": "2026-09-18",
-  "connections": 22536,
-  "messages": 24309,
-  "invitations": 5557,
-  "acceptedIn2026": 1766,
-  "everMessagedAfter": 398,
-  "everReplied": 83,
-  "replyRateWhenMessaged": "20.9%",
-  "neverMessaged": 1368,
-  "note": "The bottleneck is follow through, not acceptance or copy. See data/fx/linkedin/FINDINGS.md."
- },
- "closedThisRun": [
-  "Door Capital Partners, Alejandro Arregui: call happened, no FX exposure",
-  "TA Express, Jose Rene Tapia: followed up off platform, no result"
- ],
- "sentThisRun": [
-  "Fatima M.: accepted her referral channel offer",
-  "Grupo Palco, Carlos Palma: thanks plus Stand 40 invitation",
-  "Business Show Media, Henry Rawcliffe: closed with a real reason",
-  "Grupo Palco, Luis Merjil: WhatsApp sent by Marcel"
- ],
- "blocked": [],
- "owedByMarcel": [
-  "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook",
-  "El Paso: company mapping for the nine pending LinkedIn URLs, which blocks all sending",
-  "El Paso: decide event note vs blank connection request"
- ],
- "recordCorrections": [
-  "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
-  "Sanoxlabs was missing entirely: the signal detector only swept threads where the prospect spoke last",
-  "Grupo Palco's El Paso summit is Oct 22 and still ahead, not past",
-  "unanswered-signals ran at roughly 50% false positives on the four verified"
- ],
- "awaitingReply": [
-  "Aptean, Clifford D'Souza",
-  "Sanoxlabs Inc, Sergio E Manriquez",
-  "Ferrero USA, Ritesh Vachhani",
-  "Solve Networks, Jason Bell",
-  "Safer Food Services, Humberto Martinez",
-  "Grupo Palco, Luis Merjil (WhatsApp, off platform)",
-  "Fatima M. (sending her draft post for review)"
- ],
- "warmArchiveExercise": {
-  "surfaced": 9,
-  "closed": 9,
-  "leads": 0,
-  "reasons": "3 Mexican business, 2 too small, 1 already a customer, 1 Australian, 1 yes was off topic, 1 unresponsive after a clean close",
-  "conclusion": "The warm archive is worked out. Next pool is the 4,767 qualified never messaged, screened for country, size and customer status before any name is shown."
- },
- "elPaso": {
-  "event": "2026-10-21/22",
-  "stand": 40,
-  "matchmakingOpens": "~2026-10-07",
-  "sourced": 11,
-  "staged": 2,
-  "pendingCompany": 9,
-  "flagged": "Cristian Silva Lisboa has an invitation pending since 2026-05-18"
- },
- "channel": {
-  "who": "Fatima M.",
-  "state": "post approved, awaiting publication",
-  "why": "ineligible as an account, persona fisica in Veracruz, but has a Fresh Produce audience and proposed the referral herself",
-  "watch": "inbound US constituted importers and exporters; each still faces the US entity test"
- },
- "campaignLaunched": {
-  "campaignId": 613681,
-  "listId": 956421,
-  "name": "El Paso Summit - Exhibitors W1",
-  "leads": 9,
-  "sequence": "VIEW_PROFILE then CONNECTION_REQUEST with a per lead note, both branches END. No follow up message by design.",
-  "withdrawAfter": "30 days",
-  "schedule": "Mon to Fri 09:00 to 17:00 Central",
-  "held": "Soledad S., Munoz Trucking, wave 2, to avoid two approaches to one company on the same day"
- },
- "elPasoCampaigns": [
-  {
-   "id": 613681,
-   "name": "W1",
-   "leads": 9,
-   "started": "2026-09-21"
+  "lastRun": "2026-09-25T11:30:00-05:00",
+  "runType": "pool-sizing-and-campaign-build",
+  "senderAccountId": 237851,
+  "networkSize": 22137,
+  "conversationsTotal": 256,
+  "accountLimitsAtRun": {
+    "connectionRequests": 15,
+    "messages": 30,
+    "profileViews": 40,
+    "postLikes": 30,
+    "follows": 12,
+    "inMail": 40
   },
-  {
-   "id": 613743,
-   "name": "W2",
-   "leads": 10,
-   "startDate": "2026-09-23",
-   "why": "delayed so Juan Munoz and Soledad S. at the same company do not land together"
-  }
- ],
- "elPasoTotals": {
-  "sourced": 20,
-  "inCampaign": 19,
-  "blocked": 1,
-  "companies": 19
- },
- "nextMeeting": {
-  "who": "Grupo Palco, Luis Merjil",
-  "when": "2026-09-22 16:00 Central",
-  "prep": "see pipeline entry"
- }
+  "cooldowns": "all clear",
+  "inboxTriage": {
+    "unread": 2,
+    "real": 0,
+    "awaitingMarcel": 0,
+    "note": "Both unread are closing pleasantries. Grupo Palco, Carlos Palma said 'See you there' to the Stand 40 invitation, which confirms an in person meeting. DE LEON PROFESIONALES, Francisco Javier De Leon closed with thanks. Nothing owed."
+  },
+  "segmentation": {
+    "sampled": 1600,
+    "financeTitled": 400,
+    "usFxExposedQualified": 29,
+    "impliedAcrossFullNetwork": "~400",
+    "latamDropped": 65,
+    "reason": "user directive: US companies with FX exposure only"
+  },
+  "campaignBuilt": {
+    "campaignId": 622397,
+    "listId": 969709,
+    "leads": 6,
+    "status": "SCHEDULED",
+    "startDate": "2026-09-28",
+    "cut": 9,
+    "note": "Play 0 batch 4, produce signing seats. Scheduled for Monday deliberately: ~19 first-degree messages already in flight against a shared 30/day message cap."
+  },
+  "messagesSentLastRun": 2,
+  "connectionRequestsSentLastRun": 0,
+  "playsRun": [
+    "network-sizing",
+    "network-mining"
+  ],
+  "notes": "Jason Roof call logged separately. Aptean prep call invite received by Marcel; date sits on the Monex work calendar.",
+  "errors": [],
+  "archiveMined": {
+    "date": "2026-09-18",
+    "connections": 22536,
+    "messages": 24309,
+    "invitations": 5557,
+    "acceptedIn2026": 1766,
+    "everMessagedAfter": 398,
+    "everReplied": 83,
+    "replyRateWhenMessaged": "20.9%",
+    "neverMessaged": 1368,
+    "note": "The bottleneck is follow through, not acceptance or copy. See data/fx/linkedin/FINDINGS.md."
+  },
+  "closedThisRun": [
+    "Door Capital Partners, Alejandro Arregui: call happened, no FX exposure",
+    "TA Express, Jose Rene Tapia: followed up off platform, no result"
+  ],
+  "sentThisRun": [
+    "Fatima M.: accepted her referral channel offer",
+    "Grupo Palco, Carlos Palma: thanks plus Stand 40 invitation",
+    "Business Show Media, Henry Rawcliffe: closed with a real reason",
+    "Grupo Palco, Luis Merjil: WhatsApp sent by Marcel"
+  ],
+  "blocked": [],
+  "owedByMarcel": [
+    "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook",
+    "El Paso: company mapping for the nine pending LinkedIn URLs, which blocks all sending",
+    "El Paso: decide event note vs blank connection request"
+  ],
+  "recordCorrections": [
+    "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
+    "Sanoxlabs was missing entirely: the signal detector only swept threads where the prospect spoke last",
+    "Grupo Palco's El Paso summit is Oct 22 and still ahead, not past",
+    "unanswered-signals ran at roughly 50% false positives on the four verified"
+  ],
+  "awaitingReply": [
+    "Aptean, Clifford D'Souza",
+    "Sanoxlabs Inc, Sergio E Manriquez",
+    "Ferrero USA, Ritesh Vachhani",
+    "Solve Networks, Jason Bell",
+    "Safer Food Services, Humberto Martinez",
+    "Grupo Palco, Luis Merjil (WhatsApp, off platform)",
+    "Fatima M. (sending her draft post for review)"
+  ],
+  "warmArchiveExercise": {
+    "surfaced": 9,
+    "closed": 9,
+    "leads": 0,
+    "reasons": "3 Mexican business, 2 too small, 1 already a customer, 1 Australian, 1 yes was off topic, 1 unresponsive after a clean close",
+    "conclusion": "The warm archive is worked out. Next pool is the 4,767 qualified never messaged, screened for country, size and customer status before any name is shown."
+  },
+  "elPaso": {
+    "event": "2026-10-21/22",
+    "stand": 40,
+    "matchmakingOpens": "~2026-10-07",
+    "sourced": 11,
+    "staged": 2,
+    "pendingCompany": 9,
+    "flagged": "Cristian Silva Lisboa has an invitation pending since 2026-05-18"
+  },
+  "channel": {
+    "who": "Fatima M.",
+    "state": "post approved, awaiting publication",
+    "why": "ineligible as an account, persona fisica in Veracruz, but has a Fresh Produce audience and proposed the referral herself",
+    "watch": "inbound US constituted importers and exporters; each still faces the US entity test"
+  },
+  "campaignLaunched": {
+    "campaignId": 613681,
+    "listId": 956421,
+    "name": "El Paso Summit - Exhibitors W1",
+    "leads": 9,
+    "sequence": "VIEW_PROFILE then CONNECTION_REQUEST with a per lead note, both branches END. No follow up message by design.",
+    "withdrawAfter": "30 days",
+    "schedule": "Mon to Fri 09:00 to 17:00 Central",
+    "held": "Soledad S., Munoz Trucking, wave 2, to avoid two approaches to one company on the same day"
+  },
+  "elPasoCampaigns": [
+    {
+      "id": 613681,
+      "name": "W1",
+      "leads": 9,
+      "started": "2026-09-21"
+    },
+    {
+      "id": 613743,
+      "name": "W2",
+      "leads": 10,
+      "startDate": "2026-09-23",
+      "why": "delayed so Juan Munoz and Soledad S. at the same company do not land together"
+    }
+  ],
+  "elPasoTotals": {
+    "sourced": 20,
+    "inCampaign": 19,
+    "blocked": 1,
+    "companies": 19
+  },
+  "nextMeeting": {
+    "who": "Grupo Palco, Luis Merjil",
+    "when": "2026-09-22 16:00 Central",
+    "prep": "see pipeline entry"
+  },
+  "poolSizing": {
+    "uniqueEnumerated": 22115,
+    "decisionSeats": 5771,
+    "bothTests": 224,
+    "cleanAfterCollisions": 199,
+    "signingSeatUnflagged": 143,
+    "note": "headline is null across the whole network export and about is present for only 3859 of 22115, so the business filter could read company name only. 199 is a floor; 450 to 700 remains the honest estimate.",
+    "cheaperEnrichmentPath": "get_leads_from_list returns a populated headline where get_my_network_for_sender does not. Pushing the 5771 decision seats through lists in batches of 100 reads headlines back for free, roughly 58 calls."
+  },
+  "incidents": [
+    "Two fabricated profile URLs were written into list 969709 and caught by reading the list back against the source CSV before the campaign left DRAFT. Nothing sent. Second occurrence after Laura Plummer.",
+    "The batch 4 carried in session notes was stale: four of its six had already been cut for cause (Bloom Fresh, Lighthouse Transportation, Kingdom Cold, A-Line Flooring)."
+  ]
 }
