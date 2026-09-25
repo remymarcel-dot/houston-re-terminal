@@ -61,6 +61,28 @@ against the cold baseline: campaign 552667 got **1 acceptance from 18 requests,
 6. **Whether the El Paso line pulled.** Rami Abdeljaber got an offer of half an
    hour in his own city. That is the most concrete ask in the whole play.
 
+## First reply is in, and it is a no with a reason
+
+**Rohlig Logistics, Richard Labib, CFO NORAM region**, from campaign 618489,
+Play 0 batch 1 rebuild. Message out 2026-09-24 21:12, reply 2026-09-25 18:08,
+**about 21 hours**. His words: *"thanks for reaching out. We use cashpooling and
+aren't in the market."* Marcel's close sent 19:09 on his instruction, no ask.
+
+Two things to carry into the review:
+
+1. **The opener works.** A regional CFO read and answered a first-degree message
+   inside a day. Whatever else the review finds, the message is getting read by
+   the right people.
+2. **Cash pooling is the objection to expect from any group-owned subsidiary**,
+   not just German ones. It should be counted separately from silence and from
+   "wrong person", because it means the seat was right and the treasury model was
+   wrong. That is a targeting lesson, not a copy lesson.
+
+**Use `autoTags` when doing the review.** HeyReach had tagged this thread "Not
+interested" 47 minutes after the reply landed, and the tag names the source
+campaign. That gives per-campaign reply sentiment directly instead of by
+inference. It does not carry the reason, so threads still get read.
+
 ## Things already known to be worth changing
 
 Do not wait for the review to fix these.

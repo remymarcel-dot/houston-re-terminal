@@ -2259,17 +2259,19 @@
     "title": "Chief Financial Officer",
     "profileUrl": "https://www.linkedin.com/in/richard-labib-9b604112/",
     "play": "play-0-accepted-never-messaged",
-    "status": "message-sent",
+    "status": "closed",
     "firstTouch": "2026-09-23",
     "lastActivity": "2026-09-23",
     "signal": "Accepted Marcel's connection since March 2026 and was never messaged. First degree, so no invitation quota and no acceptance wait.",
-    "note": "CFO at Rohlig USA, Greater Chicago. The US entity, not the German parent whose 2,700 people and $1.6B triggered a size flag. Opener is a forwarder's agent settlements paid in many currencies against dollar revenue.",
+    "note": "CFO at Rohlig USA, Greater Chicago. The US entity, not the German parent whose 2,700 people and $1.6B triggered a size flag. Opener is a forwarder's agent settlements paid in many currencies against dollar revenue. Source campaign was 618489, Play 0 batch 1 rebuild, not an untracked message: the pipeline entry originally recorded campaignId as null and that was wrong.",
     "messageSent": "Richard, we connected a while back and I have not written since, which I want to correct.\n\nI run FX and cross border payments at Monex USA. A forwarder's agent settlements are the quiet part of the P&L, paid in a dozen currencies against revenue booked in dollars, and the spread on those never appears as a line item.\n\nIs that something you look at directly at Rohlig USA?\n\nMarcel",
     "campaignId": 618489,
-    "listId": 963812,
+    "listId": 963801,
     "loggedOn": "2026-09-23",
-    "nextStep": "Two follow ups maximum on silence, then dormant. The question is the whole message; do not add capability if he replies with a short answer.",
-    "rebuildNote": "Originally built as campaign 618477, which wedged in STARTING and never began. Paused before anything sent and rebuilt as 618489 on a clean list. Nobody was messaged twice."
+    "nextStep": "None. Dormant. Do not resurface. The company is not blacklisted, so a different Rohlig seat is not forbidden, but there is no reason to try one after a group-treasury answer from the NORAM CFO.",
+    "rebuildNote": "Originally built as campaign 618477, which wedged in STARTING and never began. Paused before anything sent and rebuilt as 618489 on a clean list. Nobody was messaged twice.",
+    "replySent": "2026-09-25T19:09Z. 'Richard, understood, and cash pooling is the right tool when the flows sit inside the group. I will leave it there. If that ever changes, you know where to find me. Marcel' Sent on Marcel's instruction. Three messages in the thread, Marcel last. No further contact.",
+    "heyReachAutoTag": "HeyReach auto-tagged him 'Not interested' at 2026-09-25T18:55Z, 47 minutes after his reply landed and before any human read it."
   },
   {
     "name": "Malcolm Pais",
@@ -3317,14 +3319,16 @@
     "location": "Greater Chicago Area",
     "profileUrl": "https://www.linkedin.com/in/richard-labib-9b604112",
     "play": "play-0-first-degree",
-    "campaignId": null,
-    "listId": null,
+    "campaignId": 618489,
+    "listId": 963801,
     "status": "closed",
     "outcome": "declined-cash-pooling",
     "firstTouch": "2026-09-24",
     "loggedOn": "2026-09-25",
-    "note": "German freight forwarder, Bremen, founded 1852. Marcel's opener went out 2026-09-24 21:12 on agent settlements being the quiet part of a forwarder's P&L. Labib replied 2026-09-25 18:08, about 21 hours later: 'thanks for reaching out. We use cashpooling and aren't in the market.' The opener worked; the answer was no.",
+    "note": "German freight forwarder, Bremen, founded 1852. Marcel's opener went out 2026-09-24 21:12 on agent settlements being the quiet part of a forwarder's P&L. Labib replied 2026-09-25 18:08, about 21 hours later: 'thanks for reaching out. We use cashpooling and aren't in the market.' The opener worked; the answer was no. Source campaign was 618489, Play 0 batch 1 rebuild, not an untracked message: the pipeline entry originally recorded campaignId as null and that was wrong.",
     "objection": "Cash pooling. This is the centralized-treasury objection, and it is the one to expect across German-owned subsidiaries, because German groups run group treasury and net intragroup flows centrally. Directly relevant to the German-American Chamber play being built: the first German company to answer said the treasury decision is not local.",
-    "nextStep": "Reply drafted for Marcel to approve: acknowledge cash pooling, leave it there, no ask. Then dormant. No chasing."
+    "nextStep": "None. Dormant. Do not resurface. The company is not blacklisted, so a different Rohlig seat is not forbidden, but there is no reason to try one after a group-treasury answer from the NORAM CFO.",
+    "replySent": "2026-09-25T19:09Z. 'Richard, understood, and cash pooling is the right tool when the flows sit inside the group. I will leave it there. If that ever changes, you know where to find me. Marcel' Sent on Marcel's instruction. Three messages in the thread, Marcel last. No further contact.",
+    "heyReachAutoTag": "HeyReach auto-tagged him 'Not interested' at 2026-09-25T18:55Z, 47 minutes after his reply landed and before any human read it."
   }
 ]
