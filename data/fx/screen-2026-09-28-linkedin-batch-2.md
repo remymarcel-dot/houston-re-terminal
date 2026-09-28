@@ -364,3 +364,88 @@ Marcel with no pitch costs nothing and is the right instrument. His call.
 
 **Campaign 625479 unchanged at nine.** Wednesday's wave currently holds one name,
 Paul Miller.
+
+---
+
+## Twenty URLs screened, 2026-09-28
+
+All twenty imported to scratch list 974852 and read back. **No collisions** against
+`pipeline.json` at person or company level.
+
+Thirteen of the twenty read Conroe, Texas. Combined with Galindo, Miller,
+Cross-Woodstock and Castleberry, this is plainly a Conroe geography filter being
+worked profile by profile, and it can be run in one pass instead.
+
+### Worth an invitation, in order
+
+1. **Matthew Dunlap**, `matthew-dunlap-racxrd`, id 221234369. Director of Finance
+   and Forecasting, **Rigaku Americas Semiconductor Metrology Division**, Conroe.
+   Rigaku is Japanese. The US division sells instruments built in Japan, so the
+   yen sits inside the cost of everything it ships. The corporate structure is the
+   evidence; nothing has to be assumed.
+2. **Byron Wienecke**, `byron-wienecke-84a530a8`, id 383513530. **CFO, Refined
+   Technologies**, Conroe. Patented refinery decontamination, described by the
+   company as a global industrial solutions provider partnering with operations
+   teams around the world, serving refining, petrochemical **and oil sands**.
+   Crews and vendors abroad, CFO seat, private and mid sized. No desk in the way.
+3. **Sean Fightmaster, CPA**, `sean-fightmaster-cpa-b557b8107`, id 452868977.
+   **CFO, Panelmatic**, Greater Houston. Switchgear and control houses, 42 acre
+   Houston plant, founded 1957. Right seat, right city, **but the foreign spend is
+   not documented**. Plausible that the breakers come from Europe; plausible that
+   they are bought from US distributors in dollars. Behind the other two until
+   that is known.
+
+### Cut, with the reason
+
+- **Camila De Oliveira**, FP&A Manager Americas, **Ashland**. Her own profile
+  lists FX exposure and translation experience, which is tempting, but Ashland is
+  a multi billion dollar listed specialty chemicals group with a treasury desk,
+  and FP&A does not sign.
+- **Christine Duran**, Treasury **Analyst**, Excelerate Energy. Real FX at the
+  company, wrong level.
+- **Chris Levy**, Treasury **Analyst**, Wellbore Integrity Solutions. Same.
+- **Scott Freeman**, Director of Finance and Controller, **Precision Castparts**.
+  Berkshire Hathaway owned.
+- **Jorge Salvador Toledo**, Sr Regional Finance Director Americas and Acting CFO
+  México, **DP World**. Dubai owned ports group, treasury sits with the group.
+  *Checked and not a collision* with Rogelio Toledo at Schryver Logistics:
+  different people, different companies.
+- **Artemio Jr. Garcia**, Director of Finance, Ambassador Services USA. Domestic
+  mid market services.
+- **Nakita Brown**, Senior Cost Accountant, Kodiak Gas Services. Junior, domestic.
+- **Brandon Noske**, CFO, **Revcord**. Small domestic call recording software.
+  Note the slug reads `bbillnoske` while the profile name is Brandon.
+- **Jeff Tucker**, CFO, **Tower Resources Inc**, Houston. **Nearly a mistake.** The
+  name matches Tower Resources plc, the London listed company with Cameroon and
+  Namibia assets, and on that reading he looked strong. The Houston Tower
+  Resources Inc is a different company: a conventional Texas E&P, Railroad
+  Commission operator 862857, domestic wells. No foreign currency anywhere.
+
+### Cannot screen without more
+
+- **Jessica Echegaray**, VP of Finance, id 39782983. Enriched, but employer null.
+- **Andy Malo**, Finance Manager US, id 213336603. Same.
+- **Andrea Parmley**, **AgSpire**, position null. AgSpire is US regenerative
+  agriculture services, so probably domestic regardless.
+- **Joshua Eaton, CPA**, Controller, **TURBINE-X Energy**, Conroe. Small. Turns on
+  whether they source turbine parts abroad.
+
+### Four more stale slugs, 20% of the batch
+
+`bass-moore-33410939`, `josh-glover-8a1a422a0`, `santillanmig` and
+`deanna-clavell-mafm-ctsbo-2aa040145` all imported with `imp_` placeholder ids and
+null everything, exactly like the Cindy Woodstock case. Four out of twenty is not
+an edge case. Each needs the URL copied from the browser address bar with the
+profile open.
+
+### Open discrepancy, flagged not resolved
+
+`pipeline.json` holds **no entry for Felipe Condessa or Rogelio Toledo**, although
+`heartbeat.json` records campaign **622656** for them, due to send 2026-09-29.
+They appear only in `german-chamber-roster-screen.md`. Attempting to read 622656
+returned a 500, but so did 622554, a campaign known to exist, so the read endpoint
+is failing generally right now and **nothing can be concluded about whether 622656
+is real**. Tomorrow's verification routine covers it.
+
+If the 500s persist into tomorrow morning, the verification routine cannot do its
+job and will need to say so rather than report silence as success.
