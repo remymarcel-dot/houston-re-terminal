@@ -128,3 +128,54 @@ Same person, same judgement, same evening. The difference is the filter.
 **Nothing built. Nothing sent.** Wednesday's wave already holds seven, so adding
 eight would put fifteen invitations on one day, which is the ceiling exactly. A
 Thursday wave is the right home for these.
+
+---
+
+## Built and launched, 2026-09-28
+
+Marcel: *"GO"*.
+
+**Campaign 626018, list 975249, SCHEDULED, 8 users, 8 pending, 0 failed,
+0 excluded**, first sends **2026-10-01**. Started and read back, since
+`start_campaign` returns nothing.
+
+### Five of eight resolved, three did not
+
+| Lead | LinkedIn id |
+|---|---|
+| Joseph Rangel | 302646276 |
+| William White | 8577681 |
+| Robbi Turek | 52049160 |
+| Alana Lyons | 36015733 |
+| Mike Sorna | 114983440 |
+| **Heather Olivier** | `imp_` placeholder |
+| **Chris Grappe** | `imp_` placeholder |
+| **Marcia Rubio** | `imp_` placeholder |
+
+The three unenriched are the Sifuentes case again, and the URLs came from Apollo's
+own LinkedIn data rather than from a guess, so there is no better link to find.
+They were **left in the campaign rather than removed**, because unlike Candy this
+one is not sending for three days and a send may well succeed where enrichment
+does not. The 10-01 check will show whether they failed.
+
+Two of the three are among the strongest names in the sweep: Grappe under a German
+parent and Rubio under Grupo Sayer. If they fail, Marcel sends those two by hand
+with the notes exactly as written, the way he did with Candy.
+
+### One record discrepancy worth keeping
+
+**Alana Lyons' LinkedIn headline still describes her as Operations Manager of an
+asset based trucking company.** Apollo has her as CFO since January 2022 and
+HeyReach's own position field says Chief Financial Officer. The headline is simply
+stale, but if she replies puzzled by being addressed as CFO, that is why.
+
+### Invitation load for the week
+
+| Date | Invitations | Campaigns |
+|---|---|---|
+| Tue 29 Sep | 12 automated plus 1 manual | 625450, 625479 |
+| Wed 30 Sep | 7 | 625896 |
+| Thu 1 Oct | 8 | 626018, plus the existing Two Brothers and Hillside sends |
+
+Thirteen, seven, eight. Irregular, under the ceiling every day, and nothing
+pinned to the cap.
