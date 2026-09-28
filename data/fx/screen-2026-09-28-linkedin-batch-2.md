@@ -331,3 +331,36 @@ is on and zero were excluded, so the two waves do not overlap.
    lead carries the placeholder id `imp_SBEJHDBITUUWEDMKVAHSXLSQK` and never
    enriched. If it fails she was not contacted, and Marcel needs telling rather
    than assuming she was.
+
+### Conroe cluster, and Dean Castleberry, 2026-09-28
+
+Four of the recent names are in Conroe, which is a pattern worth naming rather
+than treating as coincidence: **Victor Galindo** (Galdisa, already invited in
+625450), **Paul Miller** (Deveraux Specialties), **Cindy Cross-Woodstock** (IGI
+Services) and now **Dean Castleberry**. If Marcel is working a Montgomery County
+or Conroe chamber list, that filter can be run properly in one pass instead of
+one profile at a time.
+
+**Dean Castleberry**, `deancastleberry`, LinkedIn id 26604168, **Vice President
+Finance, Accounting and Treasury at U.S. Silica Company**, Conroe.
+
+**The best seat anyone has sent today.** Treasury is named in the title, not
+adjacent to it. That is the person who signs.
+
+**And the weakest company for it.** U.S. Silica was taken private by Apollo funds
+for $1.85 billion in July 2024 and runs 26 operating mines and processing
+facilities, all across the United States. Domestic industrial minerals sold to
+domestic customers. There is no documented foreign currency spend to open on.
+
+This is the Cactus call again without the saving detail. With Cactus the Suzhou
+plant was in the company's own S-1, so the note could be specific and true. Here
+there is nothing to point at, and writing a note that guesses at exposure to a VP
+of Treasury at an Apollo portfolio company is how a campaign earns the 5.6% from
+552667. **Not added.**
+
+What he is worth is different and real: a Houston area treasury peer at a sponsor
+owned business, who will know other treasurers by name. A connection request from
+Marcel with no pitch costs nothing and is the right instrument. His call.
+
+**Campaign 625479 unchanged at nine.** Wednesday's wave currently holds one name,
+Paul Miller.
