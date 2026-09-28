@@ -649,3 +649,59 @@ The seat is also vague, "Finance | Operations", not a named treasury or CFO role
 
 **Cut.** Nothing added. Final state for the day unchanged: 625479 at eight for
 2026-09-29, 625896 at six for 2026-09-30.
+
+---
+
+## Platzi, 2026-09-28: strong company, wrong person, warm route available
+
+`johnfreddyvega` — Freddy Vega, CEO and co-founder of **Platzi**, San Francisco,
+2nd degree, **34 mutual connections** and LinkedIn showing **19 connections who
+can introduce**. No collision.
+
+### The company is one of the best FX fits seen all day
+
+Platzi is a US parented company (YC W15, CEO role listed as United States) selling
+online education **across Latin America**, over a million students, $62m Series B.
+
+That means subscription revenue collected from consumers in **Colombian pesos,
+Mexican pesos, Argentine pesos, Chilean pesos, soles and reais**, against costs in
+US dollars and local payroll. A multi currency receivable book in some of the most
+volatile currencies in the hemisphere. This is a different shape from everything
+else screened today, which was Houston industrial, and it is a genuinely good one.
+
+### Freddy is the wrong entry point, for three separate reasons
+
+1. **317,374 followers**, MIT 35 under 35, BBC and TechCrunch coverage. The volume
+   of inbound he receives makes a cold invitation from a stranger close to
+   invisible.
+2. He is a founder and public figure, **not the operator of the payment stack**.
+3. A cold approach here spends the relationship. With 34 mutuals it should be warm.
+
+### The seat is Daniel Salas Vernot, CFO
+
+Found publicly at `co.linkedin.com/in/daniel-salas-vernot-chief-financial-officer-finance`.
+**Not copied into any list**, because a co. prefixed search result is not the same
+as a URL taken from the live profile, and this session has already put two
+fabricated URLs into a list. Marcel opens it, copies from the address bar.
+
+Note he sits in **Colombia**, so the opener must be framed on the US entity's
+collections and settlement, per the standing rule that we ask about the US side.
+Colombia itself is not a stop; Marcel cleared Green Coffee Company on 2026-09-25,
+and only Venezuela is a hard stop.
+
+### The honest caveat before anyone walks in
+
+A company of this size collecting consumer payments across Latin America almost
+certainly already uses a local acquiring processor such as dLocal or EBANX, which
+collects in local currency and settles in dollars. Much of the FX is therefore
+already intermediated, and at a spread the company may not see. That is the
+question to ask rather than a reason to skip, but Marcel should expect it as the
+first answer instead of being surprised by it.
+
+### Route
+
+**Andrés Bilbao is already a first degree connection** (Rappi co-founder, 30X.com)
+and sits in exactly this founder network. An introduction from him, or from any of
+the nineteen, reaches the CFO warm. That beats a cold invitation to either man.
+
+**Nothing added. No URL constructed.**
