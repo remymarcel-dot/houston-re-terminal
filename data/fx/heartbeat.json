@@ -270,5 +270,24 @@
    "616214 El Paso W4, one failed user and a drop from ten users to four"
   ],
   "notCovered": "Later send dates this week are not in this one shot: 622554 on 09-30, and 622570, 622602 and 622608 on 10-01. Offered to Marcel as a recurring weekday routine; he has not been asked to decide twice."
+ },
+ "verificationRoutine2": {
+  "triggerId": "trig_01Gqbyg3G72h4AZAqWSNpA6x",
+  "name": "Verify wave 3 fired",
+  "firesAt": "2026-09-30T14:25:00Z, 09:25 Houston",
+  "type": "one shot, bound to this session",
+  "createdOnOwnInitiative": "Marcel authorized the 09-29 run explicitly. This second one was created because he then told me to start 625896, which sends on 09-30 and did not exist when he answered. Told to him plainly; he can have it deleted.",
+  "checks": [
+   "625896 IN_PROGRESS with a real startedAt",
+   "622554 Play 0 batch 5, messages quota not invitations",
+   "625450 and 625479 completed rather than stalled, with totalUsersFailed reported",
+   "whether the 500s on the campaign read endpoint are still happening"
+  ]
+ },
+ "invitationLoad": {
+  "2026-09-29": "13 across 625450 and 625479",
+  "2026-09-30": "6 in 625896",
+  "ceiling": 15,
+  "note": "Thirteen then six is an irregular shape rather than a pinned ceiling, which is what the volume rule asks for."
  }
 }

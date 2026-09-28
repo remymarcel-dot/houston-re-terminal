@@ -591,3 +591,19 @@ want.
 
 **If he names someone, that person is the lead and Gary is not to be worked
 again.** One seat per company still applies.
+
+## Wave 3 launched, 2026-09-28
+
+Marcel: *"go ahead and start 625896"*. Started and read back rather than assumed,
+since `start_campaign` returns no output.
+
+**625896: SCHEDULED, 6 users, 6 pending, 0 failed, 0 excluded**, first sends
+2026-09-30. Zero excluded confirms no overlap with the two waves already queued.
+
+Invitation load: **thirteen on 09-29, six on 09-30**, against a ceiling of fifteen.
+Irregular rather than pinned, which is what the volume rule asks for.
+
+A second verification routine was created for 09-30 at 09:25 Houston,
+`trig_01Gqbyg3G72h4AZAqWSNpA6x`. Marcel authorized the 09-29 run explicitly; this
+one covers a campaign that did not exist when he answered and that he had just
+told me to start. Told to him plainly rather than done quietly.
