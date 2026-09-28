@@ -735,3 +735,34 @@ ContourGlobal calls made earlier the same day.
 **But he is a legitimate Houston relationship.** A sitting CFO of a major's US arm,
 in Katy, in energy finance, who will hold other seats later. A plain connection
 costs nothing from the campaign budget. Marcel's call, as with Castleberry.
+
+### Cordon added as a question, and a mechanic confirmed, 2026-09-28
+
+Marcel: *"yes write him the connection note asking the COP question"*.
+
+Added to list 975075. **Campaign 625896 moved from six leads to seven**, which
+confirms a SCHEDULED campaign picks up list changes in both directions. Removing
+Sifuentes took 625479 from nine to eight earlier; adding Cordon took this one from
+six to seven.
+
+Logged under `play-4-cold-invitation-question`, a third instrument alongside the
+prospect note and the referral ask, because it is neither. It pitches nothing and
+asks the single question that would change a screening decision already made.
+
+> Fernando, one thing I would genuinely want to know about a US arm of a Colombian
+> parent: does Katy fund any peso costs directly, secondees or service agreements,
+> or does Bogotá handle all of it? I work on FX and cross border payments at Monex
+> USA, here in Houston. Marcel
+
+Either answer is useful, which is the point. Yes means a book and the right seat.
+No means a Houston energy finance relationship at no cost.
+
+### Helen Smith, unenrichable
+
+`helen-smith-ctp-37615425` imported with the placeholder id
+`imp_JSNDQOKAWWZJESBMHADIIPVER` and null everything. Per the policy set earlier
+today, **not re-imported repeatedly**. Marcel supplies employer and seat.
+
+Worth noting the slug carries **CTP**, Certified Treasury Professional. That is a
+real treasury credential rather than a generic finance title, so this one is worth
+the thirty seconds to look up, unlike the four Conroe slugs.
