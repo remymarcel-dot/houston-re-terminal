@@ -568,3 +568,26 @@ not in the market. That is the argument for adding an industry or headcount filt
 before running the sweep again, not for working through the results one by one.
 
 **Not added. Campaign 625896 unchanged at five.**
+
+### Gary Keeling approached as a route, not a prospect, 2026-09-28
+
+Marcel approved the introduction approach. Added to list 975075, so **campaign
+625896 now holds six leads**, still DRAFT.
+
+Logged under a distinct play, `play-4-cold-invitation-referral-ask`, because it is
+not the same instrument as the other five and should not be read as one when the
+wave is reviewed. The note makes no pitch, claims no exposure, and asks a single
+question he can answer in one line:
+
+> Gary, I work on FX and cross border payments at Monex USA, here in Houston.
+> Lincoln Lumber is on the import and export side of that, and you will know the
+> right person far better than I would guess. Who handles those payments? Glad to
+> connect either way. Marcel
+
+Two things follow from that framing. It is honest, since we are not pretending a
+sales and marketing executive buys currency. And it is cheap to be wrong about,
+since the worst case is a connection with a well placed person at a company we
+want.
+
+**If he names someone, that person is the lead and Gary is not to be worked
+again.** One seat per company still applies.
