@@ -302,3 +302,32 @@ commercial reason to be helpful. Same category as Will Cavan and Cultivar: a
 relationship for Marcel to open personally, not a campaign action.
 
 **Campaign 625479 unchanged at nine.**
+
+---
+
+## Launched, 2026-09-28
+
+Marcel: *"ok go ahead with 625479"*.
+
+`start_campaign` returned no output, so the status was read back rather than
+assumed. Both waves confirmed:
+
+| Campaign | Status | Users | Pending | Failed | Excluded |
+|---|---|---|---|---|---|
+| 625450, wave 1 | SCHEDULED | 4 | 4 | 0 | 0 |
+| 625479, wave 2 | SCHEDULED | 9 | 9 | 0 | 0 |
+
+Thirteen invitations queued for 2026-09-29 against a ceiling of fifteen.
+**Nine users, not eight**, which also confirms Candy-Dulce Sifuentes was not
+dropped at campaign level despite failing enrichment. `excludeInOtherCampaigns`
+is on and zero were excluded, so the two waves do not overlap.
+
+### Two things to check tomorrow, both from failures already recorded
+
+1. **Verify both campaigns read IN_PROGRESS on the send date.** Campaign 622397
+   was confirmed SCHEDULED on 09-25 and read DRAFT on 09-28 having sent nothing.
+   SCHEDULED is not started, and a launch confirmation does not survive.
+2. **Check `totalUsersFailed` against Candy-Dulce Sifuentes specifically.** Her
+   lead carries the placeholder id `imp_SBEJHDBITUUWEDMKVAHSXLSQK` and never
+   enriched. If it fails she was not contacted, and Marcel needs telling rather
+   than assuming she was.
