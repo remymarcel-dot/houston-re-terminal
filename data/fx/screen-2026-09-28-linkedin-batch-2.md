@@ -253,3 +253,29 @@ connection request with no pitch costs nothing from the relationship budget rath
 than the campaign budget. That is Marcel's call, not a campaign action.
 
 **Campaign 625479 unchanged at eight leads.**
+
+### Rodolfo Tinoco, Federated Maritime, added, 2026-09-28
+
+`rodolfotinoco1` resolves to LinkedIn id 70216156. Worth noting how it came back:
+the **headline** reads "Director of Finance and Administration at Federated
+Maritime" while the **structured company field** still says International
+Assistant Controller at SEACOR Marine Holdings. Same staleness pattern as Denholm.
+The headline is the live profile and the field is the older record, so the
+headline wins.
+
+Federated Maritime LLC, founded 2016, headquartered in Boca Raton, four vessels,
+ocean transportation and logistics **for US government customers**.
+
+That last detail is the whole thesis and it is the sharpest in this batch. Revenue
+arrives in dollars from government contracts. Costs leave in whatever the port
+charges: bunkers, agents, port dues, crew abroad. A pure one way mismatch, with no
+natural hedge anywhere on the income statement.
+
+The company is small enough that Director of Finance and Administration is the
+entire finance function, so there is no treasury desk in the way, which is the
+opposite of the Cactus and ContourGlobal problem. His SEACOR Marine background
+means he has already run multi currency operations at scale and will not need the
+concept explained.
+
+**Campaign 625479 now holds nine leads**, still DRAFT. That is the ceiling for
+tomorrow once yesterday's four are counted, so further names wait for Wednesday.
