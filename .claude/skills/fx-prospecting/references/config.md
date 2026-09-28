@@ -509,3 +509,20 @@ a share link or a saved bookmark, all of which can carry the old one.
 **Still open.** Candy-Dulce Sifuentes, `candy-dulce-sifuentes-271a271a7`, fails
 the same way across two separate imports. A name change is the leading
 explanation and has not yet been confirmed.
+
+## The list index lags the import, so a fresh lead reads as missing
+
+After `add_leads_to_list_v2` reports `addedLeadsCount: 1`, the lead can be
+invisible for a short while: `get_leads_from_list` returns nothing for a keyword
+match on the surname, nothing for a `leadProfileUrl` filter, and `totalCount`
+still shows the pre-import number.
+
+Observed 2026-09-28 with Chris Sadler. The record was in fact created, proved by
+re-sending the same lead and getting `addedLeadsCount: 0, updatedLeadsCount: 1`,
+and a moment later a keyword search on the **first** name returned him normally.
+
+So: a lead that does not appear immediately has not necessarily failed. Before
+concluding an import failed, re-send it once and read the counts. An `updated`
+count means it is already there and must not be added again. Do not conclude from
+a single empty read that the lead is missing, and do not re-import blindly, which
+is how a lead ends up in a campaign twice.

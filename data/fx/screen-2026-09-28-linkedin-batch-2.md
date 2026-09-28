@@ -542,3 +542,29 @@ their import and export payments is a better first move than any note we could
 write to Gary directly.
 
 **Not added. Campaign 625896 unchanged at five.**
+
+### Chris Sadler, War Works Industries, not added, 2026-09-28
+
+`chris-sadler-01332313`, LinkedIn id 45582927, Conroe. Headline reads **CEO at
+War Works Industries Corp** while the structured company field says **Honor
+Cafe**; by the now familiar pattern the headline is current and the field is the
+older record.
+
+War Works Industries Corp, Conroe, established 2017, veteran owned, a **Type 07
+Federal Firearms License holder** in the defense and shooting sports industry.
+Sadler is a former Marine with the 22nd and 26th MEU. Honor Cafe is his veteran
+focused coffee shop in downtown Conroe.
+
+**Owner seat, which is the category Marcel prioritized, and still a no.** There is
+no foreign currency book here that can be substantiated. A single location Type 07
+manufacturer sources domestically in practice, firearms importing is tightly
+regulated, and export needs ITAR licensing that a shop this size will not hold. A
+single cafe buys its coffee already roasted from a US supplier.
+
+**This one is diagnostic of the sweep itself.** A geography filter on Conroe with
+the keyword "owner" pulls in local businesses with no international dimension at
+all: cafes, gun shops, service firms. The seat is right and the company simply is
+not in the market. That is the argument for adding an industry or headcount filter
+before running the sweep again, not for working through the results one by one.
+
+**Not added. Campaign 625896 unchanged at five.**
