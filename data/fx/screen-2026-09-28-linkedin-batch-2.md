@@ -705,3 +705,33 @@ and sits in exactly this founder network. An introduction from him, or from any 
 the nineteen, reaches the CFO warm. That beats a cold invitation to either man.
 
 **Nothing added. No URL constructed.**
+
+### Fernando Cordon, Ecopetrol USA, 2026-09-28
+
+`fernando-cordon-aa69375`, LinkedIn id 17245278, **CFO and Administrative Manager,
+Ecopetrol USA Inc.**, Katy, Texas. No collision.
+
+**Venezuela check, done first because it is a hard stop.** His summary lists
+Venezuela among the countries where he has built joint venture financial
+infrastructures, alongside Algeria, Angola, Colombia, Iraq, UAE, USA and UK. That
+is his own career history at prior postings, not a Venezuelan employer. Ecopetrol
+is Colombian. **No stop applies**, and Colombia was cleared on 2026-09-25.
+
+**The seat is excellent, the company is the same shape we have declined twice
+today.** Ecopetrol USA is the US subsidiary of Colombia's state controlled major,
+running Permian and Gulf of Mexico interests. Crude sells in dollars, US drilling
+and services cost dollars, and the group runs a full corporate treasury in Bogotá.
+That is ContourGlobal and Perennial Power again: a large foreign parent whose
+currency exposure sits at the parent, not at the US operating entity.
+
+**What would change the call, and cannot be documented from here:** whether the
+Katy entity funds Colombian peso costs directly, such as expatriate payroll,
+secondee arrangements or intercompany service agreements settled in COP. If it
+does, there is a book. If Bogotá handles it, there is not.
+
+**Not added as a campaign lead**, to stay consistent with the Perennial and
+ContourGlobal calls made earlier the same day.
+
+**But he is a legitimate Houston relationship.** A sitting CFO of a major's US arm,
+in Katy, in energy finance, who will hold other seats later. A plain connection
+costs nothing from the campaign budget. Marcel's call, as with Castleberry.
