@@ -506,9 +506,18 @@ contacted. Ask for the URL copied **from the browser address bar with the
 profile open**, which is the canonical slug, rather than from a search result,
 a share link or a saved bookmark, all of which can carry the old one.
 
-**Still open.** Candy-Dulce Sifuentes, `candy-dulce-sifuentes-271a271a7`, fails
-the same way across two separate imports. A name change is the leading
-explanation and has not yet been confirmed.
+**A stale slug is not the only cause.** Candy-Dulce Sifuentes,
+`candy-dulce-sifuentes-271a271a7`, fails the same way across three imports, and
+Marcel confirmed that URL from the live profile three separate times, so the slug
+is current and the name-change explanation is ruled out for her. Passing the slug
+as `username` instead of `profileUrl` is not a workaround either: the import is
+dropped outright, because a payload without `profileUrl` is rejected silently.
+
+So some profiles simply will not enrich, most likely because of their own privacy
+settings or their visibility from the sending account. The lead still sits in the
+campaign and will still be attempted. Watch `totalUsersFailed` on the send date,
+and if it fails, the fallback is for Marcel to message the person directly from
+LinkedIn, which costs him one click and bypasses HeyReach entirely.
 
 ## The list index lags the import, so a fresh lead reads as missing
 
