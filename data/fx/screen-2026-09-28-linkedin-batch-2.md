@@ -449,3 +449,43 @@ is real**. Tomorrow's verification routine covers it.
 
 If the 500s persist into tomorrow morning, the verification routine cannot do its
 job and will need to say so rather than report silence as success.
+
+---
+
+## Wave 3 built, 2026-09-28
+
+Marcel: *"can you add the 3 worth contacting?"*
+
+**Campaign 625896, list 975075, status DRAFT**, sender 237851, Mon to Fri
+09:00 to 17:00 America/Chicago, startDate **2026-09-30**. Same sequence as
+625450 and 625479.
+
+Four leads, not three: the three recommended from the twenty, plus **Paul Miller**,
+who was held out of the 09-29 wave only because that day had already reached
+thirteen invitations. All four resolved on read-back to real LinkedIn ids with
+headlines matching the seat the note claims.
+
+| Lead | LinkedIn id | Seat |
+|---|---|---|
+| Matthew Dunlap | 221234369 | Director of Finance and Forecasting, Rigaku Americas RSMD |
+| Byron Wienecke | 383513530 | CFO, Refined Technologies |
+| Sean Fightmaster | 452868977 | CFO, Panelmatic |
+| Paul Miller | 137289431 | CFO, Deveraux Specialties |
+
+### One note is deliberately written as a question
+
+Panelmatic's foreign spend is **not documented**. Their switchgear may well be
+built with European breakers bought from US distributors in dollars. Rather than
+assert an exposure that might not exist, Sean's note states the general pattern
+and asks whether it holds at his company. If the answer is no, he says so and the
+approach cost nothing; if it is yes, he has told us the size of the opportunity
+himself. That is the honest form for an unproven thesis, and it is the difference
+between this and the note that would have gone to Dean Castleberry.
+
+### Load across the three days
+
+- **2026-09-29**: 13 invitations (625450 four, 625479 nine) against a ceiling of 15.
+- **2026-09-30**: 4 invitations (625896), plus Play 0 batch 5 messages from 622554,
+  which draw on the separate 30 a day message quota and do not compete.
+
+Thirteen then four is a good irregular shape rather than a machine signature.
