@@ -489,3 +489,28 @@ between this and the note that would have gone to Dean Castleberry.
   which draw on the separate 30 a day message quota and do not compete.
 
 Thirteen then four is a good irregular shape rather than a machine signature.
+
+### Carlos E Gutierrez added to wave 3, 2026-09-28
+
+`carlos-e-gutierrez-0a382820`, LinkedIn id 73709691, **Business Owner, Pure
+Import Logistics LLC**, Greater Houston. No collision.
+
+This is the category Marcel himself named when he corrected the first ranking:
+*"also consider owner as smaller companies do not have a finance guy"*. At a firm
+this size the owner **is** the signing seat, with nobody in between.
+
+**Why this is a yes when Covey Transport was a no.** Both are logistics. Covey is
+a domestic drayage carrier paid in dollars to haul steel that somebody else
+imported, so the foreign currency sits a layer upstream. An import logistics firm
+settles with agents, carriers and origin charges abroad while invoicing its US
+clients in dollars. The money genuinely crosses the border in one case and not the
+other.
+
+**No public footprint could be found for Pure Import Logistics LLC**, so the note
+asserts nothing about the company. It states the general pattern and asks how they
+handle it, the same honest form used for Panelmatic. Written in Spanish, because
+his own summary says fluent English and Spanish, 100 percent bicultural.
+
+He is also a channel: a customs and import shop knows every importer it clears for.
+
+**Campaign 625896 now holds five leads**, still DRAFT.
