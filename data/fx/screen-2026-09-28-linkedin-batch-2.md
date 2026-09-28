@@ -122,3 +122,15 @@ URLs into a list. The fix is for Marcel to open each profile and copy the link.
 character in the URL. The earlier silent failure, `leandro-casta%C3%B1o-a9601b8`,
 was **percent encoded**, not accented. So the rule is narrower than it was written:
 pass accents literally, never percent encoded.
+
+### Ryan Denholm resolved, 2026-09-28
+
+Marcel supplied `ryan-denholm-b2919552` from the live profile. Read-back returned
+LinkedIn id **185576721** and the headline **"CFO at Phoenix Semiconductor
+Corporation | Strategic Finance, Capital Strategy & Company Building"**, matching
+the screenshot exactly. The search index was stale on InductEV, nothing more.
+Added to list 974427, so campaign 625479 now holds five leads and is still DRAFT.
+
+Worth keeping as a method note: the search index disagreed with the live profile
+and the live profile was right. When they conflict, the answer is to ask for the
+link, not to reason about which source is more likely current.
