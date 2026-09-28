@@ -3496,5 +3496,20 @@
     "firstTouch": "2026-09-29",
     "loggedOn": "2026-09-28",
     "note": "Purchasing at a Houston produce distributor buying Mexican grown product. Marcel confirmed Brothers Produce and Two Brothers Produce are separate companies, so no collision with O. Castellon. URL confirmed twice by Marcel from the live profile, but HeyReach will not enrich it: both imports returned the placeholder id imp_SBEJHDBITUUWEDMKVAHSXLSQK with a null headline, while Denholm resolved instantly from a URL of the same shape on the same day. Kept in the campaign at Marcel's instruction. Watch the campaign stats for a failed user on this lead. English."
+  },
+  {
+    "name": "Ricardo Yllescas",
+    "company": "Elementia USA",
+    "title": "Chief Financial Officer",
+    "location": "Houston, Texas, United States",
+    "profileUrl": "https://www.linkedin.com/in/ricardoyllescas",
+    "play": "play-4-cold-invitation",
+    "campaignId": 625479,
+    "listId": 974427,
+    "status": "invitation-draft",
+    "outcome": null,
+    "firstTouch": "2026-09-29",
+    "loggedOn": "2026-09-28",
+    "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation."
   }
 ]

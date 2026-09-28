@@ -169,3 +169,35 @@ connections on Ryan Denholm's profile**, alongside Scott. That makes him a warm
 path into the Phoenix Semiconductor CFO seat rather than a lead to work again,
 and an introduction from him would be worth more than the cold invitation now
 sitting in 625479.
+
+### A tool correction, and Ricardo Yllescas, 2026-09-28
+
+**Correction first.** I told Marcel that HeyReach returning 0 added, 0 updated,
+0 failed means the workspace already holds the lead. That was wrong. It means the
+import payload was too thin: a lead carrying only `firstName` and `profileUrl` is
+dropped silently. Re-sent with `lastName`, `companyName`, `position` and
+`location` present, both leads imported and enriched on the first try. **The
+identification of Rodolfo Vela was still correct**, it just rested on
+`pipeline.json` rather than on that tool result, and a proper import has now
+confirmed it: LinkedIn id 82955999, NexPoint Materials, Global Controller and
+Finance Operation Lead, Houston.
+
+Practical rule: **always send the full payload.** A silent 0/0/0 is a rejected
+import, not a recognized duplicate.
+
+**Ricardo Yllescas.** `ricardoyllescas` resolves to LinkedIn id 74348716,
+**CFO at Elementia USA**, Houston. HeyReach parsed the surname as Alvarez off the
+profile, so the full name is probably Yllescas Alvarez. Nothing on him anywhere in
+`data/fx/`, so no collision and no prior contact.
+
+Elementia is a Mexican building materials group, publicly listed in Mexico, and
+Elementia USA is its US arm. That is a US entity under a Mexican parent, which
+clears the rule against approaching Mexican companies. Written in Spanish.
+
+The caveat is the one Rohlig taught: a listed group may run treasury centrally out
+of Mexico City, in which case the US CFO does not buy FX. That is a reason to ask
+him rather than a reason to skip him, because he can settle it in one reply.
+
+Added to list 974427, so **campaign 625479 now holds seven leads** and is still
+DRAFT. If he turns out to be a first degree connection already, he comes out and
+goes to Play 0 as a message instead.
