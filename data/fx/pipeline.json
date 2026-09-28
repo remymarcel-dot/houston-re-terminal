@@ -3489,13 +3489,13 @@
     "location": "Houston, Texas, United States",
     "profileUrl": "https://www.linkedin.com/in/candy-dulce-sifuentes-271a271a7",
     "play": "play-4-cold-invitation",
-    "campaignId": 625479,
-    "listId": 974427,
-    "status": "invitation-scheduled-unenriched",
+    "campaignId": null,
+    "listId": null,
+    "status": "invitation-sent-manually",
     "outcome": null,
-    "firstTouch": "2026-09-29",
+    "firstTouch": "2026-09-28",
     "loggedOn": "2026-09-28",
-    "note": "Purchasing at a Houston produce distributor buying Mexican grown product. Marcel confirmed Brothers Produce and Two Brothers Produce are separate companies, so no collision with O. Castellon. URL confirmed twice by Marcel from the live profile, but HeyReach will not enrich it: both imports returned the placeholder id imp_SBEJHDBITUUWEDMKVAHSXLSQK with a null headline, while Denholm resolved instantly from a URL of the same shape on the same day. Kept in the campaign at Marcel's instruction. Watch the campaign stats for a failed user on this lead. English."
+    "note": "Purchasing at a Houston produce distributor buying Mexican grown product. Marcel confirmed Brothers Produce and Two Brothers Produce are separate companies, so no collision with O. Castellon. URL confirmed twice by Marcel from the live profile, but HeyReach will not enrich it: both imports returned the placeholder id imp_SBEJHDBITUUWEDMKVAHSXLSQK with a null headline, while Denholm resolved instantly from a URL of the same shape on the same day. Kept in the campaign at Marcel's instruction. Watch the campaign stats for a failed user on this lead. English. OUTCOME: three imports all returned the placeholder id and Marcel confirmed the URL from the live profile three times, so the slug was current and enrichment simply fails for this profile. Marcel sent the invitation himself on 2026-09-28 with the note as drafted. Removed from list 974427, which took campaign 625479 from nine leads to eight, confirmed on read-back. Do not re-add: a second invitation while the first is pending is silently wasted."
   },
   {
     "name": "Ricardo Yllescas",

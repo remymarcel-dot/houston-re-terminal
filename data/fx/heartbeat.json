@@ -285,9 +285,13 @@
   ]
  },
  "invitationLoad": {
-  "2026-09-29": "13 across 625450 and 625479",
+  "2026-09-29": "12 automated across 625450 (4) and 625479 (8), plus 1 manual to Sifuentes sent 09-28",
   "2026-09-30": "6 in 625896",
   "ceiling": 15,
-  "note": "Thirteen then six is an irregular shape rather than a pinned ceiling, which is what the volume rule asks for."
+  "note": "Manual invitations sent by Marcel count against the same LinkedIn ceiling as campaign sends, so they belong in this tally."
+ },
+ "unenrichableLeads": {
+  "policy": "Established 2026-09-28. A profile that will not enrich after a confirmed-correct URL is not a broken link and not a stale slug. Stop re-importing it. Hand the drafted note to Marcel to send by hand, then remove the lead from the campaign list so the automated send cannot double approach, and verify the campaign count dropped.",
+  "firstCase": "Candy-Dulce Sifuentes, sent manually, removed, 625479 went 9 to 8."
  }
 }
