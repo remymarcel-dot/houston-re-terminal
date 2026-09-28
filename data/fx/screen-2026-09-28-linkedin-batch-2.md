@@ -607,3 +607,45 @@ A second verification routine was created for 09-30 at 09:25 Houston,
 `trig_01Gqbyg3G72h4AZAqWSNpA6x`. Marcel authorized the 09-29 run explicitly; this
 one covers a campaign that did not exist when he answered and that he had just
 told me to start. Told to him plainly rather than done quietly.
+
+---
+
+## The four unenrichable slugs, resolved by Marcel, 2026-09-28
+
+Marcel opened each profile and sent back the employer and seat. All four confirmed
+their URLs were already correct, so these were the Sifuentes case, not the
+Cross-Woodstock case: enrichment simply fails for some profiles and no better URL
+exists.
+
+**Four of four are cuts.** The enrichment failures were hiding nothing.
+
+| Profile | Seat and company | Verdict |
+|---|---|---|
+| `bass-moore-33410939` | Bass Moore, Financial Director, **NexGen X** | Managed IT services, founded 2023, two to ten people, Austin based. US small business clients paid in dollars. No border anywhere. Financial Director at that size is usually fractional. |
+| `josh-glover-8a1a422a0` | Josh Glover, Operations and Finance Lead, **Grant Sheet Metal** | Construction subcontractor. His own headline is AIA billing, WIP reporting, AR and cash flow, all domestic US construction accounting. Also **16 connections**, a dormant account, so an invitation would not be seen. |
+| `deanna-clavell-mafm-ctsbo-2aa040145` | DeAnna Clavell, VP of Finance, **inSchools** | Texas charter school finance. CTSBO is the Certified Texas School Business Official credential. State and federal allotments and municipal bonds. A real finance executive in a sector that will never need us. |
+| `santillanmig` | Miguel A. Santillan Jr, Finance and Operations, **Perennial Power Holdings** | The interesting one. See below. |
+
+### Perennial Power, and the distinction that makes Rigaku a yes
+
+Perennial Power Holdings is a **wholly owned subsidiary of Sumitomo Corporation**,
+formed in 2002 with Sumitomo Corporation of Americas, running roughly 313 MW net
+of US wind, gas and geothermal.
+
+A Japanese parent is the same structure that made Matthew Dunlap at Rigaku the
+best name of the day, so it is worth being explicit about why this one is a no.
+
+**Rigaku Americas sells instruments built in Japan.** The yen sits inside its cost
+of goods, on the US entity's own income statement, every time it ships.
+
+**Perennial owns US power plants.** Revenue comes from US power purchase
+agreements in dollars, costs are US construction and O and M in dollars, and the
+project debt is a US bank syndicate. The yen never touches the operating company.
+It appears only in the parent's equity return, which is managed in Tokyo and New
+York by one of the largest trading houses in the world, with a treasury function
+that makes this the ContourGlobal case exactly.
+
+The seat is also vague, "Finance | Operations", not a named treasury or CFO role.
+
+**Cut.** Nothing added. Final state for the day unchanged: 625479 at eight for
+2026-09-29, 625896 at six for 2026-09-30.
