@@ -219,8 +219,7 @@
     "Grupo Palco, Carlos Palma: waiting on Luis Merjil by WhatsApp, which Marcel sees first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.",
     "Wylson Zon Neto: Woodlands coffee Tuesday Sep 29, never confirmed a time or place. Marcel to chase or drop.",
     "Monte Vista Farming, Elena Tavares: three messages, no reply. Recommended dormant, awaiting Marcel's agreement.",
-    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18.",
-    "Rohlig Logistics, Richard Labib: reply drafted, awaiting Marcel's yes or no on sending it."
+    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18."
   ],
   "play0Decision": {
     "decision": "STOP at batch 6. No batch 7 until a review.",
@@ -238,5 +237,6 @@
     "objectionToSolve": "Rohlig Logistics, Richard Labib, CFO NORAM, declined on cash pooling within 21 hours. German groups run centralized treasury; this play needs an answer to that before it scales.",
     "resumeWhen": "Marcel supplies the GACC South roster.",
     "log": "data/fx/german-chamber-play.md"
-  }
+  },
+  "sendDateVerification": "REQUIRED after the 622397 incident: every campaign must have its status re-verified ON its send date, because a confirmed SCHEDULED campaign can revert to DRAFT and send nothing with no error. Batch 5 (622554) on 2026-09-30. Batch 6 (622570), Two Brothers (622602) and Hillside (622608) on 2026-10-01. Condessa and Toledo (622656) on 2026-09-29. Batch 4 (622397) restarted and confirmed IN_PROGRESS 2026-09-28 14:24Z."
 }
