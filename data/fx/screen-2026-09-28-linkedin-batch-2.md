@@ -151,3 +151,21 @@ Kept in the campaign on Marcel's instruction, with the URL he confirmed. The not
 deliberately does not name her employer, so it reads correctly whether she is at
 Brothers Produce or at Klevenberg USA. **Check the campaign progress stats for a
 failed user against this lead once 625479 runs.** Six leads now.
+
+### Rodolfo V. is Rodolfo Vela, already in the book, 2026-09-28
+
+Marcel sent `rodolfo-v-b3b94623`. HeyReach returned 0 added, 0 updated, 0 failed,
+which is what it does for a lead the workspace already holds, and the pipeline
+confirms it: **Rodolfo Vela, Global Controller and Finance Operation Lead,
+NexPoint Materials, Houston**, play `inbox-reconnect`, status `reconnected`.
+Two messages already, the second on 2026-09-16, no reply yet.
+
+So he does not belong in a cold invitation campaign. He is a first degree
+connection who has been approached twice, and a third approach twelve days after
+the second would be the double approach the rules exist to prevent.
+
+The useful part is where he turned up. **Rodolfo is one of the three mutual
+connections on Ryan Denholm's profile**, alongside Scott. That makes him a warm
+path into the Phoenix Semiconductor CFO seat rather than a lead to work again,
+and an introduction from him would be worth more than the cold invitation now
+sitting in 625479.
