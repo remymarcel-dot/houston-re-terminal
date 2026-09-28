@@ -440,3 +440,41 @@ Two rules:
 
 Both halves matter. The first nearly let a real duplicate through. The
 second nearly reported a duplicate that never happened.
+
+## Scheduled is not started, and a launch confirmation does not survive the weekend
+
+On 2026-09-25 campaign **622397**, Play 0 batch 4, was started and confirmed:
+`status: SCHEDULED`, 6 pending, 0 failed, with `startDate` 2026-09-28. Marcel was
+told it would send Monday at 9am Central.
+
+On Monday morning it read **`status: DRAFT`, `startedAt: null`.** It had reverted
+on its own and **sent nothing on its send date.** Restarting it put it straight
+to IN_PROGRESS with 6 in progress.
+
+This is the mirror of the "paused is not dead" rule. A campaign confirmed
+SCHEDULED days earlier may not be scheduled any more, and a campaign that
+quietly reverts to DRAFT produces no error, no failure count and no signal of
+any kind. It simply does not send.
+
+**So on every cycle, re-verify the status of every campaign whose send date has
+arrived or passed.** `get_all_campaigns` filtered to IN_PROGRESS, SCHEDULED,
+STARTING, PAUSED and DRAFT shows it in one call. A campaign missing from the
+IN_PROGRESS and SCHEDULED buckets when its date has arrived is the thing to look
+for. What caught this one was noticing that batch 4 was absent from the active
+list, not any alert.
+
+### A related trap: progressStats.totalUsers is not the lead count while DRAFT
+
+The same campaign reported `totalUsers: 15` while in DRAFT, against a list of 6
+leads. Batch 5 reported 12 against 6, Two Brothers 2 against 1. That looked
+exactly like duplicated leads, which would be the most damaging failure
+available here, and it cost real time to rule out.
+
+Reading the **list** is what settles it: list 969943 held exactly 6 leads, the
+right 6, no duplicates. Once the campaign started, `totalUsers` corrected itself
+to 6.
+
+**Trust the lead list, not the campaign's counter, and never raise a duplicate
+alarm from campaign stats alone.** This is the third version of the same lesson,
+after "campaign stats are not the thread" and "failedLeadsCount zero does not
+mean everything landed."

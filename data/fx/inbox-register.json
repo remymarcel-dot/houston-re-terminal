@@ -1,6 +1,6 @@
 {
   "purpose": "Every conversation where the correspondent spoke last, with a disposition. A sweep compares live results against this file: anything not listed here is UNTRIAGED and must be handled before reporting the inbox clean. Read status is irrelevant and must never be used as a filter.",
-  "lastFullSweep": "2026-09-25 second sweep. 291 conversations swept unfiltered across offsets 0, 100 and 200, with offset 300 empty confirming the end of the list. Up 5 from the 286 of the morning sweep. 60 threads have the correspondent speaking last, up 1. The one new arrival is a real prospect reply: Rohlig Logistics, Richard Labib, CFO NORAM. The unread filter returned exactly 1 thread and it was Wylson with Marcel speaking last, which is another reminder that the unread filter finds nothing that matters.",
+  "lastFullSweep": "2026-09-28 Monday. 294 conversations swept unfiltered across offsets 0, 100 and 200. 61 threads have the correspondent speaking last, up 1 from Friday. Two new arrivals, both vendor pitches, nothing owed: CloseCall, Annie Orzuza and The Wharton School, Eric Hamberger. No prospect replies since Rohlig on Friday. Batch 4's messages only began sending at 14:24 UTC today, so no Play 0 replies are due yet.",
   "dispositioned": {
     "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==": {
       "who": "Grupo Palco, Carlos Palma",
@@ -76,7 +76,8 @@
     "Beth Mastre Enterprises, Beth Mastre",
     "Now Elevate LLC, Sheila Mullen",
     "Jose Kuri (podcast)",
-    "OUTPERFORM INTERNATIONAL, Ahsan jawaid"
+    "OUTPERFORM INTERNATIONAL, Ahsan jawaid",
+    "The Wharton School, Eric Hamberger, Managing Director Wharton Online: cold pitch for their Chief Revenue Officer Program, 2026-09-25."
   ],
   "closedByThem": [
     "Sweet Seasons LLC, Marina Bernal: not interested",
@@ -93,7 +94,8 @@
     "J Mears Consulting, Jesus Mears CPA: Venezuela entry advisory, forbidden market, permanent",
     "Mount Franklin Foods, all seats including Enrique Grajeda, President and CEO. Marcel, 2026-09-23: \"do not engage with anyone of mount franklin i already talking to them\". Company level, not person level. Blacklisted in HeyReach as company ids 14524 and 14525 so no future campaign can pick anyone up there.",
     "F&S Fresh Foods, company level. Marcel, 2026-09-24: \"agreed, leave F&S alone\". Jenna Bussard, Corporate Controller, has had three unanswered messages ending 2026-09-21 including the strongest offer available. Malcolm Pais was stopped before sending. Blacklisted in HeyReach as ids 15604, 15605, 15606. Her thread stays open; the blacklist gates campaigns, not a reply if one comes.",
-    "AUSY USA, Alonso Duarte, CEO and CFO. Company level exclusion from campaigns: he is already a Monex USA client (Marcel, 2026-09-24). Blacklisted as HeyReach ids 15628, 15629, 15630. Campaigns only; a manual message from Marcel is unaffected."
+    "AUSY USA, Alonso Duarte, CEO and CFO. Company level exclusion from campaigns: he is already a Monex USA client (Marcel, 2026-09-24). Blacklisted as HeyReach ids 15628, 15629, 15630. Campaigns only; a manual message from Marcel is unaffected.",
+    "CloseCall, Annie Orzuza, 2026-09-25. Pitched renting established LinkedIn avatar accounts to act as extra BDRs, describing profiles 'backed by real people who don't need their account' so that 'if LinkedIn ever asks for ID it gets recovered'. That is a LinkedIn terms of service violation sold as a service, and engaging with it puts Marcel's own account at risk. His account carries roughly 22,000 connections and 21,000 followers and he is open to new roles, so it is worth more than any pipeline. Do not reply, do not ask for the example profile, and treat any follow-up from this sender the same way."
   ],
   "companyCollisions": [
     {
@@ -157,5 +159,6 @@
     "Agrifruits Holdings, Hiro Watanabe ('Perfect!') \u2014 already owned by Marcel offline, meeting booked, do not resurface"
   ],
   "registerDrift": "2026-09-25: reconciling the 60 correspondent-last threads against this file found 34 that were not named anywhere in it. Almost all were harmless, emoji acknowledgments, anniversary notes and vendor pitches, but the register's whole value is the rule that anything absent from it is untriaged. A register missing 34 of 60 cannot do that job. All 34 are now dispositioned above, most into courtesyOnlyNothingOwed.",
-  "heyReachAutoTags": "2026-09-25 discovery, from the Rohlig thread. HeyReach writes an `autoTags` array on the correspondent profile, and it had tagged Richard Labib 'Not interested' at 18:55Z, 47 minutes after his reply arrived and before anyone had read it, naming the source campaign (618489). USE THIS. A sweep can read autoTags to find declines and sentiment immediately instead of inferring them from message text, and the tag also names which campaign produced the reply, which is exactly what the Play 0 review needs. It does not replace reading the thread: the tag says 'not interested', it does not say 'because we cash pool', and the reason is the part worth keeping."
+  "heyReachAutoTags": "2026-09-25 discovery, from the Rohlig thread. HeyReach writes an `autoTags` array on the correspondent profile, and it had tagged Richard Labib 'Not interested' at 18:55Z, 47 minutes after his reply arrived and before anyone had read it, naming the source campaign (618489). USE THIS. A sweep can read autoTags to find declines and sentiment immediately instead of inferring them from message text, and the tag also names which campaign produced the reply, which is exactly what the Play 0 review needs. It does not replace reading the thread: the tag says 'not interested', it does not say 'because we cash pool', and the reason is the part worth keeping.",
+  "autoTagsCorrection": "2026-09-28. Friday's note over-sold autoTags. Across all 294 conversations there are only THREE autoTags in total: 'Not interested' on Play 0 batch 1 rebuild (Rohlig), 'Not interested' on US FX Exposure Network Activation W1, and 'Generic' on Houston Treasury FX Discovery Q3 2026. So autoTags are sparse and cannot be the backbone of the Play 0 review. They are a useful pointer when present, nothing more. Reading threads remains the method."
 }
