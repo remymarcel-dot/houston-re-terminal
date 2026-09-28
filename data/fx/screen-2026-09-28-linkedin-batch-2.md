@@ -73,3 +73,52 @@ Not rejections, just behind Tier A on the daily budget.
 ## What is actually being asked for
 
 A decision on Tier A only. Nothing here has been built or sent.
+
+---
+
+## Build record, 2026-09-28
+
+Marcel: *"do the top 5"*, then *"write to candy is a diferent company"* (confirming
+Brothers Produce and Two Brothers Produce are separate companies, so no collision).
+
+**Campaign 625479, list 974427, status DRAFT**, sender 237851, schedule Mon to Fri
+09:00 to 17:00 America/Chicago, startDate 2026-09-29. Sequence copied from 625450:
+`VIEW_PROFILE` then `CONNECTION_REQUEST {note}`, withdraw after 30 days.
+Left in DRAFT deliberately so Marcel reads the four notes before they go.
+
+Four leads, all resolved on read-back to real LinkedIn ids with headlines matching
+the seat claimed in the note:
+
+| Lead | LinkedIn id | Headline returned |
+|---|---|---|
+| Joshua Rubin | 714037694 | Vice President at Javid LLC, Chairman Greater Nogales Santa Cruz County Port Authority |
+| Juan E. Mayol Ramirez | 224346805 | Chief Accounting Officer (CAO) & Treasurer at Time Manufacturing Company |
+| Andres Cardena | 48486710 | CFO Columbia Grain International |
+| Daniel Zaragoza | 542841464 | Harvest Master LLC, Fresh Produce |
+
+### Two names pulled out, both for the same reason
+
+Neither is a rejection. In both cases the profile URL could not be established from
+a source good enough to send on, and this session has already put two fabricated
+URLs into a list. The fix is for Marcel to open each profile and copy the link.
+
+- **Candy-Dulce Sifuentes.** Added, then removed. The URL found by search,
+  `candy-dulce-sifuentes-271a271a7`, imported with an `imp_` placeholder id, null
+  headline and no enrichment, while the other four returned real numeric ids. That
+  is an unresolved profile, and an invitation to it would fail quietly. Search also
+  shows her current employer as **KLEVENBERG USA, INC.** rather than Brothers
+  Produce, alongside a post about leaving the ship chandler business, so the seat
+  needs confirming too. Her note is written and waiting.
+- **Ryan Denholm.** Not built. The screenshot shows CFO at Phoenix Semiconductor,
+  Greater Philadelphia, Wharton, recently hired. The only Wharton match in search,
+  `ryan-denholm-b2919552`, carries the headline "CFO & Strategic Finance Leader" and
+  lists InductEV, and Phoenix Semiconductor's own leadership page does not name him.
+  That is probably the same person with a stale index, but "probably" is not good
+  enough for a note that congratulates someone on a new seat.
+
+### The accent question, settled
+
+`juan-e-mayol-ramírez-cpa-3b117263` resolved correctly with the literal accented
+character in the URL. The earlier silent failure, `leandro-casta%C3%B1o-a9601b8`,
+was **percent encoded**, not accented. So the rule is narrower than it was written:
+pass accents literally, never percent encoded.
