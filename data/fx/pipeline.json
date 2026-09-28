@@ -3481,5 +3481,20 @@
     "firstTouch": "2026-09-29",
     "loggedOn": "2026-09-28",
     "note": "Recently hired as CFO, which is the cleanest timing signal available, and semiconductor supply chains pay in KRW, JPY, EUR and TWD. Only 3 mutual connections, so the note carries the whole weight. URL supplied by Marcel from the live profile after search could not establish it; read-back returned LinkedIn id 185576721 and the headline CFO at Phoenix Semiconductor Corporation, so the search index was simply stale on InductEV. English."
+  },
+  {
+    "name": "Candy-Dulce Sifuentes",
+    "company": "Brothers Produce",
+    "title": "Purchasing",
+    "location": "Houston, Texas, United States",
+    "profileUrl": "https://www.linkedin.com/in/candy-dulce-sifuentes-271a271a7",
+    "play": "play-4-cold-invitation",
+    "campaignId": 625479,
+    "listId": 974427,
+    "status": "invitation-draft-unenriched",
+    "outcome": null,
+    "firstTouch": "2026-09-29",
+    "loggedOn": "2026-09-28",
+    "note": "Purchasing at a Houston produce distributor buying Mexican grown product. Marcel confirmed Brothers Produce and Two Brothers Produce are separate companies, so no collision with O. Castellon. URL confirmed twice by Marcel from the live profile, but HeyReach will not enrich it: both imports returned the placeholder id imp_SBEJHDBITUUWEDMKVAHSXLSQK with a null headline, while Denholm resolved instantly from a URL of the same shape on the same day. Kept in the campaign at Marcel's instruction. Watch the campaign stats for a failed user on this lead. English."
   }
 ]

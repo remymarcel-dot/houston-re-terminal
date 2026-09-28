@@ -134,3 +134,20 @@ Added to list 974427, so campaign 625479 now holds five leads and is still DRAFT
 Worth keeping as a method note: the search index disagreed with the live profile
 and the live profile was right. When they conflict, the answer is to ask for the
 link, not to reason about which source is more likely current.
+
+### Candy-Dulce Sifuentes, URL confirmed but still unenriched, 2026-09-28
+
+Marcel supplied the same URL, `candy-dulce-sifuentes-271a271a7`, from the live
+profile. Re-added to list 974427 and it came back with the identical placeholder
+id `imp_SBEJHDBITUUWEDMKVAHSXLSQK`, null headline, no image. HeyReach restored the
+previously deleted record rather than importing a fresh one.
+
+This is not a general enrichment problem: Denholm resolved on the first try from a
+URL of the same shape, minutes earlier, on the same account. Something about her
+profile blocks enrichment, most likely privacy settings or visibility from
+Marcel's account.
+
+Kept in the campaign on Marcel's instruction, with the URL he confirmed. The note
+deliberately does not name her employer, so it reads correctly whether she is at
+Brothers Produce or at Klevenberg USA. **Check the campaign progress stats for a
+failed user against this lead once 625479 runs.** Six leads now.
