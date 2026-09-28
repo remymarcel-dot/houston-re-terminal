@@ -514,3 +514,31 @@ his own summary says fluent English and Spanish, 100 percent bicultural.
 He is also a channel: a customs and import shop knows every importer it clears for.
 
 **Campaign 625896 now holds five leads**, still DRAFT.
+
+### Gary Keeling, Lincoln Lumber, right company wrong seat, 2026-09-28
+
+`gktamu`, LinkedIn id 70374426, **Vice President and Chief of Staff, Lincoln
+Lumber, LLC**, Greater Houston. No collision.
+
+**The company is worth pursuing.** Lincoln Lumber's corporate office is at 1390
+Porter Road, **Conroe** (the fifth Conroe company in this sweep). Over fifty years
+in lumber and forestry products, eight operational locations across the southern
+United States, supplying markets "across the United States and internationally",
+with **export and import markets** and stevedoring and oceanic operations named
+among the industries it serves. Lumber is a genuinely currency exposed trade.
+
+**He is not the seat.** His own profile summary is entirely sales and marketing:
+negotiating, pricing, sales management, product marketing. Chief of Staff puts him
+next to the chief executive, not on the payment authority. Writing him an FX note
+would land on someone with no reason to answer it.
+
+Searched for a finance seat at Lincoln Lumber and **found none publicly**, so
+nothing was guessed and no URL was constructed. The way to get it is the company
+page's People tab filtered to finance, which needs a LinkedIn session.
+
+**What he is good for.** A chief of staff is an introduction, not a prospect. If
+Marcel wants Lincoln Lumber, a plain connection and a question about who handles
+their import and export payments is a better first move than any note we could
+write to Gary directly.
+
+**Not added. Campaign 625896 unchanged at five.**
