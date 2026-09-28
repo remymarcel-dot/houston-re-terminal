@@ -225,3 +225,31 @@ That said, this is exactly the sort of name Marcel's own filter would have
 excluded, so if he wants it pulled it comes out in one call.
 
 **Campaign 625479 now holds eight leads**, still DRAFT.
+
+### Javier Alvarez, ContourGlobal, not added, 2026-09-28
+
+`javier-alvarez-676b151` resolves to LinkedIn id 5753466, **General Manager USA at
+ContourGlobal**, Houston. No collision, nothing on record.
+
+Not added, for two reasons that compound.
+
+**Wrong seat.** General Manager USA is an operating role. It does not sign FX and
+in a group this size it will not be consulted on it either.
+
+**Wrong company shape.** ContourGlobal is a London headquartered independent power
+producer, taken private by **KKR** in December 2022, running close to 6 GW across
+twenty countries and currently simplifying from seventeen countries to ten. A KKR
+owned infrastructure platform finances projects with bank syndicates, and at that
+scale currency hedging is written into the debt covenants rather than bought at
+the operating company. This is the Rohlig cash pooling objection again, several
+sizes up, and Rohlig taught us that the lesson is about targeting rather than copy.
+
+Cactus was a judgment call worth making. This one is not close enough to be one.
+He would consume an invitation slot ahead of eight better names.
+
+Worth saying what he *is* good for: a Houston general manager at a power producer
+with Latin American assets is a sensible person for Marcel to know, and a personal
+connection request with no pitch costs nothing from the relationship budget rather
+than the campaign budget. That is Marcel's call, not a campaign action.
+
+**Campaign 625479 unchanged at eight leads.**
