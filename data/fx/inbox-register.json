@@ -117,6 +117,13 @@
       "actual": "NO DUPLICATE WAS DELIVERED. The conversation threads were checked one by one: Fernando Narvaez has 1 message, Alan Arredondo has 1, Elena Tavares has 3 but only one dated 2026-09-24. HeyReach's two campaign records point at the same underlying send and the platform deduplicated at the conversation level.",
       "actionTaken": "Paused 618477 and manually stopped Ohad Gold in 618489. Both were correct regardless: every one of 618477's ten people is covered by 618489, Jennifer Ayers had already been messaged by 618489 at 01:26, and Ohad Gold had already been messaged by 618477 at 19:55. Nothing useful was lost and nothing was at risk of going twice.",
       "lesson": "Two rules out of this. First, PAUSED IS NOT DEAD. A campaign that wedges and gets paused can resume; the repo said 618477 would never run again and it ran. Verify campaign state, do not carry an assumption forward. Second, CAMPAIGN STATS ARE NOT THE TRUTH, THE THREAD IS. Two campaigns can both report MessageSent for one actual message. Before telling Marcel someone was double contacted, open the conversation and count."
+    },
+    {
+      "date": "2026-09-28",
+      "trigger": "Monday audit after campaign 622397 was found reverted to DRAFT.",
+      "finding": "Campaign 618510, the empty Play 0 batch 2 shell with 0 leads, was still showing in every audit as if it were unfinished work. Marcel asked for it to be deleted.",
+      "outcome": "NOT DELETED, because the HeyReach connector has no delete_campaign. The only delete_campaign available belongs to Seamless, a different system, and using it would have been wrong. Renamed instead, via update_campaign_settings, to 'ZZ DEAD empty shell superseded by 618515'. It stays in DRAFT with 0 leads, so it can never send. The actual delete has to be done by Marcel in the HeyReach UI.",
+      "rule": "The connector can create, start, pause, resume and rename a campaign but cannot delete one. Dead shells therefore accumulate. Rename them with a ZZ DEAD prefix so they sort last and read as deliberate rather than pending, and tell Marcel when a real delete is needed."
     }
   ],
   "meetings": [
