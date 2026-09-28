@@ -390,3 +390,39 @@ nobody examined it.
 
 Do not open on the new role as flattery. Open on what the job actually
 involves right now.
+
+### A treasury title in Houston selects against the ICP, not for it
+
+Searching Houston by treasury or senior finance title keeps returning the wrong
+companies, and the reason is structural rather than bad luck.
+
+**Only large companies employ people whose title is treasury.** A Treasury Senior,
+a Treasury Analyst, a VP of Treasury exists because the company is big enough to
+have a treasury department, which is the same thing as being big enough to have
+bank FX lines and a group treasury policy. The title is therefore a reliable
+signal that the company already has a desk.
+
+The run of 2026-09-28 makes the point better than any argument:
+
+| Seat searched into | Company | Why it failed |
+|---|---|---|
+| VP Finance, Accounting and **Treasury** | U.S. Silica | Apollo owned, 26 US facilities, domestic |
+| **Treasury** Analyst | Excelerate Energy | Listed, treasury team above her |
+| **Treasury** and Financial Analyst | Wellbore Integrity Solutions | PE backed carve out, analyst seat |
+| CFO, US arm | ContourGlobal | KKR owned, London treasury |
+| Finance and Operations | Perennial Power | Sumitomo subsidiary |
+| CFO and Administrative Manager | Ecopetrol USA | Colombian state major, Bogotá treasury |
+| **Treasury** Senior, CTP | Repsol | Spanish supermajor, Madrid treasury |
+
+**The ICP has no treasury department.** A mid market importer, distributor,
+forwarder or manufacturer has a CFO, a controller, or an owner who signs the wire
+himself. That is precisely why Marcel's own correction holds: *"also consider
+owner as smaller companies do not have a finance guy"*.
+
+**So search the business, not the title.** Filter on industry (manufacturing,
+wholesale, logistics, food and produce), on headcount (roughly 11 to 200), and on
+a cross border fact about the company, then take whatever finance seat exists.
+Every name that worked on 2026-09-28 came out that way: Rigaku Americas (Japanese
+parent), Refined Technologies (crews worldwide), Deveraux Specialties (ingredient
+importer), Pure Import Logistics (owner, origin agents), Javid (shelter payroll in
+pesos), Federated Maritime (dollar revenue, foreign port costs).
