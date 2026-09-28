@@ -256,5 +256,19 @@
    "Three of the ranked Tier A names were never built: Antonio Gandara (Perez Trading), Justin Warren (Del Rey Avocado), Anuj Girdhar (Sunkist Growers).",
    "Channels to open personally rather than by campaign: Cesar Remis (Trade Envoy), Will Cavan (International Mango Organization), Cultivar (Napa CPG finance), Juan Alvarez (Covey Transport, Port of Houston steel drayage), Javier Alvarez (ContourGlobal)."
   ]
+ },
+ "verificationRoutine": {
+  "triggerId": "trig_01GiHE3MqDKWJepL81g9n56E",
+  "name": "Verify invitation campaigns fired",
+  "firesAt": "2026-09-29T14:25:00Z, which is 09:25 Houston time",
+  "type": "one shot, bound to this session so it resumes with full context",
+  "authorizedBy": "Marcel, 2026-09-28: 'yes set up the verification run for tomorrow morning'",
+  "checks": [
+   "625450 and 625479 must read IN_PROGRESS with a non-null startedAt, and be restarted if either reverted to DRAFT",
+   "622656 Condessa and Toledo, also due 09-29",
+   "totalUsersFailed on 625479 against the unenriched Sifuentes lead 879080800",
+   "616214 El Paso W4, one failed user and a drop from ten users to four"
+  ],
+  "notCovered": "Later send dates this week are not in this one shot: 622554 on 09-30, and 622570, 622602 and 622608 on 10-01. Offered to Marcel as a recurring weekday routine; he has not been asked to decide twice."
  }
 }
