@@ -279,3 +279,26 @@ concept explained.
 
 **Campaign 625479 now holds nine leads**, still DRAFT. That is the ceiling for
 tomorrow once yesterday's four are counted, so further names wait for Wednesday.
+
+### Juan Alvarez, Covey Transport, not added, channel instead, 2026-09-28
+
+`juan-alvarez-a7613686` resolves to LinkedIn id 304893306, **General Manager at
+Covey Transport**. Thin profile, no location recorded. No collision.
+
+Covey Transport Inc is at 3439 N McCarty St, Houston, a family firm of some sixty
+years doing direct discharge at the Port of Houston, specializing in steel: plate,
+pipe, casing, coupling, line pipe, structural.
+
+**As a prospect this is weak, and the reason is worth stating plainly.** Covey is a
+domestic carrier. It is paid in dollars by US shippers to move steel that someone
+else imported. The foreign currency is spent one layer upstream, by the importer,
+not by the trucker. There is no exposure here to manage. The seat is also
+operational, and the president is Jim Neatherlin, not him.
+
+**As a channel it is genuinely interesting.** A general manager running drayage off
+the Port of Houston for steel importers knows, by name, most of the companies in
+Houston that buy steel abroad. That is the ICP list, held by someone with a
+commercial reason to be helpful. Same category as Will Cavan and Cultivar: a
+relationship for Marcel to open personally, not a campaign action.
+
+**Campaign 625479 unchanged at nine.**
