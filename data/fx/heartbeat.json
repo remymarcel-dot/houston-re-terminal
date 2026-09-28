@@ -293,5 +293,47 @@
  "unenrichableLeads": {
   "policy": "Established 2026-09-28. A profile that will not enrich after a confirmed-correct URL is not a broken link and not a stale slug. Stop re-importing it. Hand the drafted note to Marcel to send by hand, then remove the lead from the campaign list so the automated send cannot double approach, and verify the campaign count dropped.",
   "firstCase": "Candy-Dulce Sifuentes, sent manually, removed, 625479 went 9 to 8."
+ },
+ "verificationRoutine3": {
+  "triggerId": "trig_01PgeDmd44yJpmC1QGxXjsBZ",
+  "name": "Verify Conroe sweep wave fired",
+  "firesAt": "2026-10-01T14:25:00Z, 09:25 Houston",
+  "type": "one shot, bound to this session",
+  "authorizedBy": "Marcel, 2026-09-28: 'add the thursday verification run'",
+  "primaryCheck": "Whether Olivier, Grappe or Rubio failed. All three carry imp_ placeholder ids. Grappe (German parent LISEGA) and Rubio (Mexican parent Grupo Sayer) are two of the strongest names in the sweep and must not fail silently. If they fail, hand Marcel the drafted notes to send by hand, as with Sifuentes.",
+  "alsoChecks": [
+   "622570 Play 0 batch 6",
+   "622602 Two Brothers Produce",
+   "622608 Hillside Winery",
+   "625479 and 625896 completed rather than stalled"
+  ]
+ },
+ "weekPlan2026w40": {
+  "2026-09-29": {
+   "invitations": "12 automated plus 1 manual",
+   "campaigns": [
+    "625450 (4)",
+    "625479 (8)"
+   ],
+   "check": "trig_01GiHE3MqDKWJepL81g9n56E"
+  },
+  "2026-09-30": {
+   "invitations": 7,
+   "campaigns": [
+    "625896 (7)"
+   ],
+   "check": "trig_01Gqbyg3G72h4AZAqWSNpA6x"
+  },
+  "2026-10-01": {
+   "invitations": 8,
+   "campaigns": [
+    "626018 (8)",
+    "plus 622602 and 622608"
+   ],
+   "check": "trig_01PgeDmd44yJpmC1QGxXjsBZ",
+   "note": "622570 Play 0 batch 6 is messages, separate quota"
+  },
+  "ceiling": 15,
+  "shape": "13, 7, 8. Irregular and never pinned to the cap, which is what the volume rule asks for."
  }
 }
