@@ -201,3 +201,27 @@ him rather than a reason to skip him, because he can settle it in one reply.
 Added to list 974427, so **campaign 625479 now holds seven leads** and is still
 DRAFT. If he turns out to be a first degree connection already, he comes out and
 goes to Play 0 as a message instead.
+
+### Tony Alvarez, Cactus Wellhead, 2026-09-28
+
+`tony-alvarez-06b20416` resolves to LinkedIn id 54252371, **Corporate Controller
+at Cactus Wellhead**, Houston. No collision, nothing on record.
+
+The FX thesis is documented, not inferred. Cactus Inc's own S-1 describes "rapid
+turnaround surge capacity in Bossier City, Louisiana" alongside "a lower cost,
+longer lead-time production facility in **Suzhou, China**", established December
+2013. A Houston wellhead manufacturer with a Chinese plant carries renminbi in its
+cost base.
+
+**The honest caveat, stated to Marcel rather than buried.** Cactus is NYSE listed
+at roughly a billion in revenue. That is squarely the "too big, has a desk" bucket
+that flagged fourteen companies out of the first degree ranking. He is very
+likely already banked.
+
+Kept in anyway, for two reasons worth writing down. A Controller seat at a Houston
+public company is a relationship worth having whether or not it converts this
+quarter, and an incumbent bank desk is a competitor to price against, not a wall.
+That said, this is exactly the sort of name Marcel's own filter would have
+excluded, so if he wants it pulled it comes out in one call.
+
+**Campaign 625479 now holds eight leads**, still DRAFT.

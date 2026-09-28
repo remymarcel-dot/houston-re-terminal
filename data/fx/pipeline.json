@@ -3511,5 +3511,20 @@
     "firstTouch": "2026-09-29",
     "loggedOn": "2026-09-28",
     "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation."
+  },
+  {
+    "name": "Tony Alvarez",
+    "company": "Cactus Wellhead",
+    "title": "Corporate Controller",
+    "location": "Houston, Texas, United States",
+    "profileUrl": "https://www.linkedin.com/in/tony-alvarez-06b20416",
+    "play": "play-4-cold-invitation",
+    "campaignId": 625479,
+    "listId": 974427,
+    "status": "invitation-draft",
+    "outcome": null,
+    "firstTouch": "2026-09-29",
+    "loggedOn": "2026-09-28",
+    "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 54252371, Corporate Controller at Cactus Wellhead, Houston. Cactus Inc, NYSE WHD. Their own S-1 describes a lower cost, longer lead time production facility in Suzhou, China, established December 2013, alongside the Bossier City surge plant, so the renminbi cost exposure in the note is documented rather than assumed. Caveat stated to Marcel: Cactus is public and roughly a billion in revenue, which is the too big, has a desk bucket from the first degree ranking, so he is likely already banked. Kept because the Controller seat in Houston is worth the relationship either way and a bank desk is a competitor, not a wall. English."
   }
 ]
