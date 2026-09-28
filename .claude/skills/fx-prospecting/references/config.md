@@ -478,3 +478,34 @@ to 6.
 alarm from campaign stats alone.** This is the third version of the same lesson,
 after "campaign stats are not the thread" and "failedLeadsCount zero does not
 mean everything landed."
+
+## A stale vanity slug imports as a dead lead, and it looks like nothing is wrong
+
+A LinkedIn profile URL that still resolves in a browser can be the **old**
+vanity slug, kept alive by a redirect after the person changed their display
+name. HeyReach does not follow that redirect. The lead imports with
+`addedLeadsCount: 1` and `failedLeadsCount: 0`, and then sits in the list with:
+
+- a `linkedin_id` beginning `imp_` instead of a numeric id
+- `headline`, `imageUrl`, `companyName` and `position` all null
+- no photo and no enrichment of any kind
+
+Proved on 2026-09-28 with the same person, in the same list, minutes apart:
+
+| URL | linkedin_id | headline |
+|---|---|---|
+| `cindy-woodstock-82679ba4` | `imp_ZHCZYSBPAIUUJNZELCQFWEFGS` | null |
+| `cindy-cross-woodstock-82679ba4` | `372210654` | CFO/HR at IGI Services Inc. |
+
+Same numeric suffix, same person, one enriches and one does not. She had
+changed her displayed name, so the slug moved and the old one became a redirect.
+
+**What to do.** An `imp_` id is not a lead. Treat it as a failed import, not a
+quiet success, and never let a campaign send to one believing the person was
+contacted. Ask for the URL copied **from the browser address bar with the
+profile open**, which is the canonical slug, rather than from a search result,
+a share link or a saved bookmark, all of which can carry the old one.
+
+**Still open.** Candy-Dulce Sifuentes, `candy-dulce-sifuentes-271a271a7`, fails
+the same way across two separate imports. A name change is the leading
+explanation and has not yet been confirmed.
