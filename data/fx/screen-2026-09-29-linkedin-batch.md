@@ -70,3 +70,64 @@ cheap to check and not worth a slot ahead of Sada or Mandel.
 
 **Two URLs: Marcelo Sada and Matt Mandel.** Copied from the address bar with the
 profile open, per the rule that has already cost this session twice.
+
+---
+
+# Consolidated screen, thirty five profiles, 2026-09-29
+
+## DO NOT CONTACT, four of them
+
+1. **Vladimiro Sinatti, Baldor Specialty Foods.** He was **invited today** in
+   campaign 625450, wave 1. His profile still shows a Connect button because the
+   request has not landed yet. Sending again produces
+   `ConnectionRequestAlreadySent`, the exact error that killed Patrick Gaughan's
+   El Paso invitation.
+2. **Esteban Paz, Blue Ridge Produce.** His button reads **Pending**, so an
+   invitation is already outstanding. Same failure waiting to happen.
+3. **Fátima M. is Fátima Morales**, `channel-live` since 2026-09-21 and mid-flight.
+4. **Enrique Obregon, IPR Fresh**, collides with Gustavo Hopkins, messaged today.
+
+Two more are internal collisions rather than prior contact:
+- **David Baker, VP Controller, GVW Group** is superseded by **Sebastian Sabbione, CFO, GVW Group**. Same company, better seat.
+- **Seann Garber, VP Finance, IronSite** is the same company as Kyle Williams, and IronSite is domestic infrastructure security either way.
+
+## The shortlist, in order
+
+| # | Seat | Why |
+|---|---|---|
+| 1 | **Nathan Boardman, CPA, CFO, Core Group Resources**, Houston | His own banner names **Core Trinidad, Core Nations Guyana and Core Suriname**. A Houston workforce business paying people in Trinidad, Guyana and Suriname while billing US clients in dollars. The Javid shelter pattern with three currencies instead of one, and a CFO seat |
+| 2 | **Marcelo Sada, President, Source Logistics**, Houston | Co-founded 1999 to bring **Latin American brands into the US**. 5.8m sq ft, 25 facilities, Laredo and Dallas, FTZ storage near US ports. Founder seat, Marcel's own city |
+| 3 | **Matt Mandel, President and CEO, SunFed**, Tucson | Nogales corridor importer of Mexican grown produce. Chief executive, 61 mutuals |
+| 4 | **Jessica Paz, VP Financial Reporting and Controller, Quirch Foods**, Miami | Her own headline says **$B+ food distribution**; Quirch is the large Hispanic and Latin protein distributor. Sixteen years there, leads a 40 person accounting function |
+| 5 | **Sergio Marentes Gurrola, CEO, SMG Carriers**, Oceanside | **International refrigerated transport, Baja California to CA, AZ, NV, OR, WA, ID.** Twelve years. Small enough that the CEO signs, and the trucks physically cross |
+| 6 | **Sebastian Sabbione, CFO, GVW Group**, Miami | CFO of a diversified industrial holding, Miami based. Better seat than the Chicago controller |
+| 7 | **Samuel Martin, CPA CFE, COO and CFO, Dana Estates Winery**, Napa | Two seats in one at a Napa winery. Barrels, corks and equipment are European purchases, and Marcel has the Hillside and InnoVint wine thread already running |
+| 8 | **Miguel Angel Jubal Rossi, Co Founder, Cargo Produce** | Founder seat in produce |
+
+**Borderline, flagged not recommended:** **Stefan L., SVP and CFO, Proximo Spirits**.
+Proximo is the US arm importing tequila, which is a real peso book, but the parent
+is Becle, a large Mexican listed group with its own treasury. Same shape as
+Elementia, which Marcel approved, so it is his call rather than a clean no.
+
+## Cut, and the reason is nearly always the same
+
+**Foreign parent with group treasury:** Creekstone (Marubeni), Fyffes North
+America (Sumitomo), OOCL (COSCO), Embraer, Toyota North America, Fortegra.
+
+**Treasury title, which signals a treasury department:** Scott Percival at Toyota,
+Igor Borisevich at Fortegra, Marcello Mota who is literally Embraer's Global
+Treasurer.
+
+**No cross border exposure:** Ensemble Performing Arts, IronSite (twice), Round
+Hill Music, NextBird, TRIARC Tank, Global Source Logistics, Max Trans Logistics
+(Andrew Reese, first degree but domestic FTL and LTL out of Tennessee).
+
+**Dormant profile:** Dario Sarmiento, CEO of Angus Beef LLC in Washington DC, has
+a genuine Argentine beef import thesis and **76 connections**, which is the Josh
+Glover problem. Right idea, unreachable account.
+
+## What is needed
+
+**URLs for the shortlist.** Every one of these arrived as a screenshot. Send the
+links for as many of the eight as Marcel wants and they can be built; nothing can
+be constructed from a name.
