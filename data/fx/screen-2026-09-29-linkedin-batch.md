@@ -162,3 +162,25 @@ read 628299 for `totalUsersFailed` and treat these two as the likely names.
 Accents were stripped from the three Spanish notes on the first import and put
 back on a second pass. Verified on Sada that the note now reads with
 `qué`, `decisión` and `aquí` intact.
+
+## Single URL, cut: Vatsal Shah, Finance Manager, Tenneco
+
+Second degree, Dean and Jorge among five mutuals, United Texas alumnus.
+**Cut, and Tenneco has already been cut twice in this repo.** The 09-24 screen
+put it in "too big, which is a real category" alongside DP World and G III
+Apparel: Apollo owned, roughly 78,000 people, a corporate treasury in Illinois
+with ISDAs already in place. `targets-tier-b.csv` line 518 carries Ian Burns,
+a Business Unit CFO there, scored 65 with `fx: False` and never contacted.
+
+Vatsal sits well below that seat. A Finance Manager inside a group that size
+does not choose the counterparty and often does not see the rate; he books what
+treasury hands him. There is no version of this where the pitch reaches a
+decision.
+
+Not a channel play either. Opening a second degree to ask for an introduction
+only works when the person has standing with the buyer, and a divisional finance
+manager has no line to a corporate treasurer he has likely never met.
+
+**Rule reinforced, third instance:** the Monex band is roughly $10M to $500M.
+Above that the answer is almost always that a bank desk already owns it, and
+the size of the logo is what makes the mistake tempting.
