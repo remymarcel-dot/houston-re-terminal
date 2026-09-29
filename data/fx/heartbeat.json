@@ -335,5 +335,23 @@
   },
   "ceiling": 15,
   "shape": "13, 7, 8. Irregular and never pinned to the cap, which is what the volume rule asks for."
+ },
+ "sendDateCheck_2026_09_29": {
+  "ranAt": "2026-09-29T15:24Z, scheduled 14:25Z, fired by trig_01GiHE3MqDKWJepL81g9n56E",
+  "625450": "IN_PROGRESS, startedAt 2026-09-29T00:01:06Z. 4 users, 4 in progress, 0 pending, 0 failed.",
+  "625479": "IN_PROGRESS, startedAt 2026-09-29T00:01:07Z. 8 users, 8 in progress, 0 pending, 0 failed.",
+  "622656": "IN_PROGRESS, startedAt 2026-09-29T00:01:02Z, 2 users. Campaign confirmed real; the 09-28 doubt was a record gap, now closed with pipeline entries for Condessa and Toledo.",
+  "verdict": "Neither wave reverted. All twelve automated leads are moving, none failed.",
+  "apiHealth": "The 500s of 09-28 evening are gone. Every read succeeded."
+ },
+ "elPasoW4Failure": {
+  "resolved": "2026-09-29",
+  "who": "Patrick Gaughan, CPA, Director of Finance, Universal Metal Products, Cleveland, Ohio.",
+  "failedAt": "2026-09-28T15:39:07Z",
+  "errorCode": "ConnectionRequestAlreadySent",
+  "meaning": "Not a broken lead and not a bad URL. An invitation to him was already outstanding, and LinkedIn refuses a second while the first is pending. This is exactly the trap already recorded in config.md under 'Check for a pending invitation before sending another', now seen firing in production with a named error code.",
+  "consequence": "He never received the W4 note about paying the Mexico side out of Wickliffe. Whatever note accompanied the original pending invitation is what he will see if he accepts.",
+  "action": "Do NOT resend; it would fail the same way. Leave the original invitation to run its course.",
+  "countCorrection": "My 09-28 note said W4 'fell from 10 to 4'. The 10 came from a 2026-09-23 planning document written before W4b was split off; list 960269 holds 4 and did on 09-28 too. Leads were not lost, and I should not have framed it as a drop."
  }
 }
