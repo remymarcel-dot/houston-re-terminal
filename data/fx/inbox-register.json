@@ -203,5 +203,17 @@
   "item": "Belkins, Michael Maximoff, Chief Growth Officer and co-founder, London. Third touch (2026-09-16, 09-21, and 09-29 at 04:50 Houston) asking Marcel to complete a survey on where deals get lost in the pipeline, with an Amazon gift card, a book and a $1,500 tools giveaway offered. Belkins is a B2B appointment setting agency. The survey is the opening move of an agency pitch and the incentive is the tell. Not FX business. Nothing owed, no reply.",
   "wylson": "No reply yet to the 08:56 nudge. Thread stands at eight messages with Marcel last.",
   "prospectReplies": "None. Expected: today's invitations run profile view from 09:00 Houston with the connection request four hours behind, so nothing can land before roughly 13:00."
- }
+ },
+ "cavazos_2026_09_29": {
+  "who": "Jorge Cavazos, LCB, CCS, MBA. Founder and President, EXL Automated Solutions, Laredo, Texas.",
+  "profile": "US Customs Broker since 1993, ViatPro proprietary software, imports and exports primarily to and from Mexico, NAFTA, AES, EDI. Bilingual.",
+  "play": "Play 0 batch 2 final, campaign 618515. Marcel's message 2026-09-25 18:21 asked whether EXL touches the currency leg or whether clients settle it themselves.",
+  "reply": "2026-09-29 01:56: 'Thanks.  We are good'",
+  "autoTag": "Not interested, applied automatically 2026-09-29 02:40 from campaign 618515.",
+  "read": "A decline, and it answers neither half of the question asked. Treat it as a brush off rather than information about how EXL handles FX.",
+  "disposition": "Close gracefully, no push. A short reply matching his brevity is right; anything longer, or anything that slips in a referral ask, would be exactly the pushiness to avoid.",
+  "whyHeStillMatters": "A Laredo customs broker clearing Mexican trade since 1993 is a channel to dozens of importers even when he is not a client. Leave the relationship clean and revisit in time, not now.",
+  "significance": "First Play 0 reply on record, and a data point for the 2026-10-08 review. A decline counts."
+ },
+ "sweepMethodCorrected": "2026-09-29: seen:false hid this reply because the thread was marked read. The sweep test is now lastMessageSender == CORRESPONDENT, applied in code over an unfiltered pull. Written into config.md."
 }

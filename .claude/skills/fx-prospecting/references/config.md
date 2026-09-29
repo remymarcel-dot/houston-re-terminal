@@ -535,3 +535,52 @@ concluding an import failed, re-send it once and read the counts. An `updated`
 count means it is already there and must not be added again. Do not conclude from
 a single empty read that the lead is missing, and do not re-import blindly, which
 is how a lead ends up in a campaign twice.
+
+## Two inbox-sweep errors, both made on 2026-09-29
+
+### 1. `seen: false` is the wrong test for "needs attention"
+
+A thread can be marked **read** and still hold an unanswered reply, because the
+read flag tracks whether the conversation was opened, not whether anyone answered
+it. Filtering `get_conversations_v2` on `seen: false` therefore hides real
+prospect replies.
+
+**Jorge Cavazos, President of EXL Automated Solutions, replied at 01:56 on
+2026-09-29 and did not appear in a `seen: false` sweep run hours later.** Marcel
+caught it: *"there is one reply check it better it is slipping"*.
+
+**The correct test is `lastMessageSender == "CORRESPONDENT"`.** Sweep unfiltered
+and apply that in code. Never report an inbox as clear on the strength of the
+seen flag.
+
+### 2. Never pull conversations raw at a large limit
+
+`get_conversations_v2` at `limit: 40` returned 130,301 characters and blew the
+token budget, because each thread carries the correspondent's full `about` text
+and every message body.
+
+**Always post-process rather than reading it inline.** Either keep `limit` at 10
+to 15, or take the saved file and reduce it first:
+
+```
+python3 - <<'EOF'
+import json
+d=json.load(open(FILE))          # strip any prefix before the first '{'
+for c in d['items']:
+    if c.get('lastMessageSender')!='CORRESPONDENT': continue
+    p=c.get('correspondentProfile') or {}
+    print(c['lastMessageAt'],'|',p.get('firstName'),p.get('lastName'),
+          '|',p.get('companyName'),'|',p.get('position'))
+    print((c.get('lastMessageText') or '')[:400])
+EOF
+```
+
+That prints who is waiting, from when, and what they said, in a few lines each.
+
+### And one thing that did work
+
+`autoTags` applied **"Not interested"** to Cavazos automatically at 02:40, tied to
+campaign 618515. That is the first time the tagging has been seen working on a
+live reply, against the earlier finding that only three tags existed across 294
+conversations. Worth checking autoTags on each sweep; it is not reliable enough to
+depend on, but it is free signal when present.
