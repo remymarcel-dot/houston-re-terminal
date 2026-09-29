@@ -196,5 +196,12 @@
   "why": "HeyReach exposes the network only as a paginated list with no keyword or company filter, 22,000 records at 100 a page. The local exports in data/fx/linkedin/ hold roughly 1,200 rows, all filtered subsets, so absence there proves nothing. A conversation search for 'frida' returned zero, which only rules out someone he has already messaged.",
   "authoritativeRoute": "Marcel's own LinkedIn: My Network, then search his connections filtered by Current company. Instant and definitive.",
   "offered": "Apollo can name the finance seat at FridaBaby whether or not he is connected, the same way the Conroe sweep worked."
+ },
+ "inboxCheck_2026_09_29_morning": {
+  "checkedAt": "2026-09-29 morning Houston",
+  "genuinelyNew": 1,
+  "item": "Belkins, Michael Maximoff, Chief Growth Officer and co-founder, London. Third touch (2026-09-16, 09-21, and 09-29 at 04:50 Houston) asking Marcel to complete a survey on where deals get lost in the pipeline, with an Amazon gift card, a book and a $1,500 tools giveaway offered. Belkins is a B2B appointment setting agency. The survey is the opening move of an agency pitch and the incentive is the tell. Not FX business. Nothing owed, no reply.",
+  "wylson": "No reply yet to the 08:56 nudge. Thread stands at eight messages with Marcel last.",
+  "prospectReplies": "None. Expected: today's invitations run profile view from 09:00 Houston with the connection request four hours behind, so nothing can land before roughly 13:00."
  }
 }
