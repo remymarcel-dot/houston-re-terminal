@@ -207,3 +207,13 @@ answer: `get_lead` returns `imp_ENYVUKKKZLRFRPKVATUIVVDFU`, `headline`, `about`,
 `industry`, `companyUrl` and `experiences` all null, with only the fields we
 typed ourselves on the record. Both URLs are correct. Neither is fixable by
 re sending, and no further calls should be spent on either.
+
+**Started.** Marcel approved all nine notes on 2026-09-29 and 628299 now reads
+`SCHEDULED`, nine users pending, zero failed, zero excluded. Nine pipeline
+entries appended at `status: invitation-scheduled`, `firstTouch: 2026-10-02`.
+
+One scheduling detail checked rather than assumed: `startDate` is read as UTC,
+so 2026-10-02T00:00Z lands at 2026-10-01 19:00 Chicago, which is past the 17:00
+cutoff. The first eligible slot is Friday 09:00 Chicago. That leaves Thursday
+afternoon free to read 626018 and decide on the two placeholders before this
+wave can fire.
