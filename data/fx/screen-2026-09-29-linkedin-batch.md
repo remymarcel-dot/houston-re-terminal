@@ -217,3 +217,34 @@ so 2026-10-02T00:00Z lands at 2026-10-01 19:00 Chicago, which is past the 17:00
 cutoff. The first eligible slot is Friday 09:00 Chicago. That leaves Thursday
 afternoon free to read 626018 and decide on the two placeholders before this
 wave can fire.
+
+## Hillary Stroble, Treasurer, Bumble Bee Foods: a channel change
+
+Requested directly by Marcel on 2026-09-29, with the three emails he had already
+sent her pasted in for context. She has not replied to any of them.
+
+Added to **list 975075**, Wednesday's wave 3, which took campaign **625896**
+from 7 pending to 8. Enriched cleanly to LinkedIn id 404429640. Sends
+Wednesday 2026-09-30 at 09:00 Chicago.
+
+**The note deliberately does not pitch.** Three unanswered emails is information,
+not an invitation to try harder in a fourth register. So the invitation names the
+silence, removes the inbox pressure, and offers nothing but the monthly outlook:
+
+> Hillary, I have written a few times on the peso side and would rather not keep
+> filling your inbox. Connecting here instead, so our monthly currency outlook
+> reaches you without an email. If USD/MXN ever deserves a second look, I am
+> easy to find. Marcel
+
+251 characters, no dashes, no meeting ask, no rate claim. Everything the emails
+already said is left out on purpose. Repeating the layered forward program or
+the execution cost argument in 300 characters would read as a fourth attempt at
+the same thing, which is what she has already declined three times.
+
+**Two honest risks on the record.** She is a Treasurer, which icp.md says selects
+against the ICP because a treasury department implies a bank desk already in
+place. And Bumble Bee, FCF owned, sits at or above the top of the Monex band.
+Both were overridden knowingly: the peso exposure here is documented rather than
+inferred, from the Puerto Chiapas plant and peso payroll funded out of the US,
+and Marcel is already three touches deep with a named contact and an email
+address. This is his call and it is a reasonable one.
