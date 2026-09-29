@@ -584,3 +584,23 @@ campaign 618515. That is the first time the tagging has been seen working on a
 live reply, against the earlier finding that only three tags existed across 294
 conversations. Worth checking autoTags on each sweep; it is not reliable enough to
 depend on, but it is free signal when present.
+
+## A running campaign picks up list changes, in both directions
+
+Confirmed three times on 2026-09-28 and 09-29, and it is worth relying on:
+
+| Change | Campaign state | Result |
+|---|---|---|
+| Removed Sifuentes from list 974427 | SCHEDULED | 625479 went 9 to 8 |
+| Added Cordon to list 975075 | SCHEDULED | 625896 went 6 to 7 |
+| Added Rodriguez Arrizabalaga to list 978548 | **IN_PROGRESS** | 628244 went 2 to 3 |
+
+So a lead can be added to or pulled from a campaign that is already running by
+editing its list, without rebuilding anything. Always read the campaign back
+afterwards: the change in `totalUsers` is the proof, not the add or delete
+response.
+
+**One limit.** `customUserFields` are set at import, so the personalized note
+cannot be edited in place. Changing a note means deleting the lead and re-adding
+it, which on a live campaign risks disturbing a lead already in flight. Get the
+note right before the import.
