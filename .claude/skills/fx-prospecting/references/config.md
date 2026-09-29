@@ -635,3 +635,29 @@ account, and none enriched on two imports, with and without the trailing slash.
 Do not keep retrying. Log it, leave the lead in when the send is days out, and
 put the name on the verification check so the failure is caught rather than
 assumed.
+
+### The `imp_` placeholder is sticky at the workspace level, so the first import is the only one that counts
+
+Proved on 2026-09-29 with `jessica-paz-964a92372`. The sequence of evidence:
+
+1. First import into list 978635 resolved to `imp_ZYDILSBWEVAUDEOVQPBMELKIH`.
+2. Re import into the same list with the trailing slash: same placeholder.
+3. `get_lead` on the URL returns that same placeholder with every field null
+   except `firstName`, `lastName` and `username`. The record is workspace wide,
+   not list scoped.
+4. Import into a brand new list 978657, this time supplying `username` as well
+   as `profileUrl`: `addedLeadsCount: 1`, and the read back shows the **same**
+   `imp_` id again.
+
+So a fresh list does not reset anything. Once a URL enters the workspace as a
+placeholder, every later import of that URL inherits the poisoned record. Do
+not spend more calls on it, and do not present a re import as a fix.
+
+**What this does not yet establish:** whether a placeholder lead actually fails
+the send. The campaign action works from `profileUrl`, so it may still fire.
+Campaign 626018 carries three placeholders (Olivier, Grappe, Rubio) and sends
+2026-10-01; 628299 carries two (Paz, Marentes Gurrola) and sends 2026-10-02.
+Thursday's result is the experiment. Read `totalUsersFailed` on 626018 before
+Friday and let it decide whether the two in 628299 get pulled for a manual send.
+
+List 978657 is a disposable probe. Do not add leads to it or build from it.

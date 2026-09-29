@@ -184,3 +184,20 @@ manager has no line to a corporate treasurer he has likely never met.
 **Rule reinforced, third instance:** the Monex band is roughly $10M to $500M.
 Above that the answer is almost always that a bank desk already owns it, and
 the size of the logo is what makes the mistake tempting.
+
+## Jessica Paz URL reconfirmed by Marcel, and the cause is now known
+
+Marcel re sent the URL on 2026-09-29. It is correct. The failure is not the URL
+and not anything he can fix by sending it again.
+
+A probe into a fresh list, this time with `username` supplied alongside
+`profileUrl`, returned the identical `imp_ZYDILSBWEVAUDEOVQPBMELKIH` placeholder,
+and `get_lead` shows the same record with every field null. The placeholder is
+held at the workspace level, keyed to the URL, so the first import is the only
+one that can resolve it and every later attempt inherits the dead record.
+
+**Decision: she stays in 628299 for now.** The send still runs off `profileUrl`,
+so it may work. Campaign 626018 sends Thursday 10-01 carrying three placeholders
+of its own, one day ahead of 628299. If those three fail Thursday, Paz and
+Marentes Gurrola come out of Friday's list and go to Marcel by hand, the way
+Sifuentes did. If they fire, nothing needs doing.
