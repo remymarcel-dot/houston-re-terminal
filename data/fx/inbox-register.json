@@ -174,7 +174,15 @@
    "who": "DNV, Wylson Zon Neto",
    "why": "On 2026-09-24 he proposed meeting in The Woodlands on **Tuesday**, which is 2026-09-29, tomorrow. Marcel replied the same day asking for the time and place and offering to come to him. Wylson never answered. The meeting is tomorrow and nothing is fixed.",
    "action": "Nudge tonight, in Portuguese, with an easy out. Draft held for Marcel to approve.",
-   "context": "This thread also carries an open referral ask: Marcel asked on 2026-08-31 who handles foreign currency payments or treasury at DNV, and on 2026-09-24 Wylson said he would focus on it. Do not repeat the ask in the nudge; the meeting is the priority."
+   "context": "This thread also carries an open referral ask: Marcel asked on 2026-08-31 who handles foreign currency payments or treasury at DNV, and on 2026-09-24 Wylson said he would focus on it. Do not repeat the ask in the nudge; the meeting is the priority.",
+   "sent": {
+    "at": "2026-09-29T13:56:41Z, 08:56 Houston",
+    "approvedBy": "Marcel, 'send the nudge to wylson'",
+    "body": "Wylson, tudo bem? Como a reunião é hoje, fico à disposição. Me manda o horário e o local quando puder que eu apareço. Se a agenda apertar, deixamos para a próxima sem problema. Abraço, Marcel",
+    "correction": "The approved draft said 'amanhã'. The date rolled to 2026-09-29 between approval and sending, so Tuesday became today and the word was changed to 'hoje' before sending. Nothing else was altered.",
+    "verified": "Read back: message 8 of 8 in the thread, lastMessageSender ME.",
+    "nextState": "Waiting on Wylson for a time and a place. If nothing by midday Houston, the coffee does not happen today and the thread simply carries on; do not chase a second time the same day."
+   }
   },
   "nothingOwed": [
    "The Entrepreneur's Source, John Senich. Second touch 2026-09-28 after 2026-09-21. Franchise and business ownership coaching pitch, not FX business. Personal rather than commercial, so it is Marcel's call whether to answer at all.",
