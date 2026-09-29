@@ -213,7 +213,20 @@
   "read": "A decline, and it answers neither half of the question asked. Treat it as a brush off rather than information about how EXL handles FX.",
   "disposition": "Close gracefully, no push. A short reply matching his brevity is right; anything longer, or anything that slips in a referral ask, would be exactly the pushiness to avoid.",
   "whyHeStillMatters": "A Laredo customs broker clearing Mexican trade since 1993 is a channel to dozens of importers even when he is not a client. Leave the relationship clean and revisit in time, not now.",
-  "significance": "First Play 0 reply on record, and a data point for the 2026-10-08 review. A decline counts."
+  "significance": "First Play 0 reply on record, and a data point for the 2026-10-08 review. A decline counts.",
+  "dispositionOverridden": {
+   "by": "Marcel, 2026-09-29",
+   "reasoning": "'he said that has this resolved, why we do not give an aditional try and say that we are very competitive and might improved the fx rate that he is getting now, if he give us chance to comapare is worth trying and if we can not improve we leave it there'",
+   "assessment": "He is right and the original close-gracefully call was too cautious. 'We are good' means an incumbent exists, not that the rate is good. For a Laredo broker on Mexican trade the peso leg is very likely taken at whatever the bank shows that morning."
+  },
+  "secondTouch": {
+   "sentAt": "2026-09-29T14:11:08Z, 09:11 Houston",
+   "body": "Jorge, understood. Most people who say that already have someone handling it, which is not quite the same as knowing the rate is good. Send me a recent USD MXN fill and I will tell you honestly whether we can improve on it. If we cannot, I will leave it there and not bring it up again. Marcel",
+   "design": "Does not argue with his answer. Asks for one number rather than a meeting, which is the smallest thing he can agree to. States the exit out loud so he can engage knowing it ends cleanly.",
+   "verified": "Read back: message 3 of 3, lastMessageSender ME.",
+   "rule": "THIS IS THE ONE EXTRA TRY. If he ignores it or repeats the no, honor it and mark him dormant. The promise in the message not to raise it again is real and binds us."
+  },
+  "status": "second-touch-sent-awaiting"
  },
  "sweepMethodCorrected": "2026-09-29: seen:false hid this reply because the thread was marked read. The sweep test is now lastMessageSender == CORRESPONDENT, applied in code over an unfiltered pull. Written into config.md."
 }
