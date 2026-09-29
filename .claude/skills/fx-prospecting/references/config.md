@@ -604,3 +604,34 @@ response.
 cannot be edited in place. Changing a note means deleting the lead and re-adding
 it, which on a live campaign risks disturbing a lead already in flight. Get the
 note right before the import.
+
+### A customUserField does update in place on a list whose campaign is still DRAFT
+
+The earlier note here said `customUserFields` cannot be edited in place. That is
+too broad. On 2026-09-29, list 978635 with campaign 628299 in DRAFT, re sending
+a lead with the same `profileUrl` and a changed `note` returned
+`updatedLeadsCount: 1` and the read back showed the new text. The correct rule:
+
+- **DRAFT campaign, or lead not yet reached** — re sending the lead overwrites
+  the note. Use it to fix a typo rather than deleting and re adding.
+- **Lead already in flight** — the note is compiled into the queued action and
+  the overwrite does not reach it. Do not rely on it; stop the lead instead.
+
+Read the lead back either way. The counts alone do not prove the field changed.
+
+### Non ASCII characters survive the import, so do not strip accents
+
+Spanish notes imported with `qué`, `decisión`, `aquí`, `dólares`, `línea`,
+`cómo` and `Ángel` all read back intact from `get_leads_from_list`. Writing
+Spanish without accents is a self inflicted error that a prospect reads as
+carelessness. Send the accented text and verify it on the read back.
+
+### The `imp_` placeholder clusters on long numeric slug suffixes
+
+Three confirmed failures now share a shape: `candy-dulce-sifuentes-271a271a7`,
+`jessica-paz-964a92372`, `sergio-marentes-gurrola-12b744260`. All carry a long
+trailing suffix rather than the short six to eight character hash of an older
+account, and none enriched on two imports, with and without the trailing slash.
+Do not keep retrying. Log it, leave the lead in when the send is days out, and
+put the name on the verification check so the failure is caught rather than
+assumed.

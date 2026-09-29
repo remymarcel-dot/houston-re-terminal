@@ -131,3 +131,34 @@ Glover problem. Right idea, unreachable account.
 **URLs for the shortlist.** Every one of these arrived as a screenshot. Send the
 links for as many of the eight as Marcel wants and they can be built; nothing can
 be constructed from a name.
+
+## Build record, Friday 2026-10-02 wave
+
+List **978635**, "Play 4 cold 2026-10-02 shortlist", nine leads.
+Campaign **628299**, "Cold invitations 2026-10-02", DRAFT, awaiting Marcel's word.
+Sequence copied verbatim from 625450: VIEW_PROFILE, delay 0, then
+CONNECTION_REQUEST at 4 HOUR with `{note}` and the standard fallback,
+`toBeWithdrawnAfterDays: 30`, both branches END at 3 HOUR.
+Schedule Mon to Fri 09:00 to 17:00 America/Chicago, startDate 2026-10-02.
+`excludeContactedFromOtherCampaigns: true`.
+
+Week load once this starts: 13 Tuesday, 7 Wednesday (625896), 8 Thursday
+(626018), 9 Friday (628299). Every day under the 15 invitation ceiling.
+
+Seven of the nine enriched to real numeric LinkedIn ids on the first import:
+Boardman 78967519, Sada 150926093, Mandel 26012422, Martin 22200293,
+Jubal Rossi 51905939, Sabbione 45797986, Lazaridis 79483952.
+
+**Two did not enrich, and a re-send did not fix it.** Jessica Paz
+(`jessica-paz-964a92372`) and Sergio Marentes Gurrola
+(`sergio-marentes-gurrola-12b744260`) both hold `imp_` placeholder ids after
+two imports, one without the trailing slash and one with. Both slugs carry the
+long nine digit suffix that marks a newer LinkedIn account, the same shape as
+the Sifuentes URL that would not enrich either. Left in the list rather than
+removed: the send is three days out, and the campaign works from `profileUrl`
+rather than from the resolved id, so it may still fire. The Friday check must
+read 628299 for `totalUsersFailed` and treat these two as the likely names.
+
+Accents were stripped from the three Spanish notes on the first import and put
+back on a second pass. Verified on Sada that the note now reads with
+`qué`, `decisión` and `aquí` intact.
