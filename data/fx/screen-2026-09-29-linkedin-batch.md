@@ -201,3 +201,9 @@ so it may work. Campaign 626018 sends Thursday 10-01 carrying three placeholders
 of its own, one day ahead of 628299. If those three fail Thursday, Paz and
 Marentes Gurrola come out of Friday's list and go to Marcel by hand, the way
 Sifuentes did. If they fire, nothing needs doing.
+
+Marcel re sent the Marentes Gurrola URL immediately after the Paz one. Same
+answer: `get_lead` returns `imp_ENYVUKKKZLRFRPKVATUIVVDFU`, `headline`, `about`,
+`industry`, `companyUrl` and `experiences` all null, with only the fields we
+typed ourselves on the record. Both URLs are correct. Neither is fixable by
+re sending, and no further calls should be spent on either.
