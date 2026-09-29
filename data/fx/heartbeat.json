@@ -353,5 +353,13 @@
   "consequence": "He never received the W4 note about paying the Mexico side out of Wickliffe. Whatever note accompanied the original pending invitation is what he will see if he accepts.",
   "action": "Do NOT resend; it would fail the same way. Leave the original invitation to run its course.",
   "countCorrection": "My 09-28 note said W4 'fell from 10 to 4'. The 10 came from a 2026-09-23 planning document written before W4b was split off; list 960269 holds 4 and did on 09-28 too. Leads were not lost, and I should not have framed it as a drop."
+ },
+ "play0Exceptions": {
+  "authorizedBy": "Marcel, 2026-09-29: 'send to this play 0 contacts so we clean the queue'",
+  "campaign": "628244, list 978548, IN_PROGRESS, startedAt 2026-09-29T16:33:29Z, 2 users, 0 failed",
+  "sequence": "Copied verbatim from 622570, Play 0 batch 6: CHECK_IS_CONNECTION then MESSAGE with a 5 hour delay.",
+  "quota": "Messages, not invitations. Draws on the separate 30 a day message budget, so it does not touch today's twelve invitations.",
+  "note": "The batch 6 stop on Play 0 stands. These are three named exceptions Marcel approved individually, not a resumption of the cadence. The 2026-10-08 review is unaffected.",
+  "stillBlocked": "Guillermo Rodriguez Arrizabalaga, the third and strongest of the three, could NOT be sent. His profile URL exists nowhere in the repo; he came from a screenshot only, and constructing a LinkedIn URL is the error that has already put two fabricated links into a list this week. Marcel must supply the link."
  }
 }
