@@ -3766,5 +3766,35 @@
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
     "note": "Sourced from the Apollo Conroe sweep, headcount 11 to 200, NAICS manufacturing, wholesale and transport. Read back: resolved id 114983440. Custom OEM surgical components and perfusion kits, 21 staff, own keywords include global distribution. Owner seat. English."
+  },
+  {
+    "name": "Felipe Condessa",
+    "company": "thyssenkrupp nucera",
+    "title": "CFO North America",
+    "location": "Atlanta, Georgia, United States",
+    "profileUrl": "https://www.linkedin.com/in/felipecondessa",
+    "play": "gacc-warm",
+    "campaignId": 622656,
+    "listId": 970069,
+    "status": "in-campaign",
+    "outcome": null,
+    "firstTouch": "2026-09-29",
+    "loggedOn": "2026-09-29",
+    "note": "RECORD GAP CLOSED 2026-09-29. Campaign 622656 was recorded in heartbeat.json but neither person had a pipeline entry, which made it look on 2026-09-28 as though the campaign might not exist. It does: read live today as IN_PROGRESS, 2 users, started 2026-09-29T00:01:02Z. From the GACC South roster screen. One seat per company."
+  },
+  {
+    "name": "Rogelio Toledo",
+    "company": "Schryver Logistics USA",
+    "title": "Managing Director",
+    "location": "Spring, Texas, United States",
+    "profileUrl": "https://www.linkedin.com/in/rogelio-toledo-22979738",
+    "play": "gacc-warm",
+    "campaignId": 622656,
+    "listId": 970069,
+    "status": "in-campaign",
+    "outcome": null,
+    "firstTouch": "2026-09-29",
+    "loggedOn": "2026-09-29",
+    "note": "RECORD GAP CLOSED 2026-09-29, same as Condessa. From the GACC South roster screen. Not to be confused with Jorge Salvador Toledo at DP World, screened out 2026-09-28; different people, different companies, checked at the time."
   }
 ]
