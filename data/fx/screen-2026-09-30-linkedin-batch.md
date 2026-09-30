@@ -643,3 +643,60 @@ Pablo Ortiz Rodea.
 
 Eleven invitations is inside the 15 a day ceiling. Four messages draw on
 the separate 30 a day quota. The whole batch can go out in one day.
+
+## Jakks Pacific: added on Marcel's call. John Kimble takes the seat.
+
+**Marcel: "and add jakks pacific."** In as number 16.
+
+Three Jakks people came through this batch, so the first job is picking one.
+
+| who | seat | mutuals | degree |
+|---|---|---|---|
+| **John Kimble** | **Chief Financial Officer**, Wharton | 2 | 2nd |
+| Lucas Natalini | VP Finance | 5 | 2nd |
+| Kevin Wachi | VP Finance | 0 | 2nd |
+
+**Kimble takes it.** At roughly $700M the CFO chooses the counterparty, and
+a VP Finance approached directly would route Marcel to him anyway, which
+wastes the first impression. Natalini is the better warm path on 5 mutuals
+against 2, and his About naming **transfer pricing** is the best single
+piece of multi currency evidence on any of the three, but a warm path to
+someone who cannot decide is still not a decision. **Natalini is the
+reserve**, and a good one if Kimble does not accept. Wachi is out on both
+counts.
+
+**The original cut stands as an objection, and Marcel overrode it
+knowingly.** Jakks is NASDAQ listed with investor relations and SEC
+reporting at roughly $700M, above the top edge where Universal Weather sat
+at $555M. Companies at that size and disclosure level usually have bank FX
+lines already. Under the rule corrected an hour ago, Kimble's seat **is**
+the central finance function rather than a regional book, so this is not
+the Ortiz Rodea case and the size test applies cleanly.
+
+**What makes it worth a slot anyway:** almost everything Jakks sells is
+manufactured in China and Vietnam, so the import payables book is large and
+continuous rather than occasional. In a year of shifting tariff treatment
+on Chinese goods, landed cost is being repriced constantly, and that is
+when an incumbent arrangement gets looked at again. It is a real reason,
+not a rationalisation, and it is Marcel's call to weigh it against size.
+
+**The opener asks.** A public company's existing FX arrangements are not
+knowable from outside, so asserting that Jakks is exposed would be guessing
+in front of a Wharton CFO who knows exactly how it is handled. Name the
+China and Vietnam manufacturing base, which is public, and ask how the
+payables side is covered today.
+
+## Final shortlist: sixteen
+
+**Play 4, cold invitations (12):** Rich Wright, Michal Hoppner, Alejandro
+Bours, Guillermo Martinez, Roman Rariy, Hector Lujan, Jimmy Alvarez, John
+Hermann, John Mannion, Cesar de Paz, Jamie LaChapelle, **John Kimble**.
+
+**Play 0, direct messages (4):** Bill Courtney, Avi Nir, Fernando Salinas,
+Pablo Ortiz Rodea.
+
+Twelve invitations is still inside the 15 a day ceiling, and the four
+messages draw on the separate 30 a day quota. One day covers all sixteen.
+
+**Reserve, second approach only:** Lucas Natalini (Jakks), Gonzalo Canessa
+(Hortifrut), Jim Roberts (Naturipe), Sara Hergesheimer (Crown Jewels).
