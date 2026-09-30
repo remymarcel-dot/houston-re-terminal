@@ -533,3 +533,38 @@ to be there when she gets to it.
 new **Controller** or manager does not yet, and is not. Zachary Robarge,
 brand new Controller at a domestic Ohio distributor, was cut in the same
 batch Engels was added in.
+
+## Small logistics and transportation is a deliberate exception to the band floor
+
+Marcel, 2026-09-30: *"i like small in logisctis and transportatioin so
+outreach him anyway and any other we see."*
+
+Said after the screen recommended passing on Go Freight, a thirteen person
+Miami freight company likely below the $10M band floor, on the grounds that
+it was too small and the seat supplied was an accounting manager rather than
+the owner.
+
+**He is right and the reasoning generalises.** In freight and transport
+specifically:
+
+- **The band floor does not apply.** A fifteen person forwarder paying a
+  foreign agent every week has a real recurring flow even at $8M of revenue.
+  Volume of payments matters more than revenue.
+- **An accounting manager at a fifteen person company is not the same seat
+  as an accounting manager at a five hundred person company.** At that size
+  the person doing the books usually executes the wires, sees the rate, and
+  can put a provider in front of the owner. Same logic that upgraded Mary
+  Paz Varela.
+- **There is no treasury desk to displace**, which is the single biggest
+  obstacle at the top of the band. A small forwarder is a greenfield sale
+  where a $639M carrier is a displacement sale.
+- **The owner is one conversation away**, not four.
+
+**What still has to be true.** The company must actually move something
+across a border. Domestic drayage and domestic brokerage have no currency
+flow no matter how small or how well run. When the profile does not prove
+it, the opener asks, as with Go Freight: "curious whether Go Freight moves
+anything internationally, or whether the book is all domestic."
+
+So the screen keeps rejecting small logistics companies **with no
+international lane**, and stops rejecting them **for being small**.
