@@ -507,3 +507,44 @@ exposure.
 All four names that were held for a missing fact are now resolved. Three
 went in, one went out, and the one that went out, KC Skalisky, had the
 highest mutual count in the batch. That is the screen doing its job.
+
+## Avi Nir, the business confirmed, and Marcel does not know him
+
+Two new facts on 2026-09-30, and both change the draft rather than the
+verdict.
+
+**Marcel: "i do not know him."** Despite 1st degree and 39 mutuals, there is
+no personal relationship. So the opener cannot lean on one. It takes the
+"we connected a while back and I never followed up, so let me do that now"
+shape he uses for dormant connections, not a familiar one. Writing warmth
+he has not earned is the fastest way to be read as a form letter.
+
+**aycocorp.com is blocked by this environment's network policy**, so the
+site could not be read directly. A web search answered it anyway, from
+trade press and business directories:
+
+- The operating business is **Ayco Farms, Inc.**, Pompano Beach, Florida.
+  A produce importer and distributor supplying retailers, food service and
+  wholesalers. **Note the name discrepancy:** LinkedIn carries "Ayco corp
+  LLC" with an Israel tag; the trading company is Ayco Farms. The note
+  should say Ayco Farms.
+- **Avi Nir is CEO and President.**
+- **The sourcing is the story.** Guatemalan melons November to June,
+  paired with Fisher Ranch melons out of Arizona and California late May
+  to October for year round supply. Plus a **pineapple venture with one of
+  the largest Costa Rican growers**, sold in the US under the Ayco brand.
+
+**That is a textbook fit.** A Florida importer buying from Guatemala and
+Costa Rica year round, owner operated, with the CEO in the seat ten years.
+Neither Guatemala nor Costa Rica is dollarized, unlike Ecuador, so there is
+a real possibility of local currency settlement rather than a manufactured
+angle.
+
+**What the opener does with this.** The corridor is public and specific, so
+naming it shows work and is not a guess. What is still genuinely unknown is
+whether Ayco pays those growers in quetzales and colones or settles
+everything in dollars, and that is the one thing worth asking. Same shape
+as the Diego Sierra and Cesar Espinosa notes already sent: name the
+corridor, ask the currency.
+
+Still Play 0, since he is 1st degree.
