@@ -90,3 +90,50 @@ one extra thing: an acknowledgement that they already have this handled.
 Pretending otherwise to a CFO at the largest privately owned fleet in the
 country reads as not having looked. Name the Mexico lanes, concede the
 arrangement exists, and offer the comparison.
+
+## Dean Rigg found, and LinkedIn is the wrong channel for him
+
+https://www.linkedin.com/in/dean-rigg-9b78353aa/
+Chief Financial Officer, Mesilla Valley Transportation. Las Cruces, New
+Mexico. **3rd degree. ONE connection.**
+
+**Do not spend an invitation on him.** One connection is not a light profile,
+it is an unused one. Worse than Roberto Lopez at Frank's, who had three and
+was cut for exactly this. An invitation to an account nobody opens is a
+slot spent on silence.
+
+**The slug also predicts an enrichment failure.** `dean-rigg-9b78353aa`
+carries the long random suffix that marks a newly created account, the same
+shape as `candy-dulce-sifuentes-271a271a7`, `jessica-paz-964a92372` and
+`sergio-marentes-gurrola-12b744260`. All three refused to enrich.
+
+**And importing him to find out would cost something permanent.** The `imp_`
+placeholder is sticky at the workspace level: the first import is the only
+one that can resolve a URL, and every later attempt inherits the dead record
+in any list, forever. Testing him through HeyReach now would risk poisoning
+the record for a channel we have already decided against.
+
+## The channel that is actually open
+
+Apollo's free search already reports that Dean has **both an email address
+and a direct phone number on file**. Wesley, the Senior Controller, has a
+direct phone too.
+
+For a CFO at a trucking company that is the better channel anyway. Carriers
+run on the phone and on email, not on LinkedIn, and a one connection profile
+is the evidence rather than the exception.
+
+**Recommended: enrich Dean through Apollo. Cost is 1 credit for one person.**
+That returns the surname confirmation, the email and the direct dial, and
+none of it touches HeyReach or risks a poisoned record. Wesley would be a
+second credit if Marcel wants the controller as backup.
+
+**Not done yet, because it is a spend.** Awaiting Marcel's word.
+
+## If Marcel would rather use LinkedIn anyway
+
+There is one legitimate version. Royal Jones is the founder, President and
+CEO and a public figure in El Paso trucking, so his profile is likely real
+and active in a way Dean's is not. But a $639M CFO seat exists precisely so
+the CEO does not handle this, and going over Dean's head on a first approach
+is a bad trade. Better to reach Dean on the channel he actually uses.
