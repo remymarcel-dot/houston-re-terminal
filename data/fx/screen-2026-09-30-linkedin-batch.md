@@ -700,3 +700,62 @@ messages draw on the separate 30 a day quota. One day covers all sixteen.
 
 **Reserve, second approach only:** Lucas Natalini (Jakks), Gonzalo Canessa
 (Hortifrut), Jim Roberts (Naturipe), Sara Hergesheimer (Crown Jewels).
+
+## James M. Schofield, Controller and CFO, Costa Fruit & Produce. In as 17.
+
+Marcel went back to the company and found the seat, which is exactly the
+right move: **Dan Mazzola was a produce buyer, Schofield is the CFO.**
+URL supplied: https://www.linkedin.com/in/jamesmschofield12/
+
+**A miss in my own screen worth naming.** The screen listed "companies
+worth remembering even though the person was cut" and named Frank's
+Distributing, Calpine Containers, Harvest Fresh, PURIS and CDS. **Costa
+Fruit & Produce should have been on that list** and was not, because
+Mazzola was cut on seat alone with nothing wrong with the company. When a
+cut is purely about the seat, the company belongs on the follow up list
+every time. Marcel did that job instead.
+
+**What the profile gives us.**
+- **Controller and CFO, Mar 2019 to present, 7 years 7 months.** Long
+  tenure, current, unambiguous.
+- **$100M+ privately held fresh produce distribution**, serving New
+  England, out of Charlestown, Massachusetts. Private and $100M+ sits
+  squarely in the $10M to $500M band rather than at an edge.
+- He manages "enterprise budgets exceeding $100M" and carries both
+  Controller and CFO in one title, which at a private distributor means
+  the banking relationship is his.
+
+**Two honest caveats.**
+
+1. **There is no import evidence anywhere on the profile.** Every line is
+   ERP and WMS implementation, warehouse technology, inventory accuracy,
+   cycle counting, labor utilization and KPI reporting. Not one
+   international word. New England distributors do buy Chilean and Peruvian
+   fruit in the off season and Mexican and Central American product year
+   round, but they often buy it **landed from importers** rather than
+   direct. Those are completely different conversations, so **the opener
+   asks which it is**, exactly as with LaChapelle at CDS.
+2. **3rd degree, 275 connections, no mutuals shown.** The thinnest warm
+   path of anyone on the shortlist. The note has to carry itself.
+
+One mild flag, not a disqualifier: the headline is a capability list of the
+kind that often signals someone looking. Unlike Evelyn S. and Anna Mosier
+the company is named and the tenure is current and long, so this is a
+current seat. Worth knowing if he replies in a way that reads as
+career-oriented rather than company-oriented.
+
+## Final shortlist: seventeen
+
+**Play 4, cold invitations (13):** Rich Wright, Michal Hoppner, Alejandro
+Bours, Guillermo Martinez, Roman Rariy, Hector Lujan, Jimmy Alvarez, John
+Hermann, John Mannion, Cesar de Paz, Jamie LaChapelle, John Kimble,
+**James Schofield**.
+
+**Play 0, direct messages (4):** Bill Courtney, Avi Nir, Fernando Salinas,
+Pablo Ortiz Rodea.
+
+Thirteen invitations, still inside the 15 a day ceiling. One day covers all
+seventeen.
+
+**URLs still needed:** twelve of the thirteen invitations. Schofield's is
+the only one supplied so far.
