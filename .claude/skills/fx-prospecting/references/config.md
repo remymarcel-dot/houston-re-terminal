@@ -718,3 +718,31 @@ conversation. `get_conversations_v2` filtered to the profile URL returns
 `totalCount: 0`. So a first message to a first degree connection always goes
 through a Play 0 campaign, never through `send_message`. Reserve `send_message`
 for replies inside a thread that already exists.
+
+### Never leave a draft file saying "nothing has been sent" after approval
+
+Marcel caught this on 2026-09-30. `drafts-2026-10-05-wave.md` opened with
+"held for Marcel's read. Nothing has been sent" and both campaigns marked
+DRAFT. He had approved them and they had been started hours earlier. A
+"STARTED" line was appended at the bottom of the file, which is not good
+enough: the header is what anyone reads first, and a week later it is the
+only thing they will remember.
+
+**When a campaign's state changes, fix the top of the file, not just the
+bottom.**
+
+### The four states, and why `startedAt: null` is not a problem
+
+- **DRAFT** — built but inert.
+- **SCHEDULED** — armed. Fires by itself at the start date, no further action
+  needed.
+- **IN_PROGRESS** — actively working the leads. `startedAt` now has a value.
+- **FINISHED** — every lead has reached an end node.
+
+`startedAt: null` on a SCHEDULED campaign is correct and expected, not a
+fault. It only fills in when the campaign actually begins.
+
+**Two true statements to keep distinct, because they get conflated:** a wave
+can be **approved and armed** while **nothing has physically been sent**. Say
+which one is meant. "It is live" is ambiguous and "it went out" is wrong until
+`IN_PROGRESS` with a non null `startedAt`.

@@ -1,8 +1,32 @@
-# Wave for Monday 2026-10-05, held for Marcel's read. Nothing has been sent.
+# Wave for Monday 2026-10-05. APPROVED AND ARMED 2026-09-30. Fires Monday.
 
-**Campaign 630877**, list 982466, **15 cold invitations**, DRAFT.
-**Campaign 630878**, list 982467, **4 direct messages**, DRAFT.
-Both scheduled Mon to Fri 09:00 to 17:00 America/Chicago, startDate 2026-10-05.
+**Campaign 630877**, list 982466, **15 cold invitations**, **SCHEDULED**,
+15 pending, 0 failed, 0 excluded.
+**Campaign 630878**, list 982467, **4 direct messages**, **SCHEDULED**,
+4 pending, 0 failed, 0 excluded.
+Both run Mon to Fri 09:00 to 17:00 America/Chicago, startDate 2026-10-05.
+
+**This header originally read "held for Marcel's read. Nothing has been sent"
+with both campaigns marked DRAFT. That was true when written and became wrong
+the moment Marcel approved them. Corrected 2026-09-30 after he caught it.**
+
+### What the state actually means, since the words matter
+
+- **DRAFT** — built but inert. Marcel's approval moves it off this.
+- **SCHEDULED** — armed. It will fire on its own at the start date and needs
+  no further action. This is where both campaigns are now.
+- **IN_PROGRESS** — actively working through the leads.
+- **`startedAt: null`** — correct and expected while a campaign is SCHEDULED.
+  It only gets a timestamp when the campaign actually begins on its start
+  date. 626018 and 628299 read the same way.
+
+So both statements below are true at once, and confusing them is how a file
+misleads a week later: **the wave is approved and armed**, and **no
+invitation has physically left yet**. The first message goes out Monday
+2026-10-05 at 09:00 Chicago.
+
+To stop any of it before Monday, pause the campaign or remove the lead from
+its list. A SCHEDULED campaign picks up list changes in both directions.
 
 ---
 
