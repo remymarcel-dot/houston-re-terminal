@@ -1881,9 +1881,26 @@
     "lastLinkedInActivity": "2026-08-06",
     "referralStrength": "THIN, do not overstate. Steven Wojtowicz did not discuss the euro intercompany leg with Marcel: Marcel wrote that line to him. Steven replied only that he had retired, then gave 'First name is Ritesh don't know the surname'. He confirmed the seat, nothing more. Saying he 'pointed me your way' about a specific topic would not survive Ritesh asking him.",
     "lastActivity": "2026-09-21",
-    "touches": 2,
+    "touches": [
+      {
+        "n": 1,
+        "channel": "linkedin",
+        "type": "message",
+        "date": "2026-08-06",
+        "result": "no reply"
+      },
+      {
+        "n": 2,
+        "channel": "linkedin",
+        "type": "message",
+        "date": "2026-09-21",
+        "result": "no reply"
+      }
+    ],
     "angle": "Second touch. Owns the 'itesh' typo in the opening line, brings the one genuinely new fact since August, that Steven Wojtowicz confirmed the seat, and replaces the Luxembourg question with an easier one about who owns operational execution. Precedent for owning a bad first attempt: ManpowerGroup, Fernando Tenuta replied after exactly that move.",
-    "nextStep": "Two touches used. If silent in two to three weeks he goes dormant, no third message."
+    "nextStep": "Two touches used. If silent in two to three weeks he goes dormant, no third message.",
+    "touchCount": 2,
+    "cadenceStop": "Two touches used and both were LinkedIn messages. Marcel decided no third message; if he is silent he goes dormant."
   },
   {
     "name": "Jose Rene Tapia",
@@ -1932,7 +1949,24 @@
     "blocker": null,
     "draft": "Jason, you sent me your emails and four different slots back in December and I never got the invite out. That one is mine.\n\nWhat brings me back is that what you described then was a 2026 goal: taking the sim offering beyond US domestic. Nine months in that is either moving or it is not, and if it is moving you are now paying carriers or suppliers in something other than dollars.\n\nDid the international side actually start?\n\nMarcel",
     "gapConfirmed": "Marcel checked his email on 2026-09-21 and found nothing. The Teams invite was never sent, so this is a genuine dropped ball rather than a thread that continued off platform. One of the few that is.",
-    "touches": 2
+    "touches": [
+      {
+        "n": 1,
+        "channel": "linkedin",
+        "type": "message",
+        "date": "2025-12-17",
+        "result": "replied, gave two work emails and four slots, invite never sent"
+      },
+      {
+        "n": 2,
+        "channel": "linkedin",
+        "type": "message",
+        "date": "2026-09-21",
+        "result": "sent manually by Marcel, awaiting reply"
+      }
+    ],
+    "touchCount": 2,
+    "cadenceStop": "Two touches used. Marcel decided no third message; his own stated position is that customers are US headquartered on domestic payments, so a no closes it cleanly."
   },
   {
     "name": "Carlos Palma",
