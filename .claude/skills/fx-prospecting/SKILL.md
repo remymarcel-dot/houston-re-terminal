@@ -284,12 +284,43 @@ roles. That asset is worth more than any quarter's pipeline. Keep volumes
 conservative, keep messages genuinely personal, honor opt-outs
 immediately.
 
+## Outreach is nine touches across three channels, and the agent does not own all three
+
+Marcel, 2026-09-30: *"in general statistics says that we need to touch 9
+times a prospect to get him engaged so have this in mind in our outreach,
+and we need to move between types of outreach, linkedin, email and call."*
+
+**The division of labour is fixed:**
+
+| channel | who does it |
+|---|---|
+| **LinkedIn** | The agent, end to end, through HeyReach. |
+| **Email** | **The agent writes it. Marcel sends it.** The agent never sends email, and having Seamless campaign access does not change that. |
+| **Phone** | **The agent finds the number and says when to call. Marcel calls and logs the result back here.** |
+
+When a touch falls due on email or phone, produce the draft or the number
+**unprompted**. Do not wait to be asked.
+
+Two things make this structural rather than a preference. A LinkedIn
+invitation that is never accepted is a **dead channel** until it withdraws
+at thirty days, so email and phone are the only way to continue with a non
+accepter at all. And **nine touches must be nine different things**: nine
+restatements of one pitch is worse than one, because it proves nobody is
+reading their side.
+
+Every `pipeline.json` entry carries `touches`, `touchCount` and `nextTouch`.
+The full sequence, the tiers deciding who gets all nine, and who gets four
+or one, are in `references/cadence.md`.
+
 ## References
 
 - `references/config.md` — daily limits, the ramp, permission setup
 - `references/icp.md` — who qualifies, segmentation filters
 - `references/voice.md` — how Marcel writes, with real examples
 - `references/plays.md` — the four plays and when to run each
+- `references/cadence.md` — the nine touch sequence, channel order, who gets how many
+- `references/data-sources.md` — Apollo, ZoomInfo and Seamless, the waterfall order and live credit position
+- `references/trade-finance.md` — product eligibility notes
 
 ## Marcel follows up more than the LinkedIn record shows
 
