@@ -338,3 +338,34 @@ Revised shortlist is **eleven**, still well under the 15 a day ceiling.
     Controller at Midwest Tape. Domestic Ohio media distributor, brand new
     in the seat with no banking authority yet. Marcel already liked the
     post, which is the right amount of engagement.
+
+## Avi Nir resolved, 2026-09-30
+
+Marcel supplied the missing fact: **CEO, Ayco corp LLC, full time, Jan 2016
+to present, 10 years 9 months, Pompano Beach FL.**
+
+That answers the only thing holding him back. **Promote to the shortlist as
+number 12, Play 0**, since he is 1st degree.
+
+Why the seat now qualifies:
+- **CEO of his own LLC for ten years.** A single location Florida LLC that
+  size has no treasury function, so the owner signs the wire. That is the
+  exact profile icp.md describes as "small enough that they run their own
+  banking".
+- **1st degree with 39 mutuals**, and his mutuals and shared groups are
+  produce. The profile photo is taken at a trade show booth, so Marcel has
+  most likely met him in person.
+- Pompano Beach sits in the Miami produce import corridor, and the company
+  field carries an Israel link, so there is a plausible flow in at least
+  one direction.
+
+**What is still unknown, and the opener must respect that.** Nothing on the
+profile says what Ayco actually sells or which way the goods move. Writing a
+note that asserts an import book would be guessing in front of someone who
+knows the answer, and to a 1st degree connection that reads worse than
+asking. The message should do what the Gustavo Elias Hopkins note did: ask
+one short question and nothing else.
+
+First question for Marcel before drafting: **do you know him personally?**
+Ten years, 39 mutuals and a booth photo suggest yes, and if so the note
+should open from that rather than from a cold frame.
