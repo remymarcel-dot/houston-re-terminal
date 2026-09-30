@@ -159,3 +159,19 @@ Two readings and I cannot settle it from here:
 **What Marcel should check: her live headline.** If it still says she is seeking
 a suitable opportunity, pull her. If not, she goes Tuesday 2026-10-06 in list
 982470, which is built and has no campaign attached.
+
+---
+
+## STARTED 2026-09-30
+
+Marcel approved all nineteen and both campaigns were started and read back.
+
+- **630877** reads `SCHEDULED`, **15 users pending, 0 failed, 0 excluded.**
+- **630878** reads `SCHEDULED`, **4 users pending, 0 failed, 0 excluded.**
+
+Nineteen pipeline entries appended, taking the file to **258**. Invitations
+at `status: invitation-scheduled`, messages at `status: message-scheduled`,
+all with `firstTouch: 2026-10-05`.
+
+The zero on `totalUsersExcluded` was read deliberately on both, because a
+campaign reporting SCHEDULED says it is running, not that anyone is in it.

@@ -441,5 +441,49 @@
     "whatsapp": "(346) 806 1759",
     "note": "Marcel asked for the number, so he may follow up there himself. The LinkedIn message already tells Wylson the number is saved and asks him to use WhatsApp next time, so a duplicate WhatsApp message saying the same thing is not needed and would look anxious. If Marcel wants to text him, a one line hello on WhatsApp is enough.",
     "openItem": "DNV treasury contact still owed by Wylson since 08-31. Do not chase it in the next message."
+  },
+  "mondayWave2026_10_05": {
+    "startedBy": "Marcel approved all nineteen notes and said go ahead 2026-09-30",
+    "campaigns": {
+      "630877": {
+        "name": "Cold invitations 2026-10-05",
+        "list": 982466,
+        "status": "SCHEDULED",
+        "totalUsers": 15,
+        "pending": 15,
+        "failed": 0,
+        "excluded": 0
+      },
+      "630878": {
+        "name": "Play 0 first degree 2026-10-05",
+        "list": 982467,
+        "status": "SCHEDULED",
+        "totalUsers": 4,
+        "pending": 4,
+        "failed": 0,
+        "excluded": 0
+      }
+    },
+    "excludedCheck": "Both read totalUsersExcluded 0. 630878 was built with excludeContactedFromOtherCampaigns false per the recovery rule, though none of the four sit in another campaign.",
+    "quotas": "15 invitations is exactly the daily ceiling. 4 messages draw on the separate 30 a day quota, so the two do not compete and one day covers all nineteen.",
+    "placeholders": [
+      "Ana Espinoza Carranza",
+      "Mary Paz Varela",
+      "Pablo Ortiz Rodea"
+    ],
+    "placeholderContingency": "Thursday 626018 sends 2026-10-01 carrying three placeholders of its own (Olivier, Grappe, Rubio). Read totalUsersFailed on it Thursday afternoon. If those three failed, pull Ana, Mary Paz and Pablo from their lists before Monday 09:00 Chicago and hand the three notes to Marcel. If they fired, do nothing.",
+    "pabloCause": "His URL carries an accent. Both the decoded and percent encoded forms normalise onto the same stuck imp_ record, so a re import is not a fix.",
+    "marieEngelsHeld": {
+      "list": 982470,
+      "campaign": null,
+      "why": "Marcel supplied her as CFO at Avania. HeyReach read back companyName Kapadi and position Senior Vice President Finance, and her headline ends 'An adaptable and driven candidate presently seeking career progression through a suitable opportunity in a multinational organization'. Either HeyReach is stale and the headline is old boilerplate, or she is a sitting CFO who is openly looking and therefore will not start a banking relationship.",
+      "whatMarcelChecks": "Her LIVE headline. If it still says she is seeking an opportunity, pull her. If not, she goes Tuesday 2026-10-06 and list 982470 is already built."
+    },
+    "reserves": [
+      "Lucas Natalini (Jakks)",
+      "Gonzalo Canessa (Hortifrut)",
+      "Jim Roberts (Naturipe)",
+      "Sara Hergesheimer (Crown Jewels)"
+    ]
   }
 }
