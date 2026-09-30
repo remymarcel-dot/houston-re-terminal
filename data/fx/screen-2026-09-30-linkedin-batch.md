@@ -814,3 +814,69 @@ both free; no enrichment was run.
 If Marcel wants Frank's anyway, the honest route is not LinkedIn at all. It
 is the Nogales produce trade in person, or a call to the office asking for
 the CFO by name.
+
+## Ana Espinoza Carranza, Frank's Distributing. In as 18, as a ROUTE not a prospect.
+
+https://www.linkedin.com/in/aespinoza22/
+"Accounting - Produce Distributing", **Frank's Distributing Of Produce
+LLC**, Nogales, Arizona. 3rd degree, **89 connections**, University of
+Arizona **Eller College of Management**.
+
+She is the "Ana Ca***a" Apollo returned, which confirms that record.
+
+**Note a second entity.** Mendivil's profile says "Frank's Distributing
+Inc" and hers says "Frank's Distributing **Of Produce LLC**". Apollo
+resolved the Inc to franksfarms.com. Two related entities, both Nogales.
+Not a problem, but the note should not name a specific legal entity.
+
+**I said park Frank's. With her on the table, that changes, because she is
+a materially better route than the other two.**
+
+| | connections | degree | function |
+|---|---|---|---|
+| Ana Espinoza Carranza | **89** | 3rd | **Accounting** |
+| Manuel Mendivil Villegas | 30 | 3rd | Assistant to the CFO |
+| Roberto Lopez | 3 | 3rd | Texas Operations |
+
+Three things make her the one:
+- **She is in accounting at a produce distributor**, which means she
+  touches the supplier payments themselves. She does not have to guess who
+  handles it; she knows, and quite possibly processes them.
+- **Eller College of Management.** A real business school, which sits
+  above what a flat "Accounting" title suggests and makes a considered
+  reply more likely.
+- 89 connections is still light, but it is three times Mendivil and thirty
+  times Lopez.
+
+**The note is a question, not a pitch, and that distinction is the whole
+play.** Same shape Marcel already uses: the Gustavo Elias Hopkins note
+("una pregunta corta y nada más: ¿quién lleva los pagos al lado
+mexicano?") and the Wylson note asking who handles FX or treasury at DNV.
+Ask who handles supplier payments on the Mexican side, offer a clean out
+if it is not her area, and nothing else. In Spanish, given Nogales and
+Hermosillo.
+
+**Honest odds.** 3rd degree with no mutuals and a staff title is a modest
+bet. It costs one invitation slot out of fifteen. The upside is a named
+CFO at a distributor working both the Nogales and McAllen crossings, which
+neither LinkedIn nor Apollo can produce any other way.
+
+**What this does NOT change.** She is not the prospect and must never be
+pitched. If she names the CFO, that person is the approach and Ana gets a
+thank you. If she does not reply, Frank's goes back on the shelf and the
+in person Nogales route is the only remaining option.
+
+## Final shortlist: eighteen
+
+**Play 4, cold invitations (14):** Rich Wright, Michal Hoppner, Alejandro
+Bours, Guillermo Martinez, Roman Rariy, Hector Lujan, Jimmy Alvarez, John
+Hermann, John Mannion, Cesar de Paz, Jamie LaChapelle, John Kimble, James
+Schofield, **Ana Espinoza Carranza (route)**.
+
+**Play 0, direct messages (4):** Bill Courtney, Avi Nir, Fernando Salinas,
+Pablo Ortiz Rodea.
+
+Fourteen invitations, still inside the 15 a day ceiling. One day covers all
+eighteen.
+
+**URLs supplied so far:** Schofield, Espinoza Carranza. Twelve still needed.
