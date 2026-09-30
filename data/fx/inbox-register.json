@@ -236,11 +236,17 @@
     "realItems": 1,
     "wylsonZonNeto": {
       "profileUrl": "https://www.linkedin.com/in/ACoAAA3poYcByfl1LBXAkGsCvkXD2MX9goPnL2k",
-      "status": "MISSED THE MEETING",
+      "status": "recovery-sent",
       "what": "He sent four messages on 2026-09-29 and got no reply. 16:26Z apologizing for the delay, 16:27Z saying he had just arrived in The Woodlands and would be free after his 13:30 client lunch, 16:28Z giving his WhatsApp as (346) 806 1759, and 19:41Z asking how Marcel's afternoon was and saying he was wrapping up at the client. He was physically in The Woodlands, which is where Marcel's office is, actively trying to meet, and nobody answered.",
       "cost": "A warm relationship from the Bratecc event, met in person in August, who also owes the DNV treasury introduction. The coffee has been offered by Marcel three times since 08-31 and was finally on for yesterday.",
       "recovery": "One short Portuguese message: apologize once plainly, own it, move the channel to WhatsApp so it cannot happen again, and let him set the next date. Do NOT chase the DNV referral in the same message. Draft held for Marcel to read.",
-      "openItem": "Wylson still owes the name of whoever handles FX or treasury at DNV. Asked 08-31, promised 09-09, promised again 09-24. Leave it alone this round."
+      "openItem": "Wylson still owes the name of whoever handles FX or treasury at DNV. Asked 08-31, promised 09-09, promised again 09-24. Leave it alone this round.",
+      "sentAt": "2026-09-30T15:44:11Z",
+      "channel": "LinkedIn, conversation 2-MGJiYWJmYjYtNzI1OC00MGNkLWFkNzEtNzZjMGE3ZWQwNDBlXzEwMA==, thread now 13 messages",
+      "sentVia": "send_message, which works here because the thread already existed",
+      "whatsapp": "(346) 806 1759",
+      "seat": "Senior Surveyor / Offshore Unit Coordinator, DNV. NOT a finance seat, which is why he was always a channel into DNV treasury rather than a prospect himself.",
+      "nextMove": "Ball is with him. He sets the next date, on WhatsApp. Do not chase, and do not raise the DNV treasury name until after a real meeting happens."
     },
     "personalNotProspects": [
       {

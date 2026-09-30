@@ -435,5 +435,11 @@
     },
     "actionOwedToMarcel": "Ricardo Yllescas needs a Play 0 direct message because the cold invitation could not land. Draft held for his approval, not sent."
   },
-  "play0ExclusionTrap": "A Play 0 recovery campaign for a lead who already sits in a failed Play 4 campaign MUST be created with excludeContactedFromOtherCampaigns false. Left at the usual true, HeyReach would have counted 625479 as prior contact and excluded him, and the campaign would have read IN_PROGRESS with the lead silently in totalUsersExcluded. Verified on 630456: excludeInOtherCampaigns false, totalUsersExcluded 0, one user in progress."
+  "play0ExclusionTrap": "A Play 0 recovery campaign for a lead who already sits in a failed Play 4 campaign MUST be created with excludeContactedFromOtherCampaigns false. Left at the usual true, HeyReach would have counted 625479 as prior contact and excluded him, and the campaign would have read IN_PROGRESS with the lead silently in totalUsersExcluded. Verified on 630456: excludeInOtherCampaigns false, totalUsersExcluded 0, one user in progress.",
+  "wylsonRecovery_2026_09_30": {
+    "sent": "2026-09-30T15:44:11Z via LinkedIn send_message",
+    "whatsapp": "(346) 806 1759",
+    "note": "Marcel asked for the number, so he may follow up there himself. The LinkedIn message already tells Wylson the number is saved and asks him to use WhatsApp next time, so a duplicate WhatsApp message saying the same thing is not needed and would look anxious. If Marcel wants to text him, a one line hello on WhatsApp is enough.",
+    "openItem": "DNV treasury contact still owed by Wylson since 08-31. Do not chase it in the next message."
+  }
 }
