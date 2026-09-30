@@ -82,3 +82,15 @@ waiting on connection requests that never get opened.
 
 **Recommendation: enrich the Tier 1 six. Six credits.** Not done, because it
 is a spend.
+
+## Marcel's decisions, 2026-09-30
+
+**Laredo Economic Development Corporation: DO NOT CONTACT.** Marcel's call,
+overriding my suggestion that it was a referral channel. Removed from the
+channel list entirely, not merely deprioritised. Yvette Pe___a is not to be
+approached in any form.
+
+**Emily Ro___n, Source Logistics: agreed, reserve only.** Marcelo Sada,
+President and Corporate Development, goes out Friday 2026-10-02 in campaign
+628299. One seat per company. She is the second approach if he does not
+accept, never a parallel one.

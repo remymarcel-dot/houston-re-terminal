@@ -494,5 +494,12 @@
     "who": "Marie Engels, CFO Avania",
     "why_tuesday": "Monday 630877 was already exactly at the 15 invitation daily ceiling, so she could not be added without spilling. Tuesday also leaves room if any of Monday's three placeholder leads fail and need re sending.",
     "startDateUtcQuirk": "startDate is read as UTC, so 2026-10-06T00:00Z is 2026-10-05 19:00 Chicago, past the 17:00 cutoff. First eligible slot is Tuesday 09:00 Chicago."
+  },
+  "doNotContact_additions_2026_09_30": {
+    "laredoEconomicDevelopmentCorporation": "Marcel, 2026-09-30: 'laredo economic do not contact'. Overrides the agent's suggestion that an EDC is a referral channel like El Paso FTZ 68, MVEDA and TMAC. Removed entirely, not deprioritised. Yvette in their finance seat is not to be approached in any form.",
+    "note": "This does NOT extend to the El Paso referral organisations already in the plan unless Marcel says so. It is specific to Laredo EDC."
+  },
+  "oneSeatPerCompany_2026_09_30": {
+    "sourceLogistics": "Marcelo Sada, President and Corporate Development, sends Friday 2026-10-02 in campaign 628299. Emily, CFO, surfaced in the small logistics sweep and is CONFIRMED RESERVE ONLY by Marcel. Second approach if Sada declines, never parallel."
   }
 }
