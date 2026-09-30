@@ -590,3 +590,56 @@ messages draw on the separate 30 a day quota, so the two do not compete.
 
 **Reserve, second approach only:** Gonzalo Canessa (Hortifrut), Jim Roberts
 (Naturipe), Sara Hergesheimer (Crown Jewels).
+
+## Pablo Ortiz Rodea: added on Marcel's call, and the original cut was wrong
+
+**Marcel: "add Pablo Ortiz Rodea."** In as number 15, **Play 0**, since he
+is 1st degree.
+
+**Why the cut was too mechanical.** It applied "large parent therefore a
+treasury desk owns this" without looking at what the seat actually does.
+That heuristic is right for a corporate Treasurer at GXO or a Global
+Controller at HUB, where the job IS the central treasury function. It is
+not obviously right here.
+
+His title is **CFO North Cone, covering MIA, PR and CENTAM**. A regional
+CFO at a media group is running local market operations: buying media from
+vendors in Guatemala, Honduras, Costa Rica, Nicaragua and Panama, in
+quetzales, lempiras, colones and cordobas, while billing multinational
+clients. Group treasury in London does not sit on every Central American
+media payment, and agency groups run their LATAM markets with a good deal
+of local autonomy. So a regional CFO there plausibly has real local banking
+relationships of his own, which is a different animal from a treasurer
+whose whole job is the central desk.
+
+That is a genuine argument and the original screen did not make it. The
+size test is a good filter, and applying it to the parent company rather
+than to the seat is how it goes wrong.
+
+**The economics also favor it.** 1st degree with **60 mutuals**, the
+highest count in the entire batch. A Play 0 message costs one slot from a
+separate 30 a day quota. The downside is one unanswered message; the upside
+is a regional CFO with a multi country payables book.
+
+**This also settles the other two WPP names for good.** Douglas Peck and
+Andrew Lyons at GroupM, which is now WPP Media, are the same organization.
+Ortiz Rodea outranks both, carries 60 mutuals against their one and zero,
+and is 1st degree where they are 3rd and 2nd. One seat per company, and he
+is comfortably it. Peck and Lyons stay cut.
+
+**What the opener does.** Same rule as the rest: name what is verifiable,
+ask what is not. Whether the payables for his three markets are settled
+locally or swept upstream is exactly the open question, and it is the one
+that decides whether there is a conversation. In Spanish, given UNAM.
+
+## Final shortlist: fifteen
+
+**Play 4, cold invitations (11):** Rich Wright, Michal Hoppner, Alejandro
+Bours, Guillermo Martinez, Roman Rariy, Hector Lujan, Jimmy Alvarez, John
+Hermann, John Mannion, Cesar de Paz, Jamie LaChapelle.
+
+**Play 0, direct messages (4):** Bill Courtney, Avi Nir, Fernando Salinas,
+Pablo Ortiz Rodea.
+
+Eleven invitations is inside the 15 a day ceiling. Four messages draw on
+the separate 30 a day quota. The whole batch can go out in one day.

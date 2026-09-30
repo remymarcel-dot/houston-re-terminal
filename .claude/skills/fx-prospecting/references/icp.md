@@ -470,3 +470,33 @@ so plainly instead of asking a question whose answer is already on screen.
 Asking Nathan Boardman whether he pays people in Trinidad, Guyana and
 Suriname when his own banner names all three would read as not having
 looked.
+
+## Apply the size test to the seat, not to the parent company
+
+Corrected 2026-09-30, after Marcel overruled a cut of Pablo Ortiz Rodea,
+CFO North Cone at WPP Media.
+
+"Large company therefore a bank desk already owns this" is a good filter
+and it is applied wrongly when it is applied to the logo. What the rule is
+really about is whether **this person's payments** are run by a central
+treasury. Two different cases hide behind the same headcount:
+
+- **The seat IS the central function.** A corporate Treasurer at GXO, a
+  Global Controller at HUB International, a Deputy CFO at GroupM. Their job
+  is the desk, so they already have the bank lines. Cut stands.
+- **The seat runs a market or a region.** A regional CFO covering Miami,
+  Puerto Rico and Central America buys media in quetzales, lempiras,
+  colones and cordobas and bills clients in dollars. London does not sit on
+  every one of those payments, and large groups give their LATAM markets
+  real autonomy. **That is a live payables book regardless of the parent's
+  revenue.**
+
+So before cutting on size, ask what the person actually settles. A regional
+or country CFO, a divisional CFO, or a US subsidiary CFO of a foreign
+parent can all be in scope at a company far above the band. What is out of
+scope is the group treasury function itself.
+
+The related trap runs the other way too. A person whose title contains
+"Treasury" at a company **small** enough to lack a treasury department is
+usually mislabelled, and a person whose title lacks it at a company large
+enough to have one may still control a real regional book.
