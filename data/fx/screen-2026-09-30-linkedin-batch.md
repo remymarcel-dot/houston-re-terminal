@@ -548,3 +548,45 @@ as the Diego Sierra and Cesar Espinosa notes already sent: name the
 corridor, ask the currency.
 
 Still Play 0, since he is 1st degree.
+
+## Fernando Salinas: Marcel's call, in. 2026-09-30
+
+**Marcel: "add Fernando Salinas no problem that he studied in Venezuela."**
+
+Agreed, and the education was never the live question. Universidad Central
+de Venezuela is where he went to school, and under the rule written for
+Ricardo Yllescas a university or a past posting is biography rather than
+exposure. That half was already settled.
+
+**The half that remains is counterparties, and adding him does not resolve
+it or violate it.** Montachem distributes plastics resin across Latin
+America, and whether that book includes Venezuelan counterparties is not
+knowable from a LinkedIn profile. What matters is that **an invitation
+commits to nothing**. The Venezuela stop bites on flows, so it bites at the
+moment a conversation names a Venezuelan counterparty, not at the moment
+two people connect. If that comes up in a call, it closes there,
+courteously and with nothing offered.
+
+So: **in, as number 14.** He is **1st degree, so Play 0**, not an
+invitation.
+
+The size caveat stands on its own and is unaffected by any of this. His own
+headline says "Scaling $600M+ Multinational Operations", which is at or
+above the top edge of the band where Universal Weather sat at $555M. A
+Global Finance Executive and Controllership seat at that size often means a
+bank already has the FX. Worth the slot because he is 1st degree and the
+approach is nearly free, not because the size is comfortable.
+
+## Final shortlist: fourteen
+
+**Play 4, cold invitations (11):** Rich Wright, Michal Hoppner, Alejandro
+Bours, Guillermo Martinez, Roman Rariy, Hector Lujan, Jimmy Alvarez, John
+Hermann, John Mannion, Cesar de Paz, Jamie LaChapelle.
+
+**Play 0, direct messages (3):** Bill Courtney, Avi Nir, Fernando Salinas.
+
+Eleven invitations sits inside one day's ceiling of fifteen. The three
+messages draw on the separate 30 a day quota, so the two do not compete.
+
+**Reserve, second approach only:** Gonzalo Canessa (Hortifrut), Jim Roberts
+(Naturipe), Sara Hergesheimer (Crown Jewels).
