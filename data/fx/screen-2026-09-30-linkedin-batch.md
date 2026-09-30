@@ -369,3 +369,47 @@ one short question and nothing else.
 First question for Marcel before drafting: **do you know him personally?**
 Ten years, 39 mutuals and a booth photo suggest yes, and if so the note
 should open from that rather than from a cold frame.
+
+## KC Skalisky resolved, 2026-09-30. Cut.
+
+Marcel supplied the experience entry: **Produce Sales Specialist, USA
+Domestic Retail / Export. Global Fruit. Contract. Apr 2025 to Aug 2026,
+1 yr 5 mos.**
+
+**Cut, for two reasons that compound.**
+
+1. **It was a contract sales role.** A contract produce sales specialist
+   sells fruit. He has no authority over who the company banks with and no
+   line to whoever does. Even mid contract he was never the seat.
+2. **The contract ended in August 2026, which is last month.** Today is
+   2026-09-30. `Apr 2025 to Aug 2026` is a closed date range, not an open
+   one. He is between roles right now.
+
+That also explains the thing that made him look ambiguous in the first
+place. His headline reads "Export / Domestic Produce Specialist" with no
+employer anywhere, because **there is no current employer**. The capability
+headline was the signal, exactly as icp.md describes for Daniel O'Quinn and
+Steven Wojtowicz, and this time the screen caught it before anything went
+out rather than after.
+
+**88 mutuals did not save him, and should not have been allowed to.** A
+warm path to someone with no payments to move is a warm path to nothing.
+Reach is not qualification, and this is the cleanest example of that
+distinction in the whole batch.
+
+**What he is instead: a peer, and a good one.** Twelve years in fresh
+produce, built the Envy, Jazz and Pacific Rose apple brands across Asia,
+moved 23M lbs of cherries a season out of Canada, 88 mutuals with Marcel
+and based in Houston. He will land somewhere, quite possibly somewhere with
+real currency exposure, and Marcel is himself open to commercial leadership
+roles, so the value runs both ways.
+
+Log as `outcome: "relationship"` per the icp.md rule, with **no pitch in it
+at all**. If Marcel writes, it is a peer note between two Houston people in
+trade, and nothing else.
+
+## Shortlist after both resolutions
+
+Twelve. Avi Nir in, KC Skalisky out. Still under the 15 a day ceiling.
+Remaining unresolved: **Hector Lujan** (81 mutuals, no employer) and
+**Jamie LaChapelle** (does CDS import directly).
