@@ -4479,9 +4479,9 @@
       {
         "n": 1,
         "date": "2026-09-24",
-        "channel": "linkedin-invitation",
+        "channel": "email",
         "outcome": "email-sent",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "notes": "Corrected 2026-09-30. Touch 1 was an email sent by Marcel from his Monex address, not a LinkedIn invitation. The seeding script labeled every pre cadence touch as an invitation."
       }
     ],
     "touchCount": 1,

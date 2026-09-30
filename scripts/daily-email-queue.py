@@ -42,6 +42,14 @@ STOP_STATUS = {
 # Those names live in a revival pool Marcel works by choice, not by calendar.
 CADENCE_EPOCH = datetime.date(2026, 9, 1)
 
+# The day offsets above assume touch 1 was a LinkedIn invitation. Some prospects
+# are email first, because they have no usable LinkedIn presence. For those,
+# touch 2 at day 3 would mean emailing twice in three days with no reply in
+# between, which reads as pressure rather than persistence. So no email touch is
+# ever scheduled within this many days of the previous one.
+MIN_EMAIL_GAP_DAYS = 7
+EMAIL_CHANNELS = {"email", "email-manual"}
+
 
 def load():
     with open(PIPELINE) as fh:
@@ -90,14 +98,34 @@ def due_email_touches(entry, today):
     if start < CADENCE_EPOCH:              # pre cadence, no retroactive clock
         return []
     done = touch_numbers(entry)
+    floor = last_email_date(entry)
+    if floor:
+        floor = floor + datetime.timedelta(days=MIN_EMAIL_GAP_DAYS)
     out = []
     for n, offset in sorted(EMAIL_TOUCHES.items()):
         if n in done:
             continue
         due = start + datetime.timedelta(days=offset)
+        if floor and due < floor:          # too soon after the last email
+            due = floor
         if due <= today:
             out.append((n, due, (today - due).days))
     return out[:1]                         # only the next one owed, never a backlog dump
+
+
+def last_email_date(entry):
+    """The date of the most recent email touch, if any was ever sent."""
+    dates = []
+    for t in (entry.get("touches") or []):
+        if not isinstance(t, dict):
+            continue
+        if (t.get("channel") or "") not in EMAIL_CHANNELS:
+            continue
+        try:
+            dates.append(datetime.date.fromisoformat(str(t.get("date"))[:10]))
+        except (ValueError, TypeError):
+            continue
+    return max(dates) if dates else None
 
 
 def main():
