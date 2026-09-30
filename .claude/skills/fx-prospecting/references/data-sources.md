@@ -1,5 +1,36 @@
 # Three data sources, and the order to use them
 
+> **ORDER CHANGED 2026-09-30.** Marcel: *"zoominfo i have no cap as is a
+> corporate membership from monex usa."* **ZoomInfo is uncapped and therefore
+> goes FIRST.** Everything below that describes Apollo as the first stop was
+> written before that was known. Apollo is now second and Seamless third.
+>
+> This is not a small reordering. ZoomInfo returns, in one call, everything
+> the other two return separately: **verified business email, direct dial,
+> mobile, job title, LinkedIn URL, and a contact accuracy score** that says
+> whether the person is still reachable in that seat. It caches for a year.
+> And it costs nothing at the margin.
+>
+> **The practical consequence: contact data is no longer the constraint on
+> the cadence.** The earlier readiness note said touch 2 was impossible for
+> 93 of 98 live prospects and framed it as a cost decision. With an uncapped
+> source that framing is wrong. The whole pipeline can be enriched for email
+> and phone. What limits the cadence now is Marcel's time and the quality of
+> each touch, not the data.
+>
+> **Revised order:**
+> 1. **ZoomInfo.** Uncapped. Email, phone, mobile, accuracy score, LinkedIn
+>    URL, one year cache. Use it for everything by default.
+> 2. **Apollo.** 3,897 lead credits. Better company level search and NAICS
+>    filtering for finding people in the first place, and it returns revenue
+>    and headcount that ZoomInfo's contact enrichment does not. Use it to
+>    *discover*, then ZoomInfo to *enrich*.
+> 3. **Seamless.** Only 109 credits until 2026-10-26. Last resort, for names
+>    the other two both miss.
+>
+> **Apollo's direct dial pool being exhausted until 2026-10-07 no longer
+> matters**, because phones come from ZoomInfo now.
+
 Marcel, 2026-09-30: *"you can use apollo, zoominfo and seameless ai. Not only
 apollo."*
 
@@ -69,3 +100,33 @@ before any credit moves:
 
 Spending a credit on a record with nothing in it is the one avoidable waste,
 and all three make it avoidable.
+
+## The accuracy score earned its place on the first run
+
+ZoomInfo returns `contactAccuracyScore`, a 0 to 99 read on whether the person
+is reachable and still employed there. On the very first batch, 2026-09-30, it
+paid for itself twice:
+
+| who | score | what it meant |
+|---|---|---|
+| Marcelo Sada | **98**, updated the previous day | Freshest and most reliable record in the batch |
+| Roman Rariy | 95 | Solid |
+| Rich Wright | 94 | Solid |
+| Guillermo Martinez | 93 | Solid |
+| **Jimmy Alvarez** | **50** | ZoomInfo is not confident he is reachable. **This independently confirmed the screen's own doubt**: no profile photo, no posts, President since 1980 |
+| **Avi Nir** | **50**, and no job title returned | Low confidence, though Marcel had separately confirmed the seat |
+
+That score is the closest thing available to an automated check on the failure
+that produced Steven Wojtowicz and Camilo Ronderos. **Read it on every
+enrichment.** Below about 70, treat the record as unconfirmed and prefer the
+channel that fails quietly, a LinkedIn invitation, over the one that does not,
+a phone call.
+
+## Record the do not call flags, always
+
+ZoomInfo returns `directPhoneDoNotCall` and `mobilePhoneDoNotCall`. Two came
+back true on the first batch: **Roman Rariy** and **Jimmy Alvarez**, both on
+mobile. These are written into `pipeline.json` as `doNotCall`.
+
+**Never hand Marcel a number flagged do not call.** It is his licence and his
+reputation on the line, not the agent's.
