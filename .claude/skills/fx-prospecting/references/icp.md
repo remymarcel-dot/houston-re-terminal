@@ -426,3 +426,47 @@ Every name that worked on 2026-09-28 came out that way: Rigaku Americas (Japanes
 parent), Refined Technologies (crews worldwide), Deveraux Specialties (ingredient
 importer), Pure Import Logistics (owner, origin agents), Javid (shelter payroll in
 pesos), Federated Maritime (dollar revenue, foreign port costs).
+
+## Ask, do not assume
+
+Marcel, 2026-09-30, on Jamie LaChapelle at CDS Distributing:
+*"we should ask not assume"*.
+
+When a profile establishes the seat but leaves the currency question open,
+the opener asks the question. It does not invent an answer that sounds
+plausible. Two different reasons, both of which cost real money:
+
+1. **Guessing wrong in front of someone who knows** is the fastest way to
+   be dismissed. A produce distributor who buys landed from importers
+   knows perfectly well that he has no FX exposure, and a note asserting
+   that he does proves the sender did no work. To a first degree
+   connection it reads worse still.
+2. **A question is easier to answer than a claim is to correct.** "Does
+   CDS buy direct from the growers or landed from importers" takes one
+   line to answer and starts a conversation. "Your grower payments move
+   with the rate" forces the reader either to agree with a stranger's
+   guess or to write a correction, and most people do neither.
+
+Worked examples, all of them Marcel's own instinct rather than a rule
+applied afterwards:
+
+- **Gustavo Elias Hopkins, IPR Fresh:** "una pregunta corta y nada más: en
+  IPR Fresh, ¿quién lleva los pagos al lado mexicano?"
+- **Oscar Espinosa, Intercast:** the opener asks who owns the McAllen
+  entity's payments rather than assuming the general manager in Reynosa
+  does.
+- **Ricardo Yllescas, Elementia USA:** asks whether the FX decision sits in
+  Houston or with group treasury in Mexico City, and offers a real out.
+- **Stefan Lazaridis, Proximo Spirits:** asks whether the peso book sits at
+  the US company or upstream at Becle.
+
+The pattern in all four: name the fact that is verifiable from the profile,
+then ask the one thing that is not. Offering a genuine out ("if it is not
+your area, no problem") is what makes the question land as respect rather
+than as a qualifying script.
+
+**Where this does not apply.** When the profile itself states the flow, say
+so plainly instead of asking a question whose answer is already on screen.
+Asking Nathan Boardman whether he pays people in Trinidad, Guyana and
+Suriname when his own banner names all three would read as not having
+looked.

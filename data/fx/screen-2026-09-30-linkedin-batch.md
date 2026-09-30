@@ -413,3 +413,31 @@ trade, and nothing else.
 Twelve. Avi Nir in, KC Skalisky out. Still under the 15 a day ceiling.
 Remaining unresolved: **Hector Lujan** (81 mutuals, no employer) and
 **Jamie LaChapelle** (does CDS import directly).
+
+## Jamie LaChapelle resolved, 2026-09-30. In.
+
+Marcel supplied the experience block: **CDS Distributing Inc., 18 years 2
+months. Director of Operations Aug 2008 to Jul 2019, 11 years. Then COO and
+Managing Partner, full time, Jul 2019 to present, 7 years 3 months.**
+
+**Promote to the shortlist as number 13.**
+
+The word that decides it is **Managing Partner**. COO alone is an operating
+seat and might or might not touch banking. Managing Partner is an ownership
+seat, and at a fourth generation family distributor the partners decide who
+the company banks with. Eighteen years in one company, promoted from
+Director of Operations to partner, is someone with standing rather than
+someone passing through.
+
+**Marcel, 2026-09-30: "we should ask not assume".**
+
+He is right, and the import question stays open on purpose. Nothing on the
+profile says whether CDS buys direct from growers abroad or buys landed
+from other importers, and those are completely different conversations. The
+opener asks which it is. That is the same call he made on Avi Nir minutes
+earlier and it is now a standing rule, written into icp.md.
+
+## Shortlist after three resolutions: thirteen
+
+In: Avi Nir, Jamie LaChapelle. Out: KC Skalisky.
+One still open: **Hector Lujan**, 81 mutuals, no employer named.
