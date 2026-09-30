@@ -487,8 +487,8 @@
     "campaignId": 630953,
     "listId": 982470,
     "status": "SCHEDULED",
-    "totalUsers": 6,
-    "pending": 6,
+    "totalUsers": 7,
+    "pending": 7,
     "failed": 0,
     "excluded": 0,
     "who": [
@@ -497,7 +497,8 @@
       "Jean Marie Gutierrez (eelco)",
       "Ricardo Salinas (Tramitaciones)",
       "Jorge Marquez (ABA Cargo)",
-      "Jose Ortega (Valls Group)"
+      "Jose Ortega (Valls Group)",
+      "Jason Hakala (Elite Digital Logistics, placeholder id)"
     ],
     "note": "Four of the six came from the Apollo small logistics sweep and were enriched for 6 credits total, which also returned their LinkedIn URLs. Three are Laredo border customs and logistics at 20 to 58 employees. All four have verified work email as a second channel if LinkedIn goes quiet.",
     "apolloCredits": {
