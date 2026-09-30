@@ -6331,7 +6331,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 150926093. Co founded 1999 to bring Latin American brands into the US. 5.5m sq ft, key sites Houston, Dallas, Laredo, New Jersey, Portland, LA, Chicago. Founder seat, Houston. Note written in Spanish with accents intact. Ranked 2.",
+    "note": "LinkedIn id 150926093. Co founded 1999 to bring Latin American brands into the US. 5.5m sq ft, key sites Houston, Dallas, Laredo, New Jersey, Portland, LA, Chicago. Founder seat, Houston. Note written in Spanish with accents intact. Ranked 2. | ZOOMINFO ENRICHED 2026-09-30. Email marcelo@sourcelogistics.net. Phone (323) 271-4560. Mobile none. ZoomInfo FULL_MATCH, ACCURACY 98, the highest in the batch, and the record was updated 2026-09-29, yesterday. Title confirmed President, Corporate Development. Freshest data of the eight.",
     "touches": [
       {
         "n": 1,
@@ -6342,7 +6342,11 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "marcelo@sourcelogistics.net",
+    "phone": "(323) 271-4560",
+    "contactAccuracyScore": "98.0",
+    "doNotCall": "none"
   },
   {
     "name": "Matt Mandel",
@@ -6568,7 +6572,7 @@
     "outcome": null,
     "firstTouch": "2026-10-05",
     "loggedOn": "2026-09-30",
-    "note": "LinkedIn id 10827413. Family owned Mexican style dairy and chorizo maker, Chicago. HIS OWN ABOUT LISTS Foreign Exchange Risk Management, International Cash Management, Commodity Risk Management and Structured Finance as named competencies. He needs nothing explained, and may already have a bank arrangement. Ranked 1 on the 09-30 screen. 9 mutuals.",
+    "note": "LinkedIn id 10827413. Family owned Mexican style dairy and chorizo maker, Chicago. HIS OWN ABOUT LISTS Foreign Exchange Risk Management, International Cash Management, Commodity Risk Management and Structured Finance as named competencies. He needs nothing explained, and may already have a bank arrangement. Ranked 1 on the 09-30 screen. 9 mutuals. | ZOOMINFO ENRICHED 2026-09-30. Email rwright@vvsupremo.com. Phone (312) 224-2852. Mobile (630) 441-6333. ZoomInfo FULL_MATCH, accuracy 94, record updated 2026-08-25. Title confirmed Chief Financial Officer. Direct dial and mobile both clean for calling.",
     "touches": [
       {
         "n": 1,
@@ -6579,7 +6583,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "rwright@vvsupremo.com",
+    "phone": "(312) 224-2852",
+    "mobile": "(630) 441-6333",
+    "contactAccuracyScore": "94.0",
+    "doNotCall": "none"
   },
   {
     "name": "Michal Hoppner",
@@ -6648,7 +6657,7 @@
     "outcome": null,
     "firstTouch": "2026-10-05",
     "loggedOn": "2026-09-30",
-    "note": "LinkedIn id 359068608. 37 mutuals, ITESM, founder seat in Nogales. Publicly reposted the Washington Post tomato tariff story, so he is engaged with the exact policy that moves his landed cost. Spanish note leads on tariffs and FX together. Ranked 4.",
+    "note": "LinkedIn id 359068608. 37 mutuals, ITESM, founder seat in Nogales. Publicly reposted the Washington Post tomato tariff story, so he is engaged with the exact policy that moves his landed cost. Spanish note leads on tariffs and FX together. Ranked 4. | ZOOMINFO ENRICHED 2026-09-30. Email guillermo@frellofresh.com. Phone (520) 394-6220. Mobile (520) 604-9086. ZoomInfo FULL_MATCH, accuracy 93. Title confirmed Chief Executive Officer and Co Founder. Both numbers are Nogales 520 area code. Direct dial and mobile clean for calling.",
     "touches": [
       {
         "n": 1,
@@ -6659,7 +6668,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "guillermo@frellofresh.com",
+    "phone": "(520) 394-6220",
+    "mobile": "(520) 604-9086",
+    "contactAccuracyScore": "93.0",
+    "doNotCall": "none"
   },
   {
     "name": "Roman Rariy",
@@ -6674,7 +6688,7 @@
     "outcome": null,
     "firstTouch": "2026-10-05",
     "loggedOn": "2026-09-30",
-    "note": "LinkedIn id 7774706. H.I.G. Capital backed, third consecutive C level role in an H.I.G. portfolio company. Wharton MBA, MIT post doc, ex L.E.K. The FX story is the brand family: Ruthmann is German and France Elevateur is French, so euro costs under dollar revenue. Ranked 5. 3 mutuals.",
+    "note": "LinkedIn id 7774706. H.I.G. Capital backed, third consecutive C level role in an H.I.G. portfolio company. Wharton MBA, MIT post doc, ex L.E.K. The FX story is the brand family: Ruthmann is German and France Elevateur is French, so euro costs under dollar revenue. Ranked 5. 3 mutuals. | ZOOMINFO ENRICHED 2026-09-30. Email rrariy@timemfg.com. Phone none. Mobile none. ZoomInfo FULL_MATCH, accuracy 95. Title confirmed Chief Executive Officer. NO PHONE RETURNED, and mobilePhoneDoNotCall is TRUE, so email only until a number surfaces elsewhere.",
     "touches": [
       {
         "n": 1,
@@ -6685,7 +6699,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "rrariy@timemfg.com",
+    "contactAccuracyScore": "95.0",
+    "doNotCall": "MOBILE DO NOT CALL"
   },
   {
     "name": "Hector Lujan Valladolid",
@@ -6727,7 +6744,7 @@
     "outcome": null,
     "firstTouch": "2026-10-05",
     "loggedOn": "2026-09-30",
-    "note": "LinkedIn id 61536956. President of three related importers since Aug 1980, 46 years, so he is the owner and the owner signs. Coast Tropical means Mexico, Guatemala, Costa Rica, Ecuador. NO PROFILE PHOTO and no posts, so he may simply never see it. Worth one invitation, not a sequence. 8 mutuals.",
+    "note": "LinkedIn id 61536956. President of three related importers since Aug 1980, 46 years, so he is the owner and the owner signs. Coast Tropical means Mexico, Guatemala, Costa Rica, Ecuador. NO PROFILE PHOTO and no posts, so he may simply never see it. Worth one invitation, not a sequence. 8 mutuals. | ZOOMINFO ENRICHED 2026-09-30. Email jalvarez@coasttropical.com. Phone (213) 955-3444 ext. 4291. Mobile none. ZoomInfo FULL_MATCH but ACCURACY ONLY 50, the joint lowest in the batch, meaning ZoomInfo is not confident he is reachable or still in the seat. THAT MATCHES THE SCREEN'S OWN CONCERN: no profile photo, no posts, President since 1980. Also note the company came back as COAST TROPICAL FLORIDA rather than Coast Citrus, and the email domain is coasttropical.com. Treat the invitation as the primary channel and the phone as a long shot. mobilePhoneDoNotCall is TRUE.",
     "touches": [
       {
         "n": 1,
@@ -6738,7 +6755,11 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "jalvarez@coasttropical.com",
+    "phone": "(213) 955-3444 ext. 4291",
+    "contactAccuracyScore": "50.0",
+    "doNotCall": "MOBILE DO NOT CALL"
   },
   {
     "name": "John Hermann",
@@ -6994,7 +7015,7 @@
     "outcome": null,
     "firstTouch": "2026-10-05",
     "loggedOn": "2026-09-30",
-    "note": "LinkedIn id 59423392. FIRST DEGREE so Play 0. CEO of his own LLC for 10 years 9 months, so the owner signs the wire. 39 mutuals, produce groups, trade show booth photo. MARCEL DOES NOT KNOW HIM PERSONALLY, so the message uses the dormant connection shape rather than a familiar one. aycocorp.com is blocked by this environment's network policy; trade press confirmed the business as Ayco Farms, a Pompano Beach produce importer running Guatemalan melons November to June, Fisher Ranch melons from Arizona and California late May to October, and a pineapple venture with a large Costa Rican grower. Neither Guatemala nor Costa Rica is dollarized, unlike Ecuador, so the question of local versus dollar settlement is real rather than manufactured. NOTE: LinkedIn says Ayco corp LLC with an Israel tag; the trading company is Ayco Farms.",
+    "note": "LinkedIn id 59423392. FIRST DEGREE so Play 0. CEO of his own LLC for 10 years 9 months, so the owner signs the wire. 39 mutuals, produce groups, trade show booth photo. MARCEL DOES NOT KNOW HIM PERSONALLY, so the message uses the dormant connection shape rather than a familiar one. aycocorp.com is blocked by this environment's network policy; trade press confirmed the business as Ayco Farms, a Pompano Beach produce importer running Guatemalan melons November to June, Fisher Ranch melons from Arizona and California late May to October, and a pineapple venture with a large Costa Rican grower. Neither Guatemala nor Costa Rica is dollarized, unlike Ecuador, so the question of local versus dollar settlement is real rather than manufactured. NOTE: LinkedIn says Ayco corp LLC with an Israel tag; the trading company is Ayco Farms. | ZOOMINFO ENRICHED 2026-09-30. Email avi.nir@aycofarms.com. Phone none. Mobile none. ZoomInfo FULL_MATCH but ACCURACY ONLY 50 and NO JOB TITLE returned. The email does confirm the trading name inferred from trade press: aycofarms.com, not the Ayco corp LLC shown on LinkedIn. Marcel separately confirmed he is CEO there since Jan 2016, so the seat is not in doubt even though ZoomInfo's confidence is low.",
     "touches": [
       {
         "n": 1,
@@ -7005,7 +7026,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "avi.nir@aycofarms.com",
+    "contactAccuracyScore": "50.0",
+    "doNotCall": "none"
   },
   {
     "name": "Fernando Salinas",
@@ -7047,7 +7071,7 @@
     "outcome": null,
     "firstTouch": "2026-10-05",
     "loggedOn": "2026-09-30",
-    "note": "PLACEHOLDER ID imp_QCTPFXXNVMCTTSHTNALNNVPVD. FIRST DEGREE so Play 0. 60 MUTUALS, the highest in the entire batch. ADDED ON MARCEL'S CALL AFTER THE SCREEN CUT HIM WRONGLY ON SIZE. The cut applied large parent therefore a treasury desk to the logo rather than to what the person settles; a regional CFO covering Miami, Puerto Rico and Central America buys media in quetzales, lempiras, colones and cordobas while billing in dollars, and London does not sit on every one of those payments. icp.md now separates a seat that IS the central function from one that runs a market. This also settles Douglas Peck and Andrew Lyons at GroupM, now WPP Media, who stay cut. ENRICHMENT FAILED because his URL carries an accent; both the decoded and percent encoded forms normalise onto the same stuck record. Spanish message, and it offers a genuine out if the payments are swept upstream.",
+    "note": "PLACEHOLDER ID imp_QCTPFXXNVMCTTSHTNALNNVPVD. FIRST DEGREE so Play 0. 60 MUTUALS, the highest in the entire batch. ADDED ON MARCEL'S CALL AFTER THE SCREEN CUT HIM WRONGLY ON SIZE. The cut applied large parent therefore a treasury desk to the logo rather than to what the person settles; a regional CFO covering Miami, Puerto Rico and Central America buys media in quetzales, lempiras, colones and cordobas while billing in dollars, and London does not sit on every one of those payments. icp.md now separates a seat that IS the central function from one that runs a market. This also settles Douglas Peck and Andrew Lyons at GroupM, now WPP Media, who stay cut. ENRICHMENT FAILED because his URL carries an accent; both the decoded and percent encoded forms normalise onto the same stuck record. Spanish message, and it offers a genuine out if the payments are swept upstream. | ZOOMINFO 2026-09-30: COMPANY_ONLY_MATCH, accuracy 0. ZoomInfo holds the company but not this person, so no email and no phone. Apollo also had nothing usable: it does not hold Ortiz Rodea at all, and its only address for Engels is at her PREVIOUS employer Kapadi, which is likely dead since she moved to Avania a month ago. Both now go to Seamless, which has 109 credits, or wait for the LinkedIn invitation to land.",
     "touches": [
       {
         "n": 1,
@@ -7058,7 +7082,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "contactAccuracyScore": "0.0 ZoomInfo, no person level match"
   },
   {
     "name": "Marie Engels",
@@ -7073,7 +7098,7 @@
     "outcome": null,
     "firstTouch": "2026-10-06",
     "loggedOn": "2026-09-30",
-    "note": "LinkedIn id 56655186. CFO at Avania since Sep 2026, ONE MONTH IN, announced publicly 2026-09-29. Avania is a global medtech CRO, Dutch parent in Bilthoven, US hub Marlborough MA, eight offices across North America, Europe and Asia Pacific, Astorg backed, serving 300 medical device OEMs. A CRO pays investigator sites, hospitals and vendors in every country it runs trials in while billing sponsors largely in dollars, so the payables book is genuinely multi currency, and a US based CFO of a foreign parent is in scope under the corrected size rule regardless of group size. TWO FALSE ALARMS RESOLVED: HeyReach returned companyName Kapadi and position Senior Vice President Finance, which is her PREVIOUS role cached before the move, and her headline still reads 'An adaptable and driven candidate presently seeking career progression', which is leftover from the search that landed this job. Neither was a signal about her. THE NOTE DELIBERATELY DOES NOT CONGRATULATE HER, because her inbox is full of congratulations one day after the announcement and most are pitches in disguise; it acknowledges the new seat by being useful about it instead. It also asks her nothing, because someone in week five may not know how the treasury is structured and asking would put her on the spot. Still open and unasked: whether she is CFO of the group or of the US business, since she is Remote in Raleigh Durham while the parent sits in Bilthoven. Sent Tuesday rather than Monday only because Monday was already exactly at the 15 invitation ceiling.",
+    "note": "LinkedIn id 56655186. CFO at Avania since Sep 2026, ONE MONTH IN, announced publicly 2026-09-29. Avania is a global medtech CRO, Dutch parent in Bilthoven, US hub Marlborough MA, eight offices across North America, Europe and Asia Pacific, Astorg backed, serving 300 medical device OEMs. A CRO pays investigator sites, hospitals and vendors in every country it runs trials in while billing sponsors largely in dollars, so the payables book is genuinely multi currency, and a US based CFO of a foreign parent is in scope under the corrected size rule regardless of group size. TWO FALSE ALARMS RESOLVED: HeyReach returned companyName Kapadi and position Senior Vice President Finance, which is her PREVIOUS role cached before the move, and her headline still reads 'An adaptable and driven candidate presently seeking career progression', which is leftover from the search that landed this job. Neither was a signal about her. THE NOTE DELIBERATELY DOES NOT CONGRATULATE HER, because her inbox is full of congratulations one day after the announcement and most are pitches in disguise; it acknowledges the new seat by being useful about it instead. It also asks her nothing, because someone in week five may not know how the treasury is structured and asking would put her on the spot. Still open and unasked: whether she is CFO of the group or of the US business, since she is Remote in Raleigh Durham while the parent sits in Bilthoven. Sent Tuesday rather than Monday only because Monday was already exactly at the 15 invitation ceiling. | ZOOMINFO 2026-09-30: COMPANY_ONLY_MATCH, accuracy 0. ZoomInfo holds the company but not this person, so no email and no phone. Apollo also had nothing usable: it does not hold Ortiz Rodea at all, and its only address for Engels is at her PREVIOUS employer Kapadi, which is likely dead since she moved to Avania a month ago. Both now go to Seamless, which has 109 credits, or wait for the LinkedIn invitation to land.",
     "touches": [
       {
         "n": 1,
@@ -7084,7 +7109,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "contactAccuracyScore": "0.0 ZoomInfo, no person level match"
   },
   {
     "name": "Michael Lopez",
