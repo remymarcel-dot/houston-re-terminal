@@ -175,3 +175,56 @@ all with `firstTouch: 2026-10-05`.
 
 The zero on `totalUsersExcluded` was read deliberately on both, because a
 campaign reporting SCHEDULED says it is running, not that anyone is in it.
+
+---
+
+## Marie Engels resolved. In, for Tuesday 2026-10-06.
+
+Marcel supplied the experience entry: **Chief Financial Officer, Avania,
+full time, Sep 2026 to Present, 1 month, Remote.**
+
+**That settles both discrepancies at once.** HeyReach's `Kapadi` and
+`Senior Vice President Finance` are her **previous** role, cached before she
+moved. And the headline reading "An adaptable and driven candidate presently
+seeking career progression" is leftover from **the search that landed her
+this job**, which she has not got round to updating. Neither was a red flag
+about her. Both were artifacts of a person who changed jobs four weeks ago.
+
+**Campaign 630953**, list 982470, DRAFT, startDate 2026-10-06.
+She enriched cleanly to LinkedIn id 56655186.
+
+### One month in the seat cuts both ways, and the good side wins
+
+**Against:** a CFO four weeks in has not yet taken hold of the banking
+relationships and is still finding where everything is. That is the same
+objection that cut Zachary Robarge, the brand new Controller at Midwest
+Tape, earlier in this batch.
+
+**For, and it is stronger:** a new CFO inherits arrangements she did not
+choose and audits them in the first six to twelve months. That is the single
+best buying window there is, and it is open right now.
+
+**The Robarge comparison does not hold**, which is why the verdicts differ.
+Robarge is a **Controller** at a domestic Ohio media distributor with no
+currency flow at all. Engels is a **CFO**, the top finance seat with real
+authority from day one, at a Dutch parented medtech CRO running trials across
+North America, Europe and Asia Pacific. Different seat, different business,
+different answer.
+
+### The note is built around the timing rather than around a pitch
+
+> Marie, one month into a CFO seat is when you inherit arrangements nobody
+> explains, and at a CRO running trials across three continents the currency
+> ones tend to be buried. I work on FX and cross border payments at Monex
+> USA. Not a pitch, just worth knowing who to call when you reach it. Marcel
+
+294 characters, no dashes. The earlier draft asked whether FX sat with her
+or the Dutch parent, which was the right question for an established CFO and
+the wrong one for someone in week five who may not know yet. Asking a new CFO
+to explain her own treasury structure puts her on the spot. "Worth knowing
+who to call when you reach it" does the opposite: it assumes she has a list,
+accepts she is not on this item yet, and asks for nothing.
+
+Still open and deliberately unasked: whether she is CFO of the group or of
+the US business. Her location reads Raleigh Durham and Remote while the
+parent sits in Bilthoven. That question keeps until she replies.
