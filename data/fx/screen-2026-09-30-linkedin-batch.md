@@ -150,3 +150,191 @@ Frank's Distributing (McAllen), Calpine Containers (Fresno), Harvest Fresh
 Partners (Boca Raton), PURIS (Minneapolis), CDS Distributing (South San
 Francisco). Right businesses, wrong seat or an unreachable person. A better
 name at any of them would be worth a slot.
+
+---
+
+# Addendum: every cut, one by one
+
+Marcel asked for the reason on each name individually. Writing them out
+one at a time changed the verdict on three, which is recorded below rather
+than quietly folded in.
+
+## Three the grouped screen got wrong
+
+**John Hermann, VP Finance and Administration, Oilseeds International LLC,
+San Mateo.** I filed him under "no warm path" and moved on. That was lazy.
+Oilseeds International imports and distributes vegetable oils, which means
+coconut and palm out of Asia, and that is a genuine recurring payables book
+in non USD terms. VP Finance and Administration is precisely the seat. The
+only real negative is 3rd degree with zero mutuals, which makes him harder
+to reach, not less qualified. **Promote to the shortlist.**
+
+**John Mannion, CFO, Ocean Shipholdings, Houston.** Same error. Ship
+management means crew wages, port calls, bunkers and agency fees paid in
+whatever currency the port uses, every voyage. A CFO seat at a private
+Houston company with 24 mutuals. His About even carries a public email and
+dual USA and Ireland citizenship. **Promote to the shortlist.** Houston
+alone should have caught this.
+
+**Cesar de Paz, CEO Agrosevilla USA.** US arm of the Spanish olive
+cooperative, so a euro parent selling into dollars, which is the cleanest
+foreign parent shape in the whole batch. Two mutuals is thin, but the
+structure is not ambiguous the way most of these are. **Promote to the
+shortlist.**
+
+Revised shortlist is **eleven**, still well under the 15 a day ceiling.
+
+## Everything else, name by name
+
+**Not the seat that decides (6)**
+1. **Dan Mazzola, Produce Buyer, Costa Fruit & Produce.** A buyer chooses
+   suppliers, not counterparties. 50 mutuals is a good warm path to the
+   wrong person.
+2. **Nolan R., Finance Director, AeroCore.** Ryan Pfeiffer at the same
+   company is CFO and COO and already 1st degree. One seat per company.
+3. **John Manuel, VP Commercial Operations and Merchandising, PURIS.**
+   Buying and selling seat, and PURIS grows its peas in the US, so the
+   sourcing is domestic.
+4. **Mary Paz Varela, Gerente de contabilidad, TOMVER and MexFresh.**
+   McAllen and Edinburg is the right corridor, but an accounting manager
+   executes the payment rather than choosing who moves it. 49 connections.
+5. **Diana Tinoco, Corporate Finance Supervisor, Ernest.** Supervisor, 3rd
+   degree, and Ernest is domestic packaging distribution.
+6. **Roberto Lopez, Operations, Frank's Distributing, McAllen.** Right
+   corridor, right business, but operations is not the seat and **3
+   connections** is a dormant account.
+
+**Above the band, a treasury desk already owns this (14)**
+7. **Alicia Hammersmith, Group President Global Freight, Wabtec.** Roughly
+   $10B, NYSE listed.
+8. **Ihsan Essaid, CFO, QXO.** Brad Jacobs' roll up, roughly $10B.
+9. **Alexander Tagerman, SVP Global Controller, HUB International.**
+   Roughly $5B, PE backed, heavy Canadian operations, full treasury.
+10. **Michael Shea, Treasurer, GXO Logistics.** Roughly $12B. The literal
+    case icp.md describes: a company with a Treasurer has a bank FX desk.
+11. **Theresa Vu, Director of Finance, GXO.** Below Shea at the same
+    company. Texas and a Houston degree do not change the size.
+12. **Craig Chamberlin, CFO, Vertiv.** Roughly $8B, NYSE listed.
+13. **Jose Toro, Controller, Vertiv.** Below Chamberlin, same company.
+14. **Douglas Peck, Deputy CFO, GroupM.** WPP's media arm, tens of billions
+    in billings, treasury in London. Also **59 connections after 20 years**,
+    so he does not use LinkedIn at all.
+15. **Andrew Lyons, Finance Director, GroupM.** Same company, more junior.
+16. **Pablo Ortiz Rodea, CFO North Cone, WPP Media.** The painful one. 1st
+    degree, **60 mutuals**, the highest in the batch, regional CFO for
+    Miami, Puerto Rico and Central America, UNAM educated. On any company
+    in the band he is the first name on the list. WPP is the disqualifier,
+    not him.
+17. **John Kimble, CFO, Jakks Pacific.** Roughly $700M, NASDAQ listed with
+    investor relations. Above the top edge, where Universal Weather sat at
+    $555M.
+18. **Lucas Natalini, VP Finance, Jakks Pacific.** Below Kimble. His About
+    naming **transfer pricing** is real multi currency evidence, and it is
+    also the tell that a public company already runs this through a bank.
+19. **Kevin Wachi, VP Finance, Jakks Pacific.** Third name at the same
+    company, no mutuals.
+20. **Fernando Salinas, Montachem International.** $600M+ by his own
+    headline. Separately held for Marcel on the Venezuela question above.
+
+**No plausible currency flow (7)**
+21. **Scott Johnston, Controller, SmarterDx.** US healthcare AI software,
+    venture backed, domestic.
+22. **Danny Poppen, CFO, DMSi Software.** US building materials ERP,
+    domestic, and recently hired.
+23. **Sean Carrion, CFO, All American Facility Maintenance.** The long
+    keyword headline hid the employer. Facility maintenance in Sunrise,
+    Florida is a domestic services business.
+24. **Tom Barnes, President and CEO, Category Partners.** Sells analytics
+    **to** the produce trade. A data firm, not an importer.
+25. **Charles Harrison, EVP and CFO, Agtools.** Same category error. An
+    agricultural data platform, and his own background is casino gaming
+    and media rather than trade.
+26. **David Pieters, VP Finance and Corporate Controller, Biotheryx.**
+    Clinical stage biotech does pay European and Asian CROs, which is real,
+    but it is venture funded with a finite runway. That is a burn schedule,
+    not a recurring flow.
+27. **Preet Talwar, President, Ship Secure.** Logistics services, 3rd
+    degree, no mutuals, and nothing on the profile states a cross border
+    flow.
+
+**Selling to Marcel, or close enough to a competitor (3)**
+28. **Zain Ahsan Shafi, Motion Truckings and Bridgecove, Dubai.** A freight
+    brokerage and lead generation operation selling into North American
+    carriers, with a profile built as an advertisement. Squarely in the
+    "anyone selling to Marcel" bucket.
+29. **Carlos Harding Tefel, Maklerhaus Miami.** Trade finance sales into
+    Latin America at a broker. That is adjacent enough to what Marcel sells
+    to count as a competitor, and icp.md disqualifies competitors on sight.
+30. **Sara Hergesheimer, CFO, Crown Jewels Produce.** On paper the better
+    seat than Alejandro Bours. She also carries a **World Financial Group**
+    financial educator title, which is a multi level financial products
+    sales organization. Approaching her means two people each selling the
+    other a financial product. Bours is the pick at that company, and this
+    is why.
+
+**Not currently in a seat (4)**
+31. **Zeeshan Naqvi.** His own post opens "My last day at GXO". No current
+    company anywhere, headline is a capability list. Michael Shea, also in
+    this batch, is his successor. Log as a peer relationship, not a lead.
+32. **Anna Mosier.** Same pattern. Ste. Michelle Wine Estates, Gallo and
+    P&G all in the past tense, no current employer. The wine background is
+    worth remembering alongside the Hillside and InnoVint thread.
+33. **Hank Conicelli, outsourced CFO and Controller.** No company behind
+    him, which icp.md disqualifies directly, and 3rd degree with **zero**
+    mutuals so there is no path to even test the channel idea.
+34. **Evelyn S., Corporate Controller.** The headline names a seat but the
+    employer appears nowhere and the surname is withheld. Southlake, Texas
+    is in the home market, which is the one thing in its favor. Cannot be
+    screened without the company.
+
+**Dormant LinkedIn accounts (2, plus Roberto Lopez above)**
+35. **Eva Gopfert-Hammond, CAO and board member, Calpine Containers.** This
+    one is a genuine loss. 22 years at a 130 year old Central Valley
+    agricultural packaging maker, a real operating seat, board membership.
+    But **91 connections, 92 followers, no posts, 3rd degree.** An
+    invitation would sit unread. The company is worth remembering.
+36. **Thomas LaSalle Jr, President, Harvest Fresh Partners.** Third
+    generation Florida farmer, and Florida growers do import heavily in the
+    winter deal. But 397 connections and "self employed" on the experience
+    entry means it is genuinely small.
+
+**Weak on evidence rather than wrong in kind (2)**
+37. **Ryan Pfeiffer, CFO and COO, AeroCore Technologies.** 1st degree with
+    13 mutuals, so the approach would be nearly free. But nothing on the
+    profile shows a cross border flow, and aerospace coatings in Kentucky
+    is not self evidently an import business. Cheap to revisit if Marcel
+    knows something the profile does not.
+38. **Clay Garnto, President and CEO, Premium Peanut.** One of the largest
+    US peanut shellers, and shellers do export to Asia and Europe, so the
+    shape is plausible. Held back on the warm path: **one mutual**, a
+    Follow button rather than Connect, and no confirmation that the export
+    book is invoiced in anything but dollars.
+39. **Jim Roberts, President, Naturipe Farms.** Not a cut on merit. Naturipe
+    is a berry marketing venture that **Hortifrut part owns**, and Gonzalo
+    Canessa at Hortifrut Imports is on the shortlist and lists Naturipe
+    Value Added Fresh himself. Approaching both at once is a double
+    approach inside one corporate family. **Hold until Canessa resolves.**
+
+**Employer or seat not stated, cannot screen (4)**
+40. **Hector Lujan Valladolid, CEO and Board Member.** **81 mutuals**,
+    ITESM, and a banner showing coastal greenhouse agriculture that reads
+    as a Baja operation. No company named anywhere and Connect is behind
+    the "if you know each other" gate. Worth asking Marcel, because 81
+    mutuals plus that banner is not nothing.
+41. **KC Skalisky, Greater Houston.** **88 mutuals**, the highest in the
+    batch. Asia apple brands and Canadian cherries in his About, both in
+    scope. No employer named, 6,366 followers on a "Specialist" headline.
+42. **Avi Nir, Ayco corp LLC, Pompano Beach.** 1st degree, 39 mutuals,
+    produce groups, an Israel link. No title at all.
+43. **Jamie LaChapelle, COO, CDS Distributing.** Fourth generation family
+    produce distributor in South San Francisco. Turns entirely on whether
+    CDS imports directly or buys from other importers.
+
+**Already in flight (1)**
+44. **Sergio Marentes Gurrola.** In Friday's 628299.
+
+**Not a profile (1)**
+45. Item 33 was Marcel's own feed showing Zachary Robarge starting as
+    Controller at Midwest Tape. Domestic Ohio media distributor, brand new
+    in the seat with no banking authority yet. Marcel already liked the
+    post, which is the right amount of engagement.
