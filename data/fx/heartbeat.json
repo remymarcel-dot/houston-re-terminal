@@ -474,10 +474,7 @@
     "placeholderContingency": "Thursday 626018 sends 2026-10-01 carrying three placeholders of its own (Olivier, Grappe, Rubio). Read totalUsersFailed on it Thursday afternoon. If those three failed, pull Ana, Mary Paz and Pablo from their lists before Monday 09:00 Chicago and hand the three notes to Marcel. If they fired, do nothing.",
     "pabloCause": "His URL carries an accent. Both the decoded and percent encoded forms normalise onto the same stuck imp_ record, so a re import is not a fix.",
     "marieEngelsHeld": {
-      "list": 982470,
-      "campaign": null,
-      "why": "Marcel supplied her as CFO at Avania. HeyReach read back companyName Kapadi and position Senior Vice President Finance, and her headline ends 'An adaptable and driven candidate presently seeking career progression through a suitable opportunity in a multinational organization'. Either HeyReach is stale and the headline is old boilerplate, or she is a sitting CFO who is openly looking and therefore will not start a banking relationship.",
-      "whatMarcelChecks": "Her LIVE headline. If it still says she is seeking an opportunity, pull her. If not, she goes Tuesday 2026-10-06 and list 982470 is already built."
+      "resolved": "2026-09-30, she is one month into the Avania CFO seat. Started as campaign 630953 for Tuesday 2026-10-06."
     },
     "reserves": [
       "Lucas Natalini (Jakks)",
@@ -485,5 +482,17 @@
       "Jim Roberts (Naturipe)",
       "Sara Hergesheimer (Crown Jewels)"
     ]
+  },
+  "tuesdayWave2026_10_06": {
+    "campaignId": 630953,
+    "listId": 982470,
+    "status": "SCHEDULED",
+    "totalUsers": 1,
+    "pending": 1,
+    "failed": 0,
+    "excluded": 0,
+    "who": "Marie Engels, CFO Avania",
+    "why_tuesday": "Monday 630877 was already exactly at the 15 invitation daily ceiling, so she could not be added without spilling. Tuesday also leaves room if any of Monday's three placeholder leads fail and need re sending.",
+    "startDateUtcQuirk": "startDate is read as UTC, so 2026-10-06T00:00Z is 2026-10-05 19:00 Chicago, past the 17:00 cutoff. First eligible slot is Tuesday 09:00 Chicago."
   }
 }
