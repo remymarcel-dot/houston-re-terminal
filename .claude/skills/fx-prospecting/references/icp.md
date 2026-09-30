@@ -500,3 +500,36 @@ The related trap runs the other way too. A person whose title contains
 "Treasury" at a company **small** enough to lack a treasury department is
 usually mislabelled, and a person whose title lacks it at a company large
 enough to have one may still control a real regional book.
+
+## A new role announcement is a real trigger, and congratulating is the wrong opener
+
+A CFO or controller who has just started is one of the best windows there
+is: they inherit arrangements they did not choose and audit them in the
+first six to twelve months. They are also unusually active on LinkedIn in
+those weeks and accept connection requests at a much higher rate.
+
+**So send early, and do not lead with congratulations.** In the days after
+an announcement their inbox fills with them, and a large share come from
+vendors using the congratulation as a wrapper for a pitch. Opening that way
+puts Marcel in the same bucket as everyone else and a finance executive
+recognises the pattern instantly.
+
+The opener that works acknowledges the new seat by being **useful about it**
+rather than by celebrating it. Marie Engels at Avania, 2026-09-30, one day
+after her announcement:
+
+> "Marie, one month into a CFO seat is when you inherit arrangements nobody
+> explains, and at a CRO running trials across three continents the currency
+> ones tend to be buried. Not a pitch, just worth knowing who to call when
+> you reach it."
+
+Note what it does not do. It asks her nothing, because someone in week five
+may not yet know how the treasury is structured, and asking puts her on the
+spot. It assumes she has a list, accepts she is not on this item, and offers
+to be there when she gets to it.
+
+**The distinction that decides the verdict on a brand new hire.** A new
+**CFO** has authority from day one and is worth approaching immediately. A
+new **Controller** or manager does not yet, and is not. Zachary Robarge,
+brand new Controller at a domestic Ohio distributor, was cut in the same
+batch Engels was added in.

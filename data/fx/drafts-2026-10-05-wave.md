@@ -228,3 +228,33 @@ accepts she is not on this item yet, and asks for nothing.
 Still open and deliberately unasked: whether she is CFO of the group or of
 the US business. Her location reads Raleigh Durham and Remote while the
 parent sits in Bilthoven. That question keeps until she replies.
+
+### Her announcement is one day old. The note stays exactly as written.
+
+Marcel found the post: *"I'm happy to share that I'm starting a new position
+as Chief Financial Officer at Avania!"*, dated **1d**. Her experience entry
+says Sep 2026, so she started in September and announced it yesterday, which
+is ordinary.
+
+**This makes Tuesday the right day to send, and makes congratulating her the
+wrong opener.**
+
+**Why send now rather than wait.** Someone who has just announced a new role
+is on LinkedIn, in new job mode, and accepting connection requests at a far
+higher rate than usual. A connection request is not a pitch and costs her
+nothing to accept. The goal on Tuesday is simply to be connected before she
+gets busy, not to sell her anything.
+
+**Why the note must not open with congratulations.** Her inbox is full of
+them today, and a large share are vendors using a congratulation as the
+wrapper for a pitch. That is the oldest move in B2B sales and a CFO spots it
+in one line. Joining that queue makes Marcel indistinguishable from it.
+
+**The note already solves this and needs no change.** "One month into a CFO
+seat is when you inherit arrangements nobody explains" demonstrates that he
+knows exactly where she is, without spending a word on congratulations. It
+acknowledges the new role by being useful about it rather than by
+celebrating it. That is the differentiated position, and rewriting it to add
+a congratulation would destroy the only thing that makes it stand out.
+
+**Send Tuesday 2026-10-06, as built.** No edit.
