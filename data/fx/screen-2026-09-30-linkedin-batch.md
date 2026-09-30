@@ -759,3 +759,58 @@ seventeen.
 
 **URLs still needed:** twelve of the thirteen invitations. Schofield's is
 the only one supplied so far.
+
+## Frank's Distributing: the CFO exists and is not findable. Park it.
+
+Marcel found **Manuel Carlos Mendivil Villegas, "CFO ASSISTANT AT FRANK'S
+DISTRIBUTING INC", Nogales, Arizona, 3rd degree, 30 connections**, Tech
+Institute of Hermosillo.
+https://www.linkedin.com/in/manuel-carlos-mendivil-villegas-83762929/
+
+**Not the seat**, and 30 connections at 3rd degree with no mutuals means he
+is effectively unreachable anyway. But his title proves a CFO exists, so
+the company was worth one search.
+
+**Two things learned, one good and one decisive.**
+
+**Good: Frank's spans both major Mexican produce crossings.** Roberto Lopez
+is "Texas Operations" in **McAllen**; Mendivil is in **Nogales, Arizona**.
+McAllen covers the Rio Grande Valley and Nogales covers the Sonora
+crossing. A distributor operating at both is a substantial cross border
+produce business, which is exactly the shape that works.
+
+**Decisive: there is no reachable finance decision maker.** Apollo resolved
+the company cleanly to **franksfarms.com** and indexes only **7 people**:
+
+| title | |
+|---|---|
+| Sales and Marketing Specialist | Alexa |
+| Sales Manager | Ricardo |
+| Sales Executive | Isabel |
+| Accounting, Produce Distributing | Ana |
+| Accounts Payable | Maritza |
+| **Assistant to the Chief Financial Officer** | **Manuel** |
+| Sales Attendant | Juan |
+
+A targeted search on CFO, Controller, Owner, President, VP Finance and
+Director of Finance against that company returned **zero**. The CFO is real
+and has an assistant, and appears in neither LinkedIn nor Apollo. This is a
+small family company with almost no digital footprint above the sales desk.
+
+**Recommendation: park Frank's.** Right business, right corridor, no door.
+Every remaining route is a support seat: an assistant, an AP clerk, an
+accounting staffer. Approaching any of them burns the company's first
+impression on someone who has to forward it, and the odds of a forward from
+a 30 connection profile are poor.
+
+**The better version of this already exists on the shortlist.** Alejandro
+Bours at Crown Jewels and Guillermo Martinez at Frello Fresh are both
+Nogales, both decision seats, and carry 56 and 37 mutuals. Frank's offers
+the same corridor with none of the access.
+
+**No Apollo credits were spent.** Organization lookup and people search are
+both free; no enrichment was run.
+
+If Marcel wants Frank's anyway, the honest route is not LinkedIn at all. It
+is the Nogales produce trade in person, or a call to the office asking for
+the CFO by name.
