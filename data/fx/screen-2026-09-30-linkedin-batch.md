@@ -441,3 +441,69 @@ earlier and it is now a standing rule, written into icp.md.
 
 In: Avi Nir, Jamie LaChapelle. Out: KC Skalisky.
 One still open: **Hector Lujan**, 81 mutuals, no employer named.
+
+## Hector Lujan Valladolid resolved, 2026-09-30. In, and he displaces Canessa.
+
+Marcel supplied the seat: **Chief Executive Officer, HORTIFRUT, full time,
+Jul 2024 to present, 2 years 3 months, United States.** Based in Santa
+Barbara, California. ITESM. **81 mutuals.**
+
+**This is the same company as Gonzalo Canessa**, who sits on the shortlist
+at number 6 as President of Hortifrut Imports in Ventura. One seat per
+company, so only one of them goes.
+
+**Lujan takes the slot, on both counts that matter.**
+- **Seat.** Chief Executive Officer outranks President of the import
+  subsidiary. Canessa runs a piece; Lujan runs the thing.
+- **Warm path.** **81 mutuals against 17.** Not close.
+
+Canessa moves to reserve. If Lujan does not accept, he is the second
+approach at that company, not a parallel one.
+
+**This also settles Jim Roberts at Naturipe Farms, number 18.** Hortifrut
+part owns Naturipe, and Canessa himself lists Naturipe Value Added Fresh.
+With the group CEO now the target, approaching Roberts as well would be a
+double approach inside one corporate family. **Roberts stays held**, and
+the hold is now firm rather than provisional.
+
+### The open question, which goes in the opener rather than into a guess
+
+The experience entry reads **"HORTIFRUT"** with no suffix, and the location
+reads **United States**. Canessa's entry, by contrast, says "Hortifrut
+Imports". So the profile does not establish whether Lujan runs the global
+group or the North American organization, and the difference decides
+whether this lead is in the band at all.
+
+- **If he runs the global group**, Hortifrut S.A. is a Chilean listed
+  company with its own treasury in Santiago, and this is the Elementia and
+  Rohlig cash pooling objection over again.
+- **If he runs the US organization**, the US entity is paying growers
+  across Chile, Peru, Mexico and Morocco out of a US balance sheet, and
+  that is squarely the ICP.
+
+**Per the rule written minutes ago, the note asks.** Something close to the
+Ricardo Yllescas shape: name what the profile proves, then ask whether the
+currency decision for the US business sits with him in Santa Barbara or
+with group treasury, and give a genuine out if it sits upstream. One reply
+either qualifies him or closes it, and asking costs nothing.
+
+Chile is not Mexico, so the no Mexican companies rule does not touch this.
+
+## Batch closed. Shortlist: thirteen
+
+**In:** Rich Wright, Michal Hoppner, Alejandro Bours, Guillermo Martinez,
+Roman Rariy, **Hector Lujan**, Jimmy Alvarez, Bill Courtney, John Hermann,
+John Mannion, Cesar de Paz, Avi Nir, Jamie LaChapelle.
+
+**Reserve, second approach only:** Gonzalo Canessa (Hortifrut), Jim Roberts
+(Naturipe), Sara Hergesheimer (Crown Jewels).
+
+**Marcel's call, unresolved:** Fernando Salinas at Montachem, on Venezuela
+exposure.
+
+**Two are Play 0 rather than Play 4:** Bill Courtney and Avi Nir are both
+1st degree.
+
+All four names that were held for a missing fact are now resolved. Three
+went in, one went out, and the one that went out, KC Skalisky, had the
+highest mutual count in the batch. That is the screen doing its job.
