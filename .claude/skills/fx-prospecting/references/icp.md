@@ -568,3 +568,39 @@ anything internationally, or whether the book is all domestic."
 
 So the screen keeps rejecting small logistics companies **with no
 international lane**, and stops rejecting them **for being small**.
+
+## A Mexican company with a US entity is in scope
+
+Marcel, 2026-09-30: *"ia mexican company has a us entity i can work with
+them"*.
+
+This refines the "US companies only" line rather than contradicting it. **The
+test is which entity does the paying, not where the parent is registered.**
+A US LLC, Inc or subsidiary that settles its own suppliers and payroll is a
+US company for this purpose, whoever owns it.
+
+Worked examples already in the pipeline:
+- **Elementia USA**, Houston, under a Mexican listed parent. Ricardo Yllescas
+  is its CFO and was messaged on 2026-09-30.
+- **ABA Cargo LLC**, a US LLC whose company record shows a Mexico City
+  address and a +52 phone, with its **CFO sitting in Laredo, Texas**.
+- **Prominox USA**, flagged on the El Paso list precisely because "USA in the
+  name suggests a US entity".
+- **GCC Supply & Trading**, the US trading arm of Grupo Cementos de
+  Chihuahua.
+
+**What is still out:** a Mexican entity with no US arm at all, where every
+payment is made in Mexico by a Mexican company. Those were correctly cut from
+the El Paso directory: Industrias CCJ de Juarez, CENALTEC, Coplasco,
+Coprofusa, Miscelec, Montilla, Mrack, LA FE, Veyher Metales, VISIMAQ and the
+rest.
+
+**Where the screen has been too blunt.** Cutting a whole list on the parent's
+nationality is faster than checking for a US arm, and it has probably lost
+some good names. When a Mexican company appears with **USA, Inc, LLC or Corp**
+in its name, or with a person in a US city holding the finance seat, check for
+the US entity before cutting.
+
+**Note the asymmetry with factoring**, which is unchanged. FX and payments
+follow the paying entity. **Receivables factoring is US entity only and always
+was**, so a Mexican parent can never be factored even when its US arm can.
