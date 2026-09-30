@@ -880,3 +880,59 @@ Fourteen invitations, still inside the 15 a day ceiling. One day covers all
 eighteen.
 
 **URLs supplied so far:** Schofield, Espinoza Carranza. Twelve still needed.
+
+## Mary Paz Varela: upgraded from route to seat. In as 19.
+
+https://www.linkedin.com/in/mary-paz-varela-bb604879/
+
+**Two concurrent full time roles, identical dates, 13 years 9 months:**
+- **Gerente general de oficina**, MexFresh Produce, Edinburg, Texas
+- **Gerente de contabilidad general**, TOMVER LLC, Texas
+
+**That is the whole finding.** Two companies, same start date of Jan 2013,
+both full time, one person. MexFresh and TOMVER are related entities under
+common ownership, and she runs the back office for both.
+
+**The screen called her an accounting manager and filed her under "not the
+seat that decides". That was reading one title instead of two.** At a small
+family produce business in the Rio Grande Valley, the person who is
+simultaneously **general office manager and general accounting manager
+across both entities for fourteen years** is the back office. She does not
+merely see the supplier payments; she almost certainly executes them, knows
+what they cost, and knows which bank they go through.
+
+She may not choose the provider, because the owner will. But at this size
+the operator is usually the one who brings a provider to the owner, and she
+is unambiguously the operator.
+
+**Better seat than Ana Espinoza Carranza**, who is "Accounting" flat at
+Frank's. Mary Paz is Gerente twice over, across two entities, for fourteen
+years. She also has the warmer path: **2nd degree with one mutual, Juan
+Manuel**, against Ana's 3rd degree with none.
+
+**The one real caveat: 49 connections.** Lighter than Ana's 89 and the
+lightest on the shortlist. A profile that dormant may simply not be
+checked. That is a reason to expect silence, not a reason to skip her.
+
+**What the note does.** In Spanish, and it asks rather than assumes, but
+the question is different from Ana's. Ana gets "who handles this". Mary Paz
+gets an acknowledgement of the dual role and then the real question:
+whether the payments to the Mexican side sit with her or with the owner.
+Naming the two seats shows the work was done and is specific enough that it
+cannot read as a template. No pitch either way.
+
+## Final shortlist: nineteen, and the invitation quota is now exactly full
+
+**Play 4, cold invitations (15):** Rich Wright, Michal Hoppner, Alejandro
+Bours, Guillermo Martinez, Roman Rariy, Hector Lujan, Jimmy Alvarez, John
+Hermann, John Mannion, Cesar de Paz, Jamie LaChapelle, John Kimble, James
+Schofield, Ana Espinoza Carranza, **Mary Paz Varela**.
+
+**Play 0, direct messages (4):** Bill Courtney, Avi Nir, Fernando Salinas,
+Pablo Ortiz Rodea.
+
+**Fifteen invitations is the daily ceiling exactly.** Any further Play 4
+name splits the wave across two days. Play 0 still has room, since four
+messages sit against a separate 30 a day quota.
+
+**URLs supplied:** Schofield, Espinoza Carranza, Varela. Twelve needed.
