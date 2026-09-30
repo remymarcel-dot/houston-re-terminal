@@ -661,3 +661,34 @@ Thursday's result is the experiment. Read `totalUsersFailed` on 626018 before
 Friday and let it decide whether the two in 628299 get pulled for a manual send.
 
 List 978657 is a disposable probe. Do not add leads to it or build from it.
+
+### `AlreadyAConnection` is a different failure from `ConnectionRequestAlreadySent`, and it is a play assignment error
+
+Campaign 625479 failed one lead on 2026-09-29 with `errorCode: AlreadyAConnection`,
+`leadCampaignStatusMessage: "Already a connection"`. Ricardo Yllescas, CFO of
+Elementia USA, was already first degree, so a CONNECTION_REQUEST could never
+land and the personalized note never reached him.
+
+- `ConnectionRequestAlreadySent` means an invitation is pending. Resending fails
+  identically. Wait or withdraw. (Patrick Gaughan, El Paso W4.)
+- `AlreadyAConnection` means the wrong play was chosen. The person belongs in
+  Play 0 as a direct message. Re running Play 4 will never work.
+
+**The check that prevents it.** When Marcel supplies a bare profile URL with no
+degree stated, the degree is unknown, and Play 4 is a guess. Either ask him, or
+test the URL against `get_my_network_for_sender` before assigning the play. The
+09-28 note on this lead already said "if he is already a first degree connection
+he belongs in Play 0 as a message, not an invitation" and the lead was still
+routed to Play 4. Writing the caveat down is not the same as acting on it.
+
+Recovery is a Play 0 message, held for Marcel to read before sending. A failed
+invitation is silent to the prospect, so nothing was burned.
+
+### Past postings in an About section do not trigger the Venezuela stop
+
+The same lead's About text reads "Business Controller for Colombia, Venezuela and
+Ecuador, based in Bogota City" as career history, with the current seat being
+CFO, Elementia USA, Houston. The Venezuela rule is about where the money moves
+now: a current seat that names Venezuela, a company operating there, a
+counterparty there. A role someone held years ago is biography, not exposure.
+Do not cut on it, and do not mention it to the prospect either.

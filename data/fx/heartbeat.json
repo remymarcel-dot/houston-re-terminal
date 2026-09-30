@@ -385,5 +385,53 @@
       "ceiling": 15
     },
     "placeholderContingency": "Paz and Marentes Gurrola hold imp_ ids. Campaign 626018 sends Thursday 10-01 carrying three placeholders (Olivier, Grappe, Rubio). Read totalUsersFailed on 626018 Thursday afternoon. If those three failed, remove Paz and Marentes Gurrola from list 978635 before Friday 09:00 Chicago and hand both notes to Marcel for manual sending. If they fired, do nothing."
+  },
+  "verificationRun_2026_09_30": {
+    "firedAt": "2026-09-30T14:25:26Z",
+    "trigger": "trig_01Gqbyg3G72h4AZAqWSNpA6x",
+    "endpointHealth": "All six reads returned clean. The 500s seen across every id on the evening of 2026-09-28 were not reproduced.",
+    "campaigns": {
+      "625896": {
+        "status": "IN_PROGRESS",
+        "startedAt": "2026-09-30T00:00:42Z",
+        "totalUsers": 8,
+        "inProgress": 8,
+        "failed": 0,
+        "note": "Did NOT revert the way 622397 did. The routine prompt says six leads; it holds eight. Seven were built on 09-28 and Hillary Stroble was added on 09-29, taking the list from 7 to 8. The stored prompt was written before both changes, so the count in it is stale, not a discrepancy in HeyReach."
+      },
+      "622554": {
+        "status": "IN_PROGRESS",
+        "startedAt": "2026-09-30T00:00:39Z",
+        "totalUsers": 6,
+        "inProgress": 6,
+        "failed": 0,
+        "note": "Play 0 batch 5, messages against the 30 a day quota, so no competition with the invitation quota."
+      },
+      "625450": {
+        "status": "FINISHED",
+        "totalUsers": 4,
+        "finished": 4,
+        "failed": 0
+      },
+      "625479": {
+        "status": "FINISHED",
+        "totalUsers": 8,
+        "finished": 7,
+        "failed": 1,
+        "failedLead": "Ricardo Yllescas Alvarez, CFO Elementia USA, errorCode AlreadyAConnection at 2026-09-29T21:00:09Z"
+      },
+      "626018": {
+        "status": "SCHEDULED",
+        "totalUsers": 8,
+        "sends": "2026-10-01",
+        "note": "Carries the three imp_ placeholders. Tomorrow's result decides the Paz and Marentes Gurrola contingency on 628299."
+      },
+      "628299": {
+        "status": "SCHEDULED",
+        "totalUsers": 9,
+        "sends": "2026-10-02"
+      }
+    },
+    "actionOwedToMarcel": "Ricardo Yllescas needs a Play 0 direct message because the cold invitation could not land. Draft held for his approval, not sent."
   }
 }

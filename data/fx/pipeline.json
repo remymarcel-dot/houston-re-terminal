@@ -3506,11 +3506,11 @@
     "play": "play-4-cold-invitation",
     "campaignId": 625479,
     "listId": 974427,
-    "status": "invitation-scheduled",
-    "outcome": null,
+    "status": "invitation-failed-already-a-connection",
+    "outcome": "needs-play-0-message",
     "firstTouch": "2026-09-29",
     "loggedOn": "2026-09-28",
-    "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation."
+    "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation. | FAILED 2026-09-29T21:00:09Z, errorCode AlreadyAConnection. The caveat written into this note on 09-28 was correct: he is already a first degree connection, so the invitation could never land and the Spanish note never reached him. He needs a Play 0 direct message instead. Held for Marcel's approval rather than sent. Separately, his About text names Colombia, Venezuela and Ecuador as PAST postings from a Bogota based controller role; his current seat is CFO, Elementia USA, Houston, so the Venezuela hard stop does not apply. The rule is about where the money moves now, not where someone worked a decade ago."
   },
   {
     "name": "Tony Alvarez",
