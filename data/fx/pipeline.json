@@ -3503,14 +3503,14 @@
     "title": "Chief Financial Officer",
     "location": "Houston, Texas, United States",
     "profileUrl": "https://www.linkedin.com/in/ricardoyllescas",
-    "play": "play-4-cold-invitation",
-    "campaignId": 625479,
-    "listId": 974427,
-    "status": "invitation-failed-already-a-connection",
-    "outcome": "needs-play-0-message",
-    "firstTouch": "2026-09-29",
+    "play": "play-0-exception",
+    "campaignId": 630456,
+    "listId": 981880,
+    "status": "message-sending",
+    "outcome": null,
+    "firstTouch": "2026-09-30",
     "loggedOn": "2026-09-28",
-    "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation. | FAILED 2026-09-29T21:00:09Z, errorCode AlreadyAConnection. The caveat written into this note on 09-28 was correct: he is already a first degree connection, so the invitation could never land and the Spanish note never reached him. He needs a Play 0 direct message instead. Held for Marcel's approval rather than sent. Separately, his About text names Colombia, Venezuela and Ecuador as PAST postings from a Bogota based controller role; his current seat is CFO, Elementia USA, Houston, so the Venezuela hard stop does not apply. The rule is about where the money moves now, not where someone worked a decade ago."
+    "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation. | FAILED 2026-09-29T21:00:09Z, errorCode AlreadyAConnection. The caveat written into this note on 09-28 was correct: he is already a first degree connection, so the invitation could never land and the Spanish note never reached him. He needs a Play 0 direct message instead. Held for Marcel's approval rather than sent. Separately, his About text names Colombia, Venezuela and Ecuador as PAST postings from a Bogota based controller role; his current seat is CFO, Elementia USA, Houston, so the Venezuela hard stop does not apply. The rule is about where the money moves now, not where someone worked a decade ago. | RECOVERED 2026-09-30. Marcel approved the Spanish Play 0 message and it is live in campaign 630456, list 981880, IN_PROGRESS with startedAt 15:41:57Z, one user in progress. Sequence copied from 628244: CHECK_IS_CONNECTION then MESSAGE at 5 HOUR. Started at 10:41 Chicago so the message lands mid afternoon inside the 09:00 to 17:00 window. The message asks outright whether the FX decision sits with him in Houston or with group treasury in Mexico City, and offers a genuine out, because Elementia is listed in Mexico under Kaluz and the Rohlig cash pooling objection applies."
   },
   {
     "name": "Tony Alvarez",

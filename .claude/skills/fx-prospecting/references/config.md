@@ -692,3 +692,29 @@ CFO, Elementia USA, Houston. The Venezuela rule is about where the money moves
 now: a current seat that names Venezuela, a company operating there, a
 counterparty there. A role someone held years ago is biography, not exposure.
 Do not cut on it, and do not mention it to the prospect either.
+
+### A recovery campaign needs the exclusion filter turned OFF
+
+Every cold campaign in this workspace is built with
+`excludeContactedFromOtherCampaigns: true`, which is right for new outreach and
+wrong for a recovery. When a lead has already sat in a campaign that failed,
+that earlier campaign counts as prior contact, so the default filter excludes
+the lead from the new one. The campaign then reads `IN_PROGRESS` with the lead
+sitting in `totalUsersExcluded`, which looks like success and sends nothing.
+
+Campaign 630456 on 2026-09-30, recovering Ricardo Yllescas from the
+`AlreadyAConnection` failure in 625479, was built with the flag set to false
+along with `excludeContactedFromSenderInOtherCampaign` and
+`excludeHasOtherAccConversations`. Read back: `excludeInOtherCampaigns` false,
+`totalUsersExcluded` 0, one user in progress.
+
+**Always read `totalUsersExcluded` after starting, not just the status.** A
+status of IN_PROGRESS says the campaign is running, not that anyone is in it.
+
+### `send_message` cannot open a new thread
+
+It requires a `conversationId`, and a lead who has never been messaged has no
+conversation. `get_conversations_v2` filtered to the profile URL returns
+`totalCount: 0`. So a first message to a first degree connection always goes
+through a Play 0 campaign, never through `send_message`. Reserve `send_message`
+for replies inside a thread that already exists.

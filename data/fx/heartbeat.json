@@ -363,7 +363,8 @@
     "sequence": "Copied verbatim from 622570, Play 0 batch 6: CHECK_IS_CONNECTION then MESSAGE with a 5 hour delay.",
     "quota": "Messages, not invitations. Draws on the separate 30 a day message budget, so it does not touch today's twelve invitations.",
     "note": "The batch 6 stop on Play 0 stands. These are three named exceptions Marcel approved individually, not a resumption of the cadence. The 2026-10-08 review is unaffected.",
-    "stillBlocked": "Guillermo Rodriguez Arrizabalaga, the third and strongest of the three, could NOT be sent. His profile URL exists nowhere in the repo; he came from a screenshot only, and constructing a LinkedIn URL is the error that has already put two fabricated links into a list this week. Marcel must supply the link."
+    "stillBlocked": "Guillermo Rodriguez Arrizabalaga, the third and strongest of the three, could NOT be sent. His profile URL exists nowhere in the repo; he came from a screenshot only, and constructing a LinkedIn URL is the error that has already put two fabricated links into a list this week. Marcel must supply the link.",
+    "exception4_yllescas_2026_09_30": "Ricardo Yllescas, CFO Elementia USA. Fourth named exception to the Play 0 batch stop, approved by Marcel on 2026-09-30 after the Play 4 invitation failed with AlreadyAConnection. Campaign 630456 IN_PROGRESS."
   },
   "fridayWave2026_10_02": {
     "campaignId": 628299,
@@ -433,5 +434,6 @@
       }
     },
     "actionOwedToMarcel": "Ricardo Yllescas needs a Play 0 direct message because the cold invitation could not land. Draft held for his approval, not sent."
-  }
+  },
+  "play0ExclusionTrap": "A Play 0 recovery campaign for a lead who already sits in a failed Play 4 campaign MUST be created with excludeContactedFromOtherCampaigns false. Left at the usual true, HeyReach would have counted 625479 as prior contact and excluded him, and the campaign would have read IN_PROGRESS with the lead silently in totalUsersExcluded. Verified on 630456: excludeInOtherCampaigns false, totalUsersExcluded 0, one user in progress."
 }
