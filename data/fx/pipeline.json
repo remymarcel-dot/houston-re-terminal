@@ -6304,7 +6304,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 78967519. Banner names Core Trinidad, Core Nations Guyana and Core Suriname. Houston workforce business paying people in three currencies while billing US clients in dollars. CFO seat, Marcel's own city. Ranked 1 of 8 on the 09-29 screen. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: nboardman@cgrteam.com. Core Group Resources 180 employees, $24.5M revenue. Houston.",
+    "note": "LinkedIn id 78967519. Banner names Core Trinidad, Core Nations Guyana and Core Suriname. Houston workforce business paying people in three currencies while billing US clients in dollars. CFO seat, Marcel's own city. Ranked 1 of 8 on the 09-29 screen. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: nboardman@cgrteam.com. Core Group Resources 180 employees, $24.5M revenue. Houston. | ZOOMINFO 2026-09-30. ZoomInfo FULL_MATCH, accuracy 89, title confirmed Chief Financial Officer. NO EMAIL from ZoomInfo but a mobile, while Apollo gave the email and no phone. THE WATERFALL WORKING AS INTENDED: email from Apollo, mobile from ZoomInfo, neither alone was enough.",
     "touches": [
       {
         "n": 1,
@@ -6316,7 +6316,10 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "nboardman@cgrteam.com"
+    "email": "nboardman@cgrteam.com",
+    "mobile": "(832) 506-3951",
+    "contactAccuracyScore": "89.0",
+    "doNotCall": "none"
   },
   {
     "name": "Marcelo Sada",
@@ -6361,7 +6364,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 26012422. Nogales corridor importer of Mexican grown produce. Chief executive, 61 mutual connections. Ranked 3. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: mmandel@sunfed.net. SunFed 63 employees, $10.2M revenue. Comfortably in band.",
+    "note": "LinkedIn id 26012422. Nogales corridor importer of Mexican grown produce. Chief executive, 61 mutual connections. Ranked 3. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: mmandel@sunfed.net. SunFed 63 employees, $10.2M revenue. Comfortably in band. | ZOOMINFO 2026-09-30. ZoomInfo FULL_MATCH, accuracy 95, email agrees with Apollo. Direct dial added, Nogales 520 area code.",
     "touches": [
       {
         "n": 1,
@@ -6373,7 +6376,10 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "mmandel@sunfed.net"
+    "email": "mmandel@sunfed.net",
+    "phone": "(520) 761-6813",
+    "contactAccuracyScore": "95.0",
+    "doNotCall": "none"
   },
   {
     "name": "Jessica Paz",
@@ -6388,7 +6394,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "PLACEHOLDER ID imp_ZYDILSBWEVAUDEOVQPBMELKIH. Would not enrich across three imports including one into a fresh list with username supplied. Marcel reconfirmed the URL 2026-09-29; it is correct, the placeholder is sticky at the workspace level. Large Hispanic and Latin protein distributor, her own headline says $B+, sixteen years there, leads a 40 person accounting function. Ranked 4. If the three placeholders in 626018 fail Thursday 10-01, pull her before Friday 09:00 Chicago and hand the note to Marcel.",
+    "note": "PLACEHOLDER ID imp_ZYDILSBWEVAUDEOVQPBMELKIH. Would not enrich across three imports including one into a fresh list with username supplied. Marcel reconfirmed the URL 2026-09-29; it is correct, the placeholder is sticky at the workspace level. Large Hispanic and Latin protein distributor, her own headline says $B+, sixteen years there, leads a 40 person accounting function. Ranked 4. If the three placeholders in 626018 fail Thursday 10-01, pull her before Friday 09:00 Chicago and hand the note to Marcel. | ZOOMINFO 2026-09-30. THE MOST IMPORTANT RESULT OF THE RUN. Her LinkedIn refused to enrich three separate times and sits in campaign 628299 as a dead imp_ placeholder, so the Friday invitation may never deliver. ZoomInfo has her cleanly: FULL_MATCH, accuracy 94, verified email, a direct dial and a mobile, title Vice President Financial Reporting. She is now reachable on two channels regardless of what LinkedIn does. This is the multi channel argument proving itself on the first run.",
     "touches": [
       {
         "n": 1,
@@ -6399,7 +6405,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "jessica.paz@quirchfoods.com",
+    "phone": "(786) 318-5810 ext. 2402",
+    "mobile": "(305) 496-5833",
+    "contactAccuracyScore": "94.0",
+    "doNotCall": "none"
   },
   {
     "name": "Sergio Marentes Gurrola",
@@ -6414,7 +6425,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "PLACEHOLDER ID imp_ENYVUKKKZLRFRPKVATUIVVDFU. Same sticky failure as Paz, URL reconfirmed by Marcel 2026-09-29. International refrigerated transport, Baja California into CA, AZ, NV, OR, WA, ID. Twelve years. Small enough that the CEO signs and the trucks physically cross. Ranked 5. Same Thursday contingency as Paz.",
+    "note": "PLACEHOLDER ID imp_ENYVUKKKZLRFRPKVATUIVVDFU. Same sticky failure as Paz, URL reconfirmed by Marcel 2026-09-29. International refrigerated transport, Baja California into CA, AZ, NV, OR, WA, ID. Twelve years. Small enough that the CEO signs and the trucks physically cross. Ranked 5. Same Thursday contingency as Paz. | ZOOMINFO 2026-09-30. ZoomInfo FULL_MATCH at accuracy 88 but returned NO EMAIL AND NO PHONE, and the job title came back as the meaningless string 'A Cargo'. Combined with the dead imp_ placeholder on LinkedIn, he is currently unreachable on every channel. Next stop Seamless; if that fails too, he needs Marcel to find him by hand.",
     "touches": [
       {
         "n": 1,
@@ -6425,7 +6436,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "contactAccuracyScore": "88.0",
+    "doNotCall": "none"
   },
   {
     "name": "Sebastian Sabbione",
@@ -6440,7 +6453,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 45797986. CFO of a diversified industrial holding. Supersedes David Baker, VP Controller at the same company in Chicago, who was cut as the weaker seat. One seat per company holds. Ranked 6. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: ssabbione@gvwgroup.com. GVW Group 400 employees, $58.9M revenue. In band.",
+    "note": "LinkedIn id 45797986. CFO of a diversified industrial holding. Supersedes David Baker, VP Controller at the same company in Chicago, who was cut as the weaker seat. One seat per company holds. Ranked 6. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: ssabbione@gvwgroup.com. GVW Group 400 employees, $58.9M revenue. In band. | ZOOMINFO 2026-09-30. ZoomInfo FULL_MATCH, ACCURACY 99, the highest seen so far. Title is richer than LinkedIn showed: Group Chief Financial Officer, GVW. Email agrees with Apollo. mobilePhoneDoNotCall is TRUE.",
     "touches": [
       {
         "n": 1,
@@ -6452,7 +6465,9 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "ssabbione@gvwgroup.com"
+    "email": "ssabbione@gvwgroup.com",
+    "contactAccuracyScore": "99.0",
+    "doNotCall": "MOBILE DO NOT CALL"
   },
   {
     "name": "Samuel Martin",
@@ -6467,7 +6482,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 22200293. CPA CFE, specializes in wine industry accounting. Two seats in one at a Napa estate; barrels, corks and equipment are euro purchases. Sits alongside the Hillside and InnoVint wine thread. Ranked 7. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: sam@danaestates.com. Dana Estates Winery 22 employees.",
+    "note": "LinkedIn id 22200293. CPA CFE, specializes in wine industry accounting. Two seats in one at a Napa estate; barrels, corks and equipment are euro purchases. Sits alongside the Hillside and InnoVint wine thread. Ranked 7. | EMAIL ENRICHED 2026-09-30 via Apollo, 1 credit, verified: sam@danaestates.com. Dana Estates Winery 22 employees. | ZOOMINFO 2026-09-30. ZoomInfo FULL_MATCH, accuracy 98. Title confirmed Chief Operating Officer and Chief Financial Officer, so the two seats in one that earned him the slot are real. Email agrees with Apollo. mobilePhoneDoNotCall is TRUE.",
     "touches": [
       {
         "n": 1,
@@ -6479,7 +6494,9 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "sam@danaestates.com"
+    "email": "sam@danaestates.com",
+    "contactAccuracyScore": "98.0",
+    "doNotCall": "MOBILE DO NOT CALL"
   },
   {
     "name": "Miguel Angel Jubal Rossi",
@@ -6494,7 +6511,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 51905939. Founder seat in produce. Note written in Spanish with accents intact and ends on a question about how they handle it. Ranked 8.",
+    "note": "LinkedIn id 51905939. Founder seat in produce. Note written in Spanish with accents intact and ends on a question about how they handle it. Ranked 8. | ZOOMINFO 2026-09-30: NO_MATCH, ZoomInfo does not hold him at all. Apollo held no email either. Next stop Seamless, or wait for the LinkedIn invitation.",
     "touches": [
       {
         "n": 1,
@@ -6505,7 +6522,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "contactAccuracyScore": "not held by ZoomInfo"
   },
   {
     "name": "Stefan Lazaridis",
@@ -6520,7 +6538,7 @@
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 79483952. FLAGGED NOT RECOMMENDED ON THE SCREEN AND APPROVED BY MARCEL ANYWAY. Proximo is the US arm importing tequila, a real peso book, but the parent is Becle, a large Mexican listed group with its own treasury. Same shape as Elementia, which Marcel also approved, so it was his call. Note asks whether the peso book sits at the US company or upstream rather than asserting it.",
+    "note": "LinkedIn id 79483952. FLAGGED NOT RECOMMENDED ON THE SCREEN AND APPROVED BY MARCEL ANYWAY. Proximo is the US arm importing tequila, a real peso book, but the parent is Becle, a large Mexican listed group with its own treasury. Same shape as Elementia, which Marcel also approved, so it was his call. Note asks whether the peso book sits at the US company or upstream rather than asserting it. | ZOOMINFO 2026-09-30: COMPANY_ONLY_MATCH at accuracy 0, ZoomInfo holds Proximo Spirits but not him. Apollo held no email either. Next stop Seamless, or wait for the LinkedIn invitation.",
     "touches": [
       {
         "n": 1,
@@ -6531,7 +6549,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "contactAccuracyScore": "not held by ZoomInfo"
   },
   {
     "name": "Hillary Stroble",

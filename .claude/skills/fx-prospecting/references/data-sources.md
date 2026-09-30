@@ -25,8 +25,12 @@
 >    filtering for finding people in the first place, and it returns revenue
 >    and headcount that ZoomInfo's contact enrichment does not. Use it to
 >    *discover*, then ZoomInfo to *enrich*.
-> 3. **Seamless.** Only 109 credits until 2026-10-26. Last resort, for names
->    the other two both miss.
+> 3. **Seamless.** Marcel, 2026-09-30: *"seamellesai is the free version so
+>    not that much of credits but as the last source when we do not find in
+>    apollo and zoominfo is good."* It is the **free tier**, 109 credits
+>    until 2026-10-26. Last resort only, for names the other two both miss,
+>    which on the first run means people like Pablo Ortiz Rodea and Marie
+>    Engels who came back as company only matches.
 >
 > **Apollo's direct dial pool being exhausted until 2026-10-07 no longer
 > matters**, because phones come from ZoomInfo now.
