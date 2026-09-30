@@ -6668,7 +6668,12 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "michalh@lusamerica.com"
+    "email": "michalh@lusamerica.com",
+    "mobile": "(408) 608-9605",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Alejandro Bours",
@@ -6695,7 +6700,13 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "alejandro@crownjewelsproduce.com"
+    "email": "alejandro@crownjewelsproduce.com",
+    "phone": "(520) 281-2325 ext. 206",
+    "mobile": "(520) 470-9567",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Guillermo Martinez",
@@ -6782,7 +6793,11 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "hlujan@hortifrut.com"
+    "email": "hlujan@hortifrut.com",
+    "contactAccuracyScore": 85.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address. No callable number returned.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Jimmy Alvarez",
@@ -6839,7 +6854,12 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "johnh@oilseedssf.com"
+    "email": "johnh@oilseedssf.com",
+    "mobile": "(415) 988-4391",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "John Mannion",
@@ -6866,7 +6886,11 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "john.mannion@oceanshipholdings.com"
+    "email": "john.mannion@oceanshipholdings.com",
+    "contactAccuracyScore": 92.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address. No callable number returned.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Cesar de Paz",
@@ -6893,7 +6917,12 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "cdepaz@agrosevilla.com"
+    "email": "cdepaz@agrosevilla.com",
+    "mobile": "(631) 372-6740",
+    "contactAccuracyScore": 92.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Jamie LaChapelle",
@@ -6920,7 +6949,11 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "jamie@cdsdist.com"
+    "email": "jamie@cdsdist.com",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address. No callable number returned.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "John Kimble",
@@ -6947,7 +6980,12 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "jkimble@jakks.net"
+    "email": "jkimble@jakks.net",
+    "mobile": "(310) 528-8094",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "James M. Schofield",
@@ -6974,7 +7012,12 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "schofieldj@freshideas.com"
+    "email": "schofieldj@freshideas.com",
+    "phone": "(617) 912-8006",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address. ZoomInfo files him under Fresh Ideas rather than Costa Fruit & Produce, which is consistent with the freshideas.com domain.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Ana Espinoza Carranza",
@@ -7000,7 +7043,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "acarranza@franksdist.com",
+    "phone": "(520) 761-3311",
+    "contactAccuracyScore": 93.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo, FULL_MATCH on her LinkedIn URL. New address, nothing was on file before.",
+    "nameAtWork": "ZoomInfo files her as Anna Carranza, not Ana Espinoza Carranza, and her address is acarranza@. Her LinkedIn carries the full Spanish form. Write to Anna Carranza.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Mary Paz Varela",
@@ -7026,7 +7076,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "mvarela@mexfreshproduce.com",
+    "contactAccuracyScore": 83.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH. New address, nothing was on file before. The TOMVER query returned the same person record, so MexFresh is the employer of record.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Bill Courtney",
@@ -7053,7 +7108,13 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "bcourtney@cahmemphis.com"
+    "email": "bcourtney@cahmemphis.com",
+    "phone": "(901) 333-1006",
+    "mobile": "(901) 604-7107",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo, FULL_MATCH, confirms the Apollo address. ZoomInfo has him as William Courtney, Owner.",
+    "enrichedOn": "2026-09-30"
   },
   {
     "name": "Avi Nir",
@@ -7109,7 +7170,11 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "email": "fsalinas@montachem.com"
+    "email": "fsalinas@montachem.com",
+    "emailSource": "Apollo, unverified. See zoominfoResult.",
+    "zoominfoResult": "ZoomInfo has Montachem International as a company, id 77973524, but no person record for him. Three separate queries returned COMPANY_ONLY_MATCH at accuracy 0. A fourth query that included his LinkedIn URL returned a Fernando Sequeira, a Manager with a Costa Rica mobile and no company id, which is a fuzzy match to a different person and was discarded. So the Apollo address fsalinas@montachem.com is unverified at the person level, though the domain is confirmed correct and the f plus surname pattern matches what ZoomInfo returns for that domain elsewhere. Send it, and treat a bounce as information rather than a surprise. Seamless is the next stop if it bounces.",
+    "enrichedOn": "2026-09-30",
+    "doNotCall": "no number on file, do not call"
   },
   {
     "name": "Pablo Nestor Ortiz Rodea",
