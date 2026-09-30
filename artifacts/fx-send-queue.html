@@ -1,0 +1,824 @@
+<title>FX Send Queue</title>
+<style>
+  /* Layout: single column blotter. Day headers, one ticket per email,
+     a data rail above the letter itself. */
+  :root {
+    --bg: #F3F5F7;
+    --surface: #FFFFFF;
+    --surface-sunk: #EAEEF2;
+    --fg: #16202B;
+    --muted: #5B6977;
+    --faint: #8C99A6;
+    --line: #DAE0E7;
+    --line-strong: #C3CCD6;
+    --accent: #A4552A;
+    --accent-soft: #F6EAE2;
+    --ok: #1C6B47;
+    --ok-soft: #E2F0E8;
+    --warn: #8F6410;
+    --warn-soft: #F7EDD8;
+    --stop: #8E2F2F;
+    --stop-soft: #F7E5E5;
+    --ui: "Archivo", ui-sans-serif, system-ui, "Helvetica Neue", Arial, sans-serif;
+    --letter: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0F141A;
+      --surface: #161D25;
+      --surface-sunk: #1D262F;
+      --fg: #E4E9EE;
+      --muted: #94A2B0;
+      --faint: #6D7C8A;
+      --line: #263039;
+      --line-strong: #37444F;
+      --accent: #DB8D57;
+      --accent-soft: #2A1E15;
+      --ok: #59B98C;
+      --ok-soft: #15251D;
+      --warn: #D6A444;
+      --warn-soft: #251E10;
+      --stop: #D97878;
+      --stop-soft: #2A1717;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0F141A;
+    --surface: #161D25;
+    --surface-sunk: #1D262F;
+    --fg: #E4E9EE;
+    --muted: #94A2B0;
+    --faint: #6D7C8A;
+    --line: #263039;
+    --line-strong: #37444F;
+    --accent: #DB8D57;
+    --accent-soft: #2A1E15;
+    --ok: #59B98C;
+    --ok-soft: #15251D;
+    --warn: #D6A444;
+    --warn-soft: #251E10;
+    --stop: #D97878;
+    --stop-soft: #2A1717;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--ui);
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0;
+    padding-inline: 16px;
+    padding-block: 0 56px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; }
+
+  /* ---- masthead ---- */
+  .mast {
+    padding-block: 28px 18px;
+    border-bottom: 2px solid var(--fg);
+  }
+  .eyebrow {
+    font-family: var(--data);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 6px;
+  }
+  h1 {
+    font-family: var(--ui);
+    font-weight: 700;
+    font-size: clamp(26px, 6vw, 36px);
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+    margin: 0;
+    text-wrap: balance;
+  }
+  .standfirst {
+    color: var(--muted);
+    margin: 10px 0 0;
+    max-width: 58ch;
+    font-size: 14px;
+  }
+
+  /* ---- tallies ---- */
+  .tallies {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(118px, 1fr));
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    margin-block: 20px 4px;
+  }
+  .tally { background: var(--surface); padding: 12px 14px; min-width: 0; }
+  .tally dt {
+    font-family: var(--data);
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 4px;
+  }
+  .tally dd {
+    margin: 0;
+    font-family: var(--data);
+    font-size: 22px;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+  }
+  .tally.is-accent dd { color: var(--accent); }
+
+  /* ---- day header ---- */
+  .day {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-block: 34px 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--line-strong);
+  }
+  .day h2 {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .day .count {
+    font-family: var(--data);
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .day.is-today h2::before {
+    content: "";
+    display: inline-block;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+    margin-right: 8px;
+    vertical-align: 0.12em;
+  }
+
+  /* ---- empty state ---- */
+  .empty {
+    border: 1px dashed var(--line-strong);
+    padding: 22px 18px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .empty strong { color: var(--fg); font-weight: 600; }
+
+  /* ---- ticket ---- */
+  .ticket {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    margin-bottom: 14px;
+  }
+  .ticket[data-state="sent"] { border-left-color: var(--ok); }
+  .ticket[data-state="skipped"] { border-left-color: var(--line-strong); }
+  .ticket[data-state="sent"] .letter,
+  .ticket[data-state="skipped"] .letter { opacity: 0.55; }
+
+  .t-head { padding: 14px 16px 12px; }
+  .t-name {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    margin: 0;
+  }
+  .t-role { color: var(--muted); font-size: 13.5px; margin: 2px 0 0; }
+  .t-role b { color: var(--fg); font-weight: 600; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .chip {
+    font-family: var(--data);
+    font-size: 10.5px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 3px 7px;
+    border: 1px solid var(--line-strong);
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .chip.is-touch { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+  .chip.is-warn { border-color: var(--warn); color: var(--warn); background: var(--warn-soft); }
+  .chip.is-stop { border-color: var(--stop); color: var(--stop); background: var(--stop-soft); }
+  .chip.is-ok { border-color: var(--ok); color: var(--ok); background: var(--ok-soft); }
+
+  /* ---- data rail ---- */
+  .rail {
+    background: var(--surface-sunk);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    padding: 10px 16px;
+    display: grid;
+    gap: 8px;
+  }
+  .rail-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    min-width: 0;
+  }
+  .rail-label {
+    font-family: var(--data);
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--faint);
+    width: 62px;
+    flex: none;
+  }
+  .rail-val {
+    font-family: var(--data);
+    font-size: 13px;
+    font-variant-numeric: tabular-nums;
+    word-break: break-all;
+    min-width: 0;
+  }
+  .rail-val.is-dead { color: var(--faint); text-decoration: line-through; }
+
+  /* ---- why ---- */
+  .why {
+    padding: 12px 16px;
+    font-size: 13.5px;
+    color: var(--muted);
+    border-bottom: 1px solid var(--line);
+  }
+  .why b { color: var(--fg); font-weight: 600; }
+
+  /* ---- the letter ---- */
+  .letter { padding: 16px; }
+  .subject {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 14px;
+  }
+  .subject-text { min-width: 0; }
+  .subject-text span {
+    display: block;
+    font-family: var(--data);
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--faint);
+    margin-bottom: 3px;
+  }
+  .subject-text strong { font-weight: 600; font-size: 15px; }
+  .body-text {
+    font-family: var(--letter);
+    font-size: 16.5px;
+    line-height: 1.62;
+    white-space: pre-wrap;
+    max-width: 62ch;
+    margin: 0;
+  }
+
+  /* ---- actions ---- */
+  .actions {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0 16px 16px;
+  }
+  button {
+    font-family: var(--ui);
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 13px;
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--fg);
+    cursor: pointer;
+    transition: background 0.12s ease, border-color 0.12s ease;
+  }
+  button:hover { background: var(--surface-sunk); border-color: var(--fg); }
+  button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  button.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+  button.primary:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+  button.tiny {
+    font-family: var(--data);
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 4px 8px;
+    font-weight: 400;
+    flex: none;
+  }
+  button[disabled] { opacity: 0.45; cursor: default; }
+  .state-note {
+    font-family: var(--data);
+    font-size: 11px;
+    color: var(--ok);
+    font-variant-numeric: tabular-nums;
+  }
+  .state-note.is-skip { color: var(--faint); }
+
+  /* ---- standing facts ---- */
+  .standing {
+    margin-top: 40px;
+    border-top: 2px solid var(--fg);
+    padding-top: 18px;
+  }
+  .standing h2 { font-size: 15px; margin: 0 0 12px; }
+  .standing ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 14px; }
+  .standing li { margin-bottom: 8px; }
+  .standing b { color: var(--fg); font-weight: 600; }
+  .colophon {
+    margin-top: 26px;
+    font-family: var(--data);
+    font-size: 11px;
+    line-height: 1.7;
+    color: var(--faint);
+  }
+  .banner {
+    margin-top: 16px;
+    padding: 10px 13px;
+    border: 1px solid var(--warn);
+    background: var(--warn-soft);
+    color: var(--warn);
+    font-size: 13px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; animation: none !important; }
+  }
+  @media (max-width: 460px) {
+    .tallies { grid-template-columns: 1fr 1fr; }
+    .rail-label { width: 100%; }
+    .body-text { font-size: 16px; }
+  }
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,400&family=IBM+Plex+Mono:wght@400&display=swap">
+
+<div class="wrap">
+  <header class="mast">
+    <p class="eyebrow" id="today-stamp">Wednesday 30 September 2026</p>
+    <h1>Emails to send</h1>
+    <p class="standfirst">Touch 2 of the nine touch cadence is an email, and you send every one by hand. This is the queue, in the order it comes due. Marking one sent is what logs the touch.</p>
+    <dl class="tallies" id="tallies"></dl>
+  </header>
+
+  <main id="queue"></main>
+
+  <section class="standing">
+    <h2>Standing facts, as of 30 September</h2>
+    <ul>
+      <li><b>18 more come due Thursday 8 October.</b> That is the Monday wave, enriched today. Eighteen of its nineteen now carry a verified address, so the drafts get written before then.</li>
+      <li><b>157 people are owed an email and have no address on file.</b> None of them are tier 1, so nothing urgent is stuck, but the number grows with every wave that lands. ZoomInfo has no cap on the Monex membership, so this is time rather than credits.</li>
+      <li><b>14 older names sit outside the cadence clock.</b> Their first touch predates 1 September, when the nine touch cadence started. They are a revival pool, worked by choice rather than by calendar.</li>
+      <li><b>Fernando Salinas at Montachem has an unverified address.</b> ZoomInfo has the company but no person record. The domain is confirmed and the pattern matches, so send it and treat a bounce as information.</li>
+    </ul>
+    <p class="colophon" id="colophon">Regenerated each weekday morning from data/fx/pipeline.json.</p>
+  </section>
+</div>
+
+<script>
+const DATA = {
+  today: "2026-09-30",
+  days: [
+    { date: "2026-09-30", label: "Today, Wednesday 30 September", tickets: [] },
+    {
+      date: "2026-10-01",
+      label: "Thursday 1 October",
+      tickets: [
+        {
+          id: "becky-ross",
+          name: "Becky Ross",
+          role: "General Manager and Chief Financial Officer",
+          company: "Lasseter Family Winery",
+          where: "Glen Ellen, Sonoma Valley",
+          email: "becky@lfwinery.com",
+          phone: null, mobile: null, dnc: null, accuracy: null,
+          touch: 2,
+          lang: "en",
+          why: "Touch 1 was your own email on 24 September, off the InnoVint webinar on the real cost of a case. No reply. That email asked whether Lasseter buys its French oak direct and left the other half unused, so the follow up is that unused half: a US importer quoting in dollars has already priced the currency risk into the invoice. New information, not a nudge. Do not repeat the question she did not answer.",
+          subject: "The dollar side of the oak question",
+          body: "Becky,\n\nI wrote last week about French oak and the cost of a case. Let me give you the other half of it, because it is the part most wineries never see.\n\nIf Lasseter buys its barrels through a US importer who quotes in dollars, the currency risk has not gone away. It has been priced into the invoice by whoever is carrying it, and that margin is usually somewhere between two and four percent. It does not appear as a line item, which is exactly why it survives.\n\nSo the question is not really whether you have euro exposure. It is whether you are paying for someone else to manage it.\n\nWorth twenty minutes if you are building next year's cost per case.\n\nMarcel"
+        }
+      ]
+    },
+    {
+      date: "2026-10-05",
+      label: "Monday 5 October",
+      tickets: [
+        {
+          id: "o-castellon",
+          name: "O. Castellon",
+          role: "Owner",
+          company: "Two Brothers Produce",
+          where: "Pompano Beach, Florida",
+          email: "ocastellon@twobrothersproduce.us",
+          phone: null, mobile: null, dnc: null, accuracy: null,
+          touch: 2,
+          lang: "es",
+          dueNote: "Came due Sunday 4 October",
+          why: "His LinkedIn message goes out 1 October and asks one question: whether he pays growers in local currency or all in dollars. Do not ask it again. The new axis is cost per payment rather than the rate itself, which is the thing that actually matters at 261 shipments a year on $477K of import value. Written in Spanish, as the first message was.",
+          subject: "El costo por pago, no el tipo de cambio",
+          body: "Hola,\n\nLe escribí por LinkedIn hace unos días y quiero agregar algo distinto.\n\nTwo Brothers movió 261 embarques el año pasado. Con ese volumen, lo que pesa no es tanto el tipo de cambio como el costo fijo de cada pago: la comisión del banco por transferencia y el margen que se cobra al convertir. En docenas de pagos al año eso se acumula sin que aparezca en ninguna línea.\n\nVale la pena saber cuánto le cuesta hoy cada transferencia a República Dominicana y a Costa Rica. Es un número que casi nadie conoce hasta que lo pide.\n\nSi me dice con qué banco trabaja, le puedo decir qué es lo normal en el mercado.\n\nSaludos,\nMarcel"
+        },
+        {
+          id: "jessica-paz",
+          name: "Jessica Paz",
+          role: "VP Financial Reporting and Controller",
+          company: "Quirch Foods",
+          where: "Miami, Florida",
+          email: "jessica.paz@quirchfoods.com",
+          phone: "(786) 318-5810 ext. 2402",
+          mobile: "(305) 496-5833",
+          dnc: null,
+          accuracy: 94,
+          touch: 2,
+          lang: "en",
+          flag: "Treat as first contact",
+          why: "Her LinkedIn invitation may never arrive. Her profile refused to resolve across three imports and sits in the Friday campaign as a dead placeholder id, so this email is probably her first real touch. It is written to stand alone and makes no reference to the invitation. She leads a 40 person accounting function, so the question is who sets the rate rather than whether currency matters.",
+          subject: "Who sets the rate at Quirch",
+          body: "Jessica,\n\nYou run financial reporting for a protein distributor selling across the Caribbean and Latin America. Somewhere in your close, a receivable in one currency becomes revenue in dollars at a rate that somebody chose.\n\nMy question is narrow. Is that rate set by the bank on the day the money lands, or by someone at Quirch before the sale is booked? At your volume the difference over a year is usually larger than anyone budgeted for, and it rarely sits in a line item where you would notice it.\n\nI work on currency and cross border payments at Monex USA. I was a CFO before this, so I know which line it hides in.\n\nHappy to compare notes if it is a question you are already asking.\n\nMarcel"
+        },
+        {
+          id: "marcelo-sada",
+          name: "Marcelo Sada",
+          role: "President and Corporate Development",
+          company: "Source Logistics",
+          where: "Greater Houston",
+          email: "marcelo@sourcelogistics.net",
+          phone: "(323) 271-4560",
+          mobile: null,
+          dnc: null,
+          accuracy: 98,
+          touch: 2,
+          lang: "es",
+          why: "His Spanish invitation said that moving Latin American brands into the US means someone decides which currency each leg is paid in. The email moves from who decides to what it cost: the peso appreciated about 15 percent last year, against 3PL contracts that are signed at a fixed price for twelve months. Freshest ZoomInfo record in the batch, updated yesterday.",
+          subject: "El peso se movió 15% y su contrato no",
+          body: "Marcelo,\n\nLe agrego un dato al mensaje que le mandé por LinkedIn.\n\nEl peso se apreció alrededor de 15% el año pasado. Para un operador logístico que cotiza a clientes en dólares y paga transportistas, mano de obra y patios en pesos, ese movimiento entra directo al margen, y los contratos de 3PL normalmente se firman a precio fijo por doce meses.\n\nLa pregunta práctica es si Source fija el tipo de cambio cuando firma el contrato o lo deja abierto hasta que llega la factura. Las dos son posiciones válidas, pero una es una decisión suya y la otra es el mercado decidiendo por usted.\n\nCon gusto lo revisamos si ya está armando presupuestos para 2027.\n\nSaludos,\nMarcel"
+        },
+        {
+          id: "matt-mandel",
+          name: "Matt Mandel",
+          role: "President and Chief Executive Officer",
+          company: "SunFed",
+          where: "Greater Tucson, Nogales corridor",
+          email: "mmandel@sunfed.net",
+          phone: "(520) 761-6813",
+          mobile: null,
+          dnc: null,
+          accuracy: 95,
+          touch: 2,
+          lang: "en",
+          why: "His invitation said the exchange rate sits in the middle of every season. The email names the mechanism instead: a Nogales program commits to growers before the season and sells into a market that prices daily, which is the one case where a forward is boring and useful. Asked as a question he can answer from experience rather than a pitch.",
+          subject: "Locking the season, not the day",
+          body: "Matt,\n\nFollowing the note I sent on LinkedIn, here is the part that matters operationally.\n\nA Nogales program commits to growers before the season starts and sells into a US market that prices day by day. The currency piece has the same shape. You know roughly what you will owe on the Mexican side over the next six months, but not what it will cost in dollars.\n\nThat is the one case where a forward is boring and useful. You fix the rate on the season's grower payments when you set the deal, and the number stops moving. It is not a trade, it is a budget line.\n\nIf SunFed already works this way I would genuinely like to hear how it is structured. If not, it takes twenty minutes to explain.\n\nMarcel"
+        },
+        {
+          id: "nathan-boardman",
+          name: "Nathan Boardman",
+          role: "Chief Financial Officer",
+          company: "Core Group Resources",
+          where: "Greater Houston",
+          email: "nboardman@cgrteam.com",
+          phone: null,
+          mobile: "(832) 506-3951",
+          dnc: null,
+          accuracy: 89,
+          touch: 2,
+          lang: "en",
+          why: "His invitation named the three currency payroll. His own profile lists treasury, letters of credit and bank covenants, so explaining currency risk to him would be a mistake. The email treats it as plumbing rather than hedging, and offers a specific guess about Guyana that he can correct. Email came from Apollo and the mobile from ZoomInfo, neither alone was enough.",
+          subject: "Trinidad, Guyana, Suriname: which one is worst",
+          body: "Nathan,\n\nYour profile tells me you have run treasury and letters of credit, so I will skip the part about currency risk being real.\n\nWhat I would actually ask is narrower. Paying people in Trinidad, Guyana and Suriname is less a hedging problem than a plumbing one. Which corridor takes four days instead of one, where the receiving bank takes a cut nobody sees, and whether your rate in month twelve is the rate you were quoted in month one.\n\nWe move money into all three. My guess is Guyana is the one that annoys you most.\n\nIf you have twenty minutes I can tell you what good looks like on those corridors, and you can tell me where I have it wrong.\n\nMarcel"
+        },
+        {
+          id: "samuel-martin",
+          name: "Samuel Martin",
+          role: "COO and CFO, CPA and CFE",
+          company: "Dana Estates Winery",
+          where: "Napa, California",
+          email: "sam@danaestates.com",
+          phone: null,
+          mobile: null,
+          dnc: "Mobile flagged do not call",
+          accuracy: 98,
+          touch: 2,
+          lang: "en",
+          why: "His invitation said a Napa estate buys barrels and corks in euros long before any of it turns into revenue. The email gets specific about how coopers actually bill: ordered in spring, confirmed in euros, paid on delivery after harvest, so the amount and the date are both known and only the dollar cost is open. He specializes in wine accounting, so precision matters more than persuasion.",
+          subject: "The barrel order and the invoice date",
+          body: "Samuel,\n\nOne more thought after my LinkedIn note, and it is specific to how coopers bill.\n\nA French barrel order is usually placed in spring, confirmed in euros, and paid on delivery after harvest. So the exposure is not abstract. You know the euro amount and you know the date, and the only open variable is what it costs in dollars. That is the easiest kind of currency risk to remove, and the one most estates leave open because the amounts look small next to everything else on the balance sheet.\n\nAcross a few vintages it stops looking small.\n\nCarrying both the operations and the finance side, you are probably the only person there who sees the order date and the payment date at the same time. Worth twenty minutes.\n\nMarcel"
+        },
+        {
+          id: "sebastian-sabbione",
+          name: "Sebastian Sabbione",
+          role: "Group Chief Financial Officer",
+          company: "GVW Group",
+          where: "Miami, Florida",
+          email: "ssabbione@gvwgroup.com",
+          phone: null,
+          mobile: null,
+          dnc: "Mobile flagged do not call",
+          accuracy: 99,
+          touch: 2,
+          lang: "en",
+          why: "His invitation said a diversified holding usually has a unit or two quietly paying suppliers abroad and it lands on the group CFO. The email gives him the group level version: the units' positions often point in opposite directions in the same week, and netting them internally before anything reaches a bank is a group CFO decision rather than a unit one. Highest accuracy score in the book at 99.",
+          subject: "Netting across the GVW units",
+          body: "Sebastian,\n\nAdding the group level version of what I sent on LinkedIn.\n\nIn a holding structure each unit tends to solve its own currency problem, usually by buying what it needs when it needs it. At group level those positions often point in opposite directions, so one unit is buying euros in the same week another is receiving them. Nobody sees it because nobody is looking at the consolidated exposure.\n\nNetting that internally before anything reaches a bank is usually the largest single saving available, and it sits with you rather than with the units.\n\nIf GVW already runs a net position I will stop there. If the units still each go to market on their own, it is worth a look.\n\nMarcel"
+        }
+      ]
+    }
+  ]
+};
+
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const DAYS = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+
+function fmtStamp(iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  const dt = new Date(Date.UTC(y, m - 1, d));
+  return DAYS[dt.getUTCDay()] + " " + d + " " + MONTHS[m - 1] + " " + y;
+}
+
+function fmtMarked(ms) {
+  const dt = new Date(ms);
+  const hh = String(dt.getHours()).padStart(2, "0");
+  const mm = String(dt.getMinutes()).padStart(2, "0");
+  return dt.getDate() + " " + MONTHS[dt.getMonth()].slice(0, 3) + " " + hh + ":" + mm;
+}
+
+/* ---------- storage ---------- */
+
+let db = null;
+const marks = new Map();        // ticket id -> {status, markedAt}
+let writable = true;
+
+const allTickets = DATA.days.flatMap(d => d.tickets.map(t => ({ ...t, day: d })));
+
+async function connect() {
+  try {
+    db = await (window.claude && window.claude.use ? window.claude.use("db") : Promise.resolve(null));
+  } catch (e) {
+    db = null;
+  }
+  if (!db) { showBanner("Send status cannot be saved in this view, so the buttons are hidden. The drafts are all here."); return; }
+
+  try {
+    const user = await window.claude.use("user");
+    if (user) {
+      const may = await user.can("data.write");
+      if (may === false) writable = false;
+    }
+  } catch (e) { /* keep writable, a refused write will correct it */ }
+
+  try {
+    db.collection("sends").onSnapshot(snap => {
+      marks.clear();
+      snap.docs.forEach(doc => {
+        const v = doc.data() || {};
+        if (v.status) marks.set(doc.id, { status: v.status, markedAt: v.markedAt });
+      });
+      render();
+    }, err => {
+      showBanner("Send status stopped syncing (" + err.code + "). The drafts are still correct; reload to try again.");
+    });
+  } catch (e) {
+    showBanner("Send status could not be loaded. The drafts are still correct.");
+  }
+}
+
+async function mark(id, status) {
+  const t = allTickets.find(x => x.id === id);
+  if (!t || !db) return;
+  const prev = marks.get(id);
+  const rec = { status, markedAt: Date.now() };
+  marks.set(id, rec);
+  render();
+  try {
+    await db.collection("sends").doc(id).set({
+      name: t.name, company: t.company, email: t.email,
+      touch: t.touch, due: t.day.date,
+      status, markedAt: rec.markedAt
+    });
+  } catch (err) {
+    if (prev) marks.set(id, prev); else marks.delete(id);
+    writable = err && err.code === "invalid_argument" ? false : writable;
+    render();
+    showBanner(err && err.code === "invalid_argument"
+      ? "This view cannot save send status, so the buttons are now hidden."
+      : "That did not save (" + (err && err.code) + "). Try once more.");
+  }
+}
+
+async function clearMark(id) {
+  if (!db) return;
+  const prev = marks.get(id);
+  marks.delete(id);
+  render();
+  try {
+    await db.collection("sends").doc(id).delete();
+  } catch (err) {
+    if (prev) marks.set(id, prev);
+    render();
+    showBanner("That did not save (" + (err && err.code) + "). Try once more.");
+  }
+}
+
+function showBanner(text) {
+  let el = document.getElementById("banner");
+  if (!el) {
+    el = document.createElement("p");
+    el.id = "banner";
+    el.className = "banner";
+    document.querySelector(".mast").appendChild(el);
+  }
+  el.textContent = text;
+}
+
+/* ---------- copy ---------- */
+
+async function copy(text, btn) {
+  const done = () => {
+    const was = btn.textContent;
+    btn.textContent = "Copied";
+    setTimeout(() => { btn.textContent = was; }, 1400);
+  };
+  try {
+    await navigator.clipboard.writeText(text);
+    done();
+  } catch (e) {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.setAttribute("readonly", "");
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    ta.setSelectionRange(0, text.length);
+    btn.textContent = "Select and copy";
+    setTimeout(() => { ta.remove(); btn.textContent = "Copy"; }, 4000);
+  }
+}
+
+/* ---------- render ---------- */
+
+function el(tag, cls, text) {
+  const n = document.createElement(tag);
+  if (cls) n.className = cls;
+  if (text != null) n.textContent = text;
+  return n;
+}
+
+function chipRow(t, state) {
+  const row = el("div", "chips");
+  row.appendChild(el("span", "chip is-touch", "Touch " + t.touch + " of 9"));
+  if (t.dueNote) row.appendChild(el("span", "chip is-warn", t.dueNote));
+  if (t.flag) row.appendChild(el("span", "chip is-warn", t.flag));
+  if (t.accuracy != null) {
+    const low = t.accuracy < 70;
+    row.appendChild(el("span", "chip" + (low ? " is-warn" : ""), "Accuracy " + t.accuracy));
+  } else if (t.unverified) {
+    row.appendChild(el("span", "chip is-warn", "Address unverified"));
+  }
+  if (t.lang === "es") row.appendChild(el("span", "chip", "Spanish"));
+  if (t.dnc) row.appendChild(el("span", "chip is-stop", t.dnc));
+  if (state) row.appendChild(el("span", "chip " + (state.status === "sent" ? "is-ok" : ""), state.status === "sent" ? "Sent" : "Skipped"));
+  return row;
+}
+
+function railRow(label, value, dead) {
+  const row = el("div", "rail-row");
+  row.appendChild(el("span", "rail-label", label));
+  const v = el("span", "rail-val" + (dead ? " is-dead" : ""), value);
+  row.appendChild(v);
+  return row;
+}
+
+function ticketNode(t) {
+  const state = marks.get(t.id);
+  const card = el("article", "ticket");
+  card.dataset.state = state ? state.status : "open";
+
+  const head = el("div", "t-head");
+  head.appendChild(el("h3", "t-name", t.name));
+  const role = el("p", "t-role");
+  role.appendChild(document.createTextNode(t.role + " at "));
+  role.appendChild(el("b", null, t.company));
+  if (t.where) role.appendChild(document.createTextNode(". " + t.where + "."));
+  head.appendChild(role);
+  head.appendChild(chipRow(t, state));
+  card.appendChild(head);
+
+  const rail = el("div", "rail");
+  const mailRow = railRow("Email", t.email);
+  const mailBtn = el("button", "tiny", "Copy");
+  mailBtn.addEventListener("click", () => copy(t.email, mailBtn));
+  mailRow.appendChild(mailBtn);
+  rail.appendChild(mailRow);
+  if (t.phone) rail.appendChild(railRow("Direct", t.phone));
+  if (t.mobile) rail.appendChild(railRow("Mobile", t.mobile));
+  if (!t.phone && !t.mobile) rail.appendChild(railRow("Phone", "none on file", true));
+  card.appendChild(rail);
+
+  const why = el("div", "why");
+  why.appendChild(el("b", null, "Why this email. "));
+  why.appendChild(document.createTextNode(t.why));
+  card.appendChild(why);
+
+  const letter = el("div", "letter");
+  const subj = el("div", "subject");
+  const st = el("div", "subject-text");
+  st.appendChild(el("span", null, "Subject"));
+  st.appendChild(el("strong", null, t.subject));
+  subj.appendChild(st);
+  const sBtn = el("button", "tiny", "Copy");
+  sBtn.addEventListener("click", () => copy(t.subject, sBtn));
+  subj.appendChild(sBtn);
+  letter.appendChild(subj);
+  letter.appendChild(el("p", "body-text", t.body));
+  card.appendChild(letter);
+
+  const acts = el("div", "actions");
+  const bodyBtn = el("button", "primary", "Copy the email");
+  bodyBtn.addEventListener("click", () => copy(t.body, bodyBtn));
+  acts.appendChild(bodyBtn);
+
+  if (db && writable) {
+    if (!state) {
+      const sent = el("button", null, "Mark sent");
+      sent.addEventListener("click", () => mark(t.id, "sent"));
+      acts.appendChild(sent);
+      const skip = el("button", null, "Skip");
+      skip.addEventListener("click", () => mark(t.id, "skipped"));
+      acts.appendChild(skip);
+    } else {
+      const note = el("span", "state-note" + (state.status === "skipped" ? " is-skip" : ""),
+        (state.status === "sent" ? "Sent " : "Skipped ") + (state.markedAt ? fmtMarked(state.markedAt) : ""));
+      acts.appendChild(note);
+      const undo = el("button", "tiny", "Undo");
+      undo.addEventListener("click", () => clearMark(t.id));
+      acts.appendChild(undo);
+    }
+  } else if (state) {
+    acts.appendChild(el("span", "state-note", state.status === "sent" ? "Sent" : "Skipped"));
+  }
+  card.appendChild(acts);
+  return card;
+}
+
+function render() {
+  const open = allTickets.filter(t => !marks.get(t.id)).length;
+  const sent = allTickets.filter(t => (marks.get(t.id) || {}).status === "sent").length;
+  const todayOpen = allTickets.filter(t => t.day.date <= DATA.today && !marks.get(t.id)).length;
+
+  const tallies = document.getElementById("tallies");
+  tallies.textContent = "";
+  [
+    ["Due today", todayOpen, true],
+    ["Open", open, false],
+    ["Sent", sent, false],
+    ["In the queue", allTickets.length, false]
+  ].forEach(([label, value, accent]) => {
+    const d = el("div", "tally" + (accent ? " is-accent" : ""));
+    d.appendChild(el("dt", null, label));
+    d.appendChild(el("dd", null, String(value)));
+    tallies.appendChild(d);
+  });
+
+  const queue = document.getElementById("queue");
+  queue.textContent = "";
+  DATA.days.forEach(day => {
+    const head = el("div", "day" + (day.date === DATA.today ? " is-today" : ""));
+    head.appendChild(el("h2", null, day.label));
+    const remaining = day.tickets.filter(t => !marks.get(t.id)).length;
+    head.appendChild(el("span", "count",
+      day.tickets.length === 0 ? "nothing due"
+        : remaining === 0 ? "all handled"
+        : remaining + (remaining === 1 ? " email" : " emails")));
+    queue.appendChild(head);
+
+    if (day.tickets.length === 0) {
+      const e = el("div", "empty");
+      e.appendChild(el("strong", null, "Nothing to send today. "));
+      e.appendChild(document.createTextNode(
+        "Becky Ross is the next one, tomorrow. Her first touch was an email rather than a LinkedIn note, so her second waits seven days instead of three. Sending two emails inside three days to someone who has not replied reads as pressure."));
+      queue.appendChild(e);
+      return;
+    }
+    day.tickets.forEach(t => queue.appendChild(ticketNode(t)));
+  });
+}
+
+document.getElementById("today-stamp").textContent = fmtStamp(DATA.today);
+render();
+connect();
+</script>
