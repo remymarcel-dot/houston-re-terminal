@@ -19,27 +19,46 @@ Usage:  python3 scripts/daily-email-queue.py [YYYY-MM-DD]
 """
 import json, sys, datetime, os, signal
 
-EMAIL_TOUCHES = {2: 3, 5: 14, 8: 30, 9: 40}
+# Touches 1 to 9 are the core cadence. Nine is the AVERAGE number of touches a
+# prospect needs before replying, not a limit, so the sequence does not end
+# there: after touch 9 it continues on a longer cycle for as long as the person
+# stays silent. Marcel's rule, 2026-10-01: we stop when someone tells us to
+# stop, and silence is not telling us to stop.
+EMAIL_TOUCHES = {2: 3, 5: 14, 8: 30, 9: 40, 11: 60, 13: 90, 15: 130}
+LONG_CYCLE_START = 17          # after touch 15 the odd touches stay email
+LONG_CYCLE_DAYS = 90           # and come round once a quarter, indefinitely
+LONG_CYCLE_BASE = 130          # day offset of touch 15
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PIPELINE = os.path.join(ROOT, "data", "fx", "pipeline.json")
 
-STOP_OUTCOMES = {"do-not-contact", "declined", "client", "relationship"}
+# The ONLY reason to drop someone from the cadence is a recorded stopReason.
+# Not a status, not a touch count, not how long they have been quiet. Writing
+# the reason down is the whole safeguard: it forces a person to have said
+# something, or a seat to have gone, or Marcel to have ruled, before anyone
+# falls out of the queue.
+#   said-no      they declined, in words
+#   seat-gone    they left the role, so there is nobody to follow up
+#   thesis-dead  a documented objection that kills the idea rather than defers it
+#   marcel-rule  Marcel excluded them or the company
+#   out-of-icp   no US entity, no exposure, or below the band
+#   client       already ours
+VALID_STOPS = {"said-no", "seat-gone", "thesis-dead", "marcel-rule",
+               "out-of-icp", "client"}
 
-# Statuses that mean the nine touch cadence no longer applies: the thread is
-# either live (Marcel is talking to them and writes by hand) or finished.
-STOP_STATUS = {
-    "do-not-contact", "closed", "customer", "client", "dormant",
-    "dormant-three-touches", "final-touch", "meeting-booked", "MEETING BOOKED",
-    "live-conversation", "channel-live", "owned-by-marcel", "vendor-inbound",
-    "nurture-subscribed", "scheduled-callback", "door-open", "reconnected",
-    "identified-not-contacted",
-}
+# Statuses that mean a human is mid-conversation and writes by hand. These are
+# paused rather than stopped: the thread is live, so a scripted touch would cut
+# across it.
+LIVE_STATUS = {"live-conversation", "channel-live", "meeting-booked",
+               "MEETING BOOKED", "owned-by-marcel", "scheduled-callback",
+               "door-open", "customer", "vendor-inbound"}
 
 # The nine touch cadence was adopted on 2026-09-30 and applies to the September
 # 2026 program onward. Anything whose first touch predates this was logged under
 # the old one-and-done habit, so it gets no retroactive clock: dating touch 2
 # from a first touch in 2021 would report a 268 day debt that never existed.
-# Those names live in a revival pool Marcel works by choice, not by calendar.
+# Such a name re-enters the cadence by being given a cadenceRestart, which
+# becomes its clock while touchCount remembers where it left off.
 CADENCE_EPOCH = datetime.date(2026, 9, 1)
 
 # The day offsets above assume touch 1 was a LinkedIn invitation. Some prospects
@@ -69,24 +88,26 @@ def touch_numbers(entry):
         for t in raw:
             if isinstance(t, dict) and isinstance(t.get("n"), int):
                 done.add(t["n"])
-        if done:
-            return done
-        if raw:                            # a list we could not read at all
-            return set(range(1, len(raw) + 1))
+        if not done and raw:               # a list we could not read at all
+            done = set(range(1, len(raw) + 1))
     elif isinstance(raw, (int, float)) and raw:
-        return set(range(1, int(raw) + 1))
+        done = set(range(1, int(raw) + 1))
 
+    # touchCount and the itemized list can disagree, and they do on anyone
+    # contacted before the cadence was written down: Elena Tavares was closed
+    # for silence after three touches but only one of them was ever itemized.
+    # Take whichever is further along. Trusting the shorter record would rewind
+    # a prospect and send them a touch they have already had.
     count = entry.get("touchCount")
     if isinstance(count, (int, float)) and count:
-        return set(range(1, int(count) + 1))
+        done |= set(range(1, int(count) + 1))
     return done
 
 
 def due_email_touches(entry, today):
     """Return a list of (touch_number, due_date, days_overdue) owed today or earlier."""
-    if entry.get("cadenceStop"):
-        return []
-    ft = entry.get("firstTouch")
+
+    ft = entry.get("cadenceRestart") or entry.get("firstTouch")
     if not ft:
         return []
     try:
@@ -95,14 +116,14 @@ def due_email_touches(entry, today):
         return []
     if start > today:                      # first touch has not fired yet
         return []
-    if start < CADENCE_EPOCH:              # pre cadence, no retroactive clock
-        return []
+    if start < CADENCE_EPOCH and not entry.get("cadenceRestart"):
+        return []                          # pre cadence, and not revived
     done = touch_numbers(entry)
     floor = last_email_date(entry)
     if floor:
         floor = floor + datetime.timedelta(days=MIN_EMAIL_GAP_DAYS)
     out = []
-    for n, offset in sorted(EMAIL_TOUCHES.items()):
+    for n, offset in email_schedule(max(done) if done else 0):
         if n in done:
             continue
         due = start + datetime.timedelta(days=offset)
@@ -111,6 +132,22 @@ def due_email_touches(entry, today):
         if due <= today:
             out.append((n, due, (today - due).days))
     return out[:1]                         # only the next one owed, never a backlog dump
+
+
+def email_schedule(highest_done):
+    """Every email touch and its day offset, continuing past touch 15 forever.
+
+    The core nine are fixed. Beyond them the sequence keeps going on a quarterly
+    cycle, because a prospect who has not answered and has not said no is still
+    a prospect. It yields a few beyond the highest touch spent, which is all the
+    caller ever needs.
+    """
+    for n, offset in sorted(EMAIL_TOUCHES.items()):
+        yield n, offset
+    n, offset = LONG_CYCLE_START, LONG_CYCLE_BASE + LONG_CYCLE_DAYS
+    while n <= highest_done + 4:
+        yield n, offset
+        n, offset = n + 2, offset + LONG_CYCLE_DAYS
 
 
 def last_email_date(entry):
@@ -135,12 +172,12 @@ def main():
     revival = 0
 
     for x in load():
-        if (x.get("outcome") or "") in STOP_OUTCOMES:
+        if (x.get("stopReason") or "") in VALID_STOPS:
             continue
-        if (x.get("status") or "") in STOP_STATUS:
+        if (x.get("status") or "") in LIVE_STATUS:
             continue
-        ft = (x.get("firstTouch") or "")[:10]
-        if ft and ft < CADENCE_EPOCH.isoformat():
+        ft = (x.get("cadenceRestart") or x.get("firstTouch") or "")[:10]
+        if ft and ft < CADENCE_EPOCH.isoformat() and not x.get("cadenceRestart"):
             revival += 1
             continue
         owed = due_email_touches(x, today)
@@ -185,17 +222,18 @@ def main():
         print()
 
     if revival:
-        print(f"REVIVAL POOL: {revival} older names sit outside the cadence clock "
-              f"(first touch before {CADENCE_EPOCH}). Worked by choice, not by calendar.")
+        print(f"NOT YET IN THE CADENCE: {revival} older names have no restart date. "
+              f"Their first touch predates {CADENCE_EPOCH}, so they have no clock. "
+              f"They are not stopped. Give one a cadenceRestart to put it back in the queue.")
 
 
 def gap(today):
     """The full enrichment backlog, printed only when asked for."""
     out = []
     for x in load():
-        if (x.get("outcome") or "") in STOP_OUTCOMES:
+        if (x.get("stopReason") or "") in VALID_STOPS:
             continue
-        if (x.get("status") or "") in STOP_STATUS:
+        if (x.get("status") or "") in LIVE_STATUS:
             continue
         if x.get("email"):
             continue

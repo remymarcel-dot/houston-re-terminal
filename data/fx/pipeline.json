@@ -408,7 +408,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "seat-gone",
+    "stopNote": "Retired. Not in the seat, so there is nothing to follow up. He gave the Ritesh Vachhani referral on his way out, which is where the thread continues.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Diamonic Edwards",
@@ -684,7 +687,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "said-no",
+    "stopNote": "Said not interested in words.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Daniel O'Quinn",
@@ -861,12 +867,12 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "final-touch",
+    "status": "in-cadence",
     "outcome": null,
     "firstTouch": "2026-07-16",
     "lastTouch": "2026-09-15",
     "loggedOn": "2026-09-15",
-    "note": "Sourcing Ecuador + India, sells into US / Europe / Asia. Replied 2026-07-16 with her email addresses — read as a soft deflection, not warmth (offered a shared sales@ inbox alongside her own). Marcel emailed 2026-07-22 offering factoring to the Ecuadorian plants, which is OUT OF SCOPE (factoring is US-entity only), plus FX. No response in 8 weeks. Sent 2026-09-15 on LinkedIn: corrected the factoring scope and repositioned it onto Scarpa's own export receivables (pays Ecuador/India early, collects US/Europe/Asia late — that gap is the product), and placed the FX in India sourcing and non-USD customer receipts rather than dollarized Ecuador. THIS IS THE LAST TOUCH. If no reply, mark dormant and do not pursue — two touches on a soft deflection is the limit. Better uses of the same effort: Katie Dubon — Bravo Foods USA and Kevin Soulen — Alliance Consumer Group.",
+    "note": "Sourcing Ecuador + India, sells into US / Europe / Asia. Replied 2026-07-16 with her email addresses — read as a soft deflection, not warmth (offered a shared sales@ inbox alongside her own). Marcel emailed 2026-07-22 offering factoring to the Ecuadorian plants, which is OUT OF SCOPE (factoring is US-entity only), plus FX. No response in 8 weeks. Sent 2026-09-15 on LinkedIn: corrected the factoring scope and repositioned it onto Scarpa's own export receivables (pays Ecuador/India early, collects US/Europe/Asia late — that gap is the product), and placed the FX in India sourcing and non-USD customer receipts rather than dollarized Ecuador. THIS IS THE LAST TOUCH. If no reply, mark dormant and do not pursue — two touches on a soft deflection is the limit. Better uses of the same effort: Katie Dubon — Bravo Foods USA and Kevin Soulen — Alliance Consumer Group. | REVIVED 2026-10-01. Marked final-touch with no outcome recorded. Silence. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [
       {
         "n": 1,
@@ -877,7 +883,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Marked final-touch with no outcome recorded. Silence."
   },
   {
     "name": "Jerome Soitel",
@@ -888,13 +897,13 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "final-touch",
+    "status": "in-cadence",
     "outcome": null,
     "firstTouch": "2026-05-05",
     "lastTouch": "2026-09-16",
     "revisitAfter": null,
     "loggedOn": "2026-09-16",
-    "note": "Good ICP on paper: imports Champagne/wine/spirits from Europe (EUR payables), exports to Morocco and Latvia. But four agreed calls across five months never happened. Clear behavioural pattern: he answers short casual messages ('Sounds good', 'Next week Tuesday?') and goes silent every single time he is asked to pin a time or open a Calendly link — 4 for 4. Marcel confirmed the Aug 12 slot did not happen. Sent 2026-09-16 removing scheduling entirely: asked for his mobile so Marcel can just call. THIS IS THE LAST TOUCH. If silent, close the file — five attempts across five months is past where persistence reads as diligence. Do not send another Calendly link to this person under any circumstances. ALIAS: HeyReach also returns this person as 'Jerome Didier Lucien Soitel'. Match on profileUrl, not name.",
+    "note": "Good ICP on paper: imports Champagne/wine/spirits from Europe (EUR payables), exports to Morocco and Latvia. But four agreed calls across five months never happened. Clear behavioural pattern: he answers short casual messages ('Sounds good', 'Next week Tuesday?') and goes silent every single time he is asked to pin a time or open a Calendly link — 4 for 4. Marcel confirmed the Aug 12 slot did not happen. Sent 2026-09-16 removing scheduling entirely: asked for his mobile so Marcel can just call. THIS IS THE LAST TOUCH. If silent, close the file — five attempts across five months is past where persistence reads as diligence. Do not send another Calendly link to this person under any circumstances. ALIAS: HeyReach also returns this person as 'Jerome Didier Lucien Soitel'. Match on profileUrl, not name. | REVIVED 2026-10-01. Marked final-touch with no outcome recorded. Silence. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "aliases": [
       "Jerome Didier Lucien Soitel"
     ],
@@ -908,7 +917,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Marked final-touch with no outcome recorded. Silence."
   },
   {
     "name": "Katie Dubon",
@@ -1318,15 +1330,18 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "dormant",
-    "outcome": "over-touched",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": null,
     "lastTouch": "2026-08-03",
     "loggedOn": "2026-09-16",
-    "note": "DO NOT CONTACT. 3 touches already, Mar/Apr/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round.",
+    "note": "3 touches already, Mar/Apr/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches Mar, Apr and Aug, all silent. Filed as over-touched and do-not-contact on 2026-09-16. That was wrong: three silent touches is a third of the way through the cadence, not the end of it. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
-    "touchCount": 0,
-    "nextTouch": null
+    "touchCount": 3,
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Three touches Mar, Apr and Aug, all silent. Filed as over-touched and do-not-contact on 2026-09-16. That was wrong: three silent touches is a third of the way through the cadence, not the end of it."
   },
   {
     "name": "Johnny Najar",
@@ -1336,15 +1351,18 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "dormant",
-    "outcome": "over-touched",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": null,
     "lastTouch": "2026-08-03",
     "loggedOn": "2026-09-16",
-    "note": "DO NOT CONTACT. 3 touches already, Apr/Jun/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round.",
+    "note": "3 touches already, Apr/Jun/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
-    "touchCount": 0,
-    "nextTouch": null
+    "touchCount": 3,
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez."
   },
   {
     "name": "Steven Beltram",
@@ -1354,15 +1372,18 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "dormant",
-    "outcome": "over-touched",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": null,
     "lastTouch": "2026-08-03",
     "loggedOn": "2026-09-16",
-    "note": "DO NOT CONTACT. 3 touches already, Apr/Jun/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round.",
+    "note": "3 touches already, Apr/Jun/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
-    "touchCount": 0,
-    "nextTouch": null
+    "touchCount": 3,
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez."
   },
   {
     "name": "Judith Cruz",
@@ -1372,15 +1393,18 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "dormant",
-    "outcome": "over-touched",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": null,
     "lastTouch": "2026-08-03",
     "loggedOn": "2026-09-16",
-    "note": "DO NOT CONTACT. 3 touches already, Two proposed times plus a Calendly link, silent both times. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round.",
+    "note": "3 touches already, Two proposed times plus a Calendly link, silent both times. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches including two proposed times and a Calendly link, silent on both. Silence on a proposed time is not a refusal of the meeting. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
-    "touchCount": 0,
-    "nextTouch": null
+    "touchCount": 3,
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Three touches including two proposed times and a Calendly link, silent on both. Silence on a proposed time is not a refusal of the meeting."
   },
   {
     "name": "Eddie Romero",
@@ -1390,15 +1414,18 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "dormant",
-    "outcome": "over-touched",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": null,
     "lastTouch": "2026-08-03",
     "loggedOn": "2026-09-16",
-    "note": "DO NOT CONTACT. 4 touches already, Replied once in May then silent. Marcel's Aug message was a clean no-ask close — anything further undoes it. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round.",
+    "note": "4 touches already, Replied once in May then silent. Marcel's Aug message was a clean no-ask close — anything further undoes it. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Four touches, and he REPLIED once in May before going quiet. A reply is engagement. Filing him under do-not-contact because the August message was a clean no-ask close was the worst of these calls. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
-    "touchCount": 0,
-    "nextTouch": null
+    "touchCount": 4,
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Four touches, and he REPLIED once in May before going quiet. A reply is engagement. Filing him under do-not-contact because the August message was a clean no-ask close was the worst of these calls."
   },
   {
     "name": "Gregorio Elias",
@@ -1425,7 +1452,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "said-no",
+    "stopNote": "Said not interested in words.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "I'M Carlos .",
@@ -1802,7 +1832,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "marcel-rule",
+    "stopNote": "Excluded by Marcel.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Nadine Uhlig",
@@ -1828,7 +1861,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "marcel-rule",
+    "stopNote": "Excluded by Marcel.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Fernando Tenuta",
@@ -1867,13 +1903,13 @@
     "play": "referral",
     "campaignId": null,
     "listId": null,
-    "status": "awaiting-reply",
+    "status": "in-cadence",
     "outcome": null,
     "firstTouch": "2026-08-06",
     "lastTouch": null,
     "loggedOn": "2026-09-18",
     "priority": "tier-1",
-    "note": "CORRECTED 2026-09-21. He was already connected and already messaged on 2026-08-06, six weeks before Steven Wojtowicz gave the name, and never replied. The earlier record wrongly said identified-not-contacted with an unsent connection note. Two likely reasons the August message died: it opened 'itesh', dropping the first letter of his name, and it asked a stranger a demanding structural question about whether policy is set in Luxembourg. Do not repeat that question.",
+    "note": "CORRECTED 2026-09-21. He was already connected and already messaged on 2026-08-06, six weeks before Steven Wojtowicz gave the name, and never replied. The earlier record wrongly said identified-not-contacted with an unsent connection note. Two likely reasons the August message died: it opened 'itesh', dropping the first letter of his name, and it asked a stranger a demanding structural question about whether policy is set in Luxembourg. Do not repeat that question. | REVIVED 2026-10-01. Carried a cadenceStop reading two touches used, no third message. Removed. He is a named referral into a Ferrero treasury seat; two silent touches settles nothing. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "aliases": [
       "https://www.linkedin.com/in/ACoAABYkgWwBAXZFGFp_qVWcsLgUCSDyYsSGKD0"
     ],
@@ -1900,7 +1936,9 @@
     "angle": "Second touch. Owns the 'itesh' typo in the opening line, brings the one genuinely new fact since August, that Steven Wojtowicz confirmed the seat, and replaces the Luxembourg question with an easier one about who owns operational execution. Precedent for owning a bad first attempt: ManpowerGroup, Fernando Tenuta replied after exactly that move.",
     "nextStep": "Two touches used. If silent in two to three weeks he goes dormant, no third message.",
     "touchCount": 2,
-    "cadenceStop": "Two touches used and both were LinkedIn messages. Marcel decided no third message; if he is silent he goes dormant."
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Carried a cadenceStop reading two touches used, no third message. Removed. He is a named referral into a Ferrero treasury seat; two silent touches settles nothing."
   },
   {
     "name": "Jose Rene Tapia",
@@ -1909,12 +1947,12 @@
     "location": "Laredo corridor, Texas and Mexico",
     "profileUrl": "https://www.linkedin.com/in/lic-jose-rene-tapia-35837b185",
     "play": "inbox-revival",
-    "status": "closed",
-    "outcome": "no-result",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": "2026-03-31",
     "lastLinkedInActivity": "2026-04-02",
     "signal": "gave mobile 956 282 9089 and said con gusto after Marcel asked to schedule a call",
-    "note": "Closed by Marcel. The mobile handoff in April was followed up off LinkedIn and produced nothing. Do not resurface and do not draft the reopen. Strong ICP on paper, cross border trucking on the Laredo corridor, which is a reminder that sector fit alone does not make a live opportunity.",
+    "note": "Closed by Marcel. The mobile handoff in April was followed up off LinkedIn and produced nothing. Do not resurface and do not draft the reopen. Strong ICP on paper, cross border trucking on the Laredo corridor, which is a reminder that sector fit alone does not make a live opportunity. | REVIVED 2026-10-01. Closed as no-result. That is silence. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "loggedOn": "2026-09-18",
     "lastActivity": "2026-04-02",
     "objection": "Marcel confirms on 2026-09-21 that TA Express went nowhere. Skip.",
@@ -1928,7 +1966,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Closed as no-result. That is silence."
   },
   {
     "name": "Jason Bell",
@@ -1937,13 +1978,13 @@
     "location": "United States",
     "profileUrl": "https://www.linkedin.com/in/jason-bell-b03121195",
     "play": "inbox-revival",
-    "status": "awaiting-reply",
+    "status": "in-cadence",
     "outcome": null,
     "firstTouch": "2025-12-17",
     "lastLinkedInActivity": "2025-12-19",
     "signal": "gave two work emails and offered specific slots on Dec 22, 23, 29 and the following week",
     "objection": "Told Marcel in Dec 2025 that he has little international payments experience and that customers are US headquartered on domestic payments. The hook is his own stated 2026 goal, not current exposure.",
-    "note": "Draft rewritten 2026-09-21 once Marcel confirmed the gap. The earlier version deliberately made no claim about what happened after December, because two of four checked signals had turned out already handled. Here the gap is confirmed, so the opening line owns it in one sentence. He offered four specific slots and heard nothing, so he will remember; pretending otherwise would read worse than saying it. | SENT MANUALLY by Marcel on 2026-09-21. Two touches used: Dec 2025 and this one. If silent in two to three weeks, dormant, no third message. Remember his own words: customers are US headquartered on domestic payments today, so a no here is clean and closes it.",
+    "note": "Draft rewritten 2026-09-21 once Marcel confirmed the gap. The earlier version deliberately made no claim about what happened after December, because two of four checked signals had turned out already handled. Here the gap is confirmed, so the opening line owns it in one sentence. He offered four specific slots and heard nothing, so he will remember; pretending otherwise would read worse than saying it. | SENT MANUALLY by Marcel on 2026-09-21. Two touches used: Dec 2025 and this one. If silent in two to three weeks, dormant, no third message. Remember his own words: customers are US headquartered on domestic payments today, so a no here is clean and closes it. | REVIVED 2026-10-01. Carried a cadenceStop. Removed. He gave two work emails and four meeting slots in December, which is the strongest buying signal in the book, and the ball was dropped on our side. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "loggedOn": "2026-09-18",
     "lastActivity": "2026-09-21",
     "blocker": null,
@@ -1966,7 +2007,9 @@
       }
     ],
     "touchCount": 2,
-    "cadenceStop": "Two touches used. Marcel decided no third message; his own stated position is that customers are US headquartered on domestic payments, so a no closes it cleanly."
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Carried a cadenceStop. Removed. He gave two work emails and four meeting slots in December, which is the strongest buying signal in the book, and the ball was dropped on our side."
   },
   {
     "name": "Carlos Palma",
@@ -2151,7 +2194,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "said-no",
+    "stopNote": "Declined politely, in words.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Rodrigo S. Martineli",
@@ -2300,7 +2346,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "out-of-icp",
+    "stopNote": "Below the band.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Alonso Duarte",
@@ -2352,7 +2401,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "out-of-icp",
+    "stopNote": "No cross border exposure.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Marson Cunha",
@@ -2377,7 +2429,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "out-of-icp",
+    "stopNote": "Not a lead.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Saul Castaneda de Hoyos",
@@ -2402,7 +2457,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "out-of-icp",
+    "stopNote": "Mexican entity with no US arm. Nothing to sell from the US side.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Pablo Sedano",
@@ -2428,7 +2486,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "out-of-icp",
+    "stopNote": "Mexican entity with no US arm.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Jose Jaime Diaz Gonzalez",
@@ -2454,20 +2515,23 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "out-of-icp",
+    "stopNote": "Mexican entity with no US arm.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "David G. Wong",
     "company": "WARDENHALL Financial Group",
     "title": "Founder",
     "play": "inbox-revival",
-    "status": "closed",
-    "outcome": "unresponsive",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": "2026-08-03",
     "lastLinkedInActivity": "2026-08-03",
     "signal": "Replied 'Si lo hacemos' on 2026-08-03 across an 11 message thread.",
     "objection": "Marcel closed it 2026-09-21: not responsive in practice.",
-    "note": "Do not resurface. Eleven messages and a yes still produced nothing. Thread volume and a literal 'si lo hacemos' both scored as strength, and neither reflected how the person actually behaves. Marcel's read of someone he has dealt with beats any count of messages or agreeable phrases in the archive.",
+    "note": "Do not resurface. Eleven messages and a yes still produced nothing. Thread volume and a literal 'si lo hacemos' both scored as strength, and neither reflected how the person actually behaves. Marcel's read of someone he has dealt with beats any count of messages or agreeable phrases in the archive. | REVIVED 2026-10-01. Closed as unresponsive. That is silence. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "loggedOn": "2026-09-21",
     "touches": [
       {
@@ -2479,20 +2543,23 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Closed as unresponsive. That is silence."
   },
   {
     "name": "Ron Chamness",
     "company": "MesoCaribe Energy",
     "title": "President & CFO",
     "play": "inbox-revival",
-    "status": "closed",
-    "outcome": "unresponsive-cleanly-closed",
+    "status": "in-cadence",
+    "outcome": null,
     "firstTouch": "2025-12-31",
     "lastLinkedInActivity": "2026-08-03",
     "signal": "Said 'I would be open for a call' on 2026-02-16, his only reply in an eleven message thread.",
     "objection": "Marcel confirms he never engaged again. Five follow-ups after that single yes, all unanswered.",
-    "note": "Do not resurface. Marcel already closed it well on 2026-08-03 with a no-ask message that explicitly said no need to reply. A sixth touch would undo that. MesoCaribe may genuinely have FX, which is irrelevant when the contact will not answer. Reachability is a qualifier in its own right.",
+    "note": "Do not resurface. Marcel already closed it well on 2026-08-03 with a no-ask message that explicitly said no need to reply. A sixth touch would undo that. MesoCaribe may genuinely have FX, which is irrelevant when the contact will not answer. Reachability is a qualifier in its own right. | REVIVED 2026-10-01. Closed as unresponsive and cleanly closed. Silence, and the clean close was mine rather than his. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "loggedOn": "2026-09-21",
     "touches": [
       {
@@ -2504,7 +2571,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Closed as unresponsive and cleanly closed. Silence, and the clean close was mine rather than his."
   },
   {
     "name": "Gabriela Garcia Moreno",
@@ -3527,18 +3597,18 @@
     "title": "Chief Financial Officer",
     "profileUrl": "http://www.linkedin.com/in/elena-tavares-a218939",
     "play": "play-0-accepted-never-messaged",
-    "status": "dormant",
+    "status": "in-cadence",
     "firstTouch": "2026-09-23",
     "lastActivity": "2026-09-23",
     "signal": "Accepted Marcel's connection since March 2026 and was never messaged. First degree, so no invitation quota and no acceptance wait.",
-    "note": "CFO since December 2024, came from thirteen years at E&J Gallo Winery. Monte Vista Farming is almonds, Denair CA, 48 people, $13.5M. Exposure is on the sell side since the buyers are overseas.",
+    "note": "CFO since December 2024, came from thirteen years at E&J Gallo Winery. Monte Vista Farming is almonds, Denair CA, 48 people, $13.5M. Exposure is on the sell side since the buyers are overseas. | REVIVED 2026-10-01. Closed on the stated grounds of no reply after three touches, which is now explicitly not a reason to stop. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "messageSent": "Elena, we connected a while back and I never followed up, so let me do that properly.\n\nI run FX and cross border payments at Monex USA. Almond processors tend to carry the currency risk on the sell side rather than the buy side, since the buyers are overseas and the pricing conversation happens in their currency even when the invoice is in dollars.\n\nIs that something Monte Vista manages actively, or does it mostly sit where it lands?\n\nMarcel",
     "campaignId": 618489,
     "listId": 963812,
     "loggedOn": "2026-09-23",
     "nextStep": "Do not touch the thread before 2026-11-30. Surface it then for one reopen, per reopenGuidance.",
     "rebuildNote": "Originally built as campaign 618477, which wedged in STARTING and never began. Paused before anything sent and rebuilt as 618489 on a clean list. Nobody was messaged twice.",
-    "outcome": "no-reply-after-three-touches",
+    "outcome": null,
     "revisitAfter": "2026-11-30",
     "dormantDecision": "Marcel, 2026-09-28: 'elena tavares dormant and contact her in 60 days'. Sixty days lands on 2026-11-27, which is the Friday after Thanksgiving, so the date is set to Monday 2026-11-30 instead. A reopen that arrives on Black Friday is a wasted reopen.",
     "reopenGuidance": "She is NOT a cold lead and must not be treated as one. Her original connection note was accepted and led to a live thread, and she is one of the worked examples in voice.md. She went quiet after three messages, so the fourth must not be a fourth run at the same angle. Per voice.md: no teaching, acknowledge the gap as mutual, ask whether she wants to pick it up now or later, make both answers acceptable, and ask something human. Four lines. The unused material is the almond harvest and shipping calendar: by late November the fall window to India, Europe and the Middle East has closed, so 'how did the season price out' is a real question rather than a pretext. Ask Marcel before drafting whether anything happened off platform, since the LinkedIn record shows only where LinkedIn stops.",
@@ -3551,8 +3621,11 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null
+    "touchCount": 3,
+    "nextTouch": null,
+    "cadenceRestart": "2026-10-01",
+    "revivedOn": "2026-10-01",
+    "revivalReason": "Closed on the stated grounds of no reply after three touches, which is now explicitly not a reason to stop."
   },
   {
     "name": "Christi Alise",
@@ -3757,7 +3830,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "thesis-dead",
+    "stopNote": "Declined on the merits: Rohlig pools cash at group level in Germany, so the US entity does not own the decision. That objection kills the thesis rather than deferring it.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Malcolm Pais",
@@ -3786,7 +3862,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "marcel-rule",
+    "stopNote": "F&S Fresh Foods. Marcel: leave F&S alone.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Tiffanie Freeman",
@@ -4152,7 +4231,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "marcel-rule",
+    "stopNote": "F&S Fresh Foods. Marcel: leave F&S alone.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Randy Scheid",
@@ -5453,7 +5535,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "stopReason": "thesis-dead",
+    "stopNote": "Declined on the merits: Rohlig pools cash at group level in Germany, so the US entity does not own the decision. That objection kills the thesis rather than deferring it.",
+    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Victor Galindo",

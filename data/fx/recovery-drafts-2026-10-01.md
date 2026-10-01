@@ -1,7 +1,12 @@
-# Two recovery drafts, 2026-10-01
+# Two recovery drafts, 2026-10-01 (rewritten)
 
 Both people failed out of campaign 625896 on 30 September and **were not
-contacted**. Nothing is sent. Read both, then tell me which to send and how.
+contacted**. Nothing is sent.
+
+Rewritten after Marcel's correction: nine touches is the average a prospect
+needs, so a message that signs off with "I am not writing to ask again" throws
+away the sequence at touch one. Both drafts now carry a real ask and neither
+hands the prospect an exit they did not ask for.
 
 ---
 
@@ -9,44 +14,50 @@ contacted**. Nothing is sent. Read both, then tell me which to send and how.
 
 **Failed:** `ConversationExists`, 2026-09-30T21:03:11Z
 **Profile:** https://www.linkedin.com/in/hillary-stroble-b20538b3
-**Email on file:** hillary.stroble@bumblebee.com
+**Email:** hillary.stroble@bumblebee.com
+**Touches spent:** 3, all email, all silent. This is touch 4 of at least nine.
 
-### What you need to decide before this goes
+### What changed
 
-HeyReach has **no record** of the conversation LinkedIn says exists. That means
-the thread was not created through HeyReach, so neither of us can see what is in
-it. You can. Open it before sending, because if there is already a LinkedIn
-exchange with her, the draft below is written on the wrong assumption and I
-would want to rewrite it.
+The first version said "I am not writing to ask again" and ended with "you know
+where I am." That is a retreat dressed as courtesy, and at touch 4 there is
+nothing to retreat from. She has not said no. She has said nothing.
 
-Because HeyReach has no chatroom for her, its `send_message` will probably not
-reach her either. The practical route is you sending this by hand, the way you
-did with Candy-Dulce Sifuentes on 28 September.
+What stays: no guilt, no chasing the fact that she did not reply, and no
+re-pitch of the three emails she already ignored. The way through at touch 4 is
+a different and smaller ask than the one she has been declining to answer.
 
-### What changed from the invitation note
+### Still check the thread before sending
 
-The original said "Connecting here instead," which only made sense as an
-invitation. You are evidently already connected, so that line is gone. The rest
-of the posture is unchanged and was right: name the silence, take the pressure
-off, offer only the outlook, do not pitch. Three unanswered emails is the whole
-reason this is not a pitch.
+HeyReach holds no record of the conversation LinkedIn says exists, so it was
+created outside HeyReach and neither of us can read it. You can. If there is
+already an exchange in there, tell me and I will rewrite against it. It also
+means HeyReach's `send_message` likely cannot reach her, so this one goes by
+hand.
 
 ### Draft
 
 > Hillary,
 >
-> I sent you a few notes over the summer on the peso side and never heard back,
-> which I am taking as the honest answer that it is not a priority right now.
-> That is completely fine.
+> Following up on the notes I sent over the summer about the peso side of the
+> Puerto Chiapas funding.
 >
-> I am not writing to ask again. The only thing worth offering is our monthly
-> currency outlook, which covers USD/MXN and what Banxico is doing, and takes
-> about two minutes to read. If it is useful I will send it here rather than add
-> to your inbox.
+> Rather than send another one, let me make this concrete. Pull the rate you
+> were given on your last peso payroll funding and compare it against the
+> interbank mid for that day. The gap is what the funding actually cost you,
+> and most treasurers find it is wider than they assumed.
 >
-> And if the Puerto Chiapas funding ever moves up the list, you know where I am.
+> If it comes back inside twenty basis points, you are in good shape and I will
+> say so plainly. If it is wider, that is worth fifteen minutes.
+>
+> Are you the right person for this at Bumble Bee, or should I be talking to
+> whoever owns the Mexico funding directly?
 >
 > Marcel
+
+The last line is doing the work. After three silent emails the most likely
+explanation is not that she is ignoring you, it is that it is not her decision.
+Asking that gives her an easy, face-saving reply that is still a win for us.
 
 ---
 
@@ -55,24 +66,20 @@ reason this is not a pitch.
 **Failed:** `AlreadyAConnection`, 2026-09-30T19:52:08Z
 **Profile:** https://www.linkedin.com/in/sean-fightmaster-cpa-b557b8107
 **Where:** Greater Houston, your own city
+**Touches spent:** 0. This is touch 1.
 
-### What this needs
+### What changed
 
-He is already a first-degree connection, so this is a Play 0 message rather than
-an invitation. That removes the 300 character cap, which is why this is longer
-than the note he never received.
+Only the ending. The first version closed with "if it turns out to be all
+dollars with nothing to do, I will say so," which is good for credibility but
+was the whole close. A first touch should ask for the next step, not pre-concede
+the outcome. The honesty stays, the surrender does not.
 
-If I build it as a HeyReach campaign it must set
-`excludeContactedFromOtherCampaigns` to **false**, or he is silently excluded
-for already sitting in 625896. That is the mistake that cost us a day on
-Ricardo Yllescas.
+### Build note
 
-### What carried over from the invitation note
-
-The thesis is unchanged and still honest: Panelmatic's foreign spend is **not
-documented**. The note asked rather than asserted, which is the right form for
-an unproven idea, and the message keeps that and goes further by naming the
-outcome where there is nothing here to sell.
+As a HeyReach campaign this must set `excludeContactedFromOtherCampaigns` to
+**false**, or he is silently excluded for already sitting in 625896. That is the
+mistake that cost a day on Ricardo Yllescas.
 
 ### Draft
 
@@ -90,10 +97,10 @@ outcome where there is nothing here to sell.
 > currency risk is sitting in someone else's margin and you are paying for it
 > without seeing it.
 >
-> I genuinely do not know which one Panelmatic is. You would know in about ten
-> seconds.
+> I genuinely do not know which one Panelmatic is, and you would know in about
+> ten seconds.
 >
-> Worth a short conversation either way, and if it turns out to be all dollars
-> with nothing to do, I will say so.
+> Either answer is worth a short conversation. Do you have twenty minutes next
+> week? I am five minutes from you.
 >
 > Marcel

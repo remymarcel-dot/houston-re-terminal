@@ -85,3 +85,60 @@ a real week's work.
 
 So the practical order of work is: enrich the Tier 1 names for email and
 phone **before** their touch 2 falls due, not after.
+
+## We stop on a no, not on silence
+
+Marcel, 2026-10-01, after finding thirteen people parked for being quiet:
+
+> you are being too complacent and you should not desist so easily as we need 9
+> touches in average to get an answer. also if the customer do not say stop very
+> clear we keep sending messages. We need to be a bit more aggressive
+
+Nine is the **average** number of touches before a reply, not a ceiling. Half
+the people who eventually answer will need more than nine. So the sequence does
+not end at touch 9: after it, odd touches stay email and come round quarterly,
+for as long as the person stays silent.
+
+**The only thing that removes someone from the cadence is a `stopReason` written
+into their pipeline entry.** Not a status, not a touch count, not how long they
+have been quiet. Writing a reason down is the safeguard, because it forces
+someone to have actually said something before a name falls out of the queue.
+
+| stopReason | What it means |
+|---|---|
+| `said-no` | They declined, in words. The only one the prospect controls. |
+| `seat-gone` | They left the role. Find the successor; the company is still live. |
+| `thesis-dead` | A documented objection that kills the idea rather than defers it. Rohlig pooling cash in Germany is the model. |
+| `marcel-rule` | Marcel excluded the person or the company. |
+| `out-of-icp` | No US entity, no exposure, or below the band. |
+| `client` | Already ours. |
+
+**These are not stops**, however they are phrased: no reply after three touches,
+unresponsive, no result, over-touched, a polite non-answer, a reply that went
+nowhere. Every one of those was found in the book on 2026-10-01 doing duty as a
+stop, and every one was reversed.
+
+A reply of any kind is engagement, not an exit. Eddie Romero answered once in
+May and was filed under do-not-contact in September for going quiet afterwards.
+That was the worst call of the thirteen.
+
+### Putting someone back
+
+Set `cadenceRestart` to today and leave `touchCount` at what they actually
+spent. The clock runs from the restart; the count remembers where they left off,
+so a prospect resumes at touch 5 rather than being sent touch 2 again. Where
+`touchCount` and the itemized `touches` list disagree, the script takes whichever
+is further along: trusting the shorter record would re-send a touch the person
+has already had.
+
+### Writing a touch that is not the last one
+
+A message that ends "I am not writing to ask again" or "you know where I am"
+spends a touch and closes the sequence in the same breath. Every touch carries
+an ask. Where the previous ask has been ignored more than once, change the ask
+rather than repeating it, and prefer a smaller one: a yes or no question, a
+single number they can check themselves, or the question of whether they are
+even the right person. That last one is the most useful move at touch 4 and
+beyond, because persistent silence usually means it is not their decision rather
+than that they are not interested, and it gives them an easy reply that still
+advances us.
