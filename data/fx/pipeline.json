@@ -2754,7 +2754,7 @@
     "company": "MesoCaribe Energy",
     "title": "President & CFO",
     "play": "inbox-revival",
-    "status": "in-cadence",
+    "status": "held",
     "outcome": null,
     "firstTouch": "2025-12-31",
     "lastLinkedInActivity": "2026-08-03",
@@ -2780,7 +2780,9 @@
     "contactAccuracyScore": 95.0,
     "doNotCall": "MOBILE DO NOT CALL",
     "emailSource": "ZoomInfo CONTACT_ONLY_MATCH 2026-10-01, accuracy 95. ZoomInfo has no company record for MesoCaribe, so the person matched and the employer did not. Title President and CFO confirmed.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "heldReason": "Marcel's decision 2026-10-01: leave Ron out of the Oct 8 batch. The Aug 3 close was clean and explicitly told him not to reply, and reviving him would contradict that. The aggression rule does not override a close Marcel himself made in good faith. A draft exists in data/fx/emails-2026-10-08-queue.md if he is ever reinstated.",
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Gabriela Garcia Moreno",
