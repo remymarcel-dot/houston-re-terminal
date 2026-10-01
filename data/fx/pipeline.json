@@ -2788,7 +2788,7 @@
     "title": "VP of Finance",
     "profileUrl": "https://www.linkedin.com/in/gabriela-garcia-moreno-9b7a97ba",
     "play": "event-driven",
-    "status": "in-campaign",
+    "status": "in-sequence",
     "campaignId": 613681,
     "listId": 956421,
     "event": "El Paso Nearshoring Summit 2026-10-21/22, stand E, 181",
@@ -2802,10 +2802,32 @@
         "channel": "linkedin-invitation",
         "outcome": "in-campaign",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-01",
+        "channel": "email-manual",
+        "outcome": "sent",
+        "notes": "Subject: The question I would ask you at stand 181. Opened on her having been CFO Mexico at Tecma before taking group finance, so she has sat on both sides of the USD to MXN payroll conversion. Asked one question: whether peso payroll funding is decided and executed on the US side or sourced by the Mexican entity. Closed on fifteen minutes at stand 181 on Oct 22 rather than a call. Sent by Marcel by hand from his Monex address."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null
+    "touchCount": 2,
+    "nextTouch": "2026-10-08",
+    "email": "gaby@tecma.com",
+    "emailVerified": "ZoomInfo full match, accuracy 98, record validated 2026-09-29",
+    "lastActivity": "2026-10-01",
+    "channelNote": "LinkedIn is CLOSED. The invitation from campaign 613681 sent 2026-09-21 has not been accepted and no HeyReach conversation exists, so send_message cannot reach her. Email is the only live channel until she accepts. Do not queue a LinkedIn message.",
+    "zoomInfoDuplicates": "ZoomInfo carries three records for this one person: Gaby Garcia (id 3075983463, accuracy 98), Gabriela Garcia Moreno (8564508894), Gabriela Garcia (17658214270). All the same seat. Never treat them as separate people; it would put two approaches into one company.",
+    "profile": {
+      "history": "CFO Mexico at Tecma 2015 to 2016, Division Controller at Capgemini 2016 to 2018, VP Finance and Accounting for the group since September 2018. Nine years at GENPACT to 2015, finishing as AVP Latin America FP&A Leader. Accenture Mexico 2000 to 2003. Tec de Monterrey, finance and public accounting.",
+      "whyItMatters": "She ran the Juarez side before she ran the group, so she has sat on both sides of the conversion. Never explain the shelter model to her. Twenty five years of shared services finance means she responds to a precise question, not to enthusiasm.",
+      "language": "English. Her career is Mexico and LatAm and she is a Tec de Monterrey graduate, so Spanish would land, but she sits in El Paso at the US HQ and her profile is in English. Switch immediately if she replies in Spanish."
+    },
+    "angle": "Under the shelter model Tecma is employer of record for its clients' Mexican workforce, so client fees arrive in El Paso in dollars and payroll leaves in Juarez in pesos as Tecma's own obligation. Structural exposure every cycle rather than occasional. Across 90+ client operations the basis points on a recurring payroll stop being a rounding error.",
+    "secondAngle": "90+ cross border manufacturing clients makes Tecma a referral channel as well as an account, the same shape as SACSA and Grupo Palco but larger.",
+    "nextStep": "Touch 3 due 2026-10-08 by email, since LinkedIn stays closed unless she accepts. If she is silent by 2026-10-20, do NOT send touch 3 by email that week: the stand visit at E/181 on Oct 22 becomes touch 3 in person and is worth more than any email. Marcel is at the summit on the 22nd.",
+    "watchFor": "Possible CEO handover, ZoomInfo shows Jorge Rozo validated July 2026 while the Tecma site still presents founder K. Alan Russell. Unconfirmed. Irrelevant to this email, relevant if it reaches a second conversation.",
+    "sizeCaveat": "ZoomInfo puts Tecma at 18,000 employees and $3.8B revenue, but most of those employees are the client workforce Tecma employs on paper and the revenue likely aggregates pass through flows. Still well above the usual band, and no CFO or treasurer appears in the record. Assume an established bank and meet that objection with the payroll spread rather than a general FX pitch."
   },
   {
     "name": "Elsa Sturza",
