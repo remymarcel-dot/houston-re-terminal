@@ -1,6 +1,6 @@
 {
-  "lastRun": "2026-09-25T11:30:00-05:00",
-  "runType": "pool-sizing-and-campaign-build",
+  "lastRun": "2026-10-01T09:30:00-05:00",
+  "runType": "send-date-verification",
   "senderAccountId": 237851,
   "networkSize": 22137,
   "conversationsTotal": 256,
@@ -512,5 +512,21 @@
   },
   "oneSeatPerCompany_2026_09_30": {
     "sourceLogistics": "Marcelo Sada, President and Corporate Development, sends Friday 2026-10-02 in campaign 628299. Emily, CFO, surfaced in the small logistics sweep and is CONFIRMED RESERVE ONLY by Marcel. Second approach if Sada declines, never parallel."
+  },
+  "sendDateVerification2026_10_01": {
+    "checkedAt": "2026-10-01T14:30:00Z",
+    "allSixStarted": true,
+    "todayStartedClean": {
+      "626018": "IN_PROGRESS, startedAt 2026-10-01T00:02:10Z, 8 leads, 0 failed",
+      "622570": "IN_PROGRESS, startedAt 2026-10-01T00:02:04Z, 2 leads, 0 failed",
+      "622602": "IN_PROGRESS, startedAt 2026-10-01T00:02:06Z, 1 lead, 0 failed",
+      "622608": "IN_PROGRESS, startedAt 2026-10-01T00:02:07Z, 1 lead, 0 failed"
+    },
+    "conroeNotSettled": "626018 has NOT fired yet. Every one of its eight leads still shows lastActionTime null, and on the two previous waves actions landed between 15:41 and 16:45 UTC with failures recorded 19:52 to 21:03 UTC. At 14:30 UTC the window has not opened, so zero failures means not yet rather than clean. The three placeholders are confirmed still unresolved: Marcia Rubio imp_DMOKEZKTCUMSPISALKHHHFWKJ, Heather Olivier imp_GLZYISSUSALCWGHMSOIGGMOUY, Chris Grappe imp_HWFXGGEBJYDLENDLYDEMEQMHM, all three with linkedInUserProfileId null while the other five carry real ACoAA ids. Re-check scheduled for this evening.",
+    "earlierWaves": {
+      "625479": "FINISHED, 7 of 8 finished, 1 failed: Ricardo Yllescas, AlreadyAConnection, already known and already in recovery campaign 630456.",
+      "625896": "FINISHED, 6 of 8 finished, 2 failed, BOTH NEW: Sean Fightmaster AlreadyAConnection, Hillary Stroble ConversationExists. Neither was contacted."
+    },
+    "correction": "The routine's own text said 625896 carried seven leads. It carried eight, and two of them failed rather than none."
   }
 }

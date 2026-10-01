@@ -5866,22 +5866,16 @@
     "play": "play-4-cold-invitation",
     "campaignId": 625896,
     "listId": 975075,
-    "status": "invitation-scheduled",
+    "status": "failed-already-a-connection",
     "outcome": null,
-    "firstTouch": "2026-09-30",
+    "firstTouch": null,
     "loggedOn": "2026-09-28",
-    "note": "Switchgear and control houses, 42 acre Houston plant, founded 1957 in Youngstown. Right seat and right city, but the foreign spend is NOT documented: they may buy European breakers through US distributors in dollars. The note therefore asks rather than asserts, which is the honest form for an unproven thesis and invites him to correct it. Read back to LinkedIn id 452868977. English.",
-    "touches": [
-      {
-        "n": 1,
-        "date": "2026-09-30",
-        "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
-      }
-    ],
-    "touchCount": 1,
-    "nextTouch": null
+    "note": "Switchgear and control houses, 42 acre Houston plant, founded 1957 in Youngstown. Right seat and right city, but the foreign spend is NOT documented: they may buy European breakers through US distributors in dollars. The note therefore asks rather than asserts, which is the honest form for an unproven thesis and invites him to correct it. Read back to LinkedIn id 452868977. English. | FAILED 2026-09-30T19:52:08Z, errorCode AlreadyAConnection. He is already a first degree connection, so the invitation could never land and the note never reached him. He was NOT contacted. Same failure as Ricardo Yllescas two days earlier, and the same fix: a Play 0 direct message. His firstTouch is cleared rather than left at 2026-09-30, because dating a cadence from a touch that never happened is how a person silently falls out of the queue.",
+    "touches": [],
+    "touchCount": 0,
+    "nextTouch": null,
+    "blocker": "AlreadyAConnection",
+    "nextStep": "Play 0 recovery message, held for Marcel. The campaign must set excludeContactedFromOtherCampaigns false or he is silently excluded for being in 625896."
   },
   {
     "name": "Paul Miller",
@@ -6595,22 +6589,17 @@
     "play": "play-4-cold",
     "campaignId": 625896,
     "listId": 975075,
-    "status": "invitation-scheduled",
+    "status": "failed-conversation-exists",
     "outcome": null,
-    "firstTouch": "2026-09-30",
+    "firstTouch": null,
     "loggedOn": "2026-09-29",
-    "note": "LinkedIn id 404429640. CHANNEL CHANGE, NOT A COLD OPEN. Marcel had already emailed her three times with no reply: 2026-08-17 (opening pitch, Puerto Chiapas plant, peso payroll funded from the US, August outlook attached), 2026-08-31 (late Q3 budget rate framing, layered forward program, offer to be redirected to whoever owns Mexico funding), 2026-09-04 (September outlook, peso up 1.2%, Banxico on hold at 6.50%, Treasury and BOJ intervention). Email hillary.stroble@bumblebee.com. Three unanswered emails is the reason the LinkedIn note does not pitch at all: it names the silence, takes the inbox pressure off, and offers only the monthly outlook. Added to Wednesday's wave 3 list, which went from 7 to 8. Exception to the treasury title rule in icp.md, and a deliberate one: the exposure is documented rather than assumed, and Marcel is already three touches deep. Bumble Bee sits at the top of or above the Monex band, which is a known risk on this one.",
-    "touches": [
-      {
-        "n": 1,
-        "date": "2026-09-30",
-        "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
-      }
-    ],
-    "touchCount": 1,
-    "nextTouch": null
+    "note": "LinkedIn id 404429640. CHANNEL CHANGE, NOT A COLD OPEN. Marcel had already emailed her three times with no reply: 2026-08-17 (opening pitch, Puerto Chiapas plant, peso payroll funded from the US, August outlook attached), 2026-08-31 (late Q3 budget rate framing, layered forward program, offer to be redirected to whoever owns Mexico funding), 2026-09-04 (September outlook, peso up 1.2%, Banxico on hold at 6.50%, Treasury and BOJ intervention). Email hillary.stroble@bumblebee.com. Three unanswered emails is the reason the LinkedIn note does not pitch at all: it names the silence, takes the inbox pressure off, and offers only the monthly outlook. Added to Wednesday's wave 3 list, which went from 7 to 8. Exception to the treasury title rule in icp.md, and a deliberate one: the exposure is documented rather than assumed, and Marcel is already three touches deep. Bumble Bee sits at the top of or above the Monex band, which is a known risk on this one. | FAILED 2026-09-30T21:03:11Z, errorCode ConversationExists. Marcel asked for this invitation specifically and it did not go. The cause is better news than it sounds: an open LinkedIn thread with her already exists, so she is reachable by direct message right now, and send_message works in an existing thread even though it cannot open a new one. The note as written needs no change, since it was already built to name the silence rather than pitch. She was NOT contacted.",
+    "touches": [],
+    "touchCount": 0,
+    "nextTouch": null,
+    "blocker": "ConversationExists",
+    "email": "hillary.stroble@bumblebee.com",
+    "nextStep": "Send the existing note as a LinkedIn message in the open thread. Held for Marcel to read first."
   },
   {
     "name": "Rich Wright",
