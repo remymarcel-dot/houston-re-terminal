@@ -7839,5 +7839,32 @@
     "companyLock": "One seat per company. Seth Stein, CEO, is the alternative and is reachable at sstein@eastridgewm.com, Apollo verified, with a direct dial. Held as the fallback: Aguilar is the finance seat and Marcel supplied his URL.",
     "priorContactCheck": "Screened against pipeline.json. Workwell has never been contacted. Jacquie Nelissen is at Eastridge, which is now a different company, so there is no collision.",
     "nextStep": "Invitation sends 2026-10-06 in campaign 630953. Touch 2 is an email, due 2026-10-09, and he has no address on file yet."
+  },
+  {
+    "name": "Seth Stein",
+    "company": "Workwell North America",
+    "title": "Chief Executive Officer",
+    "location": "San Diego, California, United States",
+    "profileUrl": "http://www.linkedin.com/in/sethstein",
+    "email": "sstein@eastridgewm.com",
+    "phone": null,
+    "mobile": null,
+    "doNotCall": "direct dial exists in Apollo but was not revealed",
+    "emailSource": "Apollo, high confidence, status verified, and eastridgewm.com is NOT a catch-all domain. Note the address is still on the Eastridge domain eight months after the carve out, which is itself evidence the separation is unfinished.",
+    "play": "email-direct",
+    "campaignId": null,
+    "listId": null,
+    "status": "draft-ready-manual-send",
+    "outcome": null,
+    "firstTouch": null,
+    "touches": [],
+    "touchCount": 0,
+    "priority": "tier-1",
+    "loggedOn": "2026-10-01",
+    "signal": "TWENTY SEVEN YEARS AT EASTRIDGE, from 1998 through sales and operations, President of Abbott Staffing, President of Workforce Recruitment, CEO from 2020. When the business split in February 2025 he went with the payrolling and EOR side rather than staying with staffing. That is a bet on cross border employment made with his own career, and it is the opening line.",
+    "note": "Workwell North America: the carved out Eastridge EOR business, San Diego, 74 people, under Workwell Group of Watford. | DELIBERATE DOUBLE APPROACH, at Marcel's instruction. Jesus Aguilar, his CFO, has an invitation firing 2026-10-06 in campaign 630953 at the same 74 person office. Marcel's own one seat per company rule is being set aside here. The email therefore discloses the other approach in its fourth paragraph rather than hoping it goes unnoticed: a CEO who hears it from his CFO first reads it differently.",
+    "angle": "Different conversation from the CFO's on purpose. Jesus gets the FX spread argument because he has publicly tendered a banking relationship and put a number on it. Seth gets his own career bet, because it is the most interesting true thing about him and nobody else writing to him will have noticed it.",
+    "companyLock": "Two seats live at one company by exception. If this proves awkward, the fallback is to pull Jesus from Tuesday's wave or to hold Seth until Jesus has replied or gone quiet.",
+    "nextStep": "Marcel sends by hand from his Monex address in Outlook; the only mailbox connected to the session is his personal Gmail. Tell the agent when it goes and touch 1 gets logged, which puts touch 2 seven days out."
   }
 ]
