@@ -746,3 +746,26 @@ fault. It only fills in when the campaign actually begins.
 can be **approved and armed** while **nothing has physically been sent**. Say
 which one is meant. "It is live" is ambiguous and "it went out" is wrong until
 `IN_PROGRESS` with a non null `startedAt`.
+
+## The invitation ceiling is 15 a day, and it binds
+
+`get_linked_in_account_by_id` on 237851 reports `connectioRequestLimit: 15`
+against a `connectioRequestMax` of 40, and `messageLimit: 30`. Play 4 draws on
+the 15; Play 0 draws on the 30. So a day holding a 15 lead cold wave and a 4
+lead Play 0 wave is at the invitation ceiling and nowhere near the message one.
+Count the two plays separately before calling a day full.
+
+### Removing a lead from a SCHEDULED campaign
+
+`stop_lead_in_campaign` returns a 500 on a campaign that has not started, so it
+is not the tool for this. `delete_leads_from_list_by_profile_url` on the
+campaign's list works, **with the trailing slash**, and the campaign's
+`totalUsers` follows the list. Two traps seen on 2026-10-01:
+
+- The reads immediately after the delete are stale. The list still showed the
+  lead and the campaign still showed 15. A targeted read by `leadProfileUrl` a
+  moment later showed him gone. Do not undo a delete because the next read
+  disagrees with it; re-read the one lead.
+- Sending the URL **without** the trailing slash returns
+  `notFoundInList: ["<slug>"]` whether or not the lead is there, so that
+  response proves nothing either way.
