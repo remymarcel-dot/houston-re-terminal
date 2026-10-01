@@ -76,7 +76,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "Cannot be enriched by lookup: the record holds no surname, only the CTP credential. ZoomInfo returned COMPANY_ONLY on Axip Energy Services, id 358615706. Needs a company search for the CFO seat, or the surname from Marcel.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "TRACY CULP",
@@ -436,7 +438,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "dedwards@hayward.com",
+    "mobile": "(704) 698-5124",
+    "contactAccuracyScore": 88.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 88.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Guillermo Avalis",
@@ -828,7 +836,13 @@
     "note": "EXCLUDE FROM ALL AUTOMATION. Marcel is meeting him in person 2026-09-15 and is running this relationship directly. Eleven-message thread ending 'Perfect!' on 2026-08-03. Do not message, do not add to any list or campaign, do not surface as a stalled thread. Only revisit if Marcel says so.",
     "touches": [],
     "touchCount": 0,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "hw@agrifruits.us",
+    "mobile": "+51 964 981 244",
+    "contactAccuracyScore": 90.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 90. The mobile is a Peru number, +51, which fits a sales and procurement seat sourcing South American fruit. Do not dial it as a US number.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Maria Eugenia Chacin Robles",
@@ -856,7 +870,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "maria.chacin@mexilink.com",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 94. Title confirmed Manager, Treasury.",
+    "companyLock": "One seat per company. Cynthia Trevino de Leon is the other Mexilink name and carries stopReason marcel-rule, so Maria Eugenia is the live seat there. Do not approach both.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Johanna Salcedo Black",
@@ -949,7 +969,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "katie.d@bravofoodsusainc.com",
+    "mobile": "(818) 220-4793",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 98, CFO confirmed.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Rodolfo Vela",
@@ -975,7 +1001,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "No match in ZoomInfo or Apollo. Seamless is the last stop.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "Kevin Soulen",
@@ -1001,7 +1029,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "ksoulen@acgbrands.com",
+    "phone": "(817) 973-5009",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 94. ZoomInfo files the employer as Alliance Sports Group rather than Alliance Consumer Group, and the address is acgbrands.com. Same group, different trading name.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Amaya Corredor Palomino",
@@ -1027,7 +1061,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "acorredor@ferrovial.com",
+    "mobile": "(346) 600-2580",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 98.",
+    "seatRisk": "Her real title is wider than the record said: Executive VP, Ferrovial Finance North America AND Group Deputy CFO, Webber, on a ferrovial.com address. Ferrovial is Spanish, so this is the foreign-parent pattern that cut ContourGlobal and Perennial Power. The difference is that she runs North America finance rather than sitting under a treasury in Madrid, which is exactly the Pablo Ortiz Rodea call Marcel made. Keep her, and expect the first reply to be about where the group treasury sits.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Matt Milner",
@@ -1053,7 +1094,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "matt@backbarproject.com",
+    "mobile": "(619) 943-6631",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 94.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Alicia Aguilar Birnbaum",
@@ -1082,7 +1129,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "No match in Apollo. ZoomInfo knows the person at accuracy 88 but not the employer, companyId 0. US Treasurer at Composition Brands. Seamless is the last stop.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "Eric Heismeyer",
@@ -1108,7 +1157,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "eric.heismeyer@landus.ag",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 94, CEO confirmed.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Travis Pendleton",
@@ -1134,7 +1188,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "travis@farmtruckfresh.com",
+    "contactAccuracyScore": 84.0,
+    "doNotCall": "no number on file",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 84.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Heriberto Martinez",
@@ -1160,7 +1219,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "h.martinez@martinezbros.com",
+    "phone": "(512) 444-0025",
+    "mobile": "(832) 203-9462",
+    "contactAccuracyScore": 93.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 93. Email, direct dial and mobile, all clean.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Robert Guerrero",
@@ -1191,7 +1257,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo FULL_MATCH at accuracy 92 and a recent validation, but no email and no phone released. Apollo next.",
+    "enrichmentTried": "2026-10-01",
+    "email": "rguerrero@atlasoil.com",
+    "emailSource": "Apollo high confidence, status verified, 2026-10-01. CAVEAT: atlasoil.com is a catch-all domain, so a verified status there means the server accepts everything rather than that the mailbox exists. Worth knowing his background: Vitol senior analyst for fourteen years and an international tax accountant at KPMG before that, so he will not need commodity FX explained to him.",
+    "doNotCall": "no number on file",
+    "contactAccuracyScore": 92.0,
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Navreet Dhillon",
@@ -1270,7 +1343,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "Apollo matched him at high confidence but released no email, status unavailable. Useful anyway: he is Director of Operations at Katzman, a Bronx produce wholesaler at 220 people and $18.3M, and came from Americold and Smurfit Westrock. Right company, and the seat is operations rather than finance. Seamless is the last stop for the address.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "Raynier Plasencia",
@@ -1296,7 +1371,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo CONTACT_ONLY_MATCH, accuracy 82, companyId 0. No email. Apollo next.",
+    "enrichmentTried": "2026-10-01",
+    "email": "ray@mesafoodgroup.com",
+    "emailSource": "Apollo, 2026-10-01, status verified but match confidence LOW, and Apollo attached him to La Mesa RV in San Diego, an automotive retailer, which is the wrong company. The address domain is mesafoodgroup.com and matches La Mesa Food Group in Miami, so the email looks right even though Apollo linked the wrong employer. Send it, and treat a bounce as confirmation the match was bad.",
+    "doNotCall": "no number on file",
+    "contactAccuracyScore": 82.0,
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Julian Scutari",
@@ -1322,7 +1404,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "EMPLOYER WRONG IN OUR RECORD. ZoomInfo has him as VP, Financial Planning and Analysis at ITT, accuracy 89. Association for Financial Professionals is where he sits on the FP&A Advisory Council, which is a volunteer role, not his employer. Re-screen him against ITT before any outreach: ITT is a large diversified industrial and may well be out of band. No email returned.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "Brian Gomez",
@@ -1535,7 +1619,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo FULL_MATCH, Senior Director of Treasury at Avalara, accuracy 89, but no email released and mobile flagged do not call. Tier 1, so worth Apollo and then Seamless.",
+    "enrichmentTried": "2026-10-01",
+    "email": "dan.cohen@avalara.com",
+    "emailSource": "Apollo high confidence, status verified, 2026-10-01. ZoomInfo had him at accuracy 89 but released no email. Apollo also dates the Avalara seat: Senior Director of Treasury since April 2026, before that Director of Treasury at AppFolio and Treasury Director at GoDaddy. A career treasury operator, six months into a new seat.",
+    "doNotCall": "MOBILE DO NOT CALL",
+    "contactAccuracyScore": 89.0,
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Jose Luis Davalos",
@@ -1589,7 +1680,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "mobile": "(917) 207-0879",
+    "contactAccuracyScore": 93.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 93. NO EMAIL, but a clean mobile, so he is now a call rather than unreachable. Employer reads Gaia Produce.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Shirley Bryson",
@@ -1616,7 +1712,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "shirley@reinaproduce.com",
+    "contactAccuracyScore": 89.0,
+    "doNotCall": "no number on file",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 89.",
+    "seatRisk": "Title is Sales and Marketing Specialist, not finance. She is a way in at Reina Produce rather than the decision maker, so the opener should ask who handles supplier payments rather than pitch her.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Noel Alvarez",
@@ -1643,7 +1745,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo FULL_MATCH at accuracy 86, no email, mobile flagged do not call. Apollo next.",
+    "enrichmentTried": "2026-10-01",
+    "email": "triumphseafood@hotmail.com",
+    "emailSource": "Apollo, 2026-10-01, status verified, match confidence LOW. It is a hotmail address rather than a company domain, which is ordinary for a small Miami seafood importer but means no domain to verify against. ZoomInfo had him at accuracy 86 with no email and a do-not-call mobile.",
+    "doNotCall": "MOBILE DO NOT CALL",
+    "contactAccuracyScore": 86.0,
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Marilyn Florez-Giordano",
@@ -1670,7 +1779,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "Apollo matched her at high confidence, no email released. SEAT HAS MOVED: she is now Chief Systems Officer at Quality Importers Trading Company, having been Controller and then EVP Operations. She is out of finance, so re-screen before spending anything on her. Quality Importers is 40 people at $8.3M, in band, so the company still qualifies even if she no longer does.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "Mauro Souza",
@@ -1697,7 +1808,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo NO_MATCH on LongTail. Apollo and Seamless next.",
+    "enrichmentTried": "2026-10-01",
+    "email": "mauro@longtailacai.com",
+    "emailSource": "Apollo, 2026-10-01, status verified but match confidence LOW. Apollo files the employer as PB Trading USA Inc, trading as LongTail Acai LLC, Fort Lauderdale, one employee. Acai is imported from Brazil, so the exposure is real in kind, but a one person importer is below the band. Confirm the company before spending a touch.",
+    "doNotCall": "no number on file",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Jon Kimball",
@@ -1724,7 +1841,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo COMPANY_ONLY_MATCH. It has Kimball Produce Sales, id 458566197, but not him. Apollo next.",
+    "enrichmentTried": "2026-10-01",
+    "email": "jon@kimballsales.net",
+    "emailSource": "Apollo high confidence, status verified, 2026-10-01. Two caveats: kimballsales.net is a catch-all domain, and it is not the company website, which is kimballproduce.com.",
+    "doNotCall": "no number on file",
+    "seatRisk": "Apollo puts Kimball Produce Sales at three employees. Well below the band. He is an owner importing produce, which is the right shape, but the volume may not justify the call.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Walter Kealey III",
@@ -1751,7 +1875,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "walter.kealey@enchantingtravels.com",
+    "phone": "(303) 800-5789",
+    "contactAccuracyScore": 94.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 94.",
+    "seatRisk": "Head of Sales, North America, not a finance seat. Enchanting Travels pays overseas operators in local currency, so the exposure is real, but he is a referral route to whoever funds it rather than the buyer.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Russell Foxx",
@@ -1778,7 +1909,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "mobile": "(936) 828-8267",
+    "contactAccuracyScore": 89.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 89. NO EMAIL, clean mobile. Treasurer at DXP.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Felix Lopez",
@@ -1832,7 +1968,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "saif.khan@zhone.com",
+    "contactAccuracyScore": 92.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 92, Manager Treasury.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Cynthia Trevino de Leon, CPA",
@@ -2177,7 +2318,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "email": "cdsouza@aptean.com",
+    "contactAccuracyScore": 91.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo FULL_MATCH, accuracy 91, Director of Treasury.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Francisco Javier De Leon",
@@ -5136,7 +5282,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "enrichmentGap": "ZoomInfo FULL_MATCH but accuracy 50, the lowest score in the book alongside Jimmy Alvarez and Avi Nir. No email. Treat the seat itself as unconfirmed, not just the address.",
+    "enrichmentTried": "2026-10-01"
   },
   {
     "name": "Cesar Trevino",
