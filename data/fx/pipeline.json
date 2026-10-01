@@ -2203,7 +2203,7 @@
     "location": "Mexico",
     "profileUrl": "https://www.linkedin.com/in/carlos-palma-0508bb175",
     "play": "event-driven",
-    "status": "meeting-booked",
+    "status": "live-conversation",
     "outcome": null,
     "firstTouch": "2026-08-07",
     "lastLinkedInActivity": "2026-08-07",
@@ -2211,7 +2211,7 @@
     "note": "CORRECTION on 2026-09-21. The El Paso event Carlos referred to is the Manufacturing and Supply Chain Summit on Oct 22 2026, which has NOT happened. I had confused it with the MEXICONOW Nearshoring Summit that Marcel already attended. Nothing was missed and his offer to meet the team beforehand is still open. About a month of runway, which is the right window to arrange pre event meetings. Mexican entity, so FX is fine but factoring stays US entity only and should not be raised unprompted.",
     "loggedOn": "2026-09-18",
     "eventDate": "2026-10-22",
-    "lastActivity": "2026-09-21",
+    "lastActivity": "2026-10-01",
     "usEntity": true,
     "usEntityEvidence": [
       "Grupo Palco's own site lists US business units: Ola Logistics LLC (USA) and Palco Cargo Logistic (USA)",
@@ -2222,7 +2222,7 @@
     "productEligibility": "FX: clearly yes, USD and MXN flows are the core of the business. Factoring: possible rather than confirmed. A US entity exists, which is the gating requirement, but the two El Paso carriers look small on paper, one with a single truck and driver, so whether meaningful receivables actually sit in the US entity is a question for the meeting and must not be assumed.",
     "secondAngle": "As a customs broker and forwarder they touch hundreds of importers and exporters, so they are a referral channel as well as an account, the same shape as Fatima M. Worth more than their own volume if it works.",
     "conversationId": "2-MTE0MDY2N2EtODJiYy00Y2VkLWE5MzQtZWU5NDdhYzI0ZTdlXzEwMA==",
-    "nextStep": "Awaiting Luis Merjil on WhatsApp, which is off platform so Marcel sees any reply first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.mx as the second route rather than chasing the same number: Carlos offered both, so using the other one is not a second chase. Either way the deadline is a meeting booked before Oct 21.",
+    "nextStep": "Wait for Luis to name a day for the week of Oct 5, then send the Teams invite to luis.merjil@grupopalco.mx. If he goes quiet through roughly Oct 6, the email to ventas@grupopalco.mx is still the unused second route Carlos offered, so it is not a second chase on the same number. Hard deadline is unchanged: a meeting before Oct 21, with the Oct 22 stand visit as the backstop that already exists.",
     "doNotRaise": "Factoring, still. Grupo Palco has US entities so it is not ruled out, but where the receivables actually sit is unknown and the El Paso carriers looked thin.",
     "reply": "2026-09-21: confirmed ventas@grupopalco.mx and additionally gave his Sales Manager, Luis Merjil, direct on WhatsApp at +52 1 656 375 6411.",
     "contacts": [
@@ -2236,17 +2236,20 @@
         "name": "Luis Merjil",
         "role": "Sales Manager",
         "channel": "WhatsApp +52 1 656 375 6411",
-        "state": "MEETING BOOKED 2026-09-22, 15:00 Mountain, which is 16:00 Central for Marcel in Houston",
+        "state": "Live. Sep 22 Teams call did not connect, he cited the Juarez and El Paso rain. Marcel went quiet for a week and reopened it on Oct 1 asking for a day the week of Oct 5. Awaiting his reply.",
         "email": "luis.merjil@grupopalco.mx"
       }
     ],
-    "watchFor": "Marcel must relay anything Luis says, since WhatsApp is invisible from here and this thread now lives there.",
+    "watchFor": "Marcel must relay anything Luis says, since WhatsApp is invisible from here and this thread lives there. Nothing about this lead can be verified from this side.",
     "boothConfirmed": "2026-09-21: Carlos replied 'See you there' to the Stand 40 invitation. He is expecting to meet at the stand, which is a confirmed in person meeting before any matchmaking request.",
     "meeting": {
+      "status": "LAPSED, awaiting a new date",
       "with": "Luis Merjil, Sales Manager",
-      "when": "2026-09-22 15:00 Mountain / 16:00 Central",
+      "originalWhen": "2026-09-22 15:00 Mountain / 16:00 Central",
+      "whatHappened": "The call never connected. Luis explained on Sep 24 that heavy rain across Juarez and El Paso had forced him to cancel meetings. He offered two ways back: Teams, or meeting in person if Marcel happened to be in El Paso. Marcel did not reply for a week.",
       "channel": "Teams, Marcel sends the invite to luis.merjil@grupopalco.mx",
-      "speed": "WhatsApp sent 15:25, replied 16:33, booked 16:39. Under 90 minutes from first contact."
+      "askedFor": "Any day the week of Oct 5, Luis to name day and hour in Mountain time",
+      "inPersonAnchor": "2026-10-22, the Manufacturing and Supply Chain Summit, Stand 40"
     },
     "meetingPrep": {
       "whoHeIs": "Sales Manager, not finance. He sells logistics services and will not own the banking decision.",
@@ -2256,7 +2259,7 @@
       ],
       "doNotRaise": "Factoring. The US entities exist so it is not ruled out, but where the receivables sit is unknown and the El Paso carriers looked thin.",
       "askFor": "Who handles the conversions between the US and Mexican entities today, and whether Palco's clients ever ask about payment or FX.",
-      "timeZoneWarning": "3pm Mountain is 4pm Central. Marcel is in Houston."
+      "timeZoneWarning": "Mountain is one hour behind Marcel. 3pm Mountain is 4pm Central. Marcel is in The Woodlands, Texas, Central time, not El Paso and not Mountain."
     },
     "touches": [
       {
@@ -2265,9 +2268,16 @@
         "channel": "linkedin-invitation",
         "outcome": "meeting-booked",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-01",
+        "channel": "whatsapp",
+        "outcome": "sent",
+        "notes": "Reschedule request to Luis Merjil after the Sep 22 Teams call did not connect. Apologized for a week of silence on Marcel's side, declined the in person El Paso option honestly because Marcel is based in The Woodlands and was never going to be there this week, proposed Teams for the week of Oct 5 and reaffirmed Oct 22 in El Paso as the in person anchor. Sent by Marcel by hand; WhatsApp is invisible from here."
       }
     ],
-    "touchCount": 1,
+    "touchCount": 2,
     "nextTouch": null
   },
   {
