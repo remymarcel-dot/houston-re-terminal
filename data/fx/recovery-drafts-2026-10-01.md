@@ -65,7 +65,8 @@ Asking that gives her an easy, face-saving reply that is still a win for us.
 
 **Failed:** `AlreadyAConnection`, 2026-09-30T19:52:08Z
 **Profile:** https://www.linkedin.com/in/sean-fightmaster-cpa-b557b8107
-**Where:** Greater Houston, your own city
+**Where:** 6806 Willow Brook Park, Houston 77066. Willowbrook, up the north
+side of town, roughly half an hour down I45 from you in The Woodlands.
 **Touches spent:** 0. This is touch 1.
 
 ### What changed
@@ -74,6 +75,16 @@ Only the ending. The first version closed with "if it turns out to be all
 dollars with nothing to do, I will say so," which is good for credibility but
 was the whole close. A first touch should ask for the next step, not pre-concede
 the outcome. The honesty stays, the surrender does not.
+
+### Check the title before you send
+
+ZoomInfo's Panelmatic directory lists **two** chief financial officers, Sean
+Fightmaster and Keith Kranzow, and shows a Keith Shepard arriving as Director of
+FP&A in January 2026. Directory pages routinely keep former executives listed, so
+this is most likely stale rather than meaningful, but a finance seat in motion is
+the one thing that would make this first touch land wrong.
+
+His LinkedIn headline settles it in about five seconds. Worth those five seconds.
 
 ### Build note
 
@@ -101,6 +112,6 @@ mistake that cost a day on Ricardo Yllescas.
 > ten seconds.
 >
 > Either answer is worth a short conversation. Do you have twenty minutes next
-> week? I am five minutes from you.
+> week? I am just up the road in The Woodlands.
 >
 > Marcel

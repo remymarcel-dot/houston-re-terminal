@@ -1,5 +1,28 @@
 # Marcel's voice
 
+## Where Marcel actually sits
+
+**The Woodlands, Texas.** North of Houston, up I45. Not Houston proper and
+emphatically not El Paso, however often El Paso comes up in this work.
+
+This matters because proximity is one of his strongest openers and a false one
+is worse than none. Rules:
+
+- **Never claim a distance you have not checked.** "I am five minutes from you"
+  was written into a draft for a CFO at Panelmatic in Willowbrook, which is
+  closer to half an hour. A prospect in his own city knows the map better than
+  we do, and being caught inventing closeness costs more than the line ever won.
+- **North side is genuinely near.** The Woodlands, Spring, Conroe, Willowbrook,
+  Tomball, north Beltway. "Just up the road" is fair here.
+- **Houston is a big city.** Sugar Land, Pasadena, Clear Lake and the Energy
+  Corridor are an hour or more in traffic. "Same city" is true, "close" is not.
+- **El Paso is a trip he takes, not a place he is.** He travels for the summits
+  and has an anchor date there. Never write copy that implies he is standing in
+  El Paso, and never offer to meet there on short notice.
+
+When in doubt, drop the proximity line. The message works without it.
+
+
 Every example below is real copy pulled from his HeyReach account. Match
 this. Do not invent a new style.
 
