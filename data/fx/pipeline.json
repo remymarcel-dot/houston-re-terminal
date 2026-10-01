@@ -6197,7 +6197,7 @@
     "play": "play-0-recovery",
     "campaignId": 632612,
     "listId": 985106,
-    "status": "message-sending",
+    "status": "message-pending",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6207,15 +6207,16 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-message",
-        "outcome": "in-campaign",
-        "notes": "Campaign 632612. The 09-30 invitation failed AlreadyAConnection, so this went as a Play 0 message instead. Keeps the undocumented-foreign-spend thesis as a question rather than an assertion, and asks for twenty minutes next week."
+        "outcome": "PENDING, not yet sent",
+        "notes": "Campaign 632612. The 09-30 invitation failed AlreadyAConnection, so this went as a Play 0 message instead. Keeps the undocumented-foreign-spend thesis as a question rather than an assertion, and asks for twenty minutes next week. | VERIFIED 2026-10-01T21:29Z: still InSequence, lastActionTime 17:03:45Z, leadMessageStatus None, no failure. The 632612 delay node has not released his MESSAGE yet. Not a failure, not yet a touch."
       }
     ],
     "touchCount": 1,
     "nextTouch": null,
     "blocker": null,
     "nextStep": "Touch 2 is an email, due 2026-10-04. No address on file yet, so he needs enrichment first.",
-    "cadenceRestart": null
+    "cadenceRestart": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Paul Miller",
@@ -6330,7 +6331,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6340,12 +6341,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T20:19Z, campaign 626018, leadConnectionStatus ConnectionSent, no error."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Heather Olivier",
@@ -6356,7 +6358,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled-unenriched",
+    "status": "invitation-queued-not-sent",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6366,12 +6368,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled-unenriched",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "NOT SENT, still queued",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | VERIFIED 2026-10-01T21:29Z: leadConnectionStatus None, lastActionTime 17:40Z, no failure. The invitation has not gone out. Most likely held behind the 15 per day invitation ceiling, which six other leads in this campaign consumed. Not a failure and not a touch. Re-check tomorrow."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Chris Grappe",
@@ -6382,7 +6385,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled-unenriched",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6392,12 +6395,14 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled-unenriched",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T20:44Z, campaign 626018, leadConnectionStatus ConnectionSent, no error."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01",
+    "watchFor": "HIS OWN HEADLINE SAYS 'Retired at Southern Fab & Supports, a subsidiary of LISEGA Inc.' while the position field still reads President. The invitation has already gone out written to a sitting President. If he accepts, do not open as though he still runs it. He may still be worth having as an introduction into Southern Fab or LISEGA, which is a channel conversation rather than an account one."
   },
   {
     "name": "Marcia Rubio",
@@ -6408,7 +6413,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled-unenriched",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6418,12 +6423,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled-unenriched",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T20:04Z, campaign 626018, leadConnectionStatus ConnectionSent, no error."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Alana Lyons",
@@ -6434,7 +6440,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6444,12 +6450,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T20:25Z, campaign 626018, leadConnectionStatus ConnectionSent, no error."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Robbi Turek",
@@ -6460,7 +6467,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6470,12 +6477,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T21:01Z, campaign 626018, leadConnectionStatus ConnectionSent, no error."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "William White",
@@ -6486,7 +6494,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled",
+    "status": "invitation-queued-not-sent",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6496,12 +6504,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "NOT SENT, still queued",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | VERIFIED 2026-10-01T21:29Z: leadConnectionStatus None, lastActionTime 17:51Z, no failure. The invitation has not gone out. Most likely held behind the 15 per day invitation ceiling, which six other leads in this campaign consumed. Not a failure and not a touch. Re-check tomorrow."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Mike Sorna",
@@ -6512,7 +6521,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-scheduled",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6522,12 +6531,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T20:40Z, campaign 626018, leadConnectionStatus ConnectionSent, no error."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-01"
   },
   {
     "name": "Felipe Condessa",
@@ -6929,7 +6939,7 @@
     "play": "play-0-recovery",
     "campaignId": 632612,
     "listId": 985106,
-    "status": "message-sending",
+    "status": "email-only",
     "outcome": null,
     "firstTouch": "2026-08-17",
     "loggedOn": "2026-09-29",
@@ -6955,21 +6965,17 @@
         "channel": "email",
         "outcome": "no reply",
         "notes": "September outlook. Peso up 1.2%, Banxico on hold at 6.50%, Treasury and BOJ intervention."
-      },
-      {
-        "n": 4,
-        "date": "2026-10-01",
-        "channel": "linkedin-message",
-        "outcome": "in-campaign",
-        "notes": "Campaign 632612. The 09-30 invitation failed ConversationExists, which is exactly why a MESSAGE works where a CONNECTION_REQUEST could not. Asks her to compare her last peso funding rate against the interbank mid, then asks whether she is even the right person or whether Mexico funding sits with someone else."
       }
     ],
-    "touchCount": 4,
-    "nextTouch": null,
+    "touchCount": 3,
+    "nextTouch": "2026-10-08",
     "blocker": null,
     "email": "hillary.stroble@bumblebee.com",
     "nextStep": "Touch 5 is an email, due 2026-10-15. Do not re-pitch the summer emails.",
-    "cadenceRestart": "2026-10-01"
+    "cadenceRestart": "2026-10-01",
+    "lastActivity": "2026-10-01",
+    "channelNote": "LINKEDIN IS CLOSED TO HER AND THE WORKAROUND IS DISPROVEN. The 09-30 CONNECTION_REQUEST failed ConversationExists. Campaign 632612 then tried a Play 0 MESSAGE on the theory that an existing thread is something to write into. It is not. She finished the sequence at 2026-10-01T20:20:13Z with leadMessageStatus None, leadConnectionStatus None, failedTime null and errorCode null. HeyReach skipped her silently and recorded success. Nothing was sent and no error was raised. Do not retry either node. Every future touch is an email or it is nothing.",
+    "verificationLesson": "Campaign level counts lied here: 632612 showed 0 failed. Only the lead level leadMessageStatus revealed that no message went out. Always check lead status, never the progressStats counters."
   },
   {
     "name": "Rich Wright",

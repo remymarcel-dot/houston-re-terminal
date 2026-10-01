@@ -1,6 +1,6 @@
 {
-  "lastRun": "2026-10-01T09:30:00-05:00",
-  "runType": "send-date-verification",
+  "lastRun": "2026-10-01T21:29:00Z",
+  "runType": "evening-send-window-verification",
   "senderAccountId": 237851,
   "networkSize": 22137,
   "conversationsTotal": 256,
@@ -528,5 +528,39 @@
       "625896": "FINISHED, 6 of 8 finished, 2 failed, BOTH NEW: Sean Fightmaster AlreadyAConnection, Hillary Stroble ConversationExists. Neither was contacted."
     },
     "correction": "The routine's own text said 625896 carried seven leads. It carried eight, and two of them failed rather than none."
+  },
+  "eveningCheck2026_10_01": {
+    "headline": "Hillary Stroble was NOT contacted and HeyReach reported no error. The ConversationExists workaround is disproven.",
+    "campaign632612": {
+      "name": "Play 0 recovery Stroble Fightmaster",
+      "counts": "2 users, 1 finished, 1 in progress, 0 failed",
+      "hillaryStroble": "FINISHED 20:20:13Z with leadMessageStatus None, leadConnectionStatus None, failedTime null, errorCode null. No conversation exists under profile, campaign or search lookup. The MESSAGE node never fired and the lead was recorded as a success. Marcel must send by hand; draft is in data/fx/recovery-drafts-2026-10-01.md.",
+      "seanFightmaster": "Still InSequence, lastActionTime 17:03:45Z, leadMessageStatus None, no failure. The delay node has not released his message. Re-check."
+    },
+    "campaign626018": {
+      "name": "Conroe sweep",
+      "counts": "8 users, 8 in progress, 0 finished, 0 failed",
+      "invitationsConfirmedSent": [
+        "Marcia Rubio 20:04",
+        "Joseph Rangel 20:19",
+        "Alana Lyons 20:25",
+        "Mike Sorna 20:40",
+        "Chris Grappe 20:44",
+        "Robbi Turek 21:01"
+      ],
+      "notSent": [
+        "Heather Olivier, leadConnectionStatus None, last action 17:40",
+        "William White, leadConnectionStatus None, last action 17:51"
+      ],
+      "impPlaceholderVerdict": "Two of the three placeholder worries resolved and sent: Marcia Rubio and Chris Grappe, the two strongest names. Heather Olivier is the third and has not gone out, but with no failure, so it reads as the 15 per day invitation ceiling rather than a placeholder fault.",
+      "grappeFlag": "His headline says Retired. Invitation already sent written to a sitting President."
+    },
+    "otherCampaigns": {
+      "622570": "IN_PROGRESS, 2 users, 0 failed. Ezio Bondi message confirmed delivered 20:36Z.",
+      "622602": "IN_PROGRESS, 1 user, 0 failed. Not finished.",
+      "622608": "IN_PROGRESS, 1 user, 0 failed. Not finished.",
+      "note": "The trigger asked to confirm these finished without failures. They have zero failures but none have finished, so 'clean so far' rather than 'clean'."
+    },
+    "methodLesson": "Campaign progressStats are not evidence of delivery. 632612 reported zero failures while silently not sending to Hillary. Verify at lead level with leadMessageStatus and leadConnectionStatus, and cross check against whether a conversation record exists."
   }
 }
