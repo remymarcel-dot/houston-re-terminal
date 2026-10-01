@@ -91,6 +91,33 @@ tone deaf. This asks what she is working on and offers the network either way,
 which is the only honest move when you cannot tell from outside whether someone
 is a buyer, a channel or looking for work.
 
+**REWRITTEN 2026-10-01 on Marcel's direction.** He wanted it in Spanish, leading
+with the fact that he has already saved PASMAA colleagues money on exchange
+rates, then asking plainly whether she handles international payments and
+whether she has fifteen minutes.
+
+That is a more direct message than my first version and it is the right call,
+because he knows her. It also quietly solves the #OPENTOWORK problem rather than
+tiptoeing around it: by never naming Mexican Flavours Global, the question works
+whether she is running a company, consulting, or advising someone else's.
+
+> Grace, qué gusto saludarte.
+>
+> Nos conocemos de PASMAA, así que voy directo. En Monex USA me dedico a pagos
+> internacionales y tipos de cambio, y ya le he ahorrado dinero a varios colegas
+> de PASMAA en ese tema. Lo normal es que el costo esté metido dentro del tipo de
+> cambio que cotiza el banco y no en una comisión, por eso casi nadie lo ve.
+>
+> ¿Manejas pagos internacionales actualmente? Si es así, ¿tendrías quince minutos
+> para platicarlo?
+>
+> Marcel
+
+First degree with 549 mutuals, so this is a Play 0 direct message. No invitation,
+no 300 character cap.
+
+### The version it replaces
+
 > Grace, we know each other from PASMAA, so this is overdue rather than cold.
 >
 > I saw Mexican Flavours Global on your profile and could not tell from the
