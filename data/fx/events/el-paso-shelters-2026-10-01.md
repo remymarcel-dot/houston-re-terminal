@@ -259,3 +259,35 @@ in line behind Tecma, and only if Tecma goes nowhere.
 3. **SWEM.** Booth only, October 22.
 4. **MaquilaPartner and A+ Mexico Shelter.** Booth questions about US entities.
 5. **American Industries.** Unresearched reserve.
+
+
+---
+
+# Correction, same day: Tecma was already in the pipeline
+
+The addendum above presents Tecma as a new discovery with a seat named "Gaby
+Garcia, VP Finance." That is wrong and the error is mine.
+
+**Gabriela Garcia Moreno, VP of Finance and Accounting, was already in the
+pipeline**, invited on 2026-09-21 in campaign 613681 "El Paso Summit Exhibitors
+W1." She and "Gaby Garcia" are the same person. ZoomInfo's three duplicate
+records are all her, and I flagged that duplication risk in the addendum and then
+walked straight into it by not checking the pipeline before recommending her.
+
+Checked since:
+
+- Campaign 613681 is FINISHED, nine leads, none failed, so the invitation sent.
+- No HeyReach conversation exists, so **she has not accepted**.
+- LinkedIn is therefore closed. Email is the only channel.
+
+Tecma also already sits in the event plan as an exhibitor at **stand E, 181**,
+which is how she entered the pipeline in the first place. So the real finding
+from the shelter research is narrower than the addendum claims: not that Tecma is
+a new target, but that **Tecma deserves a higher priority than the four stands
+that started this**, and that the FX mechanics of the shelter model are the
+argument to use on it.
+
+The revised priority list stands. The claim that Tecma was undiscovered does not.
+
+**Standing lesson: check pipeline.json for the company before presenting any
+name as new.** The one seat per company rule is only as good as that check.
