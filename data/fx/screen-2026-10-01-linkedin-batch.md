@@ -3,9 +3,8 @@
 **No profile URLs.** Nothing can be built until Marcel sends links for the ones
 he wants. Never construct a URL.
 
-**Thirty six screened below. Twenty two still to open**, listed at the bottom.
-Their screenshots were dropped from the working context by the image limit and
-the names alone are not enough to judge a seat.
+**All fifty eight screened.** The later batches were recovered by reading the
+uploaded files back off disk after the image limit dropped them from context.
 
 ---
 
@@ -185,15 +184,110 @@ sits in before anything else is sent.
 
 ---
 
-## Still to open: twenty two
+## The second twenty two
 
-Craig Tashjian, Melvin Donovan Pullen, Raul Fernandez, Michael Foy, Don Chute,
-Ana Escandon, Tiago Fernandes, Mike Lloveras, Derek Atwood, Jerimy Bean,
-Lee Zalben, Armando Strozzi, Gavin Hartley, Darin Parker, Joel Silva,
-Manny Costa, Liz B., Gina Santoro, René Osorio, Sean Smith, Lynda Boots,
-Randy Lansang.
+### Worth an invitation
 
-Their screenshots were dropped from the working context by the image limit
-before they were written up. The files are still on disk and can be re-read on
-request; the names alone are not enough to judge a seat, and guessing from a
-name is how Julian Scutari ended up filed under the wrong employer.
+**Ana Escandon, CEO, Zano Fresh, Greater McAllen.** Her own headline reads
+"Cross-Border Food & Agribusiness". MIT Sloan, 2,391 followers, 55 mutual
+connections, and McAllen puts her on the Rio Grande Valley crossing. She has
+written the thesis for us. **Highest value name in this batch.** Write in
+Spanish or English, but do not explain the exposure to her.
+
+**Darin Parker, President, Parker-Migliorini International, Utah.** PMI is a
+global protein trader and he sits on the US Meat Export Federation. He posted
+in August about the White House moving ahead with ground beef imports. Protein
+trading across borders in both directions is as close to pure currency risk as
+this book gets, and he is publicly engaged with the import policy that drives
+it. Third degree with no mutuals, so the note has to earn its place.
+
+**Joel Silva, CFO and Corporate Controller, Vallarta Supermarkets, California.**
+His headline says "International and Public Companies, Bilingual". Vallarta is
+a Hispanic grocery chain whose shelves are Mexican product. CFO and Controller
+in one seat, which is the dual seat pattern that has worked.
+
+**René Osorio, CEO, Sunrise Foods International.** Announced as new CEO in
+December 2025, so under a year in seat. Sunrise is a Canadian organic grain
+trader, and Canada is in scope. Grain trading is multi currency by construction.
+33 mutuals. His degree is from Universidad Simón Bolívar, which is Venezuelan,
+and that is **not** a bar: Marcel ruled on exactly this point for Fernando
+Salinas. The stop applies to companies, not to where someone studied.
+
+**Gavin Hartley, CFO, Diamond Foods, Modesto.** Californian nut processor. The
+exposure runs as export receivables rather than import payables, and his own
+activity has him writing "Ciao from the Ligurian coast", which suggests Italian
+ties worth asking about. One mutual only.
+
+**Don Chute, President and CEO, Gemsa Enterprises, La Mirada.** Specialty fats
+and oils, three decades in agribusiness, and **International Sales sits in his
+top skills**. Palm, coconut and olive oils are imported commodities. Third
+degree.
+
+**Melvin Donovan Pullen, CEO, PROXAG Global Ag Chemical, Tampa.** Agricultural
+chemicals are formulated from actives made in China and India. CEO seat, five
+mutuals, posted in the past 30 days.
+
+**Armando Strozzi, President and General Manager, Magnolia Foods, Orange
+County.** ITESM Monterrey educated, biochemical engineer, food production. The
+Monterrey background and a Southern California food manufacturer together
+suggest Mexican supply. Two mutuals. Write in Spanish.
+
+**Randy Lansang, CPA, VP and Controller of Driscoll's of the Americas, Chula
+Vista.** A regional controller seat over a berry business whose growing is in
+Mexico, Chile and Peru. The honest caveat is size: Driscoll's is large enough to
+have a treasury function, so this is the Hortifrut question again. One mutual.
+
+**Raul Fernandez, Founder, AgroPrime Produce, Fort Lauderdale.** 2,808
+followers, 18 mutuals, and a shared produce industry group. He runs three
+entities, including a consultancy, so confirm AgroPrime is a live importing
+business before spending a touch rather than assuming the founder title means
+operations.
+
+**Michael Foy, CPA, CFO, Tusker, Chicago.** Headline claims technology, private
+equity and **international experience**. Three mutuals and a shared CFO Network
+group. The company needs one look before a note can be written; the seat is
+right if the business crosses a border.
+
+### Channels rather than prospects
+
+**Craig Tashjian, Managing Partner and CIO, AMERRA Capital Management.** Food
+and agribusiness private debt and private equity, forty years in natural
+resources, across the Americas and Europe. He is not an importer with payables,
+he **lends to a portfolio of them**. Eleven mutuals. This is the Fátima Morales
+shape: one relationship reaching many companies. Approach as a partner, never
+with a pitch.
+
+**Derek Atwood, CFO, Ampleō, Houston.** Ampleō places fractional CFOs into
+mid market companies. He is the CFO of the firm rather than of an importer, so
+he buys nothing in euros, but his colleagues sit inside dozens of businesses
+that do. Four mutuals, Houston. Channel.
+
+### Cut
+
+| Name | Why |
+|---|---|
+| **Tiago Fernandes, Group VP and Global Services CFO, Wabtec** | Ten billion dollar rail group with its own treasury. Harvard MBA, right seat, wrong size. |
+| **Liz B., SVP Americas Finance, Hyatt Hotels** | Global hotel group far above the band. |
+| **Sean Smith, Chief Accounting Officer and Deputy CFO, QXO** | Multi billion building products distributor. Above band. |
+| **Gina Santoro, CFO, Lewis Brisbois** | Recently hired, which is the right trigger, but it is a US litigation firm. Nothing crosses a border. |
+| **Lynda Boots, Controller, Bethel College, Conroe** | A college. Domestic, and tuition is in dollars. |
+| **Jerimy Bean, CFO, Sames Motor Company, Laredo** | Ten years in seat at a Laredo car dealership group. Laredo is the right city and this is the wrong business: dealerships buy from US distributors in dollars. |
+| **Lee Zalben, Founder and CEO, Peanut Butter & Co., NYC** | American peanuts, bought domestically. Export sales exist but are typically invoiced in dollars. |
+
+---
+
+## What this adds up to
+
+Two names earn an invitation ahead of everything else, and both are because the
+company has already said the quiet part out loud: **Ana Escandon**, whose
+headline is literally cross border food and agribusiness, and **Darin Parker**,
+who is publicly engaged with the beef import policy that moves his own costs.
+
+Four carry a recently hired signal across the whole batch: Tony White, Martin
+Hauser, Kevin Soares and Gina Santoro. Three are worth an invitation; Santoro
+is a law firm and is cut despite the trigger, which is the point of screening
+the business rather than the signal.
+
+Two are channels, not prospects: Craig Tashjian lends to a portfolio of food
+and agribusiness importers, and Derek Atwood's firm places CFOs inside them.
+Neither gets a pitch.
