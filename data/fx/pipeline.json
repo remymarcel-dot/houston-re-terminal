@@ -1002,8 +1002,9 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "enrichmentGap": "No match in ZoomInfo or Apollo. Seamless is the last stop.",
-    "enrichmentTried": "2026-10-01"
+    "enrichmentGap": "No match in ZoomInfo or Apollo. Seamless is the last stop. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
+    "enrichmentTried": "2026-10-01",
+    "betterSeat": "Apollo free search returns no finance seat at this company under any title. Neither NexPoint Materials nor Composition Brands is indexed with one. These two are not just missing an address, the company is thin in every source we have."
   },
   {
     "name": "Kevin Soulen",
@@ -1130,8 +1131,9 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "enrichmentGap": "No match in Apollo. ZoomInfo knows the person at accuracy 88 but not the employer, companyId 0. US Treasurer at Composition Brands. Seamless is the last stop.",
-    "enrichmentTried": "2026-10-01"
+    "enrichmentGap": "No match in Apollo. ZoomInfo knows the person at accuracy 88 but not the employer, companyId 0. US Treasurer at Composition Brands. Seamless is the last stop. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
+    "enrichmentTried": "2026-10-01",
+    "betterSeat": "Apollo free search returns no finance seat at this company under any title. Neither NexPoint Materials nor Composition Brands is indexed with one. These two are not just missing an address, the company is thin in every source we have."
   },
   {
     "name": "Eric Heismeyer",
@@ -1344,8 +1346,9 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "enrichmentGap": "Apollo matched him at high confidence but released no email, status unavailable. Useful anyway: he is Director of Operations at Katzman, a Bronx produce wholesaler at 220 people and $18.3M, and came from Americold and Smurfit Westrock. Right company, and the seat is operations rather than finance. Seamless is the last stop for the address.",
-    "enrichmentTried": "2026-10-01"
+    "enrichmentGap": "Apollo matched him at high confidence but released no email, status unavailable. Useful anyway: he is Director of Operations at Katzman, a Bronx produce wholesaler at 220 people and $18.3M, and came from Americold and Smurfit Westrock. Right company, and the seat is operations rather than finance. Seamless is the last stop for the address. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
+    "enrichmentTried": "2026-10-01",
+    "betterSeat": "Apollo free search shows Katzman HAS a Chief Financial Officer indexed, first name Bryan, surname masked until enrichment, WITH both an email and a direct dial on file, plus an assistant controller. Nobre is Director of Operations and unreachable. Since he has never been contacted, swapping to the CFO costs nothing and breaks no one-seat rule. Marcel decides; say the word and the enrichment is one Apollo credit."
   },
   {
     "name": "Raynier Plasencia",
@@ -1780,8 +1783,9 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "enrichmentGap": "Apollo matched her at high confidence, no email released. SEAT HAS MOVED: she is now Chief Systems Officer at Quality Importers Trading Company, having been Controller and then EVP Operations. She is out of finance, so re-screen before spending anything on her. Quality Importers is 40 people at $8.3M, in band, so the company still qualifies even if she no longer does.",
-    "enrichmentTried": "2026-10-01"
+    "enrichmentGap": "Apollo matched her at high confidence, no email released. SEAT HAS MOVED: she is now Chief Systems Officer at Quality Importers Trading Company, having been Controller and then EVP Operations. She is out of finance, so re-screen before spending anything on her. Quality Importers is 40 people at $8.3M, in band, so the company still qualifies even if she no longer does. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
+    "enrichmentTried": "2026-10-01",
+    "betterSeat": "Apollo free search returns NO finance seat at Quality Importers at all, which is consistent with her having moved from Controller to Chief Systems Officer and nobody visible having replaced her. The company is in band at 40 people and $8.3M, so it is worth keeping, but there is no obvious person to write to."
   },
   {
     "name": "Mauro Souza",
