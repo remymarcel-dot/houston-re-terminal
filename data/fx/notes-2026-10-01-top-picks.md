@@ -1,6 +1,6 @@
 # Notes for the 2026-10-01 top picks
 
-Twenty-three written, two held. Nothing is sent and no URLs exist yet except for
+Twenty-four written, two held. Nothing is sent and no URLs exist yet except for
 Ana Escandon and Darin Parker, who are already in Tuesday's campaign 630953.
 
 Every invitation note is under the 300 character cap. The three first-degree
@@ -192,6 +192,16 @@ whether those payments run through her desk.
 
 > Angelina, en Monex USA trabajo únicamente el lado estadounidense: divisas y pagos para empresas mexicanas con entidad en Estados Unidos. Prefiero preguntar antes que suponer. ¿AdL tiene operación allá, y esos pagos pasan por finanzas en Puebla? Marcel
 
+**Damien K Browne, CPA**, Circuit of The Americas, Austin. 250 chars.
+
+Reinstated after Marcel challenged the cut, which had asserted that a circuit's
+foreign payments are dollar denominated without checking. The MotoGP fee goes to
+Dorna Sports in Madrid, the FIA licence is Parisian and the FIM one Swiss. The
+euro exposure is second order against an F1 fee that probably settles in
+dollars, so the note asks the size of it rather than claiming one.
+
+> Damien, the MotoGP fee goes to Dorna in Madrid and the FIA and FIM licences are priced in Europe, even if the F1 side settles in dollars. I work on FX and cross border payments at Monex USA. Curious how much of COTA actually pays out in euros. Marcel
+
 ---
 
 ## Channels, not prospects
@@ -231,4 +241,4 @@ go any day.
 1. **Free today, message quota**: Gabriel Perez Krieb, Syed Ali, Scott Horner, Grace Bravo.
 2. **Tuesday 6 October**, 5 slots left: Tony White, Martin Hauser, Jorge Kovacs Morayta, Joel Silva, René Osorio.
 3. **Wednesday 7 October**, a new wave: Bernardo Santana, Alejandro González, Rafael Vasquez, Raul Reyna, Gavin Hartley, Randy Lansang, Armando Strozzi, Angelina de León Martínez.
-4. **Thursday 8 October**: Christian Khalil, Miguel Kozlowski, Nish Patel, Kevin Soares, Don Chute, Melvin Pullen, plus the two channels.
+4. **Thursday 8 October**: Christian Khalil, Miguel Kozlowski, Nish Patel, Kevin Soares, Don Chute, Melvin Pullen, Damien Browne, plus the two channels.

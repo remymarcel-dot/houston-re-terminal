@@ -168,8 +168,7 @@ currencies. Worth one invitation to test an idea we have not tried.
 | **Angelina de León Martínez, Finance Director, AdL Holdings** | Puebla, Mexico, with no US entity shown. The rule is firm: US side only. |
 | **Nery Alvarez, Corporate Controller, JAXI Builders** | Commercial real estate construction in Florida. Nothing crosses a border. |
 | **Chris Evanoff, President and Founder, Soltec** | Process automation consulting in Michigan. A services business with no foreign payables. |
-| **Jodi Davenport, Circuit of The Americas** | Theme park and hospitality finance. No cross border exposure. |
-| **Damien K Browne, CPA, Circuit of The Americas** | Same venue. A motorsport circuit's foreign payments are sanctioning fees, which are dollar denominated. |
+| **Jodi Davenport, Circuit of The Americas** | Theme park and hospitality finance, and one seat per company now goes to Damien Browne, the finance seat. |
 | **Katherine (Phillips) Altmeyer** | Administrative Assistant at MKA International. 168 connections. Not a decision seat. |
 | **Brock Henley, Meijer** | Series 7 and 66, committed to earning the CFA, 335 connections. A junior investment seat at a domestic grocery chain. |
 | **Grace Bravo Buenrostro, CEO, Mexican Flavours Global** | First degree with 549 mutuals, but the profile carries #OPENTOWORK and a "View my services" button. This is a consultancy between engagements, not an importer with payables. **Treat her as a referral channel, the same shape as Fátima Morales, not as a prospect.** |
