@@ -159,3 +159,103 @@ questions: MaquilaPartner's US entity, and whether A+ has one at all.
 - No LinkedIn URL for any of the four. That stays a Marcel task by design.
 - MaquilaPartner's US entity, unresolved and probably only answerable in person.
 - SWEM's finance seat, waiting on the company page.
+
+---
+
+# Addendum, same day: SWEM is dead and the real target was never at the show
+
+Marcel searched LinkedIn for SWEM and found no company page. I then ran the
+officer names and the brand, and everything came back empty:
+
+- **No LinkedIn company page** for SWEM.
+- **Carolyn Harmon**: thirteen in ZoomInfo, none in El Paso, none at SWEM.
+- **Abiel Carrillo**: two, neither at SWEM.
+- **"SWEM"** as a brand returns nothing in any web search. Only the generic
+  shelter industry comes back.
+- The officer names came off a filing page dated **2020**, so they are probably
+  five years stale on top of everything else.
+
+**Conclusion: SWEM cannot be worked remotely.** A real Texas corporation with a
+real address and no reachable human attached to it. It is a booth visit on
+October 22 and nothing before that. Do not spend more enrichment credits on it.
+
+## The thing that fell out of the SWEM search
+
+Chasing SWEM surfaced the roster of shelter providers that actually matter on
+this border, and **SWEM, MaquilaPartner and A+ Mexico Shelter are on none of
+them**. The established providers are Tetakawi, Tecma, NAPS, Prodensa, IVEMSA,
+American Industries, Entrada Group, Co-Production International and TACNA.
+
+Two of those are El Paso companies. One of them is a better FX prospect than all
+four original targets put together.
+
+### Tecma, El Paso
+
+**US corporate headquarters, 2000 Wyoming Avenue, El Paso, Texas. ZoomInfo id
+111395492. 393 contacts indexed.** Founded 1985, forty years in the business,
+90+ current manufacturing clients, 600 companies served, 10M square feet across
+El Paso, Juarez, Tijuana, Torreon and Guanajuato.
+
+**The FX case is the cleanest in this whole file.** Under the shelter model
+Tecma is the *legal employer* of its clients' Mexican workforce. So the money
+runs in one direction, every cycle, forever: fees arrive from US manufacturers in
+dollars, payroll goes out in Mexico in pesos. That is not occasional exposure,
+it is the mechanical center of the business model. A recurring, forecastable,
+large USD to MXN conversion is the single best shape of FX conversation there is.
+
+Second angle, same as SACSA but bigger: **90+ manufacturing clients**, all of
+them cross border. Referral channel.
+
+And it passes the rule without argument. Tecma is a US company headquartered in
+El Paso, not a Mexican company with a US arm.
+
+**The seat: Gaby Garcia, Vice President, Finance.** Accuracy 98, email on file,
+**validated 2026-09-29**, which is two days ago and the freshest record in this
+entire research pass.
+
+**Watch the duplicates before approaching.** ZoomInfo carries three records that
+are very likely one person:
+
+- Gaby Garcia, VP Finance, accuracy 98, validated 2026-09-29
+- Gabriela Garcia Moreno, VP Finance and Accounting, accuracy 92, validated 2026-09-01
+- Gabriela Garcia, VP Finance and Accounting, accuracy 85, validated 2026-05-09
+
+Gaby is the diminutive of Gabriela and the titles are the same. Treat these as
+one seat, take the 98, and **do not let a merge error turn this into two
+approaches at one company.** There is also an Arturo Garcia, Director of Finance,
+accuracy 84 with a direct dial and mobile, but his record is stale to April 2025
+and he is below the VP anyway.
+
+**Leadership note.** ZoomInfo shows Jorge Rozo as CEO, validated July 2026, while
+the Tecma website still presents founder K. Alan Russell as president and CEO and
+his record validates to August 2025. A handover looks likely but is not
+confirmed. It does not affect the finance approach, and it is worth knowing
+before any conversation that reaches the top.
+
+**The honest caveat on size.** ZoomInfo puts Tecma at 18,000 employees and
+$3.8B revenue. Most of those employees are the client workforce Tecma employs on
+paper rather than its own staff, and the revenue figure is probably aggregating
+flows that pass through. Even so, this is well above the usual band, there is no
+CFO or treasurer in the record for a company that size, and a firm this large
+very likely has an established bank and possibly an in house treasury desk.
+
+That is a real objection and it should be met head on rather than ignored. The
+opening is not "you need an FX provider", it is the spread on a recurring peso
+payroll of that size, which is a number their bank has never had to defend.
+
+### American Industries, worth a look after Tecma
+
+Mexican firm, founded 1976, headquartered in Chihuahua, **with a US office in
+El Paso**. Full service shelter plus its own industrial real estate. A Mexican
+parent with a US entity is workable under your rule. Not researched yet. Second
+in line behind Tecma, and only if Tecma goes nowhere.
+
+## Revised priority
+
+1. **Tecma, Gaby Garcia, VP Finance.** Best data, best FX mechanics, biggest
+   referral surface. Size is the risk, not reachability.
+2. **SACSA, Julio Pajaro, Director Financiero.** Still the best of the four
+   original stands, and comfortably in band.
+3. **SWEM.** Booth only, October 22.
+4. **MaquilaPartner and A+ Mexico Shelter.** Booth questions about US entities.
+5. **American Industries.** Unresearched reserve.
