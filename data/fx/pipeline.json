@@ -886,7 +886,8 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Marked final-touch with no outcome recorded. Silence."
+    "revivalReason": "Marked final-touch with no outcome recorded. Silence.",
+    "enrichmentGap": "Not yet enriched. Ecuador and Peru facing seat, so check the US entity Scarpa Worldwide rather than Skillpath Cia Ltda."
   },
   {
     "name": "Jerome Soitel",
@@ -920,7 +921,8 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Marked final-touch with no outcome recorded. Silence."
+    "revivalReason": "Marked final-touch with no outcome recorded. Silence.",
+    "enrichmentGap": "Not yet enriched. His profileUrl is an ACoAA identifier rather than a slug, which is why nothing resolves from it."
   },
   {
     "name": "Katie Dubon",
@@ -1341,7 +1343,13 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Three touches Mar, Apr and Aug, all silent. Filed as over-touched and do-not-contact on 2026-09-16. That was wrong: three silent touches is a third of the way through the cadence, not the end of it."
+    "revivalReason": "Three touches Mar, Apr and Aug, all silent. Filed as over-touched and do-not-contact on 2026-09-16. That was wrong: three silent touches is a third of the way through the cadence, not the end of it.",
+    "email": "brian@greenfruitavocados.com",
+    "mobile": "(949) 386-0191",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98. Title confirmed President.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Johnny Najar",
@@ -1362,7 +1370,14 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez."
+    "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez.",
+    "email": "jnajar@fruttofoods.com",
+    "mobile": "(520) 450-9040",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98.",
+    "nameAtWork": "ZoomInfo files him as Jonathan Najar, Co-Founder, not Johnny Najar, CEO. His LinkedIn carries Johnny. Open with Johnny, which is what he calls himself.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Steven Beltram",
@@ -1383,7 +1398,12 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez."
+    "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez.",
+    "email": "steven@tendwell-farm.com",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "no number on file",
+    "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98. No phone returned.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Judith Cruz",
@@ -1404,7 +1424,8 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Three touches including two proposed times and a Calendly link, silent on both. Silence on a proposed time is not a refusal of the meeting."
+    "revivalReason": "Three touches including two proposed times and a Calendly link, silent on both. Silence on a proposed time is not a refusal of the meeting.",
+    "enrichmentGap": "ZoomInfo 2026-10-01: COMPANY_ONLY_MATCH at accuracy 0. It has Inclusive Logistics, id 1309411325, but no person record for her. Apollo and Seamless next."
   },
   {
     "name": "Eddie Romero",
@@ -1425,7 +1446,12 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Four touches, and he REPLIED once in May before going quiet. A reply is engagement. Filing him under do-not-contact because the August message was a clean no-ask close was the worst of these calls."
+    "revivalReason": "Four touches, and he REPLIED once in May before going quiet. A reply is engagement. Filing him under do-not-contact because the August message was a clean no-ask close was the worst of these calls.",
+    "email": "eddie@romerobrands.com",
+    "contactAccuracyScore": 89.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 89. Record last validated February, the oldest in this batch.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Gregorio Elias",
@@ -1938,7 +1964,12 @@
     "touchCount": 2,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Carried a cadenceStop reading two touches used, no third message. Removed. He is a named referral into a Ferrero treasury seat; two silent touches settles nothing."
+    "revivalReason": "Carried a cadenceStop reading two touches used, no third message. Removed. He is a named referral into a Ferrero treasury seat; two silent touches settles nothing.",
+    "mobile": "(973) 580-3695",
+    "contactAccuracyScore": 77.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo CONTACT_ONLY_MATCH 2026-10-01. NO EMAIL. Accuracy 77, the lowest in the batch, zoominfoCompanyId 0 and last validated January, so ZoomInfo cannot confirm he is still at Ferrero. Treat the mobile as usable but verify the seat before calling: his referrer Steven Wojtowicz has since retired out of that same treasury function.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Jose Rene Tapia",
@@ -2009,7 +2040,12 @@
     "touchCount": 2,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Carried a cadenceStop. Removed. He gave two work emails and four meeting slots in December, which is the strongest buying signal in the book, and the ball was dropped on our side."
+    "revivalReason": "Carried a cadenceStop. Removed. He gave two work emails and four meeting slots in December, which is the strongest buying signal in the book, and the ball was dropped on our side.",
+    "email": "jason@solvenetworks.com",
+    "contactAccuracyScore": 98.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98. Title Manager, Finance.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Carlos Palma",
@@ -2546,7 +2582,8 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Closed as unresponsive. That is silence."
+    "revivalReason": "Closed as unresponsive. That is silence.",
+    "enrichmentGap": "ZoomInfo 2026-10-01: NO_MATCH outright, not even the company. Apollo and Seamless next."
   },
   {
     "name": "Ron Chamness",
@@ -2574,7 +2611,12 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Closed as unresponsive and cleanly closed. Silence, and the clean close was mine rather than his."
+    "revivalReason": "Closed as unresponsive and cleanly closed. Silence, and the clean close was mine rather than his.",
+    "email": "ron.chamness@mesocaribe.energy",
+    "contactAccuracyScore": 95.0,
+    "doNotCall": "MOBILE DO NOT CALL",
+    "emailSource": "ZoomInfo CONTACT_ONLY_MATCH 2026-10-01, accuracy 95. ZoomInfo has no company record for MesoCaribe, so the person matched and the employer did not. Title President and CFO confirmed.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Gabriela Garcia Moreno",
@@ -3625,7 +3667,13 @@
     "nextTouch": null,
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
-    "revivalReason": "Closed on the stated grounds of no reply after three touches, which is now explicitly not a reason to stop."
+    "revivalReason": "Closed on the stated grounds of no reply after three touches, which is now explicitly not a reason to stop.",
+    "email": "etavares@montevistafarming.com",
+    "mobile": "(209) 804-8866",
+    "contactAccuracyScore": 85.0,
+    "doNotCall": "none",
+    "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 85. CFO title confirmed.",
+    "enrichedOn": "2026-10-01"
   },
   {
     "name": "Christi Alise",
