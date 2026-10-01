@@ -1,6 +1,6 @@
 # Notes for the 2026-10-01 top picks
 
-Twenty-four written, two held. Nothing is sent and no URLs exist yet except for
+Thirty-one written, one held, one cut on new evidence. Nothing is sent and no URLs exist yet except for
 Ana Escandon and Darin Parker, who are already in Tuesday's campaign 630953.
 
 Every invitation note is under the 300 character cap. The three first-degree
@@ -204,6 +204,86 @@ dollars, so the note asks the size of it rather than claiming one.
 
 ---
 
+## Researched on 2026-10-01 after Marcel asked for a second look
+
+Four names that sat in "possible but unclear". Research moved two of them and
+killed a third.
+
+### Lennar Brull, CFO, Meel Corp, Miami. UPGRADED.
+
+The company was unknown and is now known: **Meel Corp is a frozen vegetable
+wholesaler** at 11175 NW 36th Ave, Miami, roughly **$11.2M revenue and twenty
+people**, women owned. Frozen vegetables into Miami is an import category by
+construction, Guatemala, Peru, Ecuador and Mexico. Comfortably in band. And his
+carrying IFRS alongside GAAP now reads as a signal rather than a flourish.
+
+> Lennar, frozen vegetables into Miami usually means buying from Latin America, and your profile carries IFRS next to GAAP, which normally means someone reports abroad. I work on FX and cross border payments at Monex USA. Would enjoy connecting. Marcel
+
+### Clint Novak, CFO, Allan Brothers, Yakima. CONFIRMED.
+
+A near hundred year old grower, packer and shipper in Naches, fourteen growing
+operations, **exporting to Canada, Mexico and Asia**. The exposure runs as
+receivables, which is the harder direction to see, and Canada is in scope. The
+note asks the one question that decides it: whether buyers ask to be quoted in
+their own currency.
+
+> Clint, apples and cherries going to Canada, Mexico and Asia means the receivable stays in dollars right up until a buyer asks to be quoted in their own currency. I work on FX and cross border payments at Monex USA. Curious whether Allan Brothers gets that request. Marcel
+
+### Gilbert Leiva, CFO, Worldmedia Interactive. WEAK BUT ASKABLE.
+
+An advertising and marketing agency in Miami, founded 1999, fifty to ninety nine
+people, ten to twenty five million. In band. The exposure is unproven: most US
+Hispanic market agencies buy US media in dollars. The one plausible line is
+production, which agencies routinely shoot in Mexico or Colombia because it is
+cheaper. So the note asks rather than asserts.
+
+> Gilbert, an agency in the Hispanic market often produces where producing is cheaper, which puts pesos or soles in the cost of a campaign billed in dollars. I work on FX and cross border payments at Monex USA. Curious whether that holds at Worldmedia. Marcel
+
+### Jacquie Nelissen, Eastridge Workforce Solutions. NOW CUT, on evidence.
+
+This one would have been a wasted touch. **Eastridge sold its Workforce
+Management and Workforce Technology divisions to Workwell Group in February
+2025, and that sale included the Payrolling and EOR business lines.** The
+international payrolling arm was the entire reason to approach her, and it is no
+longer theirs. What remains is staffing, largely domestic.
+
+Worth keeping in the file as a company note rather than a person: **Workwell
+Group** now owns that EOR book, and an EOR paying contingent workers in Canada,
+Mexico, Germany and the UK is exactly the Core Group Resources shape.
+
+---
+
+## Long shots, at Marcel's instruction
+
+All four are above the band and have real treasury functions. Marcel: "get a
+try, i know is a long shot but you never know."
+
+The notes are built differently because of that. You cannot write to a public
+company CFO as though they have not thought about currency. Each one concedes
+the desk exists in its first clause and then offers the thing a desk does not
+cover. **The honest cost here is not the note, it is the quota**: each of these
+consumes one of fifteen daily invitations that a mid market name would convert
+on more often.
+
+**Michael Lee**, CFO, Arhaus. 261 chars. The long tail of small suppliers is
+what a corporate desk prices worst.
+> Michael, Arhaus has a treasury function, so I am not writing about the big exposures. The piece that usually sits outside one is the long tail of smaller overseas suppliers, where the rate gets set by whoever receives the wire. I work on FX at Monex USA. Marcel
+
+**Ben Duemler**, CFO Americas, Treasury Wine Estates. 253 chars. Policy is in
+Melbourne; the P&L he answers for is not.
+> Ben, with group treasury in Melbourne the policy is not yours, but the Americas P&L still carries whatever the rate does to it. I work on FX and cross border payments at Monex USA. Curious how much of the execution sits on your side of the world. Marcel
+
+**Amanda Gnecco**, CFO, Alliance Entertainment. 257 chars. Her headline is
+capital markets, so the angle is reported results rather than operational
+saving.
+> Amanda, your headline is capital markets and reporting, which is the seat that ends up explaining a currency swing rather than the one that caused it. I work on FX and cross border payments at Monex USA. Curious how much of that reaches your results. Marcel
+
+**Leo Barbosa**, Seadrill, Houston. 257 chars. He is FP&A, not treasury, so the
+note goes to where budget rate meets invoice rate.
+> Leo, FP&A is where multi currency cost shows up long before treasury hedges it, because the budget was built at one rate and the invoices arrive at another. I work on FX and cross border payments at Monex USA, here in Houston. Would enjoy connecting. Marcel
+
+---
+
 ## Channels, not prospects
 
 These two do not buy currency. They sit next to dozens of companies that do, so
@@ -218,7 +298,7 @@ the only thing they are good for.
 
 ---
 
-## Held: two that need a company check first
+## Still held
 
 **Raul Fernandez, Founder, AgroPrime Produce, Fort Lauderdale.** He runs three
 entities, one of which is a consultancy, and the profile leads with
