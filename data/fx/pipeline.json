@@ -4592,11 +4592,11 @@
     "location": "Glen Ellen, California",
     "profileUrl": null,
     "email": "becky@lfwinery.com",
-    "channel": "email",
+    "channel": "email-only",
     "play": "webinar-innovint-cost-of-a-case",
-    "status": "email-sent",
+    "status": "awaiting-reply",
     "firstTouch": "2026-09-24",
-    "lastActivity": "2026-09-24",
+    "lastActivity": "2026-10-01",
     "loggedOn": "2026-09-24",
     "signal": "Co attendee on the InnoVint webinar The Real Cost of a Case, 2026-09-24. Marcel sent from his own Monex address.",
     "note": "Lasseter Family Winery, 1 Vintage Lane, Glen Ellen, Sonoma Valley. Founded 2003, 17 to 30 people, $1M to $5M revenue. Owned by John and Nancy Lasseter, which is why a twenty person winery carries a dedicated GM and CFO seat at all and why the payables are probably larger than the headcount suggests. Bordeaux and Rhone varieties plus heritage Zinfandel, organically and biodynamically farmed. Bordeaux and Rhone means French oak, and French oak is priced in euros.",
@@ -4604,7 +4604,7 @@
     "emailSent": "Subject: Today's cost of a case webinar. Becky, We were both on the InnoVint webinar this morning on the real cost of a case. I work the currency side of that question at Monex USA, for companies whose costs are set in one currency and whose sales are in another. If Lasseter buys its French oak direct, the cost per case keeps moving after you have priced it. The Bordeaux and Rhone program is what made me think of it. And if you buy in dollars instead, someone in the chain is carrying that risk for you, which is worth knowing the price of. Either way, happy to compare notes on how wineries your size handle it. Good to find someone else who gives up an hour to cost per case.",
     "companyLock": "One seat per company. Melina Acuros, Accounting Manager, https://www.linkedin.com/in/melina-acuros-66366a140, is now off limits while Becky is live. Melina was considered and declined: not on the webinar, 84 connections and 3rd degree so a dormant account, and she executes payments rather than setting policy. She is the fallback only if Becky goes quiet for good.",
     "priorContactCheck": "Screened by person and company against pipeline.json and inbox-register.json. Clean.",
-    "nextStep": "If nothing by about 2026-10-02, one short follow up. Do not repeat the question. The unused half of the first email is the follow up: the dollar branch, that a US importer quoting in dollars has the FX margin inside the price. That is new information, not a nudge.",
+    "nextStep": "Touch 3 on 2026-10-08, and it is an email. She has no usable LinkedIn presence: Apollo had her at low confidence and Seamless, ZoomInfo and Lusha between them returned no Rebecca Ross at Lasseter. No phone either. So she is email-only and every touch in her cadence is an email, seven days apart, rather than her silently getting four touches where everyone else gets nine. Two touches settles nothing. The open question if she stays quiet is whether a GM and CFO at a twenty person family winery even owns the barrel purchasing decision, which is worth asking her outright rather than assuming.",
     "touches": [
       {
         "n": 1,
@@ -4612,10 +4612,18 @@
         "channel": "email",
         "outcome": "email-sent",
         "notes": "Corrected 2026-09-30. Touch 1 was an email sent by Marcel from his Monex address, not a LinkedIn invitation. The seeding script labeled every pre cadence touch as an invitation."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-01",
+        "channel": "email",
+        "outcome": "sent, awaiting reply",
+        "notes": "Sent by Marcel by hand from his Monex address, as a reply inside the original InnoVint webinar thread. The dollar branch: a US importer quoting in dollars has already priced the currency risk into the invoice, usually two to four percent, with no line item. Deliberately did not repeat the question from touch 1 about whether Lasseter buys its French oak direct, which she did not answer."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null
+    "touchCount": 2,
+    "nextTouch": null,
+    "lastTouch": "2026-10-01"
   },
   {
     "name": "Tomas De Leon",

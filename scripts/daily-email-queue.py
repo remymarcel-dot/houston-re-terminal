@@ -69,6 +69,27 @@ CADENCE_EPOCH = datetime.date(2026, 9, 1)
 MIN_EMAIL_GAP_DAYS = 7
 EMAIL_CHANNELS = {"email", "email-manual"}
 
+# The day offset of every touch in the core cadence, whatever its channel.
+# Needed because some prospects can only be reached one way.
+TOUCH_OFFSETS = {1: 0, 2: 3, 3: 7, 4: 10, 5: 14, 6: 18, 7: 21, 8: 30, 9: 40}
+
+
+def email_only(entry):
+    """True when email is the only channel this person can be reached on.
+
+    Touches 3, 6 are LinkedIn and 4, 7 are calls. A prospect with no usable
+    LinkedIn profile and no phone number cannot receive any of them, so under
+    the normal schedule they quietly get four touches where everyone else gets
+    nine. Becky Ross is the case that surfaced it: Apollo had her at low
+    confidence and Seamless, ZoomInfo and Lusha between them returned no
+    Rebecca Ross at Lasseter, so the only way in is her inbox. For these people
+    every touch becomes an email, still held apart by MIN_EMAIL_GAP_DAYS.
+    """
+    url = entry.get("profileUrl") or ""
+    dead_linkedin = (not url) or ("imp_" in url) or ("/ACoAA" in url) or ("/ACwAA" in url)
+    no_phone = not (entry.get("phone") or entry.get("mobile"))
+    return dead_linkedin and no_phone
+
 
 def load():
     with open(PIPELINE) as fh:
@@ -122,8 +143,10 @@ def due_email_touches(entry, today):
     floor = last_email_date(entry)
     if floor:
         floor = floor + datetime.timedelta(days=MIN_EMAIL_GAP_DAYS)
+    schedule = (sorted(TOUCH_OFFSETS.items()) if email_only(entry)
+                else email_schedule(max(done) if done else 0))
     out = []
-    for n, offset in email_schedule(max(done) if done else 0):
+    for n, offset in schedule:
         if n in done:
             continue
         due = start + datetime.timedelta(days=offset)

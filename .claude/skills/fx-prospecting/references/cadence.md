@@ -142,3 +142,21 @@ even the right person. That last one is the most useful move at touch 4 and
 beyond, because persistent silence usually means it is not their decision rather
 than that they are not interested, and it gives them an easy reply that still
 advances us.
+
+### Email-only prospects get every touch as an email
+
+Touches 3 and 6 are LinkedIn, 4 and 7 are calls. A prospect with no usable
+LinkedIn profile and no phone number cannot receive any of them, so under the
+normal schedule they quietly get four touches while everyone else gets nine.
+That is the same complacency in a different disguise: the person who is hardest
+to reach ends up chased least.
+
+So when a record has no working profile URL (absent, an `imp_` placeholder, or a
+bare `ACoAA` identifier) **and** no phone, every touch becomes an email, still
+held seven days apart by `MIN_EMAIL_GAP_DAYS`. Becky Ross is the case that
+surfaced it: Apollo had her at low confidence, and Seamless, ZoomInfo and Lusha
+between them returned no Rebecca Ross at Lasseter. Her inbox is the only way in.
+
+Forty-three people in the book are email-only. Six of them have an address
+today, which is the real measure of the enrichment backlog: the rest cannot be
+reached at all until someone finds one.
