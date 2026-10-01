@@ -160,3 +160,20 @@ between them returned no Rebecca Ross at Lasseter. Her inbox is the only way in.
 Forty-three people in the book are email-only. Six of them have an address
 today, which is the real measure of the enrichment backlog: the rest cannot be
 reached at all until someone finds one.
+
+### `seat-superseded`, the one stop the prospect had no part in
+
+One seat per company means that when a better seat is found at a company
+already in the book, the first person has to leave the queue without ever
+having said no. That is a real exception to the rule above, so it is named
+rather than smuggled in under "dormant".
+
+It is only valid when the replacement is **already in the pipeline and
+reachable**. The company stays live; the superseded person stays on file as
+the fallback if the new seat goes quiet for good. Record `supersededBy` with
+the replacement's name so the swap can be read back and reversed.
+
+Agostinho Nobre at Katzman is the first: Director of Operations, unreachable
+in both ZoomInfo and Apollo, replaced by Bryan Hanlon, the CFO, who had a
+verified address on a non catch-all domain. Nobre had never been contacted,
+so nothing was wasted.

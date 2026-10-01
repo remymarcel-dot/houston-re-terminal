@@ -43,8 +43,13 @@ PIPELINE = os.path.join(ROOT, "data", "fx", "pipeline.json")
 #   marcel-rule  Marcel excluded them or the company
 #   out-of-icp   no US entity, no exposure, or below the band
 #   client       already ours
+#   seat-superseded  a better seat at the SAME company is being worked instead.
+#                    The company stays live; this person is the fallback if that
+#                    seat goes quiet for good. This is the one stop reason the
+#                    prospect had no part in, so it is only valid when the
+#                    replacement is actually in the pipeline and reachable.
 VALID_STOPS = {"said-no", "seat-gone", "thesis-dead", "marcel-rule",
-               "out-of-icp", "client"}
+               "out-of-icp", "client", "seat-superseded"}
 
 # Statuses that mean a human is mid-conversation and writes by hand. These are
 # paused rather than stopped: the thread is live, so a scripted touch would cut

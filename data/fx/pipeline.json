@@ -1348,7 +1348,11 @@
     "nextTouch": null,
     "enrichmentGap": "Apollo matched him at high confidence but released no email, status unavailable. Useful anyway: he is Director of Operations at Katzman, a Bronx produce wholesaler at 220 people and $18.3M, and came from Americold and Smurfit Westrock. Right company, and the seat is operations rather than finance. Seamless is the last stop for the address. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
     "enrichmentTried": "2026-10-01",
-    "betterSeat": "Apollo free search shows Katzman HAS a Chief Financial Officer indexed, first name Bryan, surname masked until enrichment, WITH both an email and a direct dial on file, plus an assistant controller. Nobre is Director of Operations and unreachable. Since he has never been contacted, swapping to the CFO costs nothing and breaks no one-seat rule. Marcel decides; say the word and the enrichment is one Apollo credit."
+    "betterSeat": "Apollo free search shows Katzman HAS a Chief Financial Officer indexed, first name Bryan, surname masked until enrichment, WITH both an email and a direct dial on file, plus an assistant controller. Nobre is Director of Operations and unreachable. Since he has never been contacted, swapping to the CFO costs nothing and breaks no one-seat rule. Marcel decides; say the word and the enrichment is one Apollo credit.",
+    "stopReason": "seat-superseded",
+    "stoppedOn": "2026-10-01",
+    "stopNote": "Superseded by Bryan Hanlon, CFO at the same company, who is reachable where Nobre is not. Nobre was never contacted, so nothing is wasted and no one-seat rule is broken. He is Director of Operations and stays on file as the fallback if Hanlon goes quiet for good. Katzman itself is NOT dropped: this is a seat swap, not a stop on the company.",
+    "supersededBy": "Bryan Hanlon"
   },
   {
     "name": "Raynier Plasencia",
@@ -7711,5 +7715,34 @@
     "touchCount": 1,
     "nextTouch": null,
     "email": "jason.hakala@edlog.com"
+  },
+  {
+    "name": "Bryan Hanlon",
+    "company": "Katzman",
+    "title": "Chief Financial Officer",
+    "location": "New York, New York, United States",
+    "profileUrl": "http://www.linkedin.com/in/bryanhanlon",
+    "email": "bhanlon@katzman.com",
+    "phone": null,
+    "mobile": null,
+    "doNotCall": "no number on file yet",
+    "contactAccuracyScore": null,
+    "emailSource": "Apollo, 2026-10-01, high confidence, status verified, and katzman.com is NOT a catch-all domain, so verified means what it says. One credit.",
+    "play": "play-4-cold",
+    "campaignId": null,
+    "listId": null,
+    "status": "identified-not-contacted",
+    "outcome": null,
+    "firstTouch": null,
+    "touches": [],
+    "touchCount": 0,
+    "priority": "tier-2",
+    "loggedOn": "2026-10-01",
+    "signal": "NEW IN SEAT. CFO at Katzman since March 2026, seven months. A new finance chief is still deciding which banking and payment relationships to keep, which icp.md records as a real trigger.",
+    "note": "Katzman is a Bronx produce wholesaler on Edgewater Road at the NYC produce market, 220 people and $18.3M, family owned, moving tropicals and berries, which means year-round imported volume rather than a seasonal programme. Hanlon's background is not produce: Arthur Andersen auditor, then Controller and Chief Accounting Officer at Asbury Automotive, VP Controller at rag and bone, EVP Finance at Centric Brands, then a run of CFO advisory engagements before this. So he is a serious technical finance operator who has just walked into an importing business, which is exactly the person who looks at the FX line for the first time. Replaces Agostinho Nobre, Director of Operations, who could not be reached in ZoomInfo or Apollo.",
+    "angle": "Do not open with produce. Open with the fact that he is seven months into a business whose cost base moves with currencies he did not set, and ask what he found when he looked at it. His Centric Brands and rag and bone years mean he has seen imported cost structures before, so the question flatters nothing and assumes competence.",
+    "companyLock": "One seat per company. Agostinho Nobre is now stopReason seat-superseded and is the fallback only if Hanlon goes quiet for good.",
+    "priorContactCheck": "Katzman has never been contacted. Nobre was identified but never reached.",
+    "nextStep": "Needs a LinkedIn note written and a wave to ride. Not yet in any campaign."
   }
 ]
