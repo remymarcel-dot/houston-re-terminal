@@ -7854,17 +7854,27 @@
     "play": "email-direct",
     "campaignId": null,
     "listId": null,
-    "status": "draft-ready-manual-send",
+    "status": "awaiting-reply",
     "outcome": null,
-    "firstTouch": null,
-    "touches": [],
-    "touchCount": 0,
+    "firstTouch": "2026-10-01",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-01",
+        "channel": "email",
+        "outcome": "sent, awaiting reply",
+        "notes": "Sent by Marcel by hand from his Monex address in Outlook. Subject: The side of the Eastridge split you kept. Opens on his twenty seven years at Eastridge and his choosing the payrolling side over staffing when the business split, then goes to the FX spread inside the payment rails as the line that rarely gets tendered. Discloses in the fourth paragraph that Jesus Aguilar has also been approached."
+      }
+    ],
+    "touchCount": 1,
     "priority": "tier-1",
     "loggedOn": "2026-10-01",
     "signal": "TWENTY SEVEN YEARS AT EASTRIDGE, from 1998 through sales and operations, President of Abbott Staffing, President of Workforce Recruitment, CEO from 2020. When the business split in February 2025 he went with the payrolling and EOR side rather than staying with staffing. That is a bet on cross border employment made with his own career, and it is the opening line.",
     "note": "Workwell North America: the carved out Eastridge EOR business, San Diego, 74 people, under Workwell Group of Watford. | DELIBERATE DOUBLE APPROACH, at Marcel's instruction. Jesus Aguilar, his CFO, has an invitation firing 2026-10-06 in campaign 630953 at the same 74 person office. Marcel's own one seat per company rule is being set aside here. The email therefore discloses the other approach in its fourth paragraph rather than hoping it goes unnoticed: a CEO who hears it from his CFO first reads it differently.",
     "angle": "Different conversation from the CFO's on purpose. Jesus gets the FX spread argument because he has publicly tendered a banking relationship and put a number on it. Seth gets his own career bet, because it is the most interesting true thing about him and nobody else writing to him will have noticed it.",
     "companyLock": "Two seats live at one company by exception. If this proves awkward, the fallback is to pull Jesus from Tuesday's wave or to hold Seth until Jesus has replied or gone quiet.",
-    "nextStep": "Marcel sends by hand from his Monex address in Outlook; the only mailbox connected to the session is his personal Gmail. Tell the agent when it goes and touch 1 gets logged, which puts touch 2 seven days out."
+    "nextStep": "Touch 2 is an email, due 2026-10-08. Do not repeat the career observation; it has been spent. If he is silent, the unused half of this approach is the concrete one: ask what the spread was on their last payroll funding run into Canada or Mexico and compare it to the interbank mid, which is the same move that went to Hillary Stroble.",
+    "lastTouch": "2026-10-01",
+    "lastActivity": "2026-10-01"
   }
 ]
