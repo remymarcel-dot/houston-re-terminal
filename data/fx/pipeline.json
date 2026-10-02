@@ -8191,5 +8191,237 @@
     "nextStep": "NO CADENCE. An InMail is one shot and a follow up InMail to someone who did not answer the first reads badly. If he replies that Quetico pays factories in local currency, the book is recurring, sizeable and forecastable and the conversation is immediate. If he replies always dollars, say so plainly and ask instead about the CANADIAN operation, which is real CAD payroll and lease exposure and does not depend on the financing answer. If silence, he is not re-approached; the fallback is a warm path appearing later, since he has none today.",
     "doNotRaise": "Nothing about Ethos Brands or RVCA in the first message, deliberately. It is the glamorous half of his profile and would dilute a note whose strength is one narrow question. It is the obvious second thread if he engages. Also no praise of the Sales Associate to EVP arc: flattery from a stranger who is selling reads as technique.",
     "oneSeatRule": "Markar holds the Quetico seat. Omar Oweis (senior staff accountant) and Shirley Sass (senior accountant) are both OUT, including Sass despite her being the only Quetico profile whose URL we captured. Holding a URL is not a reason to write to the weakest seat at a company."
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Jose Antonio Martinez Haro",
+    "company": "Divine Flavor",
+    "title": "COO and General Manager",
+    "location": "Nogales, Arizona, United States",
+    "profileUrl": "https://www.linkedin.com/in/jose-antonio-martinez-haro-6412312/",
+    "angle": "US arm of Grupo Alta, one of the larger Mexican grape, tomato and pepper exporters. Revenue in dollars, production cost in pesos across the border. 11 mutuals, Harvard Business School. Spanish note.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Keith Wilson",
+    "company": "King Fresh Produce LLC",
+    "title": "Owner",
+    "location": "Kingsburg, California, United States",
+    "profileUrl": "https://www.linkedin.com/in/keith-wilson-aa361929/",
+    "angle": "Owner seat at a family business, 36 mutuals. The note ASKS rather than asserts: a Central Valley grower shipper could be an exporter, an off season importer, or both, and guessing to an owner loses him.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Mitch Millwee",
+    "company": "Pandol Brothers, Inc.",
+    "title": "President and CEO",
+    "location": "Bakersfield, California, United States",
+    "profileUrl": "https://www.linkedin.com/in/mitch-millwee-9b827821/",
+    "angle": "One of the oldest and largest US importers of Chilean and Peruvian table grapes. His own About lists underwriting and loan structuring, so the note concedes he already knows the mechanics. FIRST of the San Joaquin grape cluster; Campbell and Zaninovich are held until he replies or Oct 12.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Rafael Hernandez",
+    "company": "Mr. Meat Master",
+    "title": "Chief Executive Officer",
+    "location": "Fort Lauderdale, Florida, United States",
+    "profileUrl": "https://www.linkedin.com/in/rafael-hernandez-7138b548/",
+    "angle": "He put International Business in his own headline, so the note quotes it back. Imported beef with a wagyu banner means Japan, Australia or Latin America. 21 mutuals.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Guillermo DeLeon",
+    "company": "Deleon Trade LLC",
+    "title": "Chief Financial Officer",
+    "location": "Greater Houston",
+    "profileUrl": "https://www.linkedin.com/in/guillermodeleon/",
+    "angle": "Trade compliance practice, so the SACSA shape: account and referral channel at once. The note does NOT ask to be referred, which would be crass at first contact. 10 mutuals, 5,564 followers, Houston.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Debra Wevers",
+    "company": "Internova Travel Group",
+    "title": "Director, Treasury",
+    "location": "New York City Metropolitan Area",
+    "profileUrl": "https://www.linkedin.com/in/debrawevers/",
+    "angle": "The strongest treasury seat on the list, and unlike Lindsey Thiel at a domestic homebuilder the exposure is structural: hotels, tour operators and airlines in dozens of currencies, continuously. CTP, MBA, 10 mutuals.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "name": "Patricia Pinter",
+    "company": "American Wire Group",
+    "title": "CFO and VP of Operations",
+    "location": "Miami, Florida, United States",
+    "profileUrl": "https://www.linkedin.com/in/patriciapinter/",
+    "angle": "Wire and cable to utilities, much of it imported. Two seats in one person is the observation: she sees landed cost whole rather than as a finance number and an operations number. 26 mutuals.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
+      }
+    ]
+  },
+  {
+    "name": "Carlos Gomes",
+    "company": "CG Seafood Group",
+    "title": "Buyer",
+    "location": "United States",
+    "profileUrl": "https://www.linkedin.com/in/carlos-gomes-cgseafoodgroup/",
+    "play": "play-0-first-degree",
+    "status": "in-campaign",
+    "campaignId": 634737,
+    "listId": 988203,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "signal": "His own post advertises PUD shrimp, blanched IQF, India origin. A buyer publicly announcing his origin is announcing his currency.",
+    "angle": "THE ARGUMENT HE WILL NOT HAVE HEARD: shrimp out of India invoices in dollars, so on paper there is no currency question. In practice the exporter prices his own rupee risk into the quote, so the buyer pays it with no line item ever appearing. That reframes a dollar invoice as a currency problem.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-message",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634737, Play 0 CHECK_IS_CONNECTION then MESSAGE after 3 hours. He is genuinely first degree, which matters: the Hillary Stroble failure proved the MESSAGE node skips silently for non-connections, while Sean Fightmaster's sent normally. Verified at creation: IN_PROGRESS, 1 user, 0 failed, 0 excluded."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify leadMessageStatus reads MessageSent at lead level, not the counters. If he answers that it is dollars all the way, that is the opening rather than the end: the next question is whether he has ever asked an Indian exporter to quote in rupees, since that is where the embedded risk premium becomes visible."
   }
 ]
