@@ -1,3 +1,18 @@
+# SUPERSEDED 2026-10-02: Luis Reynoso is a first degree connection
+
+**Marcel checked the profile and the button reads "Message."** He accepted the
+invitation at some point after 2026-09-23, which is why he was absent from the
+sent invitations list. **Everything below about withdrawals, three week blocks
+and email as the primary route is obsolete.**
+
+**Use `data/fx/message-luis-reynoso-2026-10-02.md` instead**, which carries the
+Play 0 direct message. His email `lreynoso@jonesplastic.com` stays valid as a
+second touch if the LinkedIn message goes unanswered.
+
+Kept only so the reasoning is not rediscovered.
+
+---
+
 # Luis Reynoso, CFO Mexican Operations, Jones Plastic & Engineering
 
 **Marcel withdrew the invitation.** So he is not a connection, nothing is

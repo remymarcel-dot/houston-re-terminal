@@ -1,112 +1,117 @@
-# Luis Reynoso, CFO Mexican Operations, Jones Plastic & Engineering, El Paso
+# Luis Reynoso, CFO Mexican Operations, Jones Plastic & Engineering
 
-**Marcel checked LinkedIn 2026-10-02: no message and no pending invitation.**
-Combined with `get_conversations_v2` returning zero, **nothing has ever reached
-him.** The invitation that HeyReach hit on 2026-09-23 as
-`ConnectionRequestAlreadySent` is gone from the pending list.
+## HE IS A FIRST DEGREE CONNECTION. Send a direct message now.
 
-## One thing still unresolved, and it decides which note to send
+**Marcel checked the profile 2026-10-02: the button reads "Message."** That
+settles it. They are connected.
 
-An invitation leaves the sent list two ways: **withdrawn or expired**, or
-**accepted**. LinkedIn does not distinguish them on that page, and no HeyReach
-read can tell degree without writing a campaign.
+**This supersedes everything written about withdrawals and three week blocks.**
+None of it applies. There is no invitation to send, no quota to spend, no 300
+character cap, and no waiting.
 
-**So: does his profile show "Connect" or "Message"?**
+### What actually happened
 
-- **"Connect"** → not a connection. Send the Play 4 invitation below.
-- **"Message"** → he accepted at some point and nobody noticed. Send the Play 0
-  message below instead, which is better anyway: no 300 character cap, no
-  invitation quota, and it can ask a real question.
+Campaign 613743 failed on **2026-09-23** with `ConnectionRequestAlreadySent`,
+not `AlreadyAConnection`. So on that date he was **not** a connection, he merely
+had an invitation outstanding. Between then and 2 October **he accepted it.**
 
-Both are written. No further work needed either way.
+That is exactly why he was missing from the sent invitations list: **an accepted
+invitation leaves that list.** It was the one possibility the list could not
+distinguish, and the profile button distinguished it in one glance.
 
----
-
-## Why he is worth the attention
-
-**He is the cleanest case in the whole book.** Jones Plastic & Engineering is a
-US contract plastics manufacturer with plants in Mexico, and he is **CFO of the
-Mexican operations, sitting in El Paso.** US parent, Mexican plants, peso
-payroll and peso costs against dollar revenue, and he personally owns that side
-of the ledger.
-
-Nothing needs explaining to this man. From his own About:
-
-> "23 Years of Experience in all the accounting facets (Operation, Internal
-> control, Finance, Budgeting) CPA (Certified Public Accountant). During those
-> years have held Different Positions, Worked for World Class Companies Mainly
-> from US located in Mexico territory (Jones Plastic & Engineering, Tecumseh,
-> SIEMENS)."
-
-**That is Marcel's own career shape**, which is the real common ground and not a
-gimmick: Marcel ran finance across four countries, including Partner and CFO for
-Mexico and Central America at Seidor and Partner and CFOO for the USA.
-
-### One thing to know and NOT to mention
-
-His About also says he is **"Targeting a CFO position at a small / mid-market
-private company or at the business unit level of a large company."** He is
-looking to move.
-
-That cuts both ways and is worth holding in mind: a man on his way out may not
-champion a new banking relationship, but he is also receptive to conversation
-and will land somewhere with the same exposure. **Do not reference it in the
-note.** Pointing at someone's job search in a cold approach is intrusive and
-would cost the relationship immediately.
-
-### Spanish, on evidence rather than on a surname
-
-A Mexican CPA whose entire career has been with US companies inside Mexican
-territory, now based in a border city. His About is written in English but not
-natively. **Spanish is the warmer and probably easier read for him**, and unlike
-Rosa Duarte this is not inferred from a name.
+**Nothing was lost.** Whatever was or was not withdrawn, the outcome is the best
+available: a live connection to the strongest name of the five.
 
 ---
 
-## If "Connect": Play 4 invitation, Spanish, 258 chars
+## Send this as a LinkedIn direct message
 
-> Luis, ser CFO de las operaciones en Mexico de una empresa estadounidense
-> significa nomina y costos en pesos contra ingresos en dolares, y tu no
-> necesitas que te lo expliquen. Yo lleve finanzas en cuatro paises antes de
-> Monex USA. Con gusto conectamos. Marcel
+Play 0. No cap. Messages come from a **separate 30 per day quota** that
+invitations do not touch, so this costs nothing against the invitation budget.
 
-**English alternative, 242 chars:**
+He accepted recently, so **thanking him for connecting is the natural opening**
+and keeps the first line from reading as a pitch.
 
-> Luis, running finance for the Mexican operations of a US manufacturer means
-> peso payroll and costs against dollar revenue, which you do not need
-> explained. I ran finance across four countries before Monex USA. Would be glad
-> to connect. Marcel
+### Spanish, recommended
 
-## If "Message": Play 0 direct message, Spanish
-
-No cap, so it can do what an invitation cannot and ask the question that
-qualifies him either way. Same structure that worked on Yllescas.
-
-> Luis, veo que llevas las finanzas de las operaciones en Mexico de Jones
-> Plastic desde El Paso. Esa estructura, nomina y costos en pesos contra
-> ingresos en dolares, es justo la que mas trabajo en Monex USA.
+> Luis, gracias por conectar.
 >
-> Yo lleve finanzas en cuatro paises antes de esto, incluyendo Mexico y Centro
-> America, asi que no te voy a explicar la exposicion.
+> Veo que llevas las finanzas de las operaciones en Mexico de Jones Plastic desde
+> El Paso. Nomina y costos en pesos contra ingresos en dolares es justo la
+> estructura que mas trabajo en Monex USA, y no te la voy a explicar porque tu la
+> vives cada quincena.
+>
+> Lo unico que me interesa preguntarte: esa exposicion casi nunca llega como una
+> factura que alguien revisa, llega como el tipo de cambio del dia en que se
+> paga. Por eso sobrevive el escrutinio que recibe cualquier otra linea.
+>
+> Antes de Monex lleve finanzas en cuatro paises, incluyendo Mexico y Centro
+> America.
 >
 > Una sola pregunta: la decision de tipo de cambio la tomas tu en El Paso o la
-> corporativa en Estados Unidos? Cualquiera de las dos respuestas me sirve.
+> corporativa en Estados Unidos? Cualquiera de las dos respuestas me sirve, y si
+> ya lo tienen cubierto, dimelo y lo dejo ahi.
 >
 > Marcel
 
-**English alternative:**
+### English
 
-> Luis, I see you run finance for Jones Plastic's Mexican operations out of El
-> Paso. Peso payroll and costs against dollar revenue is the exact shape I work
-> on at Monex USA.
+> Luis, thanks for connecting.
 >
-> I ran finance across four countries before this, Mexico and Central America
-> included, so I will not explain the exposure to you.
+> I see you run finance for Jones Plastic's Mexican operations out of El Paso.
+> Peso payroll and costs against dollar revenue is the exact structure I work on
+> at Monex USA, and I am not going to explain it to you since you live it every
+> pay period.
+>
+> The one thing I am curious about: that exposure almost never arrives as an
+> invoice anybody reviews. It arrives as whatever the rate happened to be on the
+> day each payment went out, which is why it survives the scrutiny every other
+> line gets.
+>
+> Before Monex I ran finance across four countries, Mexico and Central America
+> included.
 >
 > One question only: does the rate decision sit with you in El Paso or with
-> corporate in the US? Either answer is useful to me.
+> corporate in the US? Either answer is useful, and if it is already hedged, tell
+> me and I will leave it there.
 >
 > Marcel
 
-**Why the question is the right close.** "Corporate handles it" is a clean
-qualification and not a loss, and it arrives in one reply instead of three.
+**Spanish is the call**, on evidence rather than on a surname: a Mexican CPA
+whose entire career has been with US companies inside Mexican territory, now
+based in a border city, whose own profile is written in non-native English.
+
+---
+
+## Why he is the strongest of the five
+
+Jones Plastic & Engineering is a US contract plastics manufacturer and **he is
+CFO of the Mexican operations.** Peso payroll and peso costs against dollar
+revenue, owned by him personally, with nothing to explain.
+
+From his own About:
+
+> "23 Years of Experience in all the accounting facets (Operation, Internal
+> control, Finance, Budgeting) CPA (Certified Public Accountant)... Worked for
+> **World Class Companies Mainly from US located in Mexico territory** (Jones
+> Plastic & Engineering, Tecumseh, SIEMENS)."
+
+**That is Marcel's own career shape**, which makes the common ground real rather
+than decorative.
+
+## Two things to hold back
+
+**His job search.** His About says he is "Targeting a CFO position at a small /
+mid-market private company or at the business unit level of a large company." Do
+not reference it. Intrusive, and it would cost the relationship in one line.
+
+**His email, for now.** `lreynoso@jonesplastic.com` is a ZoomInfo FULL_MATCH and
+it is the right second touch if the LinkedIn message goes unanswered in a week
+or two. But he just accepted a connection, so **LinkedIn is the warm channel
+today** and email after it would be the colder one.
+
+## Why the closing question is the right close
+
+"Corporate handles it" is a clean qualification, not a loss, and it arrives in
+one reply instead of three. Same structure that worked on Ricardo Yllescas at
+Elementia, where the Mexico City group treasury objection was the same shape.
