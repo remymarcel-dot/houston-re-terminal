@@ -523,3 +523,40 @@ A connection request is cheap and verifiable at lead level. This is neither.
 
 **No cadence afterwards.** If they do not answer, they are not re-approached.
 The fallback is a warm path appearing later, not a second InMail.
+
+
+## Never withdraw a pending invitation to re-send it with a note
+
+**LinkedIn blocks re-inviting the same person for about three weeks after a
+withdrawal.** So withdrawing to attach a note costs the live invitation *and*
+three weeks of silence, in exchange for 300 characters.
+
+**It cost Luis Reynoso on 2026-10-02**, and the cause was advice written in this
+repository. A lookup sheet handed to Marcel for auditing five untracked pending
+invitations said "a month or more → withdraw and re-send with a proper note."
+The three week block was only worked out an hour later, while drafting the Olivo
+approach, and by then he had acted on the first version. **He is the strongest of
+the five and his LinkedIn invitation route is now shut until roughly 23 October.**
+
+So: **a pending invitation with no note is still worth more sitting there than
+withdrawn.** It may be accepted on its own. Leave it, and reach the person
+through a channel that needs no invitation.
+
+### Three channels need no invitation and no acceptance
+
+1. **Email.** Free, unlimited, and ZoomInfo `enrich_contacts` returned a
+   FULL_MATCH address for every one of the five names audited that day. This is
+   the default.
+2. **InMail.** The three week block applies to **invitations, not InMail**, and
+   the account carries 40 credits (`inMailLimit: 40`, `inMailCooldown: false`).
+   A withdrawn invitation does not close the LinkedIn channel. Spend a credit
+   only after email has gone unanswered, since credits are finite and email is
+   not.
+3. **Commenting on their posts.** Free, and the cheapest way to get a pending
+   invitation accepted on its own. Only works for people with active feeds.
+
+### And when auditing invitations, say this up front
+
+An audit that sends someone to their sent-invitations page **must carry the "do
+not withdraw" instruction in the same breath**, before they go looking. Giving
+the audit first and the constraint afterwards is how this went wrong.

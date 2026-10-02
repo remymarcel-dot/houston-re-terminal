@@ -44,15 +44,23 @@ The comma and "CPA" are part of his LinkedIn surname field, so he displays as
 Just the **"Sent X ago"** figure. That gives the date, and the date decides
 everything else:
 
-- **Under about 2 weeks** → leave it alone, it is still fresh.
-- **A month or more** → withdraw and re-send with a proper note. Nothing was
-  ever delivered with these, so the note is the whole opportunity and right now
-  all five are sitting there as bare invitations.
-- **Not in the list at all** → the invitation was withdrawn or expired, and they
-  are free to approach cleanly. Tell me and I will write the notes.
+> **CORRECTED 2026-10-02, and this file gave bad advice before the correction.**
+> The original version of this section said a stale invitation was worth
+> withdrawing and re-sending with a note. **That was wrong.** LinkedIn blocks
+> re-inviting the same person for about **three weeks** after a withdrawal, so
+> withdrawing costs the live invitation AND three weeks of silence, all to buy
+> 300 characters. Marcel acted on the original advice for Luis Reynoso before
+> the error was caught.
 
-LinkedIn withdraws nothing automatically, but a long-stale invitation with no
-note is worth replacing rather than waiting on.
+- **Any pending invitation → LEAVE IT ALONE.** It may be accepted on its own,
+  and it costs nothing sitting there.
+- **Not in the list** → either it lapsed, or it was withdrawn, or **they
+  accepted and nobody noticed.** The profile button distinguishes the last case:
+  "Message" means connected.
+
+**The note is not worth the wait.** Reach them by email instead, which needs no
+invitation, no acceptance and no waiting. Every one of these five has a verified
+work address.
 
 ## If a name is missing from the list
 
