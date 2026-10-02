@@ -11,7 +11,7 @@ ranked "Worth an invitation" on 2026-10-01 were lost.
   check  exit non-zero and report anything that needs a human decision
 
 Verdicts:
-  entered                     has a pipeline row. The only self-healing verdict
+  entered                     has an open pipeline row. The only self-healing verdict
   note-written-not-entered    a note exists but no pipeline row. ACTION NEEDED
   blocked-url                 recommended, waiting on Marcel to paste a URL. CHASE IT
   recommended-never-actioned  recommended, no note, no row, no recorded blocker. WORST CASE
@@ -92,6 +92,13 @@ def build():
 
             name = num.group(2).strip()
             row = match(name, idx)
+            # a closed row is an OUTCOME, not just presence: report it as rejected
+            if row and str(row.get('status')) in ('closed', 'do-not-contact', 'cut'):
+                ledger.append(dict(screen=base, name=name, section=sec,
+                                   verdict='rejected',
+                                   detail=f"worked, then closed: {row.get('outcome') or row.get('status')}",
+                                   resolvedBy='derived'))
+                continue
             if (base, name) in manual and not row:
                 # a hand-resolved verdict is kept ONLY while it stays true; a pipeline
                 # row is proof the name was actioned and overrides it
