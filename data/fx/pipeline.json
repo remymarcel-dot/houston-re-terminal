@@ -8931,23 +8931,31 @@
   },
   {
     "play": "play-4-cold",
-    "status": "url-unconfirmed",
+    "status": "invitation-sent-manually",
     "campaignId": null,
     "listId": null,
     "outcome": null,
-    "firstTouch": null,
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
-    "touchCount": 0,
-    "nextTouch": null,
+    "touchCount": 1,
+    "nextTouch": "2026-10-16",
     "profileUrl": "https://www.linkedin.com/in/rosa-duarte-213452172",
-    "touches": [],
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation-manual",
+        "outcome": "SENT, confirmed by Marcel. Invitation pending acceptance.",
+        "notes": "Sent by hand from LinkedIn, never through HeyReach. Recorded as the ENGLISH note, 250 characters, which was the recommended default; the Spanish alternative was 261 characters and conditional on her profile showing Spanish activity. Marcel did not say which he used, so the language is an ASSUMPTION to correct before any follow-up is written. Both versions are in data/fx/notes-2026-10-02-worth-a-note.md item 21. WHY BY HAND AND NOT IN THE 2026-10-02 CAMPAIGN: get_lead returns 404 on her profile URL, with and without the trailing slash. An unresolvable URL inside a HeyReach campaign becomes an imp_ placeholder lead that is never contacted and never reports an error, which is how Louise Lalor was lost in campaign 620518. A 404 from get_lead is NOT proof the URL is wrong, and the evidence for it is strong: LinkedIn's own page title at that address reads 'Rosa Duarte - Accounting Manager at California Giant Berry Farms' and the page schema gives the same slug as sameAs. She is most likely simply too small a profile for HeyReach to resolve, 361 connections and 347 followers. Sending by hand removes the risk entirely, because a wrong URL just fails to open. Marcel confirmed the send on 2026-10-02."
+      }
+    ],
     "name": "Rosa Duarte",
     "company": "California Giant Berry Farms",
     "title": "Accounting Manager",
     "location": "California",
-    "nextStep": "HELD OUT OF THE 2026-10-02 CAMPAIGN DELIBERATELY. The other seven went into campaign 634736; she did not, because get_lead 404s on her URL twice and an unresolvable URL in a campaign becomes an imp_ placeholder lead that is never contacted and never reports an error, exactly as happened to Louise Lalor in campaign 620518. SEND HER BY HAND. Open the URL, confirm it is her (Accounting Manager at California Giant Berry Farms, San Francisco Bay Area, ~333 connections), and paste the note. A wrong URL simply fails to open, so by hand there is no silent-failure risk. Note is English by default, with a Spanish alternative, in notes-2026-10-02-worth-a-note.md item 21. Tell me once sent and I will log it.",
+    "nextStep": "WAIT. Invitation with note SENT BY HAND by Marcel on 2026-10-02 and confirmed by him. Nothing to do until she accepts. CHECK 2026-10-16: if the invitation is still pending, leave it pending and do NOT withdraw it. Withdrawing starts a roughly three week LinkedIn block on re-inviting, which is how the Luis Reynoso approach was lost. IF SHE ACCEPTS, the next touch is a Play 0 message and the ask is NOT a meeting with her. She is an accounting manager, below the decision seat, and the note was written honestly on that basis. The ask is who at California Giant owns the grower settlement rate, so she can hand the thread upward. She has been in that seat since MARCH 2005, twenty years, so she will know the answer and will know the history of how it was decided. LANGUAGE OF THE FOLLOW-UP MUST MATCH THE INVITATION. Recorded as English, which was the recommended default. Marcel did not state which version he used, so CONFIRM WITH HIM before writing the follow-up if her profile turns out to be Spanish speaking. DO NOT PUT HER IN A HEYREACH CAMPAIGN, EVER. get_lead 404s on her URL, so a campaign lead would become an imp_ placeholder and a silent non-send, exactly as happened to Louise Lalor in campaign 620518. She is a by-hand contact permanently.",
     "noteFile": "data/fx/notes-2026-10-02-worth-a-note.md item 21",
     "angle": "BELOW THE DECISION SEAT, and the note does not pretend otherwise. It says the payments pass through her hands, not that she decides them, exactly as Gloria Mancilla's does. An accounting manager running weekly grower settlements sees the rate more often than the CFO does. 2nd degree, 3 mutuals, 361 connections. | NEW DETAIL THAT STRENGTHENS HER: she has been Accounting Manager at California Giant since MARCH 2005, so twenty years and five months in the same seat. She is not a junior back office name, she is the institutional memory of how that company pays its growers. That makes the 'payments pass through your hands every week' line truer than when it was written. DO NOT PUT HER IN A HEYREACH CAMPAIGN UNTIL MARCEL EYEBALLS THE URL. An unresolvable URL produces an imp_ placeholder lead and a silent non-send, which is exactly what happened to Louise Lalor in campaign 620518. Sending by hand carries no such risk.",
     "urlProvenance": "Found by web search. NOT CONFIRMED BY API: get_lead returned 404 twice, with and without the trailing slash. The evidence for the URL is still strong: LinkedIn's own page title at that address reads 'Rosa Duarte - Accounting Manager at California Giant Berry Farms' and the page's schema markup gives the same slug as sameAs. The likely reason for the 404 is that she is a small, low-activity profile (333 connections, 347 followers) that HeyReach cannot resolve. A get_lead 404 is NOT proof the URL is wrong."

@@ -279,6 +279,18 @@ not evidence**, so English is the default here.
 > que nadie compara. Trabajo divisas y pagos internacionales en Monex USA. Con
 > gusto conectamos. Marcel
 
+**SENT BY HAND 2026-10-02.** Marcel sent the invitation and confirmed it. Logged
+as `invitation-sent-manually`, touch 1, next check **2026-10-16**. Recorded as the
+ENGLISH version, the recommended default; he did not state which he used, so
+confirm the language before writing any follow-up so the two match.
+
+If still pending on 16 Oct, leave it. Do not withdraw. If she accepts, the ask is
+not a meeting with her: she is below the decision seat and the note was written
+honestly on that basis. Ask who owns the grower settlement rate so she can pass
+the thread up. Twenty years in the seat since March 2005 means she will know, and
+will know how it was decided. She must never go into a HeyReach campaign, because
+`get_lead` 404s on her URL.
+
 ---
 
 **Twelve notes now written and none sendable.** The entire list is blocked on
