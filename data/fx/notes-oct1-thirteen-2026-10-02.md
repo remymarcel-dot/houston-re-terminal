@@ -20,46 +20,79 @@ separate 30 a day message quota and do not consume any of the 15 daily invitatio
 
 ---
 
-# ⚠️ AND ONE CONFLICT TO SETTLE BEFORE GABRIEL GOES ANYWHERE
+# ✅ THE GABRIEL CONFLICT IS RESOLVED, AND THE ANSWER IS BETTER THAN A YES OR NO
 
-**Gabriel Perez Krieb's banner carries GRUPO SESAJAL**, and **Gloria Mancilla of Grupo
-Sesajal was invited by hand on 2026-10-02.** Chosen Foods is nominally its own company,
-avocado oil out of San Diego, but a Sesajal banner on the Executive Chairman suggests
-ownership or something close to it.
+**Marcel did not have this information, so it was researched on 2026-10-02.** The ownership
+history, from the trade press:
 
-**If Chosen Foods is a Sesajal entity, writing to him breaks the one seat per company rule
-and double approaches a group Marcel is already working.** Marcel settled Sesajal
-deliberately on 2026-10-02: Gloria first, the other four out, including the group CFO.
+- **2015** — after years of making product for Chosen Foods, **Sesajal bought 50%**, and
+  **Gabriel Perez Krieb joined the board as a Sesajal executive.**
+- **2017** — he and his team acquired a further 40%, Chosen Foods was reported as **acquired
+  by Sesajal**, and he became CEO. Sesajal then had **seventeen companies** under its
+  umbrella, Chosen Foods being the largest and the only business-to-consumer one.
+- **2021** — **Butterfly Equity acquired the majority of Chosen Foods.**
 
-**Marcel decides this one, and it is a yes or no question:** is Chosen Foods part of Grupo
-Sesajal or merely supplied by it? If part of it, Gabriel waits behind Gloria. If merely
-supplied, he is a separate company and the strongest first degree name on this page.
+## No one-seat conflict. The hold is lifted.
 
----
+**Chosen Foods has not been a Sesajal subsidiary since 2021.** It is a separate,
+institutionally owned US company, and his title moving from CEO to Executive Chairman fits
+that deal. **Writing to him does not breach the one seat per company rule against Gloria
+Mancilla.**
+
+## But the real finding is personal, and it changes his value
+
+**Gabriel Perez Krieb's wife's family owns Sesajal.** He is a Sesajal executive who married
+into the owning family. **So he is, in effect, Sesajal family** — while Gloria Mancilla, a
+Sesajal business unit director, was invited by hand on the same day. **They plausibly know
+each other.**
+
+That is not a conflict. It is a multiplier and a small risk at once:
+
+- **A multiplier**, because he is **first degree with 139 mutuals** and he is family. That
+  makes him a far better route into Sesajal than a cold invitation to Gloria was ever going
+  to be, including a possible direct introduction to **Luis Miguel Barriga Calderon**, the
+  group CFO in Guadalajara who is the recorded reserve and was held back precisely because a
+  cold approach to Mexico is expensive.
+- **A small risk**, because if Gloria mentions the name inside the family it should read as
+  one coherent approach rather than two unconnected ones.
+
+**So he moves to the top of this page**, alongside Tony White and arguably above him.
+
+## His note was rewritten, because the first draft carried a stale premise
+
+The original asked whether the currency decision is taken in San Diego *"o la concentra
+Jalisco"*. **Under institutional majority ownership since 2021 that premise is probably
+years out of date**, and it would have made Marcel look like he was working from 2019
+information.
+
+**The new note names no owner and no fund**, because the ownership may have moved again since
+2021 and a stale fact handed to an Executive Chairman is worse than no fact at all. It states
+only what is durably true.
+
+**And it does not mention Sesajal or Gloria.** Let him be a Chosen Foods conversation until
+he is more than that.
 
 # FIRST DEGREE: Play 0 messages, send these first
 
 ## 4. GABRIEL PEREZ KRIEB, Executive Chairman, Chosen Foods, San Diego
-**1st degree · 139 mutuals · owner level seat** · **HOLD FOR THE SESAJAL ANSWER ABOVE**
+**1st degree · 139 mutuals · owner level · CLEARED, and now one of the two best names here**
 
 > Gabriel, nos conectamos hace tiempo y nunca le escribi, asi que lo hago ahora.
 >
-> Aceite de aguacate con cadena de suministro en Jalisco y ventas en Estados Unidos es
-> exactamente donde el tipo de cambio deja de ser tema de tesoreria y se vuelve tema de
-> margen. Desde la presidencia del consejo eso se ve en el resultado, no en una linea de
-> divisas.
+> Una marca de consumo en Estados Unidos cuya materia prima sale de Jalisco tiene el tipo de
+> cambio metido en el margen bruto y no en una linea de divisas, y usted es de las pocas
+> personas que ve los dos lados de esa operacion.
 >
 > Trabajo divisas y pagos internacionales en Monex USA. Antes fui CFO y COO en grupos con
-> operacion en Mexico, Brasil y Estados Unidos, asi que lo veo desde el otro lado.
+> operacion en Mexico, Brasil y Estados Unidos, asi que lo veo desde el otro lado del
+> escritorio.
 >
-> Una pregunta concreta: la decision cambiaria de Chosen Foods se toma en San Diego, o la
-> concentra Jalisco?
+> Con gusto intercambiamos puntos de vista.
 >
 > Un saludo, Marcel
 
-**Spanish, and the peer credential is the point at owner level.** The closing question is
-the same one that worked on Ricardo Yllescas: it asks where the decision sits and gives him
-a one word exit.
+**"Usted es de las pocas personas que ve los dos lados" is the whole note.** It is literally
+true, it is flattering without flattery, and it needs no ownership fact to stand up.
 
 ## 5. SYED ALI, CFO and Treasurer, Americhem, Greater Cleveland
 **1st degree · 27 mutuals · Pritzker backed specialty plastics**
@@ -213,7 +246,7 @@ the same hour.
 3. **Jorge Kovacs Morayta** and **Raul Reyna Jr.** — both Houston
 4. **Bernardo K Santana** — 168 mutuals and a CEO who needs no explanation
 5. The rest in any order
-6. **Gabriel Perez Krieb** — only after the Sesajal question is answered
+**Gabriel Perez Krieb is now joint first with Syed Ali and Scott Horner**, since the Sesajal question is resolved and he is first degree, 139 mutuals, owner level and family to Sesajal
 
 **No rates in any of the thirteen, per the standing rule. No dashes. Spanish where the
 person and the market call for it.**
