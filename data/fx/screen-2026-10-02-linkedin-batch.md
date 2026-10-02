@@ -1021,7 +1021,9 @@ path neither of them will expect.
 
 | 4 | **Quetico** | **Markar Agakanian** | Recommendation reversed on his full profile. See below. Channel is InMail, since he is 3rd degree with zero mutuals. |
 
-Still open: **5** Fresh Express (nothing to do, Olivo already pending), **7** Sesajal,
+| 7 | **Sesajal** | **Gloria Mancilla** | San Antonio, US side. Note written, blocked on a URL. Barriga in Guadalajara is the reserve. |
+
+Still open: **5** Fresh Express (nothing to do, Olivo already pending),
 **8** DC Partners, **9** Catalina.
 
 ## Iván Reybel Arista Pando, revised on his full profile
