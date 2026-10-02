@@ -634,3 +634,37 @@ Two things follow when the answer is yes:
 And before approaching any existing client in person, **find out internally who
 owns the relationship.** Appearing at a colleague's client's stand unannounced
 is how a win becomes a problem.
+
+
+## Size shapes the note, it does not cut the name
+
+**Marcel's correction, 2026-10-02:** *"We should not be afraid to reach multi
+billion dollar treasuries."* The second time he has overruled this, after Jakks
+Pacific on 10-01. Treat it as settled.
+
+The old habit was to flag anything above roughly $500M as out of band and
+recommend cutting. That reasoning was never quite right. The objection to a large
+company is **not** that the argument fails there. It is that they already have
+providers, a bank panel, and often a hedging programme.
+
+But a treasurer with all three still wants a second quote, and a large recurring
+flow is where basis points actually matter. **The size of the company is an
+argument for the conversation, not against it.**
+
+What size genuinely changes is **how the note is written**:
+
+- **Concede the obvious in the first clause.** Denis Bräuer at Element Solutions
+  opens with "you have a bank panel and a hedging program, so I will skip why a
+  specialty chemicals group carries currency risk." Pretending a corporate
+  treasurer needs the category explained guarantees silence.
+- **Ask the one question that is still open.** At that scale it is almost always
+  execution versus relationship: teams review the bank annually and the rates
+  never, because the rates never arrive as a reviewable document.
+- **Expect a longer cycle and a lower hit rate**, and do not read silence as the
+  idea failing.
+
+What still cuts a name is **the seat, not the size**: a regional book beats a
+group function for reachability, and Jakks' central finance seat was the harder
+ask rather than its revenue. And a genuinely domestic business with no foreign
+flow is still out, however large, which is why Lindsey Thiel at a US homebuilder
+was cut while Bräuer was not.

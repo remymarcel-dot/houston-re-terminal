@@ -161,3 +161,97 @@ be sent, queued, or campaigned until Marcel pastes ten links.
 
 Carlos Gomes additionally needs a profile view rather than a feed sighting, since
 he has only appeared in the timeline so far.
+
+---
+
+# 13, 14, 20 and 21, added on Marcel's instruction
+
+**"We should not be afraid to reach multi billion dollar treasuries."** Fair, and
+it is the second time he has overruled the size objection after Jakks Pacific.
+The rule is corrected in icp.md: size shapes the note, it does not cut the name.
+
+## 13. Denis Bräuer, VP & Corporate Treasurer, Element Solutions Inc.
+**2nd degree · 6 mutuals · Strategic CFO group · NYSE listed specialty chemicals · 279 chars**
+
+**The best seat in the whole screen.** Not a CFO who also handles treasury, an
+actual corporate treasurer, at a multi-billion listed group with operations
+across Europe and Asia.
+
+The note handles the size objection by **conceding it in the first clause**. He
+has a bank panel and a hedging program, and pretending otherwise to a corporate
+treasurer would be the one thing that guarantees no reply. This is the Rich
+Wright handling: explain nothing, concede what he already knows, and ask the
+single question that is genuinely open.
+
+**Execution versus relationship is that question.** Treasury teams review the
+bank annually and the rates never, because the rates do not arrive as a
+reviewable document.
+
+> Denis, you have a bank panel and a hedging program, so I will skip why a
+> specialty chemicals group carries currency risk. The narrower question for a
+> treasurer in that seat is when the execution was last benchmarked rather than
+> the relationship. I work on that at Monex USA. Marcel
+
+German name and University of Constance, but English is right: Marcel's languages
+are English, Spanish and Portuguese, and a half-attempt at German would be worse
+than none.
+
+## 14. David Wilson, CEO USA, Ginegar Smart Cover Solutions
+**2nd degree · 102 mutuals, the largest overlap in the screen · 5,147 followers · 250 chars**
+
+Israeli agricultural plastics parent, greenhouse films and covers, and his title
+is explicitly the US seat. Shekel cost base, dollar revenue.
+
+**His connect button is restricted**, showing "Connect if you know each other".
+So the note closes on the mutual count, which both explains why Marcel is writing
+and answers the restriction in the same breath.
+
+> David, running the US side of an Israeli parent means the cost base sits in
+> shekels while the growers you sell to pay in dollars. I work on FX and cross
+> border payments at Monex USA. With a hundred odd connections in common this
+> seems overdue. Marcel
+
+**If LinkedIn refuses the invitation**, do not retry it. With 102 mutuals the
+better fallback is an introduction from one of them, which is a stronger approach
+than any cold note and costs only an ask.
+
+## 20. John Larse, CEO, Sweet Darling Sales, Aptos CA
+**2nd degree · 14 mutuals · reposted the California Strawberry Commission · 263 chars**
+
+A berry marketer whose programme runs year round necessarily sources winter fruit
+from Mexico. The note names that rather than talking about berries generally, and
+asks whether Sweet Darling handles the Mexican side itself, which is the fact
+that decides whether the exposure is his or a supplier's.
+
+> John, a California berry program that runs year round means the winter fruit
+> comes from Mexico, and with it a peso cost underneath a dollar sale. I work on
+> FX and cross border payments at Monex USA. Curious whether Sweet Darling
+> handles that side directly. Marcel
+
+## 21. Rosa Duarte, Accounting Manager, California Giant Berry Farms
+**2nd degree · 3 mutuals · 361 connections · 250 chars**
+
+Below the decision seat, which the note does not pretend otherwise about. It says
+the payments pass through her hands, not that she decides them, exactly as
+Gloria Mancilla's does. An accounting manager who runs weekly grower settlements
+sees the rate more often than the CFO does.
+
+> Rosa, running the books at a berry marketer means grower payments pass through
+> your hands every week, including an exchange rate nobody ever compares to the
+> market. I work on FX and cross border payments at Monex USA. Would be glad to
+> connect. Marcel
+
+**Spanish version, 261 chars**, if Marcel judges it better. California Giant's
+grower base is heavily Mexican and a weekly grower settlement desk may well
+operate in Spanish, but **her own profile language is unknown and a surname is
+not evidence**, so English is the default here.
+
+> Rosa, llevar la contabilidad de un comercializador de berries significa que los
+> pagos a productores pasan por tus manos cada semana, incluido un tipo de cambio
+> que nadie compara. Trabajo divisas y pagos internacionales en Monex USA. Con
+> gusto conectamos. Marcel
+
+---
+
+**Twelve notes now written and none sendable.** The entire list is blocked on
+profile URLs.
