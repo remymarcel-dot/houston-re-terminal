@@ -3651,7 +3651,7 @@
     "name": "Juan Cardenas",
     "company": "Tricar Sales",
     "title": "Vice President",
-    "location": "Rio Rico, Arizona",
+    "location": "San Diego, California, United States",
     "profileUrl": "http://www.linkedin.com/in/juan-cardenas-66445ba0",
     "play": "crm-book-wave-2-mexico-importers",
     "status": "invitation-pending-origin-unknown",
@@ -3676,7 +3676,8 @@
     "touchCount": 1,
     "nextTouch": null,
     "outcome": null,
-    "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status invitation-sent with firstTouch 2026-09-23. THAT WAS WRONG. Lead 313494900 in campaign 618450 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-24T19:24:07, leadConnectionStatus None. HeyReach NEVER SENT HIM ANYTHING. The invitationNote recorded below was never delivered. His LinkedIn connect button reads Pending because an invitation reached him earlier, from outside HeyReach, on an unknown date."
+    "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status invitation-sent with firstTouch 2026-09-23. THAT WAS WRONG. Lead 313494900 in campaign 618450 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-24T19:24:07, leadConnectionStatus None. HeyReach NEVER SENT HIM ANYTHING. The invitationNote recorded below was never delivered. His LinkedIn connect button reads Pending because an invitation reached him earlier, from outside HeyReach, on an unknown date.",
+    "locationCorrection": "Was recorded as 'Rio Rico, Arizona'. LinkedIn's own lead record shows San Diego, California. The 2026-10-02 screen also said San Diego. Tricar has a Rio Rico Arizona operation and a separate Tricar Logistics LLC, which is where the confusion came from, but HIS profile says San Diego."
   },
   {
     "name": "Marco Rodriguez",
