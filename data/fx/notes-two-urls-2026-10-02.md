@@ -243,3 +243,67 @@ The certification point is true of the organic category generally, flatters her 
 and asserts nothing about Hain that cannot be defended.
 
 **No rates in either note, per the standing rule.**
+
+---
+
+# ⚠️ CORRECTION 2026-10-02: DEBORA DELANEY'S EMPLOYER, I HAD IT BACKWARDS
+
+**Marcel said "send message to paul and debora". Neither could be sent, and Debora's reason
+is worse than a missing URL.**
+
+Above, this file states that her Catalina Crunch headline was stale and her Hain Celestial
+About was current, and that she should be written to at Hain. **The trade press says the
+opposite direction of travel:**
+
+- She was **CFO of Hain Celestial's North American division from 2022**, leading finance
+  across sales, brand and supply chain.
+- **In April 2024 she was appointed CFO of Catalina Crunch**, explicitly *after* the Hain
+  role.
+- Before Hain: finance leader at **KIND North America, Pinnacle Foods and Mondelez
+  International.**
+
+**So Hain came first and Catalina came second, which is the reverse of what I wrote.**
+
+**My error was inference presented as evidence.** This project had established that Sarah
+Van Houten succeeded her as Catalina's CFO in September 2024, and I reasoned from that to
+"the Catalina chapter is over, so the Hain line must be the current one." **That does not
+follow.** I checked the person who replaced her instead of checking her.
+
+**And the honest position now is that nobody knows where she works.** If she joined Catalina
+in April 2024 and was succeeded in September 2024, she was there about five months, and her
+current employer is simply not established. Her About claiming Hain could mean she returned,
+or could be an un-updated profile. Hain has had a CFO transition of its own.
+
+**The drafted note is withdrawn, not delayed.** It was built on her being at Hain, and a note
+to a CFO that names the wrong employer ends the conversation in one line. That is precisely
+what the original screen warned about, and I overrode that warning on reasoning rather than
+evidence.
+
+**What resolves it: one look at the TOP of her experience section.** Her headline, her About
+and the trade press disagree three ways, and only the experience list settles it. **Marcel's
+size override is not in question** and stands; this is a facts problem.
+
+---
+
+# PAUL VAUGHAN: the note stands and got stronger, but there is still no URL
+
+**Search returns Murphy Oil's own team page, SEC filings and insider-trading records, but no
+LinkedIn profile.** URLs are never constructed, so he still needs one pasted.
+
+**Two facts worth adding to his record, both from Murphy's own disclosures:**
+
+- He is **Paul D. Vaughan**, Vice President and Controller **since 1 July 2022**, and he has
+  been at Murphy since **1998**.
+- **From 2017 he was Vice President and Controller, US, Central and South America** for
+  Murphy Exploration & Production Company, Murphy's wholly owned subsidiary.
+
+**That second one materially strengthens the note.** The drafted angle is that a new
+operating country's vendor payments go live while the hedging policy above them stays put.
+**He has already held a controller role explicitly scoped to Central and South America**, so
+cross border payment execution is not a new idea being explained to him, it is something he
+has personally owned. He will recognize the gap being described rather than needing it
+argued.
+
+- Bachelor of Science in Accounting, University of Alabama; BA History, Samford University.
+
+**The note is unchanged and ready. Paste the URL and it goes.**
