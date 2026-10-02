@@ -148,7 +148,7 @@
     "name": "Paul Vaughan",
     "section": "Batch 1, five profiles",
     "verdict": "entered",
-    "detail": "pipeline status draft-ready-blocked-url",
+    "detail": "pipeline status invitation-scheduled",
     "resolvedBy": "derived"
   },
   {
@@ -675,8 +675,8 @@
     "screen": "screen-2026-10-02-linkedin-batch.md",
     "name": "Debora Delaney",
     "section": "Batch 14, five screenshots",
-    "verdict": "entered",
-    "detail": "pipeline status draft-ready-blocked-url",
+    "verdict": "rejected",
+    "detail": "worked, then closed: blocked-by-one-seat-rule-and-a-stale-profile",
     "resolvedBy": "derived"
   },
   {
