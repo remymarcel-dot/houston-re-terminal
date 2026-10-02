@@ -7982,15 +7982,15 @@
     "profileUrl": null,
     "profileUrlNote": "NOT ON FILE and not needed yet. He is first degree, so Marcel messages him directly without an invitation or a URL. A URL is only required if he ever goes into a HeyReach campaign. The agent does not construct one.",
     "play": "play-0-first-degree",
-    "status": "live-conversation",
+    "status": "dormant-warm",
     "outcome": null,
     "firstTouch": "2026-06-25",
     "loggedOn": "2026-10-02",
-    "lastActivity": "2026-10-02",
+    "lastActivity": "2026-06-26",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 1 of 87",
     "warmPath": "First degree with 101 mutual connections, the second largest overlap in the 87 profile screen. Sales Navigator flags SHARED EDUCATION: both passed through IPADE Business School, where Marcel did the Senior Management Program 2012 to 2013. No claim of overlapping years, only the shared school.",
     "signal": "Post 2026-09-26, garlic harvest in Tracy, California: behind every successful harvest there is more than good luck, there is hard work, discipline and consistent field follow up. 7,847 followers.",
-    "angle": "SUPERSEDED. The June exchange already answered the channel versus account question: AgPro's own US operation has no cross border flow worth discussing, and Eduardo said so politely. The live exposure is the one he volunteered and nobody picked up: Huma invoicing master distributors in several countries. If those are billed in dollars the distributor carries the currency risk and it comes back as price resistance; if in local currency Huma carries it. That is the question worth asking.",
+    "angle": "The June exchange already settled AgPro's own US operation: no cross border flow, and Eduardo said so politely. But he volunteered that AgPro is part of HUMA and that Huma already sells internationally through MASTER DISTRIBUTORS in several countries. That is a live currency book, offered by the prospect, and Marcel's own June reply promised to return when a cross border flow appeared. It had already appeared, in Eduardo's own message, and nobody picked it up.",
     "doNotRaise": "Do not re-ask whether AgPro has cross border flow. He answered that in June and asking again says nobody read his reply. Go at Huma and the master distributors.",
     "touches": [
       {
@@ -8006,21 +8006,14 @@
         "channel": "linkedin-message",
         "outcome": "replied with a thumbs up",
         "notes": "Marcel accepted the soft no gracefully, left the door open for when cross border flow appears, and offered to keep exchanging sector views. Eduardo closed with 👍."
-      },
-      {
-        "n": 3,
-        "date": "2026-10-02",
-        "channel": "linkedin-message-manual",
-        "outcome": "sent, CONTAINS AN ERROR",
-        "notes": "Spanish Play 0 message asking whether LatAm product entering the US or California product going south weighs more in his advisory work. THE OPENING LINE IS WRONG: it says they have never spoken, when they exchanged four messages in June. Written without sight of the June thread, which the agent should have asked for before drafting a cold opener to a first degree contact."
       }
     ],
-    "touchCount": 3,
-    "nextTouch": "2026-10-09",
-    "nextStep": "HOLD CONFIRMED BY MARCEL, 2026-10-02: nothing sent, by decision rather than oversight. HOLD THE REPAIR MESSAGE. Do not send it today. In June he replied within 30 minutes, warmly and at length, so he is demonstrably responsive and will very likely reply to the Oct 2 message too. Two messages in a row would look anxious, and if he has not read the first one yet, an apology for an error he never noticed is self inflicted.\n\nIF HE REPLIES, and especially if he points out they spoke in June: acknowledge it in one line, then go straight to the Huma question. 'Tienes razón, releí nuestro intercambio de junio, y lo que me quedó fue...' The correction becomes attention rather than carelessness, delivered at the natural moment.\n\nIF SILENT BY 2026-10-09: send the Huma question as an ordinary follow up with the apology stripped out. A week later the content stands on its own and needs no framing.",
+    "touchCount": 2,
+    "nextTouch": null,
+    "nextStep": "CLEAN SLATE. Marcel confirmed 2026-10-02 that the Oct 2 message was never sent, so the draft containing the wrong 'nunca hemos platicado' opener never reached him and no repair is needed. Touch 3 removed. The next message is the Huma master distributor question, written fresh with no apology, in data/fx/message-eduardo-sanchez-2026-10-02.md. He is first degree so it goes as a Play 0 message, by hand unless Marcel supplies a URL.",
     "reply": "2026-06-25, verbatim substance: AgPro is currently focused on the US market, strengthening operations and technical support to growers. International expansion is a future consideration. CRITICALLY: 'como parte de Huma, ya estamos participando en mercados internacionales a través de distribuidores máster en distintos países, lo que nos ha permitido desarrollar experiencia y presencia global.'",
     "companyProfile": "AgPro LLC is PART OF HUMA, the agricultural biologicals group. Huma already sells into international markets through MASTER DISTRIBUTORS in several countries. Eduardo volunteered this himself in June and it was not followed up at the time.",
-    "watchFor": "The Oct 2 message claims they have never spoken, which is wrong. He may point it out. If he does, acknowledge once, plainly, and move to Huma. Do not over apologise and do not explain how it happened."
+    "watchFor": null
   },
   {
     "name": "Tom Lyons",

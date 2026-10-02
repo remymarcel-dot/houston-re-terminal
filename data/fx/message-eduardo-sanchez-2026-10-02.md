@@ -175,3 +175,62 @@ commercial problem rather than a currency one.
 
 He is a live relationship with a soft no on his own account and a door he left
 open himself. He moves on replies, not on a clock. **No scheduled touch 2.**
+
+
+---
+
+# SECOND CORRECTION: the 2 October message was never sent
+
+Marcel confirmed it. **Nothing went out.** So the wrong opening line never
+reached Eduardo, there is nothing to repair, and his record is back to two
+touches, both from June.
+
+That is the better outcome, because it means the next message can be the right
+one with no apology attached to it.
+
+## The message to send instead
+
+The June thread gives it two strong foundations:
+
+1. **Eduardo invited it.** He closed with *"será un gusto mantener el contacto e
+   intercambiar perspectivas cuando se presente la oportunidad."*
+2. **Marcel promised it.** His own reply said *"cuando la expansión tome forma o
+   aparezca algún flujo transfronterizo donde podamos aportar, será un gusto
+   retomar."*
+
+The cross border flow had already appeared, in Eduardo's own message, three
+sentences above where Marcel replied. Returning to it now is not a cold
+follow up. It is Marcel keeping his word, slightly late.
+
+> Eduardo, quedamos en junio en retomar cuando apareciera algún flujo
+> transfronterizo. Al releer nuestro intercambio me di cuenta de que ya lo habías
+> mencionado tú y yo no lo retomé: que como parte de Huma ya participan en
+> mercados internacionales con distribuidores máster en distintos países.
+>
+> Esa es justo la parte que me interesa. Cuando le facturan a un distribuidor
+> máster en otro país, ¿se liquida en dólares o en moneda local? Si es en
+> dólares, el riesgo cambiario lo carga él y normalmente regresa en forma de
+> resistencia al precio. Si es en moneda local, lo cargan ustedes.
+>
+> Ninguna de las dos está mal, pero son conversaciones distintas y me da
+> curiosidad cuál es la de Huma.
+>
+> Marcel
+
+## Why this is the strongest message written for him
+
+**It admits he missed something, which is flattering rather than weak.** Saying
+"you had already mentioned it and I did not pick it up" tells Eduardo that
+something he said was worth going back for. That is a better compliment than any
+praise of his garlic post.
+
+**It does not re-ask what June answered.** AgPro's US operation is settled. Huma
+and its master distributors are a different company and a different flow.
+
+**The price resistance line is the point.** A distributor billed in dollars never
+files an FX complaint. He negotiates harder, and it reaches Huma as a commercial
+problem rather than a currency one. That is the thing Eduardo will not have heard
+framed that way.
+
+**No cadence.** He is a warm dormant relationship, not a sequence. He moves on
+replies.
