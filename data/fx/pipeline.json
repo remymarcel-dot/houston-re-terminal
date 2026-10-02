@@ -8901,7 +8901,15 @@
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "email": "fr@expgroup.us",
     "noteFile": "data/fx/email-fraymil-rodriguez-2026-10-02.md",
-    "linkedinInvitationState": "Still pending on LinkedIn, untouched. Do not withdraw."
+    "linkedinInvitationState": "Still pending on LinkedIn, untouched. Do not withdraw.",
+    "plannedTouches": [
+      {
+        "date": "2026-10-05",
+        "channel": "linkedin-comment",
+        "status": "drafted, not posted",
+        "notes": "Comment drafted in data/fx/comment-fraymil-armata-2026-10-02.md, to be posted BY HAND on Monday 5 Oct rather than today, because the email went today and a comment plus a cold email from a stranger on the same day is noticeable. NO mention of FX, Monex or payments: the only job is to make the name familiar and get the pending invitation accepted. CHECK THE POST DATE FIRST: the Richard Armata fruit department news is from MARCH 2026 (Fresh Fruit Portal 23 Mar, Blue Book 11 Mar), so if the post Marcel is looking at is the original, commenting seven months later reads as trawling his history. If stale, comment on his newest substantive post instead."
+      }
+    ]
   },
   {
     "play": "email-by-hand",
