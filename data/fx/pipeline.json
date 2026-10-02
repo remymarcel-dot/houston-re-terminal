@@ -8008,5 +8008,40 @@
     "touchCount": 1,
     "nextTouch": "2026-10-09",
     "nextStep": "Touch 2 due 2026-10-09, LinkedIn, since he is first degree and no email is on file. IF HE REPLIES 'the US side', do not run the cadence: go straight to the concrete ask, what rate the last peso funding run was executed at and at what time of day. The execution time is not optional, a comparison benchmarked against the wrong hour is worse than none."
+  },
+  {
+    "name": "Olvin Caballero",
+    "company": "Corporación Dinant",
+    "title": "Jefe de Contabilidad",
+    "location": "Greater Houston",
+    "profileUrl": "https://www.linkedin.com/in/olvin-caballero-413471180",
+    "profileUrlNote": "Copied from the Sales Navigator view. One of only three complete URLs across 87 screenshots.",
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634581,
+    "listId": 987952,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 5 of 87",
+    "companyProfile": "Corporación Dinant, Tegucigalpa, Honduras. 66 years old, 5,001 to 10,000 employees, 124K followers, food and beverage manufacturing: palm oil, snacks and household products across Central America. FOUR employees work in Greater Houston.",
+    "angle": "The ratio is the argument. A four person Houston office inside a group of several thousand is not a branch, it is the group's entire US financial interface, and the head of accounting among them has nobody above him here. Whatever moves between Honduras and the US moves across his desk.",
+    "doNotRaise": "NO CURRENCY IS NAMED IN THE INVITATION, deliberately. Honduras uses the lempira, but whether Dinant's US entity settles in lempiras or dollars is unknown from outside. Guessing that to a head of accounting loses him in a line. The follow-up message asks it instead.",
+    "warmPath": "None visible. Sparse profile: no photo, no About, one liked post, no mutuals shown. The note leans entirely on structure because there is nothing personal to lean on and anything invented would be obvious. Separately, Rafael, a Marcel connection, works at Dinant; not named in the note but worth knowing before any conversation gets serious.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634581, Spanish, 254 characters. Sequence VIEW_PROFILE then CONNECTION_REQUEST after 4 hours, withdraw after 30 days. Verified at creation: status IN_PROGRESS, started 2026-10-02T14:37:57Z, 1 user pending, 0 failed, 0 EXCLUDED. Not a touch until leadConnectionStatus reads ConnectionSent at lead level. Full text in data/fx/message-olvin-caballero-2026-10-02.md."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at LEAD level that the invitation actually went out, checking leadConnectionStatus rather than the campaign counters. The Hillary Stroble failure on 2026-10-01 proved campaign progressStats can report zero failures while nothing was sent. The default schedule is Mon to Fri 09:00 to 17:00 UTC and the 4 hour delay lands past 17:00, so the invitation most likely fires Friday morning rather than today. If he accepts, send the prepared first message about the intercompany settlement rate.",
+    "buildNote": "excludeContactedFromOtherCampaigns set to FALSE on purpose. That setting has silently excluded leads twice, on Ricardo Yllescas and on the Fightmaster recovery. Confirmed 0 excluded on this campaign.",
+    "oneSeatRule": "Olvin is the Dinant seat. Three other Dinant employees work in Greater Houston; if any surface later they are routes at most, never a second approach."
   }
 ]
