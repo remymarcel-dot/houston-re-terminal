@@ -769,3 +769,35 @@ campaign's list works, **with the trailing slash**, and the campaign's
 - Sending the URL **without** the trailing slash returns
   `notFoundInList: ["<slug>"]` whether or not the lead is there, so that
   response proves nothing either way.
+
+
+## A Play 0 MESSAGE needs a real connection, and says nothing when it does not have one
+
+**Proven on campaign 632612, 2026-10-01 to 02.** Two leads, one MESSAGE node,
+opposite outcomes:
+
+- **Sean Fightmaster** had failed an earlier invitation as `AlreadyAConnection`,
+  so he is a genuine connection. `leadMessageStatus: MessageSent`.
+- **Hillary Stroble** had failed as `ConversationExists`, which means a thread
+  exists outside HeyReach but she is **not** a connection.
+  `leadMessageStatus: None`, `failedTime: null`, `errorCode: null`,
+  `leadCampaignStatus: Finished`.
+
+So the node is not flaky. **It requires an actual connection, and when it does
+not have one it ends the sequence quietly and records success.** The campaign
+counters show zero failures either way.
+
+Two rules follow:
+
+1. **`ConversationExists` is not a route back in.** Neither a
+   `CONNECTION_REQUEST` nor a `MESSAGE` will reach that person. Treat them as
+   email only from that moment, or send by hand.
+2. **Never read delivery off `progressStats`.** Check `leadMessageStatus` or
+   `leadConnectionStatus` at lead level. The counters cannot distinguish a send
+   from a silent skip, which is precisely how Hillary went uncontacted while the
+   campaign reported a clean run.
+
+A corollary worth stating, because the opposite was briefly believed: **Play 0
+messages to genuine first degree connections work normally.** There is no reason
+to hand-send those for reliability. Hand-sending remains right when the message
+is personal enough to warrant it, not because the node cannot be trusted.

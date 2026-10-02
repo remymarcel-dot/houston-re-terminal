@@ -6224,7 +6224,7 @@
     "play": "play-0-recovery",
     "campaignId": 632612,
     "listId": 985106,
-    "status": "message-pending",
+    "status": "in-sequence",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6234,16 +6234,16 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-message",
-        "outcome": "PENDING, not yet sent",
-        "notes": "Campaign 632612. The 09-30 invitation failed AlreadyAConnection, so this went as a Play 0 message instead. Keeps the undocumented-foreign-spend thesis as a question rather than an assertion, and asks for twenty minutes next week. | VERIFIED 2026-10-01T21:29Z: still InSequence, lastActionTime 17:03:45Z, leadMessageStatus None, no failure. The 632612 delay node has not released his MESSAGE yet. Not a failure, not yet a touch."
+        "outcome": "message-sent",
+        "notes": "Campaign 632612. The 09-30 invitation failed AlreadyAConnection, so this went as a Play 0 message instead. Keeps the undocumented-foreign-spend thesis as a question rather than an assertion, and asks for twenty minutes next week. | CONFIRMED SENT. Verified 2026-10-02 at lead level: leadMessageStatus MessageSent, lastActionTime 2026-10-01T22:10:11Z, finished 2026-10-02T01:15:15Z, no error. The delay node simply had not released it when checked at 21:29 the night before."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-08",
     "blocker": null,
     "nextStep": "Touch 2 is an email, due 2026-10-04. No address on file yet, so he needs enrichment first.",
     "cadenceRestart": null,
-    "lastActivity": "2026-10-01"
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Paul Miller",
@@ -6385,7 +6385,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-queued-not-sent",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6395,13 +6395,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "NOT SENT, still queued",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | VERIFIED 2026-10-01T21:29Z: leadConnectionStatus None, lastActionTime 17:40Z, no failure. The invitation has not gone out. Most likely held behind the 15 per day invitation ceiling, which six other leads in this campaign consumed. Not a failure and not a touch. Re-check tomorrow."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T21:51:17Z, campaign 626018, leadConnectionStatus ConnectionSent, no error. It had simply not cleared the 15 per day invitation ceiling at the time of the 21:29 check, not failed. All 8 of 8 Conroe leads are now sent with zero failures."
       }
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "lastActivity": "2026-10-01"
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Chris Grappe",
@@ -6521,7 +6521,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 626018,
     "listId": 975249,
-    "status": "invitation-queued-not-sent",
+    "status": "in-campaign",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
@@ -6531,13 +6531,13 @@
         "n": 1,
         "date": "2026-10-01",
         "channel": "linkedin-invitation",
-        "outcome": "NOT SENT, still queued",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | VERIFIED 2026-10-01T21:29Z: leadConnectionStatus None, lastActionTime 17:51Z, no failure. The invitation has not gone out. Most likely held behind the 15 per day invitation ceiling, which six other leads in this campaign consumed. Not a failure and not a touch. Re-check tomorrow."
+        "outcome": "invitation-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | CONFIRMED SENT 2026-10-01T22:13:24Z, campaign 626018, leadConnectionStatus ConnectionSent, no error. It had simply not cleared the 15 per day invitation ceiling at the time of the 21:29 check, not failed. All 8 of 8 Conroe leads are now sent with zero failures."
       }
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "lastActivity": "2026-10-01"
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Mike Sorna",
@@ -7000,8 +7000,8 @@
     "email": "hillary.stroble@bumblebee.com",
     "nextStep": "Touch 5 is an email, due 2026-10-15. Do not re-pitch the summer emails.",
     "cadenceRestart": "2026-10-01",
-    "lastActivity": "2026-10-01",
-    "channelNote": "LINKEDIN IS CLOSED TO HER AND THE WORKAROUND IS DISPROVEN. The 09-30 CONNECTION_REQUEST failed ConversationExists. Campaign 632612 then tried a Play 0 MESSAGE on the theory that an existing thread is something to write into. It is not. She finished the sequence at 2026-10-01T20:20:13Z with leadMessageStatus None, leadConnectionStatus None, failedTime null and errorCode null. HeyReach skipped her silently and recorded success. Nothing was sent and no error was raised. Do not retry either node. Every future touch is an email or it is nothing.",
+    "lastActivity": "2026-10-02",
+    "channelNote": "LINKEDIN IS CLOSED TO HER, AND THE CAUSE IS NOW PROVEN RATHER THAN GUESSED. Campaign 632612 held exactly two leads through the same MESSAGE node. Sean Fightmaster, who failed earlier as AlreadyAConnection and is therefore a real connection, shows leadMessageStatus MessageSent. Hillary, who failed as ConversationExists and is NOT a connection, shows leadMessageStatus None with no error. So the node is not unreliable: a Play 0 MESSAGE requires an actual connection, and a pre-existing conversation is not one. The sequence ends silently and reports success. Every future touch on her is an email.",
     "verificationLesson": "Campaign level counts lied here: 632612 showed 0 failed. Only the lead level leadMessageStatus revealed that no message went out. Always check lead status, never the progressStats counters."
   },
   {
