@@ -824,8 +824,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": "2026-10-13",
-    "nextStep": "⚠️ DUPLICATE ROW, MERGE REQUIRED. This person appears TWICE in the pipeline: as 'Luz A Rodriguez, MAcc' at Square One Farms LLC with status live-conversation, and as 'Luz Rodriguez' at Square One Farms with status message-sent. SAME PERSON, SAME COMPANY. Keep this row, which carries the stronger status, and close the other. ON 13 OCTOBER read the single thread and date the real next step from what is actually in it. A duplicate row is how a person gets contacted twice, so this is worth fixing before anything is sent.",
+    "nextTouch": "2026-10-15",
+    "nextStep": "⚠️ DUPLICATE ROW, MERGE REQUIRED. This person appears TWICE in the pipeline: as 'Luz A Rodriguez, MAcc' at Square One Farms LLC with status live-conversation, and as 'Luz Rodriguez' at Square One Farms with status message-sent. SAME PERSON, SAME COMPANY. Keep this row, which carries the stronger status, and close the other. ON 13 OCTOBER read the single thread and date the real next step from what is actually in it. A duplicate row is how a person gets contacted twice, so this is worth fixing before anything is sent. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -985,6 +985,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1020,6 +1027,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1052,6 +1066,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1087,6 +1108,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1123,6 +1151,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1161,6 +1196,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1193,6 +1235,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1227,6 +1276,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1261,6 +1317,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1390,6 +1453,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1426,6 +1496,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1462,6 +1539,13 @@
         "channel": "linkedin-invitation",
         "outcome": "reconnected",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1488,7 +1572,7 @@
     "note": "3 touches already, Mar/Apr/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches Mar, Apr and Aug, all silent. Filed as over-touched and do-not-contact on 2026-09-16. That was wrong: three silent touches is a third of the way through the cadence, not the end of it. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
     "touchCount": 3,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
     "revivalReason": "Three touches Mar, Apr and Aug, all silent. Filed as over-touched and do-not-contact on 2026-09-16. That was wrong: three silent touches is a third of the way through the cadence, not the end of it.",
@@ -1498,7 +1582,7 @@
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98. Title confirmed President.",
     "enrichedOn": "2026-10-01",
-    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead.",
+    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -1518,7 +1602,7 @@
     "note": "3 touches already, Apr/Jun/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
     "touchCount": 3,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
     "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez.",
@@ -1529,7 +1613,7 @@
     "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98.",
     "nameAtWork": "ZoomInfo files him as Jonathan Najar, Co-Founder, not Johnny Najar, CEO. His LinkedIn carries Johnny. Open with Johnny, which is what he calls himself.",
     "enrichedOn": "2026-10-01",
-    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead.",
+    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -1549,7 +1633,7 @@
     "note": "3 touches already, Apr/Jun/Aug, never replied. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
     "touchCount": 3,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
     "revivalReason": "Three touches Apr, Jun and Aug, all silent. Same wrong call as Gomez.",
@@ -1558,7 +1642,7 @@
     "doNotCall": "no number on file",
     "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 98. No phone returned.",
     "enrichedOn": "2026-10-01",
-    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead.",
+    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -1578,12 +1662,12 @@
     "note": "3 touches already, Two proposed times plus a Calendly link, silent both times. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Three touches including two proposed times and a Calendly link, silent on both. Silence on a proposed time is not a refusal of the meeting. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
     "touchCount": 3,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
     "revivalReason": "Three touches including two proposed times and a Calendly link, silent on both. Silence on a proposed time is not a refusal of the meeting.",
     "enrichmentGap": "ZoomInfo 2026-10-01: COMPANY_ONLY_MATCH at accuracy 0. It has Inclusive Logistics, id 1309411325, but no person record for her. Apollo and Seamless next.",
-    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead.",
+    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -1603,7 +1687,7 @@
     "note": "4 touches already, Replied once in May then silent. Marcel's Aug message was a clean no-ask close — anything further undoes it. A further approach does damage, not good. Deliberately excluded from the 2026-09-16 reconnect round. | REVIVED 2026-10-01. Four touches, and he REPLIED once in May before going quiet. A reply is engagement. Filing him under do-not-contact because the August message was a clean no-ask close was the worst of these calls. Marcel: a prospect needs nine touches on average, and we stop only on a clear no.",
     "touches": [],
     "touchCount": 4,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
     "revivalReason": "Four touches, and he REPLIED once in May before going quiet. A reply is engagement. Filing him under do-not-contact because the August message was a clean no-ask close was the worst of these calls.",
@@ -1612,7 +1696,7 @@
     "doNotCall": "MOBILE DO NOT CALL",
     "emailSource": "ZoomInfo FULL_MATCH 2026-10-01, accuracy 89. Record last validated February, the oldest in this batch.",
     "enrichedOn": "2026-10-01",
-    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead.",
+    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -1807,6 +1891,13 @@
         "channel": "linkedin-invitation",
         "outcome": "draft-ready-manual-send",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1845,6 +1936,13 @@
         "channel": "linkedin-invitation",
         "outcome": "draft-ready-manual-send",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -1947,6 +2045,13 @@
         "channel": "linkedin-invitation",
         "outcome": "draft-ready-manual-send",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-09-16",
+        "channel": "linkedin-message",
+        "outcome": "SENT, no reply",
+        "notes": "SECOND TOUCH, ADDED TO THE RECORD 2026-10-02 DURING AN INTEGRITY AUDIT. The touchCount already said 2 but only one touch record existed, so the 17 September message was invisible in the touch history even though it was known. VERIFIED IN THE HEYREACH CHATROOM, not inferred. THE REASON THIS MATTERS: an invisible touch is how a message gets sent twice. Anyone reading only the touch list would have seen one touch and written a second, which is exactly the mistake avoided on 2026-10-02 when three revival sends were stopped because the chatroom showed they had already gone. Full text and the per person angle are in data/fx/revivals-decision-2026-10-02.md and data/fx/reconnected-13-dated-plan-2026-10-02.md."
       }
     ],
     "touchCount": 2,
@@ -2029,7 +2134,7 @@
         "notes": "Call scheduled for Tuesday 6 October 2026, 9:30 to 10:30am Central. Hook is the Mequipco Calgary acquisition of 1 August 2026. Not a touch until Marcel reports the outcome. One voicemail maximum if it goes to machine."
       }
     ],
-    "touchCount": 1,
+    "touchCount": 2,
     "nextTouch": "2026-10-06",
     "mobile": "(936) 828-8267",
     "contactAccuracyScore": 89.0,
@@ -2461,7 +2566,7 @@
     "loggedOn": "2026-09-21",
     "conversationId": "2-NzMyOTcyYzMtYWQzNS00YmRmLTgwMWUtYWVkZTBkNjNlNmViXzEwMA==",
     "reply": "2026-09-21 16:14: 'Thanks for the interest. It may be easier to talk about it. Perhaps Oct after the first week is a good time in the morning EST.' A yes to a call from a Treasury Director.",
-    "nextStep": "MEETING ON TUESDAY 13 OCTOBER 2026, 10:00 EST, WHICH IS 9:00 CENTRAL. IT IS BOOKED AND IT IS ON MARCEL'S CALENDAR. He confirmed this on 2026-10-02: 'aptean is already booked I did tell you that.' NOTHING ABOUT THE BOOKING IS OUTSTANDING. TWO CORRECTIONS TO WHAT I WROTE EARLIER THE SAME DAY, BOTH MINE. ONE, I PRESENTED THE BOOKING AS A DISCOVERY AND IT WAS NOT. This row already carried status MEETING BOOKED, and my own open items audit that morning listed it as item 6, 'the single most valuable row on the board'. What the thread actually added was the DATE, the Bangalore colleague, and Madhu's missing address. The booking itself was already in the record and already reported. TWO, AND THIS IS THE REAL ERROR: I SAID THE CALENDAR INVITE 'DEFINITELY WAS NEVER CREATED' because a search of the connected Google Calendar for 'Aptean' returned nothing. THAT CONCLUSION WAS UNSUPPORTED. The only calendar connected to this session is Marcel's PERSONAL GMAIL account. His work calendar is on Monex and is invisible from here, so an empty search proves nothing about whether the invite exists. This is the same error class as the get_lead 404 rule already written into config.md: absence of confirmation is not evidence of absence. I should not have said 'definitely'. WHAT IS ACTUALLY STILL OPEN, AND IT IS ONE THING: MADHU'S EMAIL ADDRESS. That comes from the thread rather than from any calendar, so it stands. Marcel asked for it and Clifford replied 'I have forwarded to Madhu', meaning he forwarded the invite himself. So if Madhu needs anything sent directly, or if the meeting moves, Marcel cannot reach him and does not know his surname. Worth one line to Clifford before the 13th only if something needs to change. PREPARATION IS THE REAL WORK NOW. Clifford responded to one specific idea and it is the agenda: Aptean grew mostly by acquisition, which leaves treasury holding a currency book nobody designed, each entity arriving with its own bank and its own euro, sterling or rupee flows. He answered 'it may be easier to talk about it', which is a buying signal. THE BANGALORE COLLEAGUE MEANS THE RUPEE LEG IS LIVE and is probably why Madhu is in the room. Agenda: which inherited banking relationships remain, which corridors carry the most volume, and what the India leg costs today. He is Treasury Director, Atlanta, cdsouza@aptean.com.",
+    "nextStep": "MEETING ON TUESDAY 13 OCTOBER 2026, 10:00 EST, WHICH IS 9:00 CENTRAL. IT IS BOOKED AND IT IS ON MARCEL'S CALENDAR. He confirmed this on 2026-10-02: 'aptean is already booked I did tell you that.' NOTHING ABOUT THE BOOKING IS OUTSTANDING. MARCEL CONFIRMED THE STANDING ARRANGEMENT ON 2026-10-02: ALL EMAILS AND MEETING INVITATIONS LEAVE FROM HIS MONEX USA ADDRESS, which this session cannot see, and he reports back what was sent. SO THERE WAS NEVER ANY QUESTION ABOUT WHO SENDS THIS INVITE, AND NONE SHOULD HAVE BEEN ASKED. TWO CORRECTIONS TO WHAT I WROTE EARLIER THE SAME DAY, BOTH MINE. ONE, I PRESENTED THE BOOKING AS A DISCOVERY AND IT WAS NOT. This row already carried status MEETING BOOKED, and my own open items audit that morning listed it as item 6, 'the single most valuable row on the board'. What the thread actually added was the DATE, the Bangalore colleague, and Madhu's missing address. The booking itself was already in the record and already reported. TWO, AND THIS IS THE REAL ERROR: I SAID THE CALENDAR INVITE 'DEFINITELY WAS NEVER CREATED' because a search of the connected Google Calendar for 'Aptean' returned nothing. THAT CONCLUSION WAS UNSUPPORTED. The only calendar connected to this session is Marcel's PERSONAL GMAIL account. His work calendar is on Monex and is invisible from here, so an empty search proves nothing about whether the invite exists. This is the same error class as the get_lead 404 rule already written into config.md: absence of confirmation is not evidence of absence. I should not have said 'definitely'. WHAT IS ACTUALLY STILL OPEN, AND IT IS ONE THING: MADHU'S EMAIL ADDRESS. That comes from the thread rather than from any calendar, so it stands. Marcel asked for it and Clifford replied 'I have forwarded to Madhu', meaning he forwarded the invite himself. So if Madhu needs anything sent directly, or if the meeting moves, Marcel cannot reach him and does not know his surname. Worth one line to Clifford before the 13th only if something needs to change. PREPARATION IS THE REAL WORK NOW. Clifford responded to one specific idea and it is the agenda: Aptean grew mostly by acquisition, which leaves treasury holding a currency book nobody designed, each entity arriving with its own bank and its own euro, sterling or rupee flows. He answered 'it may be easier to talk about it', which is a buying signal. THE BANGALORE COLLEAGUE MEANS THE RUPEE LEG IS LIVE and is probably why Madhu is in the room. Agenda: which inherited banking relationships remain, which corridors carry the most volume, and what the India leg costs today. He is Treasury Director, Atlanta, cdsouza@aptean.com.",
     "missNote": "Sat twenty hours unanswered because the thread was marked read and the sweep only checked unread.",
     "touches": [
       {
@@ -3185,7 +3290,7 @@
     ],
     "touchCount": 1,
     "nextTouch": "2026-10-26",
-    "nextStep": "WAVE 2 HOLD, REVIEW 26 OCTOBER 2026. Munoz Trucking, held since 2026-09-21 with no date. The hold was deliberate but a hold without a review date is just a drop. On the 26th either put her in the next wave or close her.",
+    "nextStep": "⚠️ ONE SEAT COLLISION AT MUNOZ TRUCKING, FOUND 2026-10-02 AND NOT CAUGHT BEFORE. JUAN MUNOZ, OWNER, is already in a campaign. Soledad S. is VP of Operations and FMCSA WOTAB member, on wave 2 hold. THE OWNER OUTRANKS THE VP OF OPERATIONS and the owner signs, which is this book's standing preference at small operators. SO SHE SITS BEHIND HIM RATHER THAN BESIDE HIM. ON 26 OCTOBER, when her hold is reviewed, the question is not 'is she worth a wave 2 slot' but 'did Juan Munoz go anywhere'. If he accepted or replied, SHE IS CLOSED, because the company is already engaged through the better seat. If he failed or went silent, she becomes the legitimate second attempt at Munoz Trucking, and then the hold has done its job. DO NOT APPROACH BOTH.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -4056,7 +4161,7 @@
     "campaignId": 618489,
     "listId": 963812,
     "loggedOn": "2026-09-23",
-    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead.",
+    "nextStep": "IN CADENCE WITH THREE OR MORE TOUCHES AND NO REPLY, UNDATED SINCE AUGUST. 13 OCTOBER IS A DECISION DATE, NOT A TOUCH DATE: three touches is this book's stopping point, so read the thread in HeyReach and either find a genuinely new reason to write or close the name. A fourth touch that restates the first three is the weak follow up this book keeps avoiding, and the September batch only worked because each message admitted the previous one had failed and offered something concrete instead. | ⚠️ TOUCH HISTORY IS INCOMPLETE, FOUND 2026-10-02: touchCount reads 3 but only ONE touch record exists, so two touches are invisible in the history. THAT IS HOW A MESSAGE GETS SENT TWICE. Before writing anything to her, read the HeyReach chatroom and reconstruct what actually went, the same way the 17 September batch was reconstructed. Do not draft from the touch list alone. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "rebuildNote": "Originally built as campaign 618477, which wedged in STARTING and never began. Paused before anything sent and rebuilt as 618489 on a clean list. Nobody was messaged twice.",
     "outcome": null,
     "revisitAfter": "2026-11-30",
@@ -4072,7 +4177,7 @@
       }
     ],
     "touchCount": 3,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "cadenceRestart": "2026-10-01",
     "revivedOn": "2026-10-01",
     "revivalReason": "Closed on the stated grounds of no reply after three touches, which is now explicitly not a reason to stop.",
@@ -4279,7 +4384,7 @@
     "campaignId": 618489,
     "listId": 963801,
     "loggedOn": "2026-09-23",
-    "nextStep": "None. Dormant. Do not resurface. The company is not blacklisted, so a different Rohlig seat is not forbidden, but there is no reason to try one after a group-treasury answer from the NORAM CFO.",
+    "nextStep": "None. Dormant. Do not resurface. The company is not blacklisted, so a different Rohlig seat is not forbidden, but there is no reason to try one after a group-treasury answer from the NORAM CFO. | DUPLICATE ROW MERGED 2026-10-02: he was recorded twice, as Rohlig USA and as Rohlig Logistics (Rohlig USA). Both were already closed so nothing was at risk, but the duplicate is removed so audits stay clean.",
     "rebuildNote": "Originally built as campaign 618477, which wedged in STARTING and never began. Paused before anything sent and rebuilt as 618489 on a clean list. Nobody was messaged twice.",
     "replySent": "2026-09-25T19:09Z. 'Richard, understood, and cash pooling is the right tool when the flows sit inside the group. I will leave it there. If that ever changes, you know where to find me. Marcel' Sent on Marcel's instruction. Three messages in the thread, Marcel last. No further contact.",
     "heyReachAutoTag": "HeyReach auto-tagged him 'Not interested' at 2026-09-25T18:55Z, 47 minutes after his reply landed and before any human read it.",
@@ -4832,37 +4937,6 @@
     "touchCount": 1,
     "nextTouch": "2026-10-23",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
-  },
-  {
-    "name": "Louise Lalor",
-    "company": "Hillside Winery & Bistro",
-    "title": "CPA",
-    "location": "Penticton, British Columbia, Canada",
-    "profileUrl": "http://www.linkedin.com/in/louise-lalor-982467b6",
-    "note": "Better seat than the attendee list suggested. She is a CPA at Hillside and was previously CFO at Tinhorn Creek Vineyards and Controller at Blaze King Industries, so she is the finance person, not hospitality. Hillside is 20 people, Naramata Bench, founded 1984. Canadian entity, which is in scope: Monex USA onboards Canadian companies. Thesis is a CAD entity paying USD for tanks, barrels and glass.",
-    "invitationNote": "Louise, we were both on the InnoVint cost of a case webinar today. For a BC winery the line that moves without warning is usually the one priced in US dollars: tanks, barrels, glass. I work that side of it at Monex USA. Worth connecting.",
-    "play": "webinar-innovint-cost-of-a-case",
-    "status": "superseded-failed-url",
-    "firstTouch": "2026-09-24",
-    "lastActivity": "2026-09-24",
-    "loggedOn": "2026-09-24",
-    "signal": "Co attendee on the InnoVint webinar The Real Cost of a Case, 2026-09-24. Shared context is the whole hook.",
-    "campaignId": 620518,
-    "listId": 966886,
-    "priorContactCheck": "Screened against all 268 inbox threads and pipeline.json by person and company before drafting. Clean.",
-    "nextStep": "Nothing. Work the 'Louise L. (Lalor)' entry instead.",
-    "touches": [
-      {
-        "n": 1,
-        "date": "2026-09-24",
-        "channel": "linkedin-invitation",
-        "outcome": "invitation-sent",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
-      }
-    ],
-    "touchCount": 1,
-    "nextTouch": null,
-    "correction": "CORRECTED 2026-10-02 BY SWEEP. Previously read invitation-sent for campaign 620518. The attempt FAILED: lead 314263497, errorCode CannotViewProfileDoesnotExist, failedTime 2026-09-24T21:05:47, and the lead carried the imp_ placeholder id imp_EHRWQYKKEISQSHJMQXVPOSUPG because the slug louise-lalor-982467b6 does not exist. The real slug is louise-l-982467b6. SUPERSEDED BY the 'Louise L. (Lalor)' entry, which worked. This row is kept only so the failure is not rediscovered."
   },
   {
     "name": "Karen Saul",
@@ -5979,7 +6053,7 @@
     "nextTouch": null
   },
   {
-    "name": "Louise L. (Lalor)",
+    "name": "Louise Lalor",
     "company": "Hillside Winery & Bistro",
     "title": "CPA",
     "location": "Okanagan Falls, British Columbia, Canada",
@@ -5995,7 +6069,7 @@
     "degreeNote": "SHE IS THIRD DEGREE, not first. This is the only reason she is not in a Play 0 batch: a CHECK_IS_CONNECTION sequence would have silently dropped her. Built as a cold VIEW_PROFILE then CONNECTION_REQUEST instead, note at 236 characters against the 300 cap, withdraw after 30 days.",
     "canadaNote": "Canada is in scope and Monex USA onboards Canadian companies directly per Marcel 2026-09-25, so this is his deal rather than a Monex Canada referral.",
     "priorContactCheck": "never contacted; the previous failure was a bad URL, not a rejection",
-    "nextStep": "BATCH RULE APPLIED 2026-10-02, and the date is set by a real deadline rather than a guess. This invitation went out in the 23 to 24 September wave, and campaign sequences carry toBeWithdrawnAfterDays 30, so AN UNANSWERED INVITATION WITHDRAWS ITSELF AROUND 23 TO 24 OCTOBER. A withdrawal starts a roughly three week LinkedIn block on re-inviting, which is how the Luis Reynoso approach was lost. SO ON 20 OCTOBER, THREE DAYS BEFORE THE DEADLINE: read leadConnectionStatus. IF ACCEPTED, this becomes a Play 0 first degree contact and gets a real message. IF STILL PENDING, decide then whether this name is worth finding another channel for, because after the auto withdrawal there is no re-invitation for about three weeks. DO NOT WITHDRAW MANUALLY and do not send a second invitation. This is a batch decision across roughly two dozen names from the same wave, not an individual play; anyone who merits more than the batch treatment should be pulled out on the 20th and worked properly.",
+    "nextStep": "⚠️ DUPLICATE ROWS MERGED 2026-10-02. This person was recorded TWICE: as 'Louise Lalor' with status superseded-failed-url, and as 'Louise L. (Lalor)' with status invitation-sent. Same person, same company, Hillside Winery & Bistro. This is the surviving row. THE TWO ROWS SAID CONTRADICTORY THINGS, WHICH IS THE DANGER: one said her campaign lead failed on a bad URL and produced an imp_ placeholder with a silent non send, the other said an invitation had been sent. BOTH CANNOT BE TRUE. The failed URL record is the older and better evidenced one, since the Louise Lalor silent failure in campaign 620518 is the case that established the imp_ placeholder rule in the first place. SO TREAT HER AS NOT CONTACTED. On 20 October do NOT simply read leadConnectionStatus as if an invitation were pending; instead confirm her profile URL with get_lead first. If it resolves, she can be added properly. If it 404s, she is a by hand send like Rosa Duarte and must never go into a campaign again.",
     "touches": [
       {
         "n": 1,
@@ -6010,39 +6084,6 @@
     "verification": "VERIFIED AT LEAD LEVEL 2026-10-02: lead 318796102 in campaign 622608 reads leadConnectionStatus ConnectionSent, finishedTime 2026-10-02T00:34:36, no errorCode. She is Controller at Hillside Winery & Bistro, Okanagan Falls, British Columbia, Canada, and a CPA who describes herself as an experienced CFO. Canada is in scope for Monex USA.",
     "lastActivity": "2026-10-02",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
-  },
-  {
-    "name": "Richard Labib",
-    "company": "Rohlig Logistics (Rohlig USA)",
-    "title": "Chief Financial Officer NORAM region",
-    "location": "Greater Chicago Area",
-    "profileUrl": "https://www.linkedin.com/in/richard-labib-9b604112",
-    "play": "play-0-first-degree",
-    "campaignId": 618489,
-    "listId": 963801,
-    "status": "closed",
-    "outcome": "declined-cash-pooling",
-    "firstTouch": "2026-09-24",
-    "loggedOn": "2026-09-25",
-    "note": "German freight forwarder, Bremen, founded 1852. Marcel's opener went out 2026-09-24 21:12 on agent settlements being the quiet part of a forwarder's P&L. Labib replied 2026-09-25 18:08, about 21 hours later: 'thanks for reaching out. We use cashpooling and aren't in the market.' The opener worked; the answer was no. Source campaign was 618489, Play 0 batch 1 rebuild, not an untracked message: the pipeline entry originally recorded campaignId as null and that was wrong.",
-    "objection": "Cash pooling. This is the centralized-treasury objection, and it is the one to expect across German-owned subsidiaries, because German groups run group treasury and net intragroup flows centrally. Directly relevant to the German-American Chamber play being built: the first German company to answer said the treasury decision is not local.",
-    "nextStep": "None. Dormant. Do not resurface. The company is not blacklisted, so a different Rohlig seat is not forbidden, but there is no reason to try one after a group-treasury answer from the NORAM CFO.",
-    "replySent": "2026-09-25T19:09Z. 'Richard, understood, and cash pooling is the right tool when the flows sit inside the group. I will leave it there. If that ever changes, you know where to find me. Marcel' Sent on Marcel's instruction. Three messages in the thread, Marcel last. No further contact.",
-    "heyReachAutoTag": "HeyReach auto-tagged him 'Not interested' at 2026-09-25T18:55Z, 47 minutes after his reply landed and before any human read it.",
-    "touches": [
-      {
-        "n": 1,
-        "date": "2026-09-24",
-        "channel": "linkedin-message",
-        "outcome": "closed",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
-      }
-    ],
-    "touchCount": 1,
-    "nextTouch": null,
-    "stopReason": "thesis-dead",
-    "stopNote": "Declined on the merits: Rohlig pools cash at group level in Germany, so the US entity does not own the decision. That objection kills the thesis rather than deferring it.",
-    "stoppedOn": "2026-10-01"
   },
   {
     "name": "Victor Galindo",
@@ -6210,7 +6251,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": "2026-10-05",
+    "nextStep": "⚠️ ACTIVE DOUBLE APPROACH AT ONE COMPANY, FOUND 2026-10-02 AND NOT CAUGHT BEFORE. TIME MANUFACTURING HAS TWO LEADS WITH INVITATIONS SCHEDULED AT THE SAME TIME: JUAN E. MAYOL RAMIREZ, Chief Accounting Officer AND Treasurer, and ROMAN RARIY, Chief Executive Officer. Both are queued, which is the worst version of the one seat breach because neither has been sent yet and both will land. MARCEL DECIDES, AND I DO NOT STOP EITHER LEAD WITHOUT HIS WORD, because stop_lead_in_campaign has NO API INVERSE and a wrong stop cannot be undone. MY RECOMMENDATION IS TO KEEP MAYOL RAMIREZ AND STOP RARIY. The reasoning follows this book's own precedent rather than rank alone: at Katzman the CFO was preferred over the Director of Operations, and Chief Accounting Officer and Treasurer in one seat IS the function that buys FX, not a junior proxy for it. A CEO is the authority but the treasurer is the operator, and the treasurer will not need the problem explained. The counter argument, that the CEO outranks and can direct the treasurer, is the reason this is Marcel's call and not mine. WHICHEVER IS KEPT, THE OTHER MUST BE STOPPED BEFORE EITHER INVITATION SENDS. Check both leads' status in their campaigns first.",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Andres Cardena",
@@ -6262,11 +6305,11 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": "2026-10-13",
+    "nextTouch": "2026-10-15",
     "lastActivity": "2026-10-02",
     "signal": "HIS OWN ABOUT IS THE ARGUMENT. Names cross border trade between Mexico, the United States and Canada. Runs ZP Farms in Sonora as a grower operation and Harvest Master as a hybrid grower-shipper-broker. Lists his interests as integrating technology into agriculture and supply chains, explicitly including LOGISTICS, PAYMENTS AND DECISION MAKING. A prospect who names payments himself does not need the category explained.",
     "oneSeatRule": "RESOLVED 2026-10-02: Zaragoza keeps the Harvest Master seat. Marcel initially said switch to Esteban Alvarez, then kept Zaragoza once the record showed he had ACCEPTED the connection and been MESSAGED, not merely invited. Alvarez's only advantage was 61 mutuals, and mutual count exists to buy an accepted connection, which Zaragoza had already given.",
-    "nextStep": "CONNECTED AND MESSAGED 2026-09-29, UNDATED SINCE. Harvest Master. He accepted and was messaged, so he is a first degree contact with one message out and no reply after two weeks. ON 13 OCTOBER read the thread and decide: a second message that says something new, or close. NOTE: ESTEBAN ALVAREZ AT THE SAME COMPANY WAS REJECTED on the one seat rule in Zaragoza's favour, which Marcel settled himself, so this seat is the only one at Harvest Master and is worth finishing properly.",
+    "nextStep": "CONNECTED AND MESSAGED 2026-09-29, UNDATED SINCE. Harvest Master. He accepted and was messaged, so he is a first degree contact with one message out and no reply after two weeks. ON 13 OCTOBER read the thread and decide: a second message that says something new, or close. NOTE: ESTEBAN ALVAREZ AT THE SAME COMPANY WAS REJECTED on the one seat rule in Zaragoza's favour, which Marcel settled himself, so this seat is the only one at Harvest Master and is worth finishing properly. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "doNotRaise": "Esteban Alvarez is out at this company. Never approach both.",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"
   },
@@ -7399,10 +7442,12 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-05",
     "email": "rrariy@timemfg.com",
     "contactAccuracyScore": "95.0",
-    "doNotCall": "MOBILE DO NOT CALL"
+    "doNotCall": "MOBILE DO NOT CALL",
+    "nextStep": "⚠️ ACTIVE DOUBLE APPROACH AT ONE COMPANY, FOUND 2026-10-02 AND NOT CAUGHT BEFORE. TIME MANUFACTURING HAS TWO LEADS WITH INVITATIONS SCHEDULED AT THE SAME TIME: JUAN E. MAYOL RAMIREZ, Chief Accounting Officer AND Treasurer, and ROMAN RARIY, Chief Executive Officer. Both are queued, which is the worst version of the one seat breach because neither has been sent yet and both will land. MARCEL DECIDES, AND I DO NOT STOP EITHER LEAD WITHOUT HIS WORD, because stop_lead_in_campaign has NO API INVERSE and a wrong stop cannot be undone. MY RECOMMENDATION IS TO KEEP MAYOL RAMIREZ AND STOP RARIY. The reasoning follows this book's own precedent rather than rank alone: at Katzman the CFO was preferred over the Director of Operations, and Chief Accounting Officer and Treasurer in one seat IS the function that buys FX, not a junior proxy for it. A CEO is the authority but the treasurer is the operator, and the treasurer will not need the problem explained. The counter argument, that the CEO outranks and can direct the treasurer, is the reason this is Marcel's call and not mine. WHICHEVER IS KEPT, THE OTHER MUST BE STOPPED BEFORE EITHER INVITATION SENDS. Check both leads' status in their campaigns first.",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Hector Lujan Valladolid",
@@ -8150,7 +8195,9 @@
     "sizeRisk": "A $2B platform across 150 countries sits above the usual band and certainly has payment rails already. The argument for approaching anyway is that the FX spread inside those rails is rarely tendered separately, and he is demonstrably the kind of CFO who tenders things.",
     "companyLock": "One seat per company. Seth Stein, CEO, is the alternative and is reachable at sstein@eastridgewm.com, Apollo verified, with a direct dial. Held as the fallback: Aguilar is the finance seat and Marcel supplied his URL.",
     "priorContactCheck": "Screened against pipeline.json. Workwell has never been contacted. Jacquie Nelissen is at Eastridge, which is now a different company, so there is no collision.",
-    "nextStep": "Invitation sends 2026-10-06 in campaign 630953. Touch 2 is an email, due 2026-10-09, and he has no address on file yet."
+    "nextStep": "⚠️ ONE SEAT COLLISION AT WORKWELL NORTH AMERICA, AND THE OTHER PERSON IS ALREADY IN CONVERSATION. SETH STEIN, CHIEF EXECUTIVE OFFICER, was contacted on 2026-10-01 and his row reads awaiting-reply. Jesus Aguilar, Chief Financial Officer, has an invitation STILL QUEUED. SO THE QUEUED INVITATION IS THE DOUBLE APPROACH, and it is the one to stop rather than Stein, who has already been written to. Sending to the CFO days after the CEO was approached is the single most visible version of this mistake, because the two of them sit next to each other. MARCEL DECIDES AND I DO NOT STOP THE LEAD WITHOUT HIS WORD, since stop_lead_in_campaign has no inverse. NOTE THE TENSION HONESTLY: for FX the CFO is usually the better seat, so if Stein does not reply, Aguilar becomes the right second attempt at Workwell LATER. But it has to be sequential, not simultaneous. Decide on 5 October, before the queued invitation sends.",
+    "nextTouch": "2026-10-05",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Seth Stein",
@@ -8185,7 +8232,7 @@
     "note": "Workwell North America: the carved out Eastridge EOR business, San Diego, 74 people, under Workwell Group of Watford. | DELIBERATE DOUBLE APPROACH, at Marcel's instruction. Jesus Aguilar, his CFO, has an invitation firing 2026-10-06 in campaign 630953 at the same 74 person office. Marcel's own one seat per company rule is being set aside here. The email therefore discloses the other approach in its fourth paragraph rather than hoping it goes unnoticed: a CEO who hears it from his CFO first reads it differently.",
     "angle": "Different conversation from the CFO's on purpose. Jesus gets the FX spread argument because he has publicly tendered a banking relationship and put a number on it. Seth gets his own career bet, because it is the most interesting true thing about him and nobody else writing to him will have noticed it.",
     "companyLock": "Two seats live at one company by exception. If this proves awkward, the fallback is to pull Jesus from Tuesday's wave or to hold Seth until Jesus has replied or gone quiet.",
-    "nextStep": "AWAITING REPLY SINCE 2026-10-01 WITH ONE TOUCH. Workwell North America. ⚠️ ONE SEAT CHECK: JESUS AGUILAR AT WORKWELL NORTH AMERICA is also in the book with an invitation scheduled. Decide which of the two holds the Workwell seat before either gets a second touch, and do not write to both.",
+    "nextStep": "AWAITING REPLY SINCE 2026-10-01 WITH ONE TOUCH. Workwell North America. ⚠️ ONE SEAT CHECK: JESUS AGUILAR AT WORKWELL NORTH AMERICA is also in the book with an invitation scheduled. Decide which of the two holds the Workwell seat before either gets a second touch, and do not write to both. | SEE THE WORKWELL COLLISION NOTE ON JESUS AGUILAR'S ROW. Stein was contacted first, so he holds the seat for now; Aguilar's queued invitation is the one to stop. If Stein never replies, Aguilar is the right SEQUENTIAL second attempt, not a parallel one.",
     "lastTouch": "2026-10-01",
     "lastActivity": "2026-10-02",
     "nextTouch": "2026-10-20",
@@ -8263,8 +8310,8 @@
       }
     ],
     "touchCount": 3,
-    "nextTouch": "2026-10-13",
-    "nextStep": "IN SEQUENCE SINCE 2026-06-25 WITH THREE TOUCHES AND NO DATE. AgPro LLC. Three touches is the book's stopping point, so 13 OCTOBER is a decision date rather than a touch date: read the thread, and either find a genuinely new reason or close him. Do not send a fourth touch that repeats the first three.",
+    "nextTouch": "2026-10-15",
+    "nextStep": "IN SEQUENCE SINCE 2026-06-25 WITH THREE TOUCHES AND NO DATE. AgPro LLC. Three touches is the book's stopping point, so 13 OCTOBER is a decision date rather than a touch date: read the thread, and either find a genuinely new reason or close him. Do not send a fourth touch that repeats the first three. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "reply": "2026-06-25, verbatim substance: AgPro is currently focused on the US market, strengthening operations and technical support to growers. International expansion is a future consideration. CRITICALLY: 'como parte de Huma, ya estamos participando en mercados internacionales a través de distribuidores máster en distintos países, lo que nos ha permitido desarrollar experiencia y presencia global.'",
     "companyProfile": "AgPro LLC is PART OF HUMA, the agricultural biologicals group. Huma already sells into international markets through MASTER DISTRIBUTORS in several countries. Eduardo volunteered this himself in June and it was not followed up at the time.",
     "watchFor": null,
@@ -8432,8 +8479,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": "2026-10-13",
-    "nextStep": "IN SEQUENCE FROM 2026-10-02, SO HE IS FRESH RATHER THAN STALE. Quetico Logistics. HE IS AN INMAIL PLAY, NOT AN INVITATION: 3rd degree with ZERO MUTUALS across 87 screened profiles, which Sales Navigator stated plainly, so a connection request has nothing behind it. InMail gets one shot. ⚠️ AND ONE THING MUST BE CHECKED BEFORE THE NOTE IS WRITTEN, which the screen flagged and nobody has answered: QUETICO IS A 3PL AND APPAREL MANUFACTURER, so does it pay overseas suppliers itself or merely move goods its clients own? His own line about inventory financing suggests Quetico takes positions, which would make the exposure its own rather than its clients'. THE WHOLE NOTE TURNS ON THAT. Omar Oweis and Shirley Sass at the same company were rejected in his favour.",
+    "nextTouch": "2026-10-15",
+    "nextStep": "IN SEQUENCE FROM 2026-10-02, SO HE IS FRESH RATHER THAN STALE. Quetico Logistics. HE IS AN INMAIL PLAY, NOT AN INVITATION: 3rd degree with ZERO MUTUALS across 87 screened profiles, which Sales Navigator stated plainly, so a connection request has nothing behind it. InMail gets one shot. ⚠️ AND ONE THING MUST BE CHECKED BEFORE THE NOTE IS WRITTEN, which the screen flagged and nobody has answered: QUETICO IS A 3PL AND APPAREL MANUFACTURER, so does it pay overseas suppliers itself or merely move goods its clients own? His own line about inventory financing suggests Quetico takes positions, which would make the exposure its own rather than its clients'. THE WHOLE NOTE TURNS ON THAT. Omar Oweis and Shirley Sass at the same company were rejected in his favour. | MOVED FROM 13 TO 15 OCTOBER 2026 on 2026-10-02. The 13th carries the APTEAN MEETING at 10:00 EST with Clifford D'Souza and his Bangalore colleague, and eleven decision items had been stacked onto the same day. A booked meeting day should carry the meeting and its preparation, nothing else.",
     "doNotRaise": "Nothing about Ethos Brands or RVCA in the first message, deliberately. It is the glamorous half of his profile and would dilute a note whose strength is one narrow question. It is the obvious second thread if he engages. Also no praise of the Sales Associate to EVP arc: flattery from a stranger who is selling reads as technique.",
     "oneSeatRule": "Markar holds the Quetico seat. Omar Oweis (senior staff accountant) and Shirley Sass (senior accountant) are both OUT, including Sass despite her being the only Quetico profile whose URL we captured. Holding a URL is not a reason to write to the weakest seat at a company.",
     "noteFile": "data/fx/undated-89-swept-2026-10-02.md"

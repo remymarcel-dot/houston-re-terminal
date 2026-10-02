@@ -1121,3 +1121,25 @@ audit had flagged it as the most valuable row on the board. Re-presenting known 
 discovery wastes his attention and makes the genuinely new parts, in that case the date and
 the missing address, harder to see.
 
+## Marcel sends every email and every meeting invitation from his Monex USA address
+
+**His own words, 2026-10-02:** *"all emails and invitations for meeting leave from my monex usa
+email that you do not have access. The only thing i do is to inform you what is done on the
+email from monex usa."*
+
+**So this is the division of labor and it is not negotiable:**
+
+- **The agent never sends an email and never creates a calendar invitation.** Not from the
+  connected Gmail, not anywhere. The connected Google account is his personal one and has no
+  part in the business.
+- **The agent drafts; Marcel sends from Monex; Marcel reports back; the agent logs it.** That
+  is the whole loop.
+- **Never offer to send.** On 2026-10-02 I asked whether to send a calendar invite from his
+  personal Gmail or have him send it from Monex. **That question should never have been asked**,
+  because the answer was always Monex, and offering the Gmail route at all was wrong.
+
+**And the inference rule that follows from it:** the connected Google account cannot tell us
+anything about whether a work email or invitation exists. Searching it and finding nothing
+means nothing. The only source of truth for what has been sent from Monex is **Marcel saying
+so**, so when it matters, ask him rather than concluding.
+
