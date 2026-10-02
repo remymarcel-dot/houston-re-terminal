@@ -60,3 +60,58 @@ traditional deciduous fruit is seasonal and sourced from different
 hemispheres. Taking both on means two different calendars and two different
 grower maps inside one business. That is a real operational change and worth
 saying out loud.
+
+---
+
+# 2026-10-02: MARCEL POSTS NOW, AND A BETTER HOOK TURNED UP
+
+Marcel's call: "comment on fraymil's post now." The Monday spacing advice above is
+overridden, which is his call to make. The concern stands for the record and is
+one sentence: a cold email and a comment from the same stranger on the same day
+is noticeable. It is not a reason not to do it.
+
+## New findings, 2026-10-02, that change the picture
+
+**Fraymil is a Produce Business 40 Under Forty 2026 award winner.** This is about
+HIM, not about a hire, which makes it a better comment target than Armata by a
+wide margin. Details from the award profile: age 37, COO of Exp. Group LLC, North
+Bergen NJ, began working September 2007 after finishing high school in **Santiago,
+Dominican Republic**, management role by 2011, then VP, then SVP, then **COO in
+2025**.
+
+**Timing of the award:** Produce Business announced the 2025 class in June 2025
+and honored it at the New York Produce Show in December. By the same pattern the
+2026 class was announced around mid-2026 and will be honored at the **New York
+Produce Show in December 2026**. So the award is a few months old, fresher than
+the March Armata item but not new either. The December reception is a FUTURE
+touch, not a comment hook.
+
+**EXP. GROUP HAS TEXAS DISTRIBUTION.** The award profile credits him with scaling
+Exp. Group into a multi state operation across **New Jersey, New York and Texas**,
+a fleet of 80+ trucks and multiple distribution centers, while **strengthening
+direct sourcing relationships throughout Latin America**. That is the FX case in
+one sentence, and Texas is Marcel's own ground. This is the strongest fact we have
+on him and it was not in the record before today.
+
+**He is Dominican, from Santiago.** Spanish is very likely natural to him. The
+email went in English. Worth knowing for the 16 October follow up.
+
+## Comment A, if the post is the 40 Under Forty award
+
+> Congratulations Fraymil, genuinely well earned. Starting out in 2007 and
+> reaching COO of a multi state operation is a serious run, and the direct
+> sourcing relationships across Latin America are the part of that story people
+> tend to underestimate. Enjoy it.
+
+Referencing the 2007 start is not creepy: it is in the published award profile, so
+it reads as having actually read the piece.
+
+## Comment B, if the post is the Richard Armata fruit department
+
+Use the comment at the top of this file, unchanged.
+
+## If it is neither
+
+Paste the post text and the comment gets written to fit it. The rules do not
+change: no FX, no Monex, no payments, no ask. The only job is to make the name
+familiar and get the pending invitation accepted.
