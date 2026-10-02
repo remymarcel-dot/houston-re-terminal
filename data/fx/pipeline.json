@@ -8116,7 +8116,8 @@
     "nextTouch": null,
     "nextStep": "Verify at LEAD level that the invitation actually went out, checking leadConnectionStatus rather than the campaign counters. The Hillary Stroble failure on 2026-10-01 proved campaign progressStats can report zero failures while nothing was sent. The default schedule is Mon to Fri 09:00 to 17:00 UTC and the 4 hour delay lands past 17:00, so the invitation most likely fires Friday morning rather than today. If he accepts, send the prepared first message about the intercompany settlement rate.",
     "buildNote": "excludeContactedFromOtherCampaigns set to FALSE on purpose. That setting has silently excluded leads twice, on Ricardo Yllescas and on the Fightmaster recovery. Confirmed 0 excluded on this campaign.",
-    "oneSeatRule": "Olvin is the Dinant seat. Three other Dinant employees work in Greater Houston; if any surface later they are routes at most, never a second approach."
+    "oneSeatRule": "Olvin is the Dinant seat. Three other Dinant employees work in Greater Houston; if any surface later they are routes at most, never a second approach.",
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "name": "Martin Hauser",
@@ -8149,7 +8150,8 @@
     "touchCount": 1,
     "nextTouch": null,
     "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 and the 3 hour delay lands around 13:00 Central, so it should fire TODAY rather than slipping to Monday the way Olvin's did.",
-    "buildNote": "Schedule set explicitly to America/Chicago 08:00 to 18:00 at creation, because HeyReach's default is 09:00 to 17:00 UTC, which is 04:00 to noon Central. That default is what pushed Olvin's invitation (campaign 634581) to Monday, and the schedule cannot be changed once a campaign is IN_PROGRESS. Set it at creation, every time."
+    "buildNote": "Schedule set explicitly to America/Chicago 08:00 to 18:00 at creation, because HeyReach's default is 09:00 to 17:00 UTC, which is 04:00 to noon Central. That default is what pushed Olvin's invitation (campaign 634581) to Monday, and the schedule cannot be changed once a campaign is IN_PROGRESS. Set it at creation, every time.",
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "name": "Rodrigo Lopez Sanroman",
@@ -8182,7 +8184,8 @@
     "nextTouch": null,
     "nextStep": "Verify at lead level that the invitation went out. Should fire this afternoon Central, same as Hauser. If he accepts, the follow up asks whether the Americas entities fund their own currency needs or whether it is run centrally, which is the question that has worked on Tecma and Core Group Resources.",
     "sizeNote": "Large parent, but his seat is a REGIONAL book rather than the central finance function, which is the distinction that kept Jakks and Element Solutions on the wrong side of the band and puts him on the right side of it.",
-    "buildNote": "Schedule set at creation, America/Chicago 08:00 to 18:00, per the rule recorded after Olvin's slipped to Monday."
+    "buildNote": "Schedule set at creation, America/Chicago 08:00 to 18:00, per the rule recorded after Olvin's slipped to Monday.",
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "name": "Markar Agakanian",
@@ -8228,7 +8231,7 @@
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
     "touchCount": 1,
     "nextTouch": null,
-    "nextStep": "DO NOT count as contacted. The lead did not resolve in HeyReach so the invitation will very likely never send. Re-copy his profile URL from LinkedIn and re-add, then verify leadConnectionStatus.",
+    "nextStep": "Invitation NOT YET SENT, leadConnectionStatus reads None. Profile viewed 16:01:27 UTC so the invitation is due around 19:01 UTC, 14:01 Central, today. Verify Monday 5 Oct. No longer a data quality concern.",
     "name": "Jose Antonio Martinez Haro",
     "company": "Divine Flavor",
     "title": "COO and General Manager",
@@ -8244,7 +8247,8 @@
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
     ],
-    "dataQualityFlag": "HeyReach did not resolve this profile. Lead 320046646 in campaign 634736 has linkedInUserProfileId null and an internal placeholder id (imp_TSULFPKEXCBZMALRKEMLYLFPN) instead of a real LinkedIn id, and no headline, location or image came back. Every other lead in the campaign resolved. Expect this invitation to fail, probably silently."
+    "resolutionNote": "RESOLVED ITSELF. Flagged this morning as unresolved in HeyReach with the placeholder id imp_TSULFPKEXCBZMALRKEMLYLFPN and no headline, location or image. Verified at lead level at 17:30 UTC on 2026-10-02 and he now carries a real linkedInUserProfileId (ACoAAABjtVEBTjc3Y7ssbkEv1NffHjL_S2x7bDk), linkedin_id 6534481, his real headline 'Chief Operating Officer/General Manager at Divine Flavor' and location Nogales, Arizona. HeyReach resolved him when the profile view ran at 16:01:27. So an imp_ placeholder means NOT YET RESOLVED, not permanently unresolvable, and the right moment to judge it is after the first action rather than immediately after adding the lead.",
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8273,7 +8277,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8302,7 +8307,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8331,7 +8337,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8360,7 +8367,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8389,7 +8397,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8418,7 +8427,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "name": "Carlos Gomes",
@@ -8447,7 +8457,8 @@
     ],
     "touchCount": 1,
     "nextTouch": null,
-    "nextStep": "Verify leadMessageStatus reads MessageSent at lead level, not the counters. If he answers that it is dollars all the way, that is the opening rather than the end: the next question is whether he has ever asked an Indian exporter to quote in rupees, since that is where the embedded risk premium becomes visible."
+    "nextStep": "Verify leadMessageStatus reads MessageSent at lead level, not the counters. If he answers that it is dollars all the way, that is the opening rather than the end: the next question is whether he has ever asked an Indian exporter to quote in rupees, since that is where the embedded risk premium becomes visible.",
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "name": "Jack Campbell",
@@ -8518,7 +8529,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 13). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note.md item 13."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8547,7 +8559,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 14). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note.md item 14."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8576,7 +8589,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 15). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8605,7 +8619,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 16). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8634,7 +8649,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 17). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8663,7 +8679,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 18). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",
@@ -8692,7 +8709,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 19). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
       }
-    ]
+    ],
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
   },
   {
     "play": "play-4-cold",

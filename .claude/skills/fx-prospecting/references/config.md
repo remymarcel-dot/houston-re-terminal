@@ -873,30 +873,42 @@ no longer describes its contents, so write the wave number into each pipeline
 entry's touch note. The pipeline is the record, not the campaign name.
 
 
-## A lead that does not resolve will fail silently
+## An `imp_` lead has not resolved YET, which is not the same as never
 
 `get_leads_from_campaign` returns, per lead, a `linkedInUserProfileId` and a
-nested `linkedInUserProfile.linkedin_id`. For a lead HeyReach resolved against
-LinkedIn, these are a real URN and a numeric id, and the headline, location and
-image come back populated.
+nested `linkedInUserProfile.linkedin_id`. For a lead HeyReach has resolved
+against LinkedIn these are a real URN and a numeric id, with headline, location
+and image populated. For one it has not, `linkedInUserProfileId` is `null` and
+`linkedin_id` is a placeholder beginning `imp_`, with the rest null.
 
-For a lead it **could not** resolve, `linkedInUserProfileId` is `null` and
-`linkedin_id` is an internal placeholder beginning `imp_`, with headline,
-location and image all null.
+**An earlier version of this section said such a lead "will not be contacted, and
+nothing will report a failure." That was too strong and it was wrong within the
+same day.**
 
-**That lead will not be contacted, and nothing will report a failure.** It sits
-at `Pending` and the campaign counters still count it as a user.
+On **2026-10-02**, lead 320046646 in campaign 634736, Jose Antonio Martinez Haro
+of Divine Flavor, was added carrying `imp_TSULFPKEXCBZMALRKEMLYLFPN` and nothing
+else. Checked again six hours later he carried a real
+`linkedInUserProfileId`, `linkedin_id` 6534481, his real headline and his
+location. **HeyReach resolved him on its own when the `VIEW_PROFILE` step ran.**
 
-Found on 2026-10-02: lead 320046646 in campaign 634736, Jose Antonio Martinez
-Haro of Divine Flavor, `imp_TSULFPKEXCBZMALRKEMLYLFPN`. All thirteen other leads
-in that campaign resolved cleanly. The likely cause is a profile URL that was
-retyped or truncated rather than copied whole.
+So:
 
-**So check `linkedin_id` on every lead at verification time, not just
-`leadConnectionStatus`.** An `imp_` prefix means re-copy the URL from LinkedIn
-and re-add, and it means the person has **not** been touched no matter what the
-pipeline says.
+- **An `imp_` id at the moment of adding means nothing.** Resolution happens when
+  the first sequence action runs, not when the lead is created.
+- **Judge it after the first action.** If `lastActionTime` is set and the id is
+  still `imp_`, that is a real problem. If `lastActionTime` is null, the lead has
+  simply not been reached yet.
+- **It is still worth noting at add time**, because a genuinely bad slug produces
+  the same symptom at first and fails later with
+  `CannotViewProfileDoesnotExist`. That is what happened to Louise Lalor in
+  campaign 620518, whose slug `louise-lalor-982467b6` did not exist and who had
+  to be re-added as `louise-l-982467b6`.
 
+**The distinguishing test is `lastActionTime`, not the id on its own.**
+
+Being wrong in the pessimistic direction is the cheap way to be wrong here: the
+cost was a needless warning on the strongest name in the batch, rather than a
+missed send.
 
 ## Read every campaign's failure count, because a failure is silent
 
@@ -944,3 +956,29 @@ history). A wrong URL simply returns nothing and no message is sent either way.
 `get_campaigns_for_lead` takes the same URL and answers "which campaigns is this
 person in" in one small call, which beats pulling 46 lead lists. Note its
 parameter is `profileUrl`, not `leadLinkedInId`.
+
+
+## Verify the same afternoon and you will verify nothing
+
+Checked all five of 2026-10-02's campaigns at roughly 17:30 UTC, about two hours
+after the last was built. **All 18 leads read `leadConnectionStatus: None`.**
+Nothing had been sent, and nothing was wrong.
+
+The sequence is `VIEW_PROFILE` then `CONNECTION_REQUEST` **at a 3 hour delay**,
+which is the API minimum. So a campaign started at 15:30 UTC cannot send an
+invitation before 18:30 UTC, and HeyReach works leads **serially**, spacing the
+profile views out: on 2026-10-02 the fourteen leads of campaign 634736 were
+viewed between 15:44 and 17:20, so their invitations were due across a span of
+18:44 to 20:20.
+
+**So the useful verification window is the next morning, not the same afternoon.**
+Checking too early produces a wall of `None` that means only "the delay has not
+elapsed," and reading it as failure is how a working campaign gets rebuilt into a
+duplicate.
+
+Two things worth reading early, though, because both are real signals:
+
+- **`lastActionTime: null`** means the lead has not been reached at all yet, which
+  distinguishes "waiting on the delay" from "waiting in the queue."
+- **`errorCode`**, which appears as soon as a step actually fails and does not
+  wait for the sequence to finish.
