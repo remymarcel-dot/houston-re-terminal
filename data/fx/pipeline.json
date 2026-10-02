@@ -1665,12 +1665,12 @@
   {
     "name": "Eyal Nahoumovich",
     "company": "Gaia",
-    "title": "General Manager and Owner, Gaia LLC",
+    "title": "Principal Owner, Gaia Produce",
     "location": "Brooklyn, New York",
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "revival-call-recommended",
+    "status": "call-scheduled",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-09-17",
@@ -1684,6 +1684,13 @@
         "channel": "linkedin-invitation",
         "outcome": "draft-ready-manual-send",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 3,
+        "date": "2026-10-07",
+        "channel": "phone-scheduled",
+        "outcome": "SCHEDULED, not yet made",
+        "notes": "Call scheduled Wednesday 7 October 2026, 8:00 to 9:00am Central. The escalation the revival plan always specified: message first, call the mobile if silent in a week. The 2026-09-17 message went 15 days unanswered, so the call is overdue rather than premature. Not a touch until Marcel reports the outcome."
       }
     ],
     "touchCount": 2,
@@ -1692,12 +1699,13 @@
     "contactAccuracyScore": 93.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 93. NO EMAIL, but a clean mobile, so he is now a call rather than unreachable. Employer reads Gaia Produce.",
-    "enrichedOn": "2026-10-01",
+    "enrichedOn": "2026-10-02",
     "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
     "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
-    "nextStep": "CALL HIM WEDNESDAY 7 OCTOBER 2026. Mobile (917) 207-0879, doNotCall none, no email on file. He is in Brooklyn, so Eastern time; call mid morning Eastern, which is earlier than it feels from Texas. DO NOT SEND THE DRAFTED MESSAGE. He already received a long, specific reopening on 2026-09-17 naming all five sourcing countries and the non convertible dirham, and it is unanswered 15 days later. The 2026-10-02 draft repeats that same angle and reopens with the same 'my April note was templated' line, so sending it would be a visible repeat. THE CALL IS THE ESCALATION THE PLAN ALWAYS SPECIFIED: 'message first, call the mobile if silent in a week.' That week has passed, which makes the call overdue rather than premature. Open by referring to the written message, not to April: he has now read something real. Ask which of the five legs gives his team the most trouble, which is the question the September message ended on and he never answered.",
-    "noteFile": "data/fx/revivals-decision-2026-10-02.md",
-    "lastActivity": "2026-10-02"
+    "nextStep": "CALL WEDNESDAY 7 OCTOBER 2026, 8:00 to 9:00am Central which is 9:00 to 10:00am Eastern. Confirmed by Marcel 2026-10-02. He is in BROOKLYN so Eastern time, and produce people are at their desks early, so earlier is safer than later. MOBILE (917) 207-0879, both do not call flags clear, re-verified in ZoomInfo 2026-10-02 as Principal Owner with accuracy 93. NO EMAIL EXISTS for him. FULL CALL SHEET IN data/fx/call-eyal-nahoumovich-2026-10-07.md, read before dialing. THIS IS NOT A COLD CALL. He received a long specific message on 2026-09-17 naming all five sourcing countries and the non convertible dirham, and closing with 'just curious which of those five gives your team the most trouble.' He did not answer. So DO NOT open on April, do not re-explain the five country argument, and do not reproach him for the silence. The question is simply still open. THE BEST QUESTION ON THE SHEET, AND IT IS NON OBVIOUS: the dirham is pegged to a euro weighted basket and Morocco's trade is Europe facing, so a MOROCCAN SUPPLIER MAY INVOICE IN EUROS RATHER THAN DOLLARS. If so, Gaia carries a euro exposure nobody has ever called one. Ask it plainly: when you buy out of Morocco, are you paying in dollars or euros? Present every country point as a hypothesis about the country, never as a claim about his business. ONE VOICEMAIL ONLY. After a written message and a call, if both go unanswered the honest read is no interest, and the next step is a keep or cut decision rather than a fourth touch.",
+    "noteFile": "data/fx/call-eyal-nahoumovich-2026-10-07.md",
+    "lastActivity": "2026-10-02",
+    "seatRisk": "ZOOMINFO PUTS GAIA PRODUCE REVENUE AT $572,000 and that is almost certainly wrong for an importer running programs in Chile, Peru, China, India and Morocco; ZoomInfo routinely understates small private importers. But it is not disproven either, so SIZING IS THE QUIET SECOND JOB OF THE CALL. Do it through container counts, how many programs run at once, and whether he buys on his own book or brokers for others, not by asking revenue. His own company description says importer, broker, distributor AND marketer, which are four different balance sheets. If he turns out genuinely small, log it and let the next decision rest on it rather than spending more calls."
   },
   {
     "name": "Shirley Bryson",
