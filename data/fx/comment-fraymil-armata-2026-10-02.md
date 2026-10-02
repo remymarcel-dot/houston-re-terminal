@@ -115,3 +115,42 @@ Use the comment at the top of this file, unchanged.
 Paste the post text and the comment gets written to fit it. The rules do not
 change: no FX, no Monex, no payments, no ask. The only job is to make the name
 familiar and get the pending invitation accepted.
+
+---
+
+# CORRECTION 2026-10-02: NEITHER POST EXISTS AS FAR AS MARCEL CAN SEE
+
+Marcel looked and reported: "i do not see these posts."
+
+**MY ERROR, AND IT IS THE SAME ERROR TWICE.** I never verified that Fraymil posted
+either item. The Richard Armata item is TRADE PRESS (Fresh Fruit Portal, The
+Produce News, Abasto) and the 40 Under Forty item is a MAGAZINE PROFILE on
+producebusiness.com. Neither is necessarily something he shared on LinkedIn. The
+screen at `screen-2026-10-02-linkedin-batch.md` line 220 says only "Posted in the
+past 30 days" and never captured WHAT the post was, and rather than flagging that
+gap I filled it with whatever news existed about his company.
+
+**THE RULE THIS SHOULD HAVE FOLLOWED:** a comment hook is a POST, confirmed in the
+feed. Company news found by web search is not a post. If the screen records that
+someone posted but not what, that is an OPEN QUESTION, not an invitation to guess.
+
+## How to find the real post
+
+> https://www.linkedin.com/in/fraymil-rodriguez-092a8614/recent-activity/all/
+
+`/shares/` instead of `/all/` for posts only. Paste the newest post and the comment
+gets written to fit it. Rules unchanged: no FX, no Monex, no payments, no ask.
+
+## If there is no post, the comment play is DROPPED, not forced
+
+An Exp. Group company page post is not a substitute, because he probably never sees
+it. In that case the next touch is simply the 16 October email follow up, and it is
+stronger than this morning's version anyway:
+
+- **Exp. Group runs distribution in TEXAS**, not only New Jersey and New York.
+  80+ trucks, multiple distribution centers.
+- **He personally built the direct Latin American sourcing relationships.**
+
+That pair is Marcel's own ground and the currency exposure in one sentence, and it
+is a better second touch than any comment would have been. Spanish is available as
+a deliberate switch if the English email gets no reply, since he is Dominican.

@@ -609,3 +609,21 @@ carries 40 credits, but credits are not the constraint; attention is.
 on 2026-10-02 as a strong seat with zero mutuals. Under Marcel's judgment that
 touch is weaker than it was recorded as being, and a verified email for him is
 worth finding.
+
+## A comment hook is a post, confirmed in the feed
+
+Company news found by web search is **not** a post. On 2026-10-02 I drafted two
+comments for Fraymil Rodriguez, one on his company's new fruit department and one
+on his 40 Under Forty award, and Marcel could find neither in his feed. The first
+was trade press, the second a magazine profile. Neither was ever confirmed to be
+something he shared.
+
+The screen had recorded "Posted in the past 30 days" without capturing what the
+post was. **That is an open question, not an invitation to guess.** When a screen
+says someone posted but not what, ask Marcel for the newest post, or send him to
+`/in/<slug>/recent-activity/all/` and have him paste it.
+
+**And when there is no post, drop the comment play rather than force it.** A
+comment on the company page is not a substitute, because the person probably never
+sees it. The next real touch is whatever was already scheduled.
+
