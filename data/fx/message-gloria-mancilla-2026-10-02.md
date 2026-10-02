@@ -117,3 +117,25 @@ Re-adding was blocked twice: v1 returned 0 because she already exists in 634736,
 and 630877 / 630953 / 628299 all carry `excludeInOtherCampaigns: true`, which her
 presence in 634736 trips. After Marcel resumed her in the UI the API still read
 `leadStatus: Paused` on three checks, by `profileUrl` and by `linkedinId`.
+
+---
+
+## SENT 2026-10-02
+
+Marcel sent the invitation by hand and confirmed it. The 290-character Spanish
+note above went out verbatim. Invitation is pending acceptance.
+
+Pipeline status: `invitation-sent-manually`, touch 1 of a cold Play 4, next check
+**2026-10-16**.
+
+**If still pending on 16 Oct:** leave it. Do not withdraw. Withdrawing starts a
+roughly three-week LinkedIn block on re-inviting — that is how the Luis Reynoso
+approach was lost.
+
+**If accepted:** she is 1st degree, so the next touch is a Play 0 message in
+Spanish. Do not repeat Temple, she has already read it. Lead with the shared
+EMBA — hers at ITAM, Sept 2024 to July 2026, with modules at Wharton, IE Madrid
+and NUS Singapore; Marcel's at UT Dallas, finished May 2025. IPADE second. The
+ask is a short call on how Sesajal is budgeting the peso side of the Temple build.
+
+**The HeyReach row stays Paused in campaign 634736 permanently.** Never resume it.
