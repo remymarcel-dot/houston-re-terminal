@@ -1009,3 +1009,41 @@ unresolvable URL in a campaign becomes an `imp_` placeholder lead that is never
 contacted and never reports an error, which is exactly what happened to Louise
 Lalor in campaign 620518 on a slug that did not exist. Sending by hand carries no
 such risk, because a wrong URL simply fails to open.
+
+
+## To change a queued lead's note, use v2. NEVER stop the lead first
+
+**`add_leads_to_campaign_v2` updates an existing lead's custom fields in place.**
+Call it with the same `profileUrl` and the new `{note}` value and it returns
+`{"addedLeadsCount":0,"updatedLeadsCount":1,"failedLeadsCount":0}`. The queued
+invitation keeps its place and simply carries the new text.
+
+**`stop_lead_in_campaign` has no API inverse.** There is no resume-lead tool. Once
+a lead is stopped or paused, only the HeyReach web UI can restart it.
+
+**This cost a send on 2026-10-02.** Asked to add a line to Gloria Mancilla's
+queued note, I called `stop_lead_in_campaign` first on the assumption that the
+lead would have to be replaced. Then:
+
+- **v1 `add_leads_to_campaign` returned `0`** — it will not re-add a profile that
+  already exists in the campaign, even when that existing row is paused.
+- **Every other Play 4 campaign refused her**, because 630877, 630953 and 628299
+  all carry `excludeInOtherCampaigns: true`, and her paused row in 634736 counts
+  as being in another campaign.
+- **v2 then updated the note in place anyway**, which is what should have been
+  done first and would have required no stop at all.
+
+So she ended with the right note and a paused row that needs a human click.
+
+**The order of operations:**
+
+1. **Changing a note on a queued lead → v2 update, nothing else.**
+2. **Genuinely removing someone → stop the lead, and accept it is one-way.**
+3. Check `leadStatus` after any such change. `Paused` means it will not send,
+   however correct the copy now is.
+
+### A second thing worth knowing
+
+`stop_lead_in_campaign` takes `leadMemberId` (the numeric `linkedin_id`, e.g.
+`336966191`) **or** `leadUrl`. Passing a profile URL as `leadMemberId` returns a
+404, which looks like "lead not found" and is really "wrong field".
