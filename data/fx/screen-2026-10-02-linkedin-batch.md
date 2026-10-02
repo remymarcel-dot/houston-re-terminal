@@ -1057,3 +1057,59 @@ entirely and ask a narrow question.
 **What is unknown and gates the note: what Vision Online Inc. actually does.**
 Without that there is no honest currency angle, and inventing one for a man who
 supervised a 30 billion peso book would be obvious. One look settles it.
+
+
+## Item 4, Quetico: recommendation REVERSED on Markar's full profile
+
+URL supplied: `https://www.linkedin.com/in/markar-agakanian-4a958a121/`
+
+**I recommended skipping the company. That was wrong**, and it was wrong because
+the screen showed only the words "Executive at Quetico LLC & Ethos Brands". The
+full profile is one of the best seats in the entire 87.
+
+**Executive Vice President, Quetico Logistics, since May 2024.** In his own
+words, he leads **all operations, sales, business development, finance and brand
+partnerships** across every facility. The business is **$300M in apparel
+manufacturing, warehousing and logistics**, over 1.5 million square feet, 500+
+full time employees, millions of units a year.
+
+**The currency exposure is explicit in his own text**, not inferred:
+
+- Operations across **California, Arizona, Canada, and numerous international
+  facilities**.
+- **Apparel manufacturing** at that scale is Asian sourcing.
+- Over **100 global brand and retail partnerships**.
+- He names **inventory financing** as part of what he structures.
+
+And he is not a caretaker. He joined as a Sales Associate in December 2018 and
+went Operations Manager, Senior Operations Executive, EVP in six years. He calls
+it a founder's mindset himself. Separately he is **President and founding partner
+of Ethos Brands**, running the RVCA relaunch under Authentic Brands Group, plus
+Lost Surfboards.
+
+### The problem is the path, not the seat
+
+**3rd degree, and Sales Navigator states plainly: "No connections found.
+Currently there's no common connection between you and Markar."** Zero mutuals
+across 87 profiles is rare and it means an invitation has nothing behind it.
+
+His profile shows **Message** as the primary button, which at 3rd degree means
+**InMail**. The account carries an InMail limit of 40, which is not the
+constraint.
+
+**So the play is InMail, not a connection request.** That is a different channel
+from everything else in this screen and it should be used deliberately: InMail
+gets one shot and is read as what it is.
+
+### Revised seat decision
+
+**Markar, and the other two Quetico names stay out.** Omar Oweis is a senior
+staff accountant and Shirley Sass a senior accountant; neither decides anything
+at a $300M business whose EVP holds finance himself. Holding Shirley's URL is not
+a reason to write to her.
+
+**What is still needed before writing:** Quetico is a 3PL and apparel
+manufacturer, so the question is whether it pays overseas suppliers itself or
+merely moves goods its clients own. His line about inventory financing suggests
+Quetico takes positions, which would make the exposure its own rather than its
+clients'. Worth one check, because the whole note turns on it.
