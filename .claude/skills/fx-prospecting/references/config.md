@@ -1035,6 +1035,17 @@ lead would have to be replaced. Then:
 
 So she ended with the right note and a paused row that needs a human click.
 
+**And a UI resume may not stick, so stop fighting it and send by hand.** Marcel
+resumed her in the HeyReach UI on 2026-10-02 and `get_campaigns_for_lead` still
+returned `"leadStatus":"Paused"` on three checks afterwards, queried both by
+`profileUrl` and by `linkedinId`. Whether that is API lag or a failed resume is
+unknowable from here, and it does not matter: a lead whose status will not come
+back is a one-click manual invitation. Hand Marcel the URL and the note text,
+tell him to leave the paused row alone (a resumed row would try to send a second
+invitation; even if it fired, LinkedIn rejects the duplicate and HeyReach logs
+`ConnectionRequestAlreadySent`, a harmless Failed row), and log the touch when he
+confirms. Do not spend further turns verifying a status you cannot change.
+
 **The order of operations:**
 
 1. **Changing a note on a queued lead → v2 update, nothing else.**

@@ -82,3 +82,38 @@ Agro Sevilla and would go to Barriga: **does the parent fix the settlement rate
 between Jalisco and the US side, or is there room to negotiate it from here?**
 Internal settlements are the one rate nobody negotiates, because it is an
 internal transaction and feels like bookkeeping. The spread is just as real.
+
+---
+
+## 2026-10-02, FINAL ROUTE: MANUAL INVITATION
+
+Marcel's call: "i can invite her manually if it is easier." It is, and it is also
+safer, so the HeyReach route is abandoned for her.
+
+**What to do**
+
+1. Open `https://www.linkedin.com/in/g-v-m-p/`
+2. Click **Connect**, then **Add a note**
+3. Paste the text below. It is 290 characters, inside LinkedIn's 300 limit, so
+   nothing gets trimmed.
+4. Tell me it is sent and I will log the touch and set the follow-up.
+
+**Note to paste (Spanish, 290 chars):**
+
+```
+Gloria, felicidades por el arranque en Temple. Una planta en Texas financiada desde Jalisco es justo donde el tipo de cambio pasa de ser tema de tesoreria a tema de presupuesto, y tu llevas compras y gastos. Trabajo divisas y pagos internacionales en Monex USA. Con gusto conectamos. Marcel
+```
+
+**Do NOT resume her in campaign 634736.** A resumed lead would try to send a
+second invitation. Paused, it never fires, so leaving it alone costs nothing.
+Worst case if it ever did fire: LinkedIn rejects the duplicate and HeyReach logs
+`ConnectionRequestAlreadySent`, a harmless Failed row, not a double approach.
+
+**Why the campaign route failed.** My error. To swap the note in I called
+`stop_lead_in_campaign` first, assuming the lead had to be replaced. It did not:
+`add_leads_to_campaign_v2` updates a queued lead's custom fields in place. And
+`stop_lead_in_campaign` has no API inverse, so I could not undo the pause.
+Re-adding was blocked twice: v1 returned 0 because she already exists in 634736,
+and 630877 / 630953 / 628299 all carry `excludeInOtherCampaigns: true`, which her
+presence in 634736 trips. After Marcel resumed her in the UI the API still read
+`leadStatus: Paused` on three checks, by `profileUrl` and by `linkedinId`.
