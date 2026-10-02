@@ -982,3 +982,30 @@ Two things worth reading early, though, because both are real signals:
   distinguishes "waiting on the delay" from "waiting in the queue."
 - **`errorCode`**, which appears as soon as a step actually fails and does not
   wait for the sequence to finish.
+
+
+## A get_lead 404 is not proof the URL is wrong
+
+Confirming a search-derived profile URL with `get_lead` worked on six people on
+**2026-10-02** and failed on one: **Rosa Duarte of California Giant Berry Farms**,
+404 twice, with and without the trailing slash.
+
+The URL is almost certainly right anyway. **LinkedIn's own page at that address
+carries her name, title and company in the page title**, and the page's schema
+markup gives the same slug as `sameAs`. The likely cause is that she is a small,
+low-activity profile — 333 connections, 347 followers — that HeyReach cannot
+resolve.
+
+So the three outcomes are distinct and should be recorded differently:
+
+| get_lead result | meaning | what to do |
+|---|---|---|
+| Real `linkedin_id` with matching name, company and position | LinkedIn has confirmed the slug | Use it anywhere, campaign included |
+| **404** | **Unresolvable, not necessarily wrong** | Send BY HAND only. Do not put it in a campaign until a human has looked at the profile |
+| Returns a **different** person | the slug is wrong | Discard it |
+
+**The reason the distinction matters is the failure mode at the other end.** An
+unresolvable URL in a campaign becomes an `imp_` placeholder lead that is never
+contacted and never reports an error, which is exactly what happened to Louise
+Lalor in campaign 620518 on a slug that did not exist. Sending by hand carries no
+such risk, because a wrong URL simply fails to open.

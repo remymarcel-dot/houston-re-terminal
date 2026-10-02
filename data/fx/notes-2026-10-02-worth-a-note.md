@@ -216,17 +216,45 @@ better fallback is an introduction from one of them, which is a stronger approac
 than any cold note and costs only an ask.
 
 ## 20. John Larse, CEO, Sweet Darling Sales, Aptos CA
-**2nd degree · 14 mutuals · reposted the California Strawberry Commission · 263 chars**
+**URL CONFIRMED · NOTE REWRITTEN 2026-10-02 · the original was built on a wrong guess**
 
-A berry marketer whose programme runs year round necessarily sources winter fruit
-from Mexico. The note names that rather than talking about berries generally, and
-asks whether Sweet Darling handles the Mexican side itself, which is the fact
-that decides whether the exposure is his or a supplier's.
+`https://www.linkedin.com/in/john-larse-59312a20` — confirmed via get_lead,
+linkedin_id 71972031, CEO, Sweet Darling Sales Inc, Aptos CA.
 
-> John, a California berry program that runs year round means the winter fruit
-> comes from Mexico, and with it a peso cost underneath a dollar sale. I work on
-> FX and cross border payments at Monex USA. Curious whether Sweet Darling
-> handles that side directly. Marcel
+### The original note had the direction of the money backwards
+
+It read: *"a berry marketer whose programme runs year round necessarily sources
+winter fruit from Mexico... asks whether Sweet Darling handles the Mexican side
+itself."* That was an assumption about a company nobody had looked at.
+
+**Sweet Darling is an exporter, not an importer.** Its own description: a grower,
+shipper and exporter that "produces and ships fresh sweet strawberries to
+customers worldwide," with "strawberries packaged for export," GFSI GlobalG.A.P.
+certified. So the foreign currency arrives as **receivables**, which is the
+opposite direction from what the note assumed.
+
+**And he is a plant breeder.** Justia lists roughly **twenty US plant patents**
+assigned to Sweet Darling Sales with John Larse as sole inventor, including the
+varieties Yakima, Yoli, Flame, Playa, Taia, Vaulter, Preakness, Malibu, Magellan,
+Wenatchee, Alicia, Octavia, Dr. Duncan, Omaha, Caprice, Persephene and Shannon M.
+Kent, plus methods for Fusarium wilt resistance. He also runs Larse Farms Inc
+and Goddess Plant Sciences LLC. CEO since 1994, UC Berkeley.
+
+### The replacement note, 263 chars
+
+> John, Sweet Darling ships strawberries worldwide and you breed the varieties
+> yourself, so the money comes back in other people currencies while every cost
+> is in dollars. I work on FX and cross border payments at Monex USA. Curious how
+> you handle that side. Marcel
+
+**What is deliberately NOT claimed:** foreign royalty income. US plant patents
+protect only in the US, so overseas licensing would need separate foreign plant
+variety rights and there is no evidence of any. The note says he exports and
+breeds, both of which are documented.
+
+**Size is genuinely unclear** and should not be assumed: ZoomInfo says $25.1M and
+201 to 500 people, VisualVisitor says 11 people and $1 to 10M, AllBiz says about
+18. Treat the headcount as unknown.
 
 ## 21. Rosa Duarte, Accounting Manager, California Giant Berry Farms
 **2nd degree · 3 mutuals · 361 connections · 250 chars**
