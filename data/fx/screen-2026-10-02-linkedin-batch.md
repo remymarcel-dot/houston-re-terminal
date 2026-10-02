@@ -1017,10 +1017,12 @@ path neither of them will expect.
 | 1 | **Tricar** | **Juan Cardenas** | Already in flight: campaign 618450, invitation sent. Valeria Quintero is out, route only if he fails. |
 | 2 | **Exp Group** | **Fraymil Rodriguez** | Needs his URL to locate the pending invitation. Juvell O. is out. |
 | 3 | **Scotlynn** | **J.D. Poole** | Needs a URL. Joan Oben is out. |
-| 6 | **Harvest Master** | Marcel said Alvarez, **re-opened** | Zaragoza turns out to have ACCEPTED and been MESSAGED, not merely invited. Back to Marcel. |
+| 6 | **Harvest Master** | **Daniel Zaragoza** | Resolved. Marcel first said Alvarez, then kept Zaragoza once it emerged he had accepted and been messaged. Esteban Alvarez is out. |
 
-Still open: 4 Quetico, 5 Fresh Express (nothing to do, Olivo pending), 7 Sesajal,
-8 DC Partners, 9 Catalina.
+| 4 | **Quetico** | **Markar Agakanian** | Recommendation reversed on his full profile. See below. Channel is InMail, since he is 3rd degree with zero mutuals. |
+
+Still open: **5** Fresh Express (nothing to do, Olivo already pending), **7** Sesajal,
+**8** DC Partners, **9** Catalina.
 
 ## Iván Reybel Arista Pando, revised on his full profile
 
