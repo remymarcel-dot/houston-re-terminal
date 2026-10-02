@@ -8896,8 +8896,8 @@
     "noteFile": "data/fx/email-fraymil-rodriguez-2026-10-02.md"
   },
   {
-    "play": "play-4-cold",
-    "status": "invitation-pending-origin-unknown",
+    "play": "email-by-hand",
+    "status": "invitation-pending-no-note",
     "campaignId": 616214,
     "listId": 960269,
     "outcome": null,
@@ -8912,8 +8912,8 @@
     "title": "Director of Finance",
     "location": "Cleveland, Ohio, United States",
     "profileUrl": "https://www.linkedin.com/in/patrick-gaughan-cpa-974a276",
-    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending with him. He was NEVER IN THE PIPELINE AT ALL until this sweep, and his campaign attempt failed silently five days ago. Decide whether a Cleveland metal products finance director is still wanted; if yes, he is already waiting and only needs the invitation to be accepted.",
-    "angle": "Surfaced by the 2026-10-02 sweep, not by a screen. Director of Finance at Universal Metal Products, Cleveland. Came in through the El Paso Summit exhibitor list (campaign 616214, El Paso Summit Exhibitors W4). No screen assessment of him exists, so the fit is unassessed.",
+    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, CONNECTION REQUEST PENDING. DO NOT WITHDRAW. Email pgaughan@universalmetalproducts.com, a ZoomInfo FULL_MATCH. CAVEAT: the company runs two domains, ump-inc.com and universalmetalproducts.com, and its public address is solutions@ump-inc.com while other directories list staff on ump-inc.com. If it bounces, try pgaughan@ump-inc.com. Marcel sends by hand.",
+    "angle": "FIT NOW ASSESSED, AND MY EARLIER DOUBT WAS WRONG. I had flagged a Cleveland metal stamper on a Mexico nearshoring exhibitor list as a weak addition. Their own published timeline says otherwise: '2003 Appliance OEM's step up migration from US based operations into Mexico' and '2004 Company expanded operations again through the addition of a purchased building in McAllen, TX. The 30,000 sq ft facility was intended to support existing and new customer migrations to Mexico.' Their CEO on the 75th anniversary: plants opened in Toledo 1997 and Texas 2003 'to accommodate the changing diversity of our offerings both in industries served and markets, including Mexico.' SO THE BORDER PLANT EXISTS BECAUSE THEIR CUSTOMERS MOVED INTO MEXICO, which is the nearshoring shape exactly and means the El Paso list had him right. GROWING NOT COASTING: Pharr TX (101 W. Eldora Rd, Pharr TX 78577) added CNC milling in 2023 and two 600 ton presses in 2024. Three plants: Wickliffe OH, Pemberville OH, Pharr TX, and the site states all facilities satisfy USMCA criteria. ~$60M revenue, 201 to 500 people, founded 1946, WBENC woman owned, IATF 16949. WHAT I AM NOT GUESSING: whether UMP actually settles anything in pesos is NOT visible from outside, so the email ASKS rather than asserts, per the Nate Ray reasoning. Asserting peso flow to a CPA who would know instantly whether it was true is the fastest way to lose him. SEAT: he is Director of Finance and the company also has a Treasurer and VP Administration, Francine Tiedman, so he is not the top finance seat. He is the one with the pending invitation, so he is the door; Tiedman is the escalation if he hands it up, which is a good outcome.",
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "touches": [
       {
@@ -8923,7 +8923,10 @@
         "outcome": "PENDING, origin outside HeyReach",
         "notes": "Lead 313635926 in campaign 616214: leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-28T15:39:07, leadConnectionStatus None. An invitation was already outstanding from an unknown earlier source. Nothing was delivered by HeyReach."
       }
-    ]
+    ],
+    "email": "pgaughan@universalmetalproducts.com",
+    "emailFallback": "pgaughan@ump-inc.com",
+    "noteFile": "data/fx/email-patrick-gaughan-2026-10-02.md"
   },
   {
     "play": "email-by-hand",

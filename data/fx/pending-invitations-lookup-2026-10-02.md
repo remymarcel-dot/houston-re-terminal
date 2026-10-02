@@ -67,3 +67,27 @@ Gaughan, Reynoso) and two appear in no campaign at all (Fraymil, Olivo). In
 every case **no note was delivered**, so none of them has read anything from us.
 
 Full detail in `data/fx/sweep-campaign-failures-2026-10-02.md`.
+
+---
+
+# RESULTS: all five checked, 2026-10-02
+
+| who | LinkedIn state | action |
+|---|---|---|
+| **Luis Reynoso** | **nothing pending** | needs one glance: Connect or Message? |
+| **John P. Olivo** | pending, no note | email `jolivo@freshexpress.com` |
+| **Fraymil Rodriguez** | pending, no note | email `fr@expgroup.us` |
+| **Juan Cardenas** | pending, no note | email `juan@tricarsales.com` — **send this week** |
+| **Patrick Gaughan, CPA** | pending, no note | email `pgaughan@universalmetalproducts.com` |
+
+**Four of five have a live invitation carrying no note.** The standing
+recommendation on all four is **do not withdraw to re-send**: LinkedIn blocks
+re-inviting for about three weeks after a withdrawal, which trades a live
+invitation plus three weeks of silence for 300 characters. The invitation sits
+doing no harm while the real approach goes by email.
+
+All four emails are ZoomInfo FULL_MATCH or HeyReach enrichment, and all four are
+drafted. **Marcel sends them by hand.**
+
+**Reynoso is the only one still open**, and only because an accepted invitation
+also disappears from the sent list. His profile button settles it.
