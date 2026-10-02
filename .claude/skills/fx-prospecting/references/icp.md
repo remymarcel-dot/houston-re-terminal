@@ -668,3 +668,54 @@ group function for reachability, and Jakks' central finance seat was the harder
 ask rather than its revenue. And a genuinely domestic business with no foreign
 flow is still out, however large, which is why Lindsey Thiel at a US homebuilder
 was cut while Bräuer was not.
+
+
+## Check what the company does before deciding it is an account
+
+Two names sat on the 2026-10-02 worth-a-note list with the same parking note:
+the warm path is excellent but the company needs one look. **The look changed
+the play on both, in opposite directions.**
+
+**vOfiz Inc** read as a Houston company with a Managing Director, 49 mutuals, Tec
+de Monterrey and a shared LATAM CFO group. An obvious account on the face of it.
+It is **an outsourced finance department** - bookkeeping, tax, back office,
+corporate compliance - with essentially no currency exposure of its own. It was
+split out of MX Global Center, a Mexico-to-US soft landing practice, so what it
+actually holds is **a book of small Mexican-owned US entities whose every wire
+passes through its ledgers**. Pitching it on FX risk would have wasted the best
+introduction on the list. The note proposes a referral trade instead.
+
+**Workhub Developments** read as a clean CFO seat. He turned out to be a
+**co-founder**, the company turned out to carry a Davidson Kempner investment and
+seven Houston projects, and the exposure turned out not to be at Workhub at all
+(Texas industrial real estate, dollars both sides) but possibly in the family
+packaging group he inherited and runs from Houston.
+
+So the ordering is: **client list, then what the company does, then the seat.**
+A title tells you whether someone can sign. It does not tell you whether there is
+anything to sign for.
+
+### A company whose customers have the exposure is a channel
+
+The pattern recurs: family offices (Santiago Gutierrez Zaldivar, Marco Valencia),
+customs and trade compliance practices (Guillermo DeLeon, SACSA), outsourced
+finance firms (vOfiz), and landlords with cross-border tenants (Workhub).
+
+A channel is often worth more than an account, and it is approached differently:
+**propose a trade, do not pitch.** And one hard rule - a referral relationship
+does not license approaching that partner's clients directly. Going around a
+partner once ends it permanently, and a partner is worth more than any single
+name in their book.
+
+### Where a claim cannot be named, leave it out
+
+LinkedIn flagged "shared education" on the Workhub CFO. His published credentials
+are a Wake Forest MBA, a Harvard certificate and a Columbia program, and none of
+those is UT Dallas or IPADE. **The school could not be named, so it was left out
+of the note** rather than gestured at. An unnameable shared school is the
+Fightmaster proximity error in a different coat.
+
+Where proximity *can* be checked, check it and still understate it. Workhub is at
+1780 Hughes Landing Blvd, The Woodlands 77380; Marcel is at 9595 Six Pines Dr,
+The Woodlands 77380. That is a real neighbour, and the note still says "a few
+minutes apart" rather than naming a number.
