@@ -95,3 +95,83 @@ database. Send it this week.
 
 **After he replies**, tell me which direction he names and I will draft against
 his actual answer rather than against the cadence.
+
+---
+
+# CORRECTION, same day: there was a June conversation
+
+Marcel surfaced the thread after the 2 October message had already gone.
+
+**They spoke on 25 and 26 June.** Four messages. Eduardo replied substantively
+both times and closed with a thumbs up.
+
+**So the opening line of the message that went out is wrong.** It says
+*"llevamos tiempo conectados aquí y creo que nunca hemos platicado."* They had
+platicado, twice, three months ago, and Marcel's June note opened on the same
+IPADE connection. Eduardo will notice.
+
+I drafted that without sight of the June thread. The failure was not having the
+thread, it was **not asking for it before writing a cold opener to a first degree
+contact**. A first degree connection is exactly the case where prior conversation
+is likely, and that check now belongs in the play.
+
+## What June actually established
+
+Eduardo's reply on 25 June, the substance:
+
+- AgPro is **focused on the US market** right now, strengthening operations and
+  technical support to growers.
+- International expansion is a **future** consideration.
+- **"Como parte de Huma, ya estamos participando en mercados internacionales a
+  través de distribuidores máster en distintos países."**
+
+That is a polite no on AgPro's own US operation, and it was correct of Marcel to
+accept it gracefully.
+
+**But the third point was handed over and never picked up.** AgPro is part of
+Huma, and Huma already sells internationally through master distributors in
+several countries. That is a live cross border flow, volunteered by the prospect
+himself, sitting unexamined for three months.
+
+So the 2 October question, which direction dominates his advisory book, was the
+wrong question twice over: it re-asks something June already answered, and it
+misses the thing June gave us.
+
+## The repair
+
+Short, owns the slip in one line without grovelling, and uses the error as the
+reason to have reread the thread, which is true and turns it into attention
+rather than carelessness.
+
+> Eduardo, una disculpa, te escribí hace rato sin haber revisado que ya habíamos
+> platicado en junio. Acabo de releer el intercambio.
+>
+> Y releyéndolo me quedé con algo que mencionaste y que en su momento no retomé:
+> que como parte de Huma ya participan en mercados internacionales con
+> distribuidores máster en distintos países.
+>
+> Esa es justo la parte que me interesa. Cuando le facturan a un distribuidor
+> máster en otro país, ¿se liquida en dólares o en moneda local? Si es en
+> dólares, el riesgo cambiario lo carga él, y normalmente regresa en forma de
+> resistencia al precio. Si es en moneda local, lo cargan ustedes.
+>
+> Ninguna de las dos está mal, pero son conversaciones distintas y me da
+> curiosidad cuál es la de Huma.
+>
+> Marcel
+
+## Why this is a better message than the one it follows
+
+The June thread told us AgPro's US operation has nothing. Asking again would say
+nobody read his reply. **Huma's master distributors are a different company, a
+different flow, and his own example.** Quoting a prospect back to himself three
+months later is the opposite of automated.
+
+The price resistance line is the one that should land. A distributor billed in
+dollars does not file an FX complaint. He negotiates harder, and that reads as a
+commercial problem rather than a currency one.
+
+## Do not run a cadence on him
+
+He is a live relationship with a soft no on his own account and a door he left
+open himself. He moves on replies, not on a clock. **No scheduled touch 2.**

@@ -7955,28 +7955,45 @@
     "profileUrl": null,
     "profileUrlNote": "NOT ON FILE and not needed yet. He is first degree, so Marcel messages him directly without an invitation or a URL. A URL is only required if he ever goes into a HeyReach campaign. The agent does not construct one.",
     "play": "play-0-first-degree",
-    "status": "in-sequence",
+    "status": "live-conversation",
     "outcome": null,
-    "firstTouch": "2026-10-02",
+    "firstTouch": "2026-06-25",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 1 of 87",
     "warmPath": "First degree with 101 mutual connections, the second largest overlap in the 87 profile screen. Sales Navigator flags SHARED EDUCATION: both passed through IPADE Business School, where Marcel did the Senior Management Program 2012 to 2013. No claim of overlapping years, only the shared school.",
     "signal": "Post 2026-09-26, garlic harvest in Tracy, California: behind every successful harvest there is more than good luck, there is hard work, discipline and consistent field follow up. 7,847 followers.",
-    "angle": "DELIBERATELY UNDECIDED between channel and account, which is the point. His headline is US and LATAM Market Advisor, so he may have no payables of his own, but 101 mutuals in California and LATAM agriculture puts him next to many who do. Deciding that from outside is the Grace Bravo mistake. The message asks which direction dominates his advisory book, north or south, and works either way.",
-    "doNotRaise": "No pitch of any kind at touch 1. At 101 mutuals and a shared school, selling is the fastest way to waste this. Do not assume AgPro imports or exports anything until he says so.",
+    "angle": "SUPERSEDED. The June exchange already answered the channel versus account question: AgPro's own US operation has no cross border flow worth discussing, and Eduardo said so politely. The live exposure is the one he volunteered and nobody picked up: Huma invoicing master distributors in several countries. If those are billed in dollars the distributor carries the currency risk and it comes back as price resistance; if in local currency Huma carries it. That is the question worth asking.",
+    "doNotRaise": "Do not re-ask whether AgPro has cross border flow. He answered that in June and asking again says nobody read his reply. Go at Huma and the master distributors.",
     "touches": [
       {
         "n": 1,
+        "date": "2026-06-25",
+        "channel": "linkedin-message",
+        "outcome": "REPLIED",
+        "notes": "Marcel opened in Spanish on the IPADE connection and on AgPro's agronomic work with California growers. Eduardo replied within 30 minutes, warmly and at length."
+      },
+      {
+        "n": 2,
+        "date": "2026-06-26",
+        "channel": "linkedin-message",
+        "outcome": "replied with a thumbs up",
+        "notes": "Marcel accepted the soft no gracefully, left the door open for when cross border flow appears, and offered to keep exchanging sector views. Eduardo closed with 👍."
+      },
+      {
+        "n": 3,
         "date": "2026-10-02",
         "channel": "linkedin-message-manual",
-        "outcome": "sent, awaiting reply",
-        "notes": "Spanish, Play 0 direct message, sent by hand. Opened on being connected a long time without ever speaking despite 100+ mutuals, then the IPADE coincidence, then his garlic harvest post. One question: in what he advises on today, does Latin American product entering the US weigh more, or California product going south. Closed by giving him the expert seat, he sees more cases than Marcel does. Full text in data/fx/message-eduardo-sanchez-2026-10-02.md."
+        "outcome": "sent, CONTAINS AN ERROR",
+        "notes": "Spanish Play 0 message asking whether LatAm product entering the US or California product going south weighs more in his advisory work. THE OPENING LINE IS WRONG: it says they have never spoken, when they exchanged four messages in June. Written without sight of the June thread, which the agent should have asked for before drafting a cold opener to a first degree contact."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": "2026-10-09",
-    "nextStep": "Touch 2 due 2026-10-09. He is first degree so LinkedIn stays open and is the right channel; no email is on file and none is needed yet. If he names a direction, draft against his answer rather than the cadence. If he turns out to be purely advisory, switch to the channel conversation and stop selling, the same handling as Fatima Morales and Alfredo Rivera."
+    "touchCount": 3,
+    "nextTouch": null,
+    "nextStep": "Send the repair message in data/fx/message-eduardo-sanchez-2026-10-02.md, which owns the slip in one line and redirects to the Huma master distributor question using his own June words. After that, no scheduled cadence: this is a live relationship with a soft no on the account and an open door, so it moves on his replies rather than on a clock.",
+    "reply": "2026-06-25, verbatim substance: AgPro is currently focused on the US market, strengthening operations and technical support to growers. International expansion is a future consideration. CRITICALLY: 'como parte de Huma, ya estamos participando en mercados internacionales a través de distribuidores máster en distintos países, lo que nos ha permitido desarrollar experiencia y presencia global.'",
+    "companyProfile": "AgPro LLC is PART OF HUMA, the agricultural biologicals group. Huma already sells into international markets through MASTER DISTRIBUTORS in several countries. Eduardo volunteered this himself in June and it was not followed up at the time.",
+    "watchFor": "The 2026-10-02 message claims they have never spoken. He may well point that out. If he does, acknowledge it plainly once and move on; do not over apologise."
   },
   {
     "name": "Tom Lyons",
