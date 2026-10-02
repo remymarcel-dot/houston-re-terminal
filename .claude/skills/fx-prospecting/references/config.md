@@ -801,3 +801,32 @@ A corollary worth stating, because the opposite was briefly believed: **Play 0
 messages to genuine first degree connections work normally.** There is no reason
 to hand-send those for reliability. Hand-sending remains right when the message
 is personal enough to warrant it, not because the node cannot be trusted.
+
+
+## Set the campaign schedule at creation, not after
+
+HeyReach's default campaign schedule is **Mon to Fri, 09:00 to 17:00 UTC**, which
+is **04:00 to noon Central**. For a Houston sender that window is both wrong and
+short, and it silently delays sends.
+
+**It cost a campaign on 2026-10-02.** Campaign 634581 (Olvin Caballero) was
+created without a schedule at 14:37 UTC on a Friday. Its 4 hour delay landed at
+18:37 UTC, past the 17:00 cutoff, so the invitation slipped to **Monday**.
+`update_campaign_schedule` then refused with `Invalid campaign status`, because a
+schedule can only be changed while a campaign is DRAFT, SCHEDULED or PAUSED, and
+it was already IN_PROGRESS.
+
+So pass the schedule in the `create_campaign` call, always:
+
+```
+"schedule": {"dailyStartTime":"08:00:00","dailyEndTime":"18:00:00",
+             "timeZoneId":"America/Chicago",
+             "enabledMonday":true, ... "enabledSaturday":false,"enabledSunday":false}
+```
+
+Campaign 634669 (Martin Hauser) was built this way an hour later and its
+invitation lands the same afternoon.
+
+Two further points. A 3 hour delay on the `CONNECTION_REQUEST` is the API
+minimum and buys more room inside the day than 4. And activity timed to Central
+business hours looks like a person, which a 4am send does not.

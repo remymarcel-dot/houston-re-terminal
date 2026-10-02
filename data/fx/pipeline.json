@@ -8087,5 +8087,38 @@
     "nextStep": "Verify at LEAD level that the invitation actually went out, checking leadConnectionStatus rather than the campaign counters. The Hillary Stroble failure on 2026-10-01 proved campaign progressStats can report zero failures while nothing was sent. The default schedule is Mon to Fri 09:00 to 17:00 UTC and the 4 hour delay lands past 17:00, so the invitation most likely fires Friday morning rather than today. If he accepts, send the prepared first message about the intercompany settlement rate.",
     "buildNote": "excludeContactedFromOtherCampaigns set to FALSE on purpose. That setting has silently excluded leads twice, on Ricardo Yllescas and on the Fightmaster recovery. Confirmed 0 excluded on this campaign.",
     "oneSeatRule": "Olvin is the Dinant seat. Three other Dinant employees work in Greater Houston; if any surface later they are routes at most, never a second approach."
+  },
+  {
+    "name": "Martin Hauser",
+    "company": "Koenig & Bauer (US)/(CA)",
+    "title": "Vice President Finance",
+    "location": "Dallas, Texas, United States",
+    "profileUrl": "https://www.linkedin.com/in/martin-hauser-618ab11ba/",
+    "profileUrlNote": "Pasted by Marcel 2026-10-02, which unblocked a note written on 10-01.",
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634669,
+    "listId": 988102,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "Written 2026-10-01 in notes-2026-10-01-top-picks.md; ranked 3 of 87 on the 10-02 screen",
+    "signal": "RECENTLY HIRED by Koenig & Bauer, which Sales Navigator flags as a key signal and which icp.md records as a real trigger: a new finance chief is still deciding which banking and payment relationships to keep. Posted in the past 30 days.",
+    "angle": "He carries BOTH the US and the Canadian entities against a single euro cost base in Würzburg. Two sales currencies, one cost currency. The note asks which of the two gives him more trouble, which assumes competence and is genuinely answerable.",
+    "warmPath": "Thin. 353 connections, 4 mutuals (Ario, Luis and 2 others). Otto-von-Guericke-Universität Magdeburg. The note has to carry itself on substance.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634669, 226 characters, written 2026-10-01 and unchanged. Sequence VIEW_PROFILE then CONNECTION_REQUEST after 3 hours, withdraw after 30 days. Verified at creation: IN_PROGRESS, started 2026-10-02T14:55:41Z, 1 pending, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 and the 3 hour delay lands around 13:00 Central, so it should fire TODAY rather than slipping to Monday the way Olvin's did.",
+    "buildNote": "Schedule set explicitly to America/Chicago 08:00 to 18:00 at creation, because HeyReach's default is 09:00 to 17:00 UTC, which is 04:00 to noon Central. That default is what pushed Olvin's invitation (campaign 634581) to Monday, and the schedule cannot be changed once a campaign is IN_PROGRESS. Set it at creation, every time."
   }
 ]
