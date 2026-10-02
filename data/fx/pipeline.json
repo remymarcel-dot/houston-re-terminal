@@ -1912,11 +1912,11 @@
     "name": "Russell Foxx",
     "company": "DXP Enterprises",
     "title": "Treasurer",
-    "location": "?",
+    "location": "Houston, Texas",
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "revival-call-recommended",
+    "status": "call-scheduled",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-04",
@@ -1930,10 +1930,17 @@
         "channel": "linkedin-invitation",
         "outcome": "draft-ready-manual-send",
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-06",
+        "channel": "phone-scheduled",
+        "outcome": "SCHEDULED, not yet made",
+        "notes": "Call scheduled for Tuesday 6 October 2026, 9:30 to 10:30am Central. Hook is the Mequipco Calgary acquisition of 1 August 2026. Not a touch until Marcel reports the outcome. One voicemail maximum if it goes to machine."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-06",
     "mobile": "(936) 828-8267",
     "contactAccuracyScore": 89.0,
     "doNotCall": "none",
@@ -1941,8 +1948,9 @@
     "enrichedOn": "2026-10-01",
     "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
     "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
-    "nextStep": "CALL. Mobile (936) 828-8267, doNotCall none, NO email. 2nd degree and never accepted, so there is no thread. Treasurer of a Houston public industrial distributor with Canadian operations, the strongest of the five revivals.",
-    "noteFile": "data/fx/revivals-decision-2026-10-02.md"
+    "nextStep": "CALL SCHEDULED TUESDAY 6 OCTOBER 2026, 9:30 to 10:30am Central, on Marcel's instruction of 2026-10-02 ('call russell foxx next week'). Tuesday because Monday is the campaign verification and Thursday is the 28 email sheet. He is in Houston, same time zone. MOBILE (936) 828-8267. mobilePhoneDoNotCall false and directPhoneDoNotCall false, so clean to call. TITLE RE-VERIFIED IN ZOOMINFO 2026-10-02: still Treasurer at DXP, record valid to 2026-07-01, accuracy 89. NO EMAIL EXISTS for him anywhere, which is why this is a call. FULL CALL SHEET IS IN data/fx/call-russell-foxx-2026-10-06.md and should be read before dialing. THE REASON TO CALL IS TWO MONTHS OLD AND IT IS HIS DESK: on 1 August 2026 DXP acquired MEQUIPCO LTD of CALGARY, ALBERTA, three locations across Western Canada, about CAD 9.9 million trailing sales and CAD 2.4 million EBITDA, funded with balance sheet cash plus DXP stock. It is the DXP Water beachhead in Canada across Alberta, BC, Saskatchewan and Manitoba. That creates a brand new CAD functional currency subsidiary, a recurring CAD payables and receivables flow, and intercompany funding into Calgary. CANADIAN COMPANIES ARE IN SCOPE FOR MONEX USA, so nothing here is blocked. DXP's fifth acquisition of 2026. DO NOT MENTION RON QUEEN on the call; his name was used in the failed April invitation and invoking a referral twice in six months reads as name dropping. If the call produces nothing, the NEXT step is asking Ron for a real introduction, not a second voicemail.",
+    "noteFile": "data/fx/call-russell-foxx-2026-10-06.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Felix Lopez",
