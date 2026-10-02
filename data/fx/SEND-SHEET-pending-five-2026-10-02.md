@@ -1,4 +1,8 @@
-# SEND SHEET: the five pending-invitation emails
+# SENT 2026-10-02: the five pending-invitation emails
+
+> **ALL FIVE SENT by Marcel on 2026-10-02 and logged as touch 1.**
+> Follow up: **Cardenas 9 Oct** (season urgency), the other four **16 Oct**.
+> Nothing goes twice without a reply. Kept for the exact text sent.
 **2026-10-02 · Marcel sends all five by hand · in send order**
 
 All five addresses are ZoomInfo FULL_MATCH or HeyReach enrichment.

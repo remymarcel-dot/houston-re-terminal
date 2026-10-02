@@ -3214,33 +3214,35 @@
     "title": "CFO, Mexican Operations",
     "profileUrl": "https://www.linkedin.com/in/luis-reynoso-2a402815",
     "play": "email-by-hand",
-    "status": "invitation-withdrawn-email-route",
+    "status": "awaiting-reply",
     "campaignId": 613743,
     "listId": 956466,
     "event": "El Paso Nearshoring Summit 2026-10-21/22, stand 35, 36",
     "outcome": null,
-    "firstTouch": "2026-09-21",
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-09-21",
     "touches": [
       {
         "n": 1,
-        "date": "2026-09-21",
-        "channel": "linkedin-invitation",
-        "outcome": "in-campaign",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "date": "2026-10-02",
+        "channel": "email-by-hand",
+        "outcome": "sent by Marcel, confirmed",
+        "notes": "To lreynoso@jonesplastic.com, subject 'Nomina en pesos, ingresos en dolares'. Full text in data/fx/SEND-SHEET-pending-five-2026-10-02.md. THIS IS THE FIRST THING THAT HAS EVER REACHED HIM. Every prior record of contact was wrong: the LinkedIn invitation carried no note and in the HeyReach campaigns the send either failed with ConnectionRequestAlreadySent or no campaign existed at all."
       }
     ],
-    "touchCount": 0,
-    "nextTouch": null,
+    "touchCount": 1,
+    "nextTouch": "2026-10-16",
     "correction": "THREE STATES IN ONE DAY, this is the settled one. (1) Recorded as in-campaign for 613743: wrong, that campaign FAILED with ConnectionRequestAlreadySent. (2) Recorded as a first degree connection because his profile button reads Message: WRONG. Marcel clicked it and it opens InMail, which is what Sales Navigator shows on a NON connection. (3) SETTLED: he is 2nd degree, not connected, the invitation was withdrawn so LinkedIn refuses a new one for about three weeks, and InMail is not worth the credit in Marcel's judgment. EMAIL IS THE ROUTE.",
-    "nextStep": "EMAIL lreynoso@jonesplastic.com (ZoomInfo FULL_MATCH). Marcel sends by hand. Spanish recommended on evidence: a Mexican CPA whose whole career was with US companies inside Mexican territory, now in a border city, profile written in non-native English. Both versions drafted. DO NOT send a LinkedIn invitation before roughly 23 Oct, DO NOT spend an InMail credit, and DO NOT treat the Message button as evidence of a connection. DO NOT reference his job search.",
+    "nextStep": "EMAIL SENT BY MARCEL 2026-10-02. Awaiting reply, follow up 2026-10-16. Nothing goes twice without a reply. Sent in SPANISH. No LinkedIn line in the email because his invitation was withdrawn and nothing is sitting with him. STRONGEST CASE OF THE FIVE: CFO of the Mexican operations of a US manufacturer, peso payroll and costs against dollar revenue, owned by him. The closing question asks whether the rate decision sits with him in El Paso or with US corporate, so either answer qualifies him. DO NOT reference his job search. DO NOT send a LinkedIn invitation before roughly 23 Oct.",
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "noteFile": "data/fx/email-luis-reynoso-2026-10-02.md",
     "angle": "THE CLEANEST CASE IN THE BOOK. Jones Plastic & Engineering is a US contract plastics manufacturer with plants in Mexico, and he is CFO OF THE MEXICAN OPERATIONS sitting in El Paso. US parent, Mexican plants, peso payroll and peso costs against dollar revenue, and he personally owns that side. His own About: 23 years in all accounting facets, CPA, and 'Worked for World Class Companies Mainly from US located in Mexico territory (Jones Plastic & Engineering, Tecumseh, SIEMENS)'. THAT IS MARCEL'S OWN CAREER SHAPE, which is real common ground and not a gimmick. SPANISH ON EVIDENCE NOT SURNAME: a Mexican CPA whose whole career was with US companies inside Mexican territory, now in a border city, whose About is written in non-native English. DO NOT MENTION IN THE NOTE: his About says he is 'Targeting a CFO position at a small / mid-market private company or at the business unit level of a large company', so he is looking to move. That cuts both ways and belongs in the record, not in a cold approach. Pointing at someone's job search would cost the relationship immediately.",
     "email": "lreynoso@jonesplastic.com",
     "linkedinBlockedUntil": "2026-10-23 at the latest, withdrawal date unknown",
     "degree": "2nd. NOT a connection. The Message button on his profile opens InMail, which is what Sales Navigator shows on a non-connection. The degree badge next to the name is the only reliable test.",
-    "emailNote": "ZoomInfo FULL_MATCH. HOLD IT: he just accepted a connection so LinkedIn is the warm channel today. Email is the second touch if the message goes unanswered in a week or two."
+    "emailNote": "ZoomInfo FULL_MATCH. HOLD IT: he just accepted a connection so LinkedIn is the warm channel today. Email is the second touch if the message goes unanswered in a week or two.",
+    "lastActivity": "2026-10-02",
+    "linkedinInvitationState": "WITHDRAWN. LinkedIn refuses a new invitation until roughly 2026-10-23. Not a connection; the Message button on his profile opens InMail."
   },
   {
     "name": "Monica Rodriguez",
@@ -3660,33 +3662,34 @@
     "location": "San Diego, California, United States",
     "profileUrl": "http://www.linkedin.com/in/juan-cardenas-66445ba0",
     "play": "email-by-hand",
-    "status": "invitation-pending-no-note",
-    "firstTouch": null,
-    "lastActivity": "2026-09-23",
+    "status": "awaiting-reply",
+    "firstTouch": "2026-10-02",
+    "lastActivity": "2026-10-02",
     "signal": "CRM account owned by Marcel, never worked, no contact ever attached. Marcel confirmed 2026-09-23 that Ciruli and Tricar have had no prior contact, so the CRM dates on those rows were system noise.",
     "note": "Credit analyst at Scotiabank until 1996, then twenty nine years at Tricar. A banker running a produce house, so the forward needs no explaining.",
     "invitationNote": "Juan, a credit analyst who ended up running a produce house probably doesn't need the currency part explained. Season pricing is set now and the pesos go out later. I ran finance across four countries before Monex USA. Worth connecting.",
     "campaignId": 618450,
     "listId": 963765,
     "loggedOn": "2026-09-23",
-    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, CONNECTION REQUEST PENDING. DO NOT WITHDRAW. Email juan@tricarsales.com instead, ZoomInfo FULL_MATCH. Marcel sends by hand. SEND THIS WEEK, NOT LATER: Mexican winter produce terms are set with growers through October and the pesos go out November through March, so the rate for the whole season is being decided right now by whatever spot happens to be on each payment date. Waiting for him to accept a bare invitation wastes the season. English is the default on the basis that the September note was English, NOT on confidence; his profile language is not recorded anywhere and Spanish is plausible given San Diego, Scotiabank and three decades in the Mexican produce trade. A Spanish version is drafted. Marcel knows this trade and should overrule that call if he reads it differently.",
+    "nextStep": "EMAIL SENT BY MARCEL 2026-10-02. Awaiting reply, follow up 2026-10-09. Nothing goes twice without a reply. Email mentions the pending LinkedIn invitation on purpose. FOLLOW UP IN ONE WEEK, shorter than the others, because the whole argument is the October grower-terms window and it decays fast. On a reply, open on the season rather than on capability: terms set in October, pesos out November through March. One question, then stop.",
     "touches": [
       {
         "n": 1,
-        "date": "unknown",
-        "channel": "linkedin-invitation",
-        "outcome": "PENDING, origin outside HeyReach",
-        "notes": "Campaign 618450 attempted an invitation on 2026-09-23 and LinkedIn refused it with ConnectionRequestAlreadySent, because an invitation was already outstanding. So the pending invitation is real but predates the campaign and its date and text are unknown. No note was delivered by HeyReach."
+        "date": "2026-10-02",
+        "channel": "email-by-hand",
+        "outcome": "sent by Marcel, confirmed",
+        "notes": "To juan@tricarsales.com, subject 'October terms, March pesos'. Full text in data/fx/SEND-SHEET-pending-five-2026-10-02.md. THIS IS THE FIRST THING THAT HAS EVER REACHED HIM. Every prior record of contact was wrong: the LinkedIn invitation carried no note and in the HeyReach campaigns the send either failed with ConnectionRequestAlreadySent or no campaign existed at all."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-09",
     "outcome": null,
     "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status invitation-sent with firstTouch 2026-09-23. THAT WAS WRONG. Lead 313494900 in campaign 618450 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-24T19:24:07, leadConnectionStatus None. HeyReach NEVER SENT HIM ANYTHING. The invitationNote recorded below was never delivered. His LinkedIn connect button reads Pending because an invitation reached him earlier, from outside HeyReach, on an unknown date.",
     "locationCorrection": "Was recorded as 'Rio Rico, Arizona'. LinkedIn's own lead record shows San Diego, California. The 2026-10-02 screen also said San Diego. Tricar has a Rio Rico Arizona operation and a separate Tricar Logistics LLC, which is where the confusion came from, but HIS profile says San Diego.",
     "email": "juan@tricarsales.com",
     "noteFile": "data/fx/email-juan-cardenas-2026-10-02.md",
-    "angle": " | ANGLE 2026-10-02: the September note was NEVER DELIVERED, so the 'credit analyst running a produce house' line is still unspent. Credit analyst at Scotiabank until 1996 then twenty nine years at Tricar, so he will understand a forward faster than most CFOs and needs only the question asked. This is a CRM account Marcel already owns and nobody ever worked; Marcel confirmed 2026-09-23 that Ciruli and Tricar had no prior contact and the CRM dates were system noise, so there is no awkward history. ONE SEAT: Valeria Quintero at Tricar Logistics stays out unless Juan goes nowhere."
+    "angle": " | ANGLE 2026-10-02: the September note was NEVER DELIVERED, so the 'credit analyst running a produce house' line is still unspent. Credit analyst at Scotiabank until 1996 then twenty nine years at Tricar, so he will understand a forward faster than most CFOs and needs only the question asked. This is a CRM account Marcel already owns and nobody ever worked; Marcel confirmed 2026-09-23 that Ciruli and Tricar had no prior contact and the CRM dates were system noise, so there is no awkward history. ONE SEAT: Valeria Quintero at Tricar Logistics stays out unless Juan goes nowhere.",
+    "linkedinInvitationState": "Still pending on LinkedIn, untouched. Do not withdraw."
   },
   {
     "name": "Marco Rodriguez",
@@ -8868,101 +8871,104 @@
   },
   {
     "play": "email-by-hand",
-    "status": "invitation-pending-no-note",
+    "status": "awaiting-reply",
     "campaignId": null,
     "listId": null,
     "outcome": null,
-    "firstTouch": null,
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-16",
     "profileUrl": "https://www.linkedin.com/in/fraymil-rodriguez-092a8614",
     "touches": [
       {
         "n": 1,
-        "date": "unknown",
-        "channel": "linkedin-invitation",
-        "outcome": "PENDING, origin outside HeyReach",
-        "notes": "Searched all 46 campaigns on 2026-10-02 via get_campaigns_for_lead: zero results. The invitation exists on LinkedIn but was not sent by HeyReach, so its date and text are unknown and no note was delivered."
+        "date": "2026-10-02",
+        "channel": "email-by-hand",
+        "outcome": "sent by Marcel, confirmed",
+        "notes": "To fr@expgroup.us, subject 'The one line nobody reconciles'. Full text in data/fx/SEND-SHEET-pending-five-2026-10-02.md. THIS IS THE FIRST THING THAT HAS EVER REACHED HIM. Every prior record of contact was wrong: the LinkedIn invitation carried no note and in the HeyReach campaigns the send either failed with ConnectionRequestAlreadySent or no campaign existed at all."
       }
     ],
     "name": "Fraymil Rodriguez",
     "company": "Exp. Group LLC",
     "title": "COO",
     "location": "United States",
-    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, CONNECTION REQUEST PENDING. DO NOT WITHDRAW, LinkedIn blocks re-inviting for about three weeks after a withdrawal. Email fr@expgroup.us instead, a ZoomInfo FULL_MATCH that independently confirms the address a contact site suggested. Marcel sends by hand. OPTIONAL FREE SECOND TOUCH: he posts regularly and a genuine comment on his feed is the cheapest way to get the pending invitation accepted, costs nothing, risks nothing. The fruit department expansion under Richard Armata is the natural one.",
+    "nextStep": "EMAIL SENT BY MARCEL 2026-10-02. Awaiting reply, follow up 2026-10-16. Nothing goes twice without a reply. Email deliberately does NOT mention the pending invitation: with 2,595 followers a pending request is unremarkable to him and naming it would be noise. FREE SECOND TOUCH AVAILABLE: a genuine comment on his feed is the cheapest way to get the invitation accepted, and the Richard Armata fruit department hire is the natural one. Worth doing before the 16 Oct follow up.",
     "angle": "CHOSEN SEAT FOR EXP GROUP over Juvell O. (Operations Manager): COO beats operations manager, 53 mutuals beats 13, and he already has an invitation pending. 2,595 followers, 500+ connections, posted within 30 days, website www.expgroup.us, introduction path through Jose Antonio and 19 others. JUVELL O. IS OUT, one seat per company. | ANGLE 2026-10-02, from his own words. His 2007 to 2012 role: 'Established the financial infrastructure and implemented financial controls within the accounting department' including AR, AP, reporting, payroll and monthly bank reconciliations. Then SVP of Finance and Business Development, now COO since March 2025. Eighteen years, one company. SO THE MAN WHO BUILT EVERY PAYMENT CONTROL NOW RUNS OPERATIONS, which makes him the one person who would know instantly whether anyone has looked at the rate on the outbound wires. EXP GROUP: vertically integrated importer of tropical fruits and vegetables from the Caribbean, Central and South America, 40+ years, SQF certified, brands Rosita and Serafino, supplying NY, Miami, LA, SF, Puerto Rico, Canada, Mexico and South America, and it owns farms rather than only buying. Two live growth areas: the Dominican Republic, and McAllen Texas, which The Produce News reported he personally led as SVP. TEXAS LINE IS TRUE AND LIMITED: same state as Marcel, and that is all the email claims, no distance after the Fightmaster lesson. English, not Spanish: his About and posts are in polished English and he is New Jersey City University. The email deliberately does NOT mention the pending invitation, unlike Olivo's, because with 2,595 followers and an active feed a pending request is unremarkable to him and naming it would be noise.",
     "urlProvenance": "Not supplied by Marcel. Found by web search and then CONFIRMED against LinkedIn itself via HeyReach get_lead, which returned linkedin_id 50440430, Fraymil Rodriguez, Chief Operating Officer at Exp. Group. LLC, United States, username fraymil-rodriguez-092a8614. That is LinkedIn confirming the slug belongs to this person at this company. Safe to use.",
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "email": "fr@expgroup.us",
-    "noteFile": "data/fx/email-fraymil-rodriguez-2026-10-02.md"
+    "noteFile": "data/fx/email-fraymil-rodriguez-2026-10-02.md",
+    "linkedinInvitationState": "Still pending on LinkedIn, untouched. Do not withdraw."
   },
   {
     "play": "email-by-hand",
-    "status": "invitation-pending-no-note",
+    "status": "awaiting-reply",
     "campaignId": 616214,
     "listId": 960269,
     "outcome": null,
-    "firstTouch": null,
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
     "sourceScreen": "El Paso Summit Oct 2026 exhibitor waves",
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-16",
     "name": "Patrick Gaughan, CPA",
     "company": "Universal Metal Products",
     "title": "Director of Finance",
     "location": "Cleveland, Ohio, United States",
     "profileUrl": "https://www.linkedin.com/in/patrick-gaughan-cpa-974a276",
-    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, CONNECTION REQUEST PENDING. DO NOT WITHDRAW. Email pgaughan@universalmetalproducts.com, a ZoomInfo FULL_MATCH. CAVEAT: the company runs two domains, ump-inc.com and universalmetalproducts.com, and its public address is solutions@ump-inc.com while other directories list staff on ump-inc.com. If it bounces, try pgaughan@ump-inc.com. Marcel sends by hand.",
+    "nextStep": "EMAIL SENT BY MARCEL 2026-10-02. Awaiting reply, follow up 2026-10-16. Nothing goes twice without a reply. This email ASKS whether anything settles in pesos rather than asserting it, because that is not visible from outside and he is a CPA who would catch a wrong claim instantly. WATCH FOR A BOUNCE: the company runs two domains and its public address is on the other one. If it bounces, resend to pgaughan@ump-inc.com and tell me. ESCALATION IS A GOOD OUTCOME: he is Director of Finance and the company has a Treasurer and VP Administration, Francine Tiedman, above him.",
     "angle": "FIT NOW ASSESSED, AND MY EARLIER DOUBT WAS WRONG. I had flagged a Cleveland metal stamper on a Mexico nearshoring exhibitor list as a weak addition. Their own published timeline says otherwise: '2003 Appliance OEM's step up migration from US based operations into Mexico' and '2004 Company expanded operations again through the addition of a purchased building in McAllen, TX. The 30,000 sq ft facility was intended to support existing and new customer migrations to Mexico.' Their CEO on the 75th anniversary: plants opened in Toledo 1997 and Texas 2003 'to accommodate the changing diversity of our offerings both in industries served and markets, including Mexico.' SO THE BORDER PLANT EXISTS BECAUSE THEIR CUSTOMERS MOVED INTO MEXICO, which is the nearshoring shape exactly and means the El Paso list had him right. GROWING NOT COASTING: Pharr TX (101 W. Eldora Rd, Pharr TX 78577) added CNC milling in 2023 and two 600 ton presses in 2024. Three plants: Wickliffe OH, Pemberville OH, Pharr TX, and the site states all facilities satisfy USMCA criteria. ~$60M revenue, 201 to 500 people, founded 1946, WBENC woman owned, IATF 16949. WHAT I AM NOT GUESSING: whether UMP actually settles anything in pesos is NOT visible from outside, so the email ASKS rather than asserts, per the Nate Ray reasoning. Asserting peso flow to a CPA who would know instantly whether it was true is the fastest way to lose him. SEAT: he is Director of Finance and the company also has a Treasurer and VP Administration, Francine Tiedman, so he is not the top finance seat. He is the one with the pending invitation, so he is the door; Tiedman is the escalation if he hands it up, which is a good outcome.",
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "touches": [
       {
         "n": 1,
-        "date": "unknown",
-        "channel": "linkedin-invitation",
-        "outcome": "PENDING, origin outside HeyReach",
-        "notes": "Lead 313635926 in campaign 616214: leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-28T15:39:07, leadConnectionStatus None. An invitation was already outstanding from an unknown earlier source. Nothing was delivered by HeyReach."
+        "date": "2026-10-02",
+        "channel": "email-by-hand",
+        "outcome": "sent by Marcel, confirmed",
+        "notes": "To pgaughan@universalmetalproducts.com, subject 'Pharr, and the customers who moved south'. Full text in data/fx/SEND-SHEET-pending-five-2026-10-02.md. THIS IS THE FIRST THING THAT HAS EVER REACHED HIM. Every prior record of contact was wrong: the LinkedIn invitation carried no note and in the HeyReach campaigns the send either failed with ConnectionRequestAlreadySent or no campaign existed at all."
       }
     ],
     "email": "pgaughan@universalmetalproducts.com",
     "emailFallback": "pgaughan@ump-inc.com",
-    "noteFile": "data/fx/email-patrick-gaughan-2026-10-02.md"
+    "noteFile": "data/fx/email-patrick-gaughan-2026-10-02.md",
+    "linkedinInvitationState": "Still pending on LinkedIn, untouched. Do not withdraw."
   },
   {
     "play": "email-by-hand",
-    "status": "invitation-pending-no-note",
+    "status": "awaiting-reply",
     "campaignId": null,
     "listId": null,
     "outcome": null,
-    "firstTouch": null,
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-16",
     "name": "John P. Olivo",
     "company": "Fresh Express Inc.",
     "title": "President and CEO",
     "location": "Orlando, Florida, United States",
     "profileUrl": "https://www.linkedin.com/in/john-p-olivo-22b21a5",
     "urlProvenance": "Not supplied by Marcel. Found by web search and then CONFIRMED against LinkedIn itself via HeyReach get_lead, which returned linkedin_id 15465923, John P. Olivo, President and CEO at Fresh Express, Orlando, DePaul University BS Accounting 1980 to 1984, jolivo@freshexpress.com, and a full role history of VP and CFO 2015 to 2018 then President from Feb 2018. That is LinkedIn confirming the slug belongs to this person at this company, which is stronger than a search listing. Safe to use.",
-    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, but A CONNECTION REQUEST IS PENDING. DO NOT WITHDRAW IT. LinkedIn blocks re-inviting for about three weeks after a withdrawal, so withdrawing costs the pending invitation, three weeks of silence, and all for 300 characters. A bare invitation from a 2nd degree with mutuals is accepted often enough to be worth more pending than withdrawn. INSTEAD: email him at jolivo@freshexpress.com, which came from HeyReach's own enrichment. Marcel sends by hand. The email is drafted in data/fx/email-john-olivo-2026-10-02.md and it names the pending invitation on purpose, which turns an odd loose end into the reason the email is not cold. If he accepts the invitation meanwhile, that is a second open door, not a conflict.",
+    "nextStep": "EMAIL SENT BY MARCEL 2026-10-02. Awaiting reply, follow up 2026-10-16. Nothing goes twice without a reply. Email mentions the pending LinkedIn invitation on purpose, since an unexplained request from a stranger is a loose end for a CEO. The hook is that when the CFO becomes the CEO, FX execution stops being anybody's file. Concedes the treasury policy in the first line, Bräuer style.",
     "angle": "THE THIRD PENDING NAME, which I had not been told about and which was sitting unrecorded inside the 2026-10-02 screen file. He is the Fresh Express seat: a CPA who was VP and CFO from 2015 before becoming President in 2018 and now President and CEO, so a finance background in the top seat. Chiquita before that, including Controller North-East Europe, so genuine cross border history. Fresh Express sources from Mexico and acquired McEntire Produce in Dec 2024. CHOSEN OVER Katie Conaway at the same company, one seat per company. | ANGLE REFINED 2026-10-02: he is one of very few CEOs who WAS HIS OWN CFO (VP and CFO Apr 2015, President Feb 2018, now President and CEO), after Chiquita roles including Controller North-East Europe 2006 to 2008. Illinois CPA, DePaul accounting. So he has personally sat on the currency side. THE HOOK IS THAT WHEN THE CFO BECOMES THE CEO, FX EXECUTION STOPS BEING ANYBODY'S FILE: it gets inherited rather than chosen, and the rate never arrives as a document anyone reviews, so it survives scrutiny every other line gets. He is the one person who would know immediately whether that is true. CONCEDE THE SCALE IN THE FIRST LINE, Bräuer style: roughly 2,500 people in the Chiquita orbit, so banking relationships and a treasury policy exist and pretending otherwise to a former CFO ends it in a line.",
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "touches": [
       {
         "n": 1,
-        "date": "unknown",
-        "channel": "linkedin-invitation",
-        "outcome": "PENDING, origin outside HeyReach",
-        "notes": "Zero HeyReach campaigns contain him, confirmed by get_campaigns_for_lead against a verified profile URL. The pending invitation was sent from outside HeyReach on an unknown date. Nothing was delivered."
+        "date": "2026-10-02",
+        "channel": "email-by-hand",
+        "outcome": "sent by Marcel, confirmed",
+        "notes": "To jolivo@freshexpress.com, subject 'Something only a former CFO would notice'. Full text in data/fx/SEND-SHEET-pending-five-2026-10-02.md. THIS IS THE FIRST THING THAT HAS EVER REACHED HIM. Every prior record of contact was wrong: the LinkedIn invitation carried no note and in the HeyReach campaigns the send either failed with ConnectionRequestAlreadySent or no campaign existed at all."
       }
     ],
     "emailAddress": "jolivo@freshexpress.com",
-    "noteFile": "data/fx/email-john-olivo-2026-10-02.md"
+    "noteFile": "data/fx/email-john-olivo-2026-10-02.md",
+    "linkedinInvitationState": "Still pending on LinkedIn, button reads Pending, confirmed by Marcel. Do not withdraw."
   }
 ]
