@@ -3655,8 +3655,8 @@
     "title": "Vice President",
     "location": "San Diego, California, United States",
     "profileUrl": "http://www.linkedin.com/in/juan-cardenas-66445ba0",
-    "play": "crm-book-wave-2-mexico-importers",
-    "status": "invitation-pending-origin-unknown",
+    "play": "email-by-hand",
+    "status": "invitation-pending-no-note",
     "firstTouch": null,
     "lastActivity": "2026-09-23",
     "signal": "CRM account owned by Marcel, never worked, no contact ever attached. Marcel confirmed 2026-09-23 that Ciruli and Tricar have had no prior contact, so the CRM dates on those rows were system noise.",
@@ -3665,7 +3665,7 @@
     "campaignId": 618450,
     "listId": 963765,
     "loggedOn": "2026-09-23",
-    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending with him. DO NOT assume he has read the note below, he has not. The sweep of all 46 campaigns found no HeyReach send, so the pending invitation was almost certainly sent by hand. Marcel is the only person who can say when. If he accepts, open cold as if first contact.",
+    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, CONNECTION REQUEST PENDING. DO NOT WITHDRAW. Email juan@tricarsales.com instead, ZoomInfo FULL_MATCH. Marcel sends by hand. SEND THIS WEEK, NOT LATER: Mexican winter produce terms are set with growers through October and the pesos go out November through March, so the rate for the whole season is being decided right now by whatever spot happens to be on each payment date. Waiting for him to accept a bare invitation wastes the season. English is the default on the basis that the September note was English, NOT on confidence; his profile language is not recorded anywhere and Spanish is plausible given San Diego, Scotiabank and three decades in the Mexican produce trade. A Spanish version is drafted. Marcel knows this trade and should overrule that call if he reads it differently.",
     "touches": [
       {
         "n": 1,
@@ -3679,7 +3679,10 @@
     "nextTouch": null,
     "outcome": null,
     "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status invitation-sent with firstTouch 2026-09-23. THAT WAS WRONG. Lead 313494900 in campaign 618450 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-24T19:24:07, leadConnectionStatus None. HeyReach NEVER SENT HIM ANYTHING. The invitationNote recorded below was never delivered. His LinkedIn connect button reads Pending because an invitation reached him earlier, from outside HeyReach, on an unknown date.",
-    "locationCorrection": "Was recorded as 'Rio Rico, Arizona'. LinkedIn's own lead record shows San Diego, California. The 2026-10-02 screen also said San Diego. Tricar has a Rio Rico Arizona operation and a separate Tricar Logistics LLC, which is where the confusion came from, but HIS profile says San Diego."
+    "locationCorrection": "Was recorded as 'Rio Rico, Arizona'. LinkedIn's own lead record shows San Diego, California. The 2026-10-02 screen also said San Diego. Tricar has a Rio Rico Arizona operation and a separate Tricar Logistics LLC, which is where the confusion came from, but HIS profile says San Diego.",
+    "email": "juan@tricarsales.com",
+    "noteFile": "data/fx/email-juan-cardenas-2026-10-02.md",
+    "angle": " | ANGLE 2026-10-02: the September note was NEVER DELIVERED, so the 'credit analyst running a produce house' line is still unspent. Credit analyst at Scotiabank until 1996 then twenty nine years at Tricar, so he will understand a forward faster than most CFOs and needs only the question asked. This is a CRM account Marcel already owns and nobody ever worked; Marcel confirmed 2026-09-23 that Ciruli and Tricar had no prior contact and the CRM dates were system noise, so there is no awkward history. ONE SEAT: Valeria Quintero at Tricar Logistics stays out unless Juan goes nowhere."
   },
   {
     "name": "Marco Rodriguez",
@@ -8860,8 +8863,8 @@
     "angle": "CHOSEN SEAT FOR SCOTLYNN over Joan Oben (USA Accounting Manager, 3rd degree, 155 connections) because the owner signs the wire. Owner and VP since Sep 2012, 14 years. Before that VP and Sales Manager at Pioneer Growers. Thin network: 107 connections, 122 followers, no recent posts, and only 1 mutual (Daniel). The owner seat outweighs the thin network. JOAN OBEN IS OUT, one seat per company."
   },
   {
-    "play": "play-4-cold",
-    "status": "invitation-pending-origin-unknown",
+    "play": "email-by-hand",
+    "status": "invitation-pending-no-note",
     "campaignId": null,
     "listId": null,
     "outcome": null,
@@ -8885,10 +8888,12 @@
     "company": "Exp. Group LLC",
     "title": "COO",
     "location": "United States",
-    "nextStep": "SWEEP COMPLETE: he is in ZERO of the 46 HeyReach campaigns, confirmed by get_campaigns_for_lead against the verified URL. There is no campaign to find. The Pending button therefore came from outside HeyReach on an unknown date, and nothing was ever delivered to him. DO NOT SEND ANOTHER INVITATION. If he accepts, open cold as if first contact.",
-    "angle": "CHOSEN SEAT FOR EXP GROUP over Juvell O. (Operations Manager): COO beats operations manager, 53 mutuals beats 13, and he already has an invitation pending. 2,595 followers, 500+ connections, posted within 30 days, website www.expgroup.us, introduction path through Jose Antonio and 19 others. JUVELL O. IS OUT, one seat per company.",
+    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, CONNECTION REQUEST PENDING. DO NOT WITHDRAW, LinkedIn blocks re-inviting for about three weeks after a withdrawal. Email fr@expgroup.us instead, a ZoomInfo FULL_MATCH that independently confirms the address a contact site suggested. Marcel sends by hand. OPTIONAL FREE SECOND TOUCH: he posts regularly and a genuine comment on his feed is the cheapest way to get the pending invitation accepted, costs nothing, risks nothing. The fruit department expansion under Richard Armata is the natural one.",
+    "angle": "CHOSEN SEAT FOR EXP GROUP over Juvell O. (Operations Manager): COO beats operations manager, 53 mutuals beats 13, and he already has an invitation pending. 2,595 followers, 500+ connections, posted within 30 days, website www.expgroup.us, introduction path through Jose Antonio and 19 others. JUVELL O. IS OUT, one seat per company. | ANGLE 2026-10-02, from his own words. His 2007 to 2012 role: 'Established the financial infrastructure and implemented financial controls within the accounting department' including AR, AP, reporting, payroll and monthly bank reconciliations. Then SVP of Finance and Business Development, now COO since March 2025. Eighteen years, one company. SO THE MAN WHO BUILT EVERY PAYMENT CONTROL NOW RUNS OPERATIONS, which makes him the one person who would know instantly whether anyone has looked at the rate on the outbound wires. EXP GROUP: vertically integrated importer of tropical fruits and vegetables from the Caribbean, Central and South America, 40+ years, SQF certified, brands Rosita and Serafino, supplying NY, Miami, LA, SF, Puerto Rico, Canada, Mexico and South America, and it owns farms rather than only buying. Two live growth areas: the Dominican Republic, and McAllen Texas, which The Produce News reported he personally led as SVP. TEXAS LINE IS TRUE AND LIMITED: same state as Marcel, and that is all the email claims, no distance after the Fightmaster lesson. English, not Spanish: his About and posts are in polished English and he is New Jersey City University. The email deliberately does NOT mention the pending invitation, unlike Olivo's, because with 2,595 followers and an active feed a pending request is unremarkable to him and naming it would be noise.",
     "urlProvenance": "Not supplied by Marcel. Found by web search and then CONFIRMED against LinkedIn itself via HeyReach get_lead, which returned linkedin_id 50440430, Fraymil Rodriguez, Chief Operating Officer at Exp. Group. LLC, United States, username fraymil-rodriguez-092a8614. That is LinkedIn confirming the slug belongs to this person at this company. Safe to use.",
-    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns."
+    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
+    "email": "fr@expgroup.us",
+    "noteFile": "data/fx/email-fraymil-rodriguez-2026-10-02.md"
   },
   {
     "play": "play-4-cold",
