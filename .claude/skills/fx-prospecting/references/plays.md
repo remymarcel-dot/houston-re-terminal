@@ -560,3 +560,52 @@ through a channel that needs no invitation.
 An audit that sends someone to their sent-invitations page **must carry the "do
 not withdraw" instruction in the same breath**, before they go looking. Giving
 the audit first and the constraint afterwards is how this went wrong.
+
+
+## The "Message" button does NOT mean they are a connection
+
+**Got this wrong on 2026-10-02 and told Marcel he had a first degree connection
+he did not have.**
+
+With Sales Navigator or Premium, LinkedIn shows a **Message** button on profiles
+of people who are **not** connected. Clicking it opens an **InMail** compose, not
+a normal message thread. So the button is evidence of nothing about degree.
+
+**The degree badge next to the person's name is the only reliable test:** the
+small "1st", "2nd" or "3rd" after their name. A profile with a Message button and
+a "2nd" badge is a non connection with an InMail route, which is a completely
+different situation from a connection.
+
+The HeyReach error codes are the other reliable signal, and they are stronger
+because they come from the API rather than the UI:
+
+- `AlreadyAConnection` → **is** a connection. Play 0 message will work.
+- `ConnectionRequestAlreadySent` → **not** a connection, invitation outstanding.
+- `ConversationExists` → **not** a connection, thread exists, message node will
+  silently do nothing.
+
+**On 2026-09-23 campaign 613743 returned `ConnectionRequestAlreadySent` for Luis
+Reynoso.** That was the API saying plainly that he was not connected, and it
+should have outweighed a button in the UI nine days later.
+
+## InMail is low value, per Marcel
+
+Marcel's own read, 2026-10-02: an InMail is one "**that no one reads**."
+
+He is a sales director with 21,000 connections and knows his own channel, so
+**treat InMail as a last resort rather than a peer of email.** The account
+carries 40 credits, but credits are not the constraint; attention is.
+
+**Order of preference when there is no connection:**
+
+1. **Email**, when an address can be verified. `enrich_contacts` returned a
+   FULL_MATCH for every name tried on 2026-10-02.
+2. **Commenting on their posts**, for people with active feeds, which costs
+   nothing and can get a pending invitation accepted on its own.
+3. **A fresh invitation with a note**, when no withdrawal block is in the way.
+4. **InMail**, only when the seat is strong and the first three are closed.
+
+**Review the Markar Agakanian touch against this.** He was approached by InMail
+on 2026-10-02 as a strong seat with zero mutuals. Under Marcel's judgment that
+touch is weaker than it was recorded as being, and a verified email for him is
+worth finding.

@@ -1,19 +1,20 @@
-# SUPERSEDED 2026-10-02: Luis Reynoso is a first degree connection
+# Luis Reynoso, CFO Mexican Operations, Jones Plastic & Engineering
 
-**Marcel checked the profile and the button reads "Message."** He accepted the
-invitation at some point after 2026-09-23, which is why he was absent from the
-sent invitations list. **Everything below about withdrawals, three week blocks
-and email as the primary route is obsolete.**
+## THIS IS THE LIVE ROUTE. Email him.
 
-**Use `data/fx/message-luis-reynoso-2026-10-02.md` instead**, which carries the
-Play 0 direct message. His email `lreynoso@jonesplastic.com` stays valid as a
-second touch if the LinkedIn message goes unanswered.
+**Settled 2026-10-02 after two wrong turns.** He is **not** a connection. The
+profile shows a Message button, but clicking it opens **InMail**, which is what
+Sales Navigator shows on a non-connection. The invitation was withdrawn, so
+LinkedIn will refuse a new one for about three weeks, and Marcel's own judgment
+on InMail is that it does not get read.
 
-Kept only so the reasoning is not rediscovered.
+**So email is the route, and it is the only route that needs nothing from
+LinkedIn at all.**
+
+`data/fx/message-luis-reynoso-2026-10-02.md` held a Play 0 direct message based
+on him being connected. **That file is wrong and is marked as such.**
 
 ---
-
-# Luis Reynoso, CFO Mexican Operations, Jones Plastic & Engineering
 
 **Marcel withdrew the invitation.** So he is not a connection, nothing is
 pending, and LinkedIn will refuse a new invitation for about three weeks.

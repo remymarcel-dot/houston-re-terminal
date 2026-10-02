@@ -1,3 +1,19 @@
+# WRONG, DO NOT USE: Luis Reynoso is NOT a connection
+
+**Corrected 2026-10-02.** This file was written on the belief that his profile
+button reading "Message" meant he was a first degree connection. **It does
+not.** Marcel clicked it and it opens **InMail**, which is what Sales Navigator
+shows on a NON connection.
+
+**THE DEGREE BADGE NEXT TO THE NAME IS THE ONLY RELIABLE TEST, not the button.**
+
+He is not connected, the invitation was withdrawn, and InMail is not worth the
+credit in Marcel's judgment. **Use `data/fx/email-luis-reynoso-2026-10-02.md`.**
+
+Kept only so the error is not repeated.
+
+---
+
 # Luis Reynoso, CFO Mexican Operations, Jones Plastic & Engineering
 
 ## HE IS A FIRST DEGREE CONNECTION. Send a direct message now.
