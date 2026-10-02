@@ -112,3 +112,64 @@ better spent on Foxx.
 | **Jon Kimball** | — | **Cut** |
 
 **Four messages and one call, none of which needed a profile URL.**
+
+---
+
+# CORRECTION 2026-10-02: ALL FOUR MESSAGES WERE ALREADY SENT ON 17 SEPTEMBER
+
+**Marcel said "Nahoumovich, Bryson, Alvarez send the messages." I checked the
+HeyReach chatrooms before sending and found all three had already been messaged on
+2026-09-17. So had Jon Kimball. Nothing above was sent.**
+
+**This whole file was written as though 17 September never happened**, and the
+pipeline rows backed up the mistake: every one read `touchCount: 1` and
+`lastTouch: 2026-04`. The repo's touch history was simply wrong, and had I trusted
+it and sent, Marcel would have sent four people a near duplicate of a message they
+received two weeks earlier, each one reopening with the same "my April note was
+templated" line.
+
+**THE RULE, now in config.md: the HeyReach chatroom is the authority on what was
+said to a first degree connection. The pipeline is not.** Before any revival or
+follow up message, call `get_conversations_v2` and read the thread.
+
+## What was actually sent on 2026-09-17, and it was good work
+
+All four September messages were specific, admitted the April template, and ended
+on a real question or a low friction offer. They are better than the drafts above.
+
+- **Eyal** got the full five country argument, naming the dirham as not freely
+  convertible, and ended "just curious which of those five gives your team the most
+  trouble." Not asking for a meeting.
+- **Shirley** got the southern hemisphere filling the northern gap, good for
+  revenue and hard on working capital, no quiet quarter, and ended by asking whether
+  that is how it actually feels from where she sits.
+- **Noel** got the seafood case made properly, the boat and the processor both paid
+  before the container moves, the gap is his personally, and an offer of numbers in
+  writing with no meeting needed.
+- **Jon** got an explicitly final message: "twice now I have asked you for time and
+  twice you have had better things to do... Last one, and no link this time."
+
+**All four are unanswered after 15 days.**
+
+## Two factual corrections the chatrooms forced
+
+**SHIRLEY BRYSON IS PRESIDENT.** Her LinkedIn headline reads President, not Sales
+and Marketing Specialist, and she is in Saint Alban's, Missouri. **The recorded seat
+risk was wrong and is deleted.** The planned "who at Reina handles the supplier
+payments" opener must NOT be used: asking a president who handles payments is
+mildly insulting and throws away the seat.
+
+**Jon Kimball is in Pacifica, California**, Company Owner, and Marcel has overruled
+the cut. The volume question is settled by him and should not be reopened.
+
+## The corrected plan
+
+| Who | When | Channel | Why |
+|---|---|---|---|
+| **Russell Foxx** | **Tue 6 Oct** | Call (936) 828-8267 | Unchanged. 2nd degree, never accepted, has read nothing. The one clean call |
+| **Eyal Nahoumovich** | **Wed 7 Oct** | Call (917) 207-0879 | **The escalation this file already specified:** message, then call if silent in a week. That week passed, so the call is overdue, not premature. Brooklyn, so Eastern time. Open on the written message, not on April |
+| **Shirley Bryson** | **Mon 19 Oct** | LinkedIn thread, or `shirley@reinaproduce.com` | About a month after September. Write to her **as President** |
+| **Noel Alvarez** | **Mon 19 Oct** | LinkedIn only | Mobile is do not call, email is low confidence hotmail. On the 19th the honest question is whether a fourth touch is worth it, since September already made the best argument and offered the easiest yes |
+| **Jon Kimball** | **Mon 26 Oct** | **Email** `jon@kimballsales.net` | A fourth LinkedIn message would contradict "last one." A different channel does not. And it should **deliver** the numbers September promised rather than ask again. Catch all domain, so deliverability is unproven |
+
+**Nothing is sent today. One call Tuesday, one Wednesday.**

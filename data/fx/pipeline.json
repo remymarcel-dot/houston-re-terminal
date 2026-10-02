@@ -1665,15 +1665,15 @@
   {
     "name": "Eyal Nahoumovich",
     "company": "Gaia",
-    "title": "(unknown)",
-    "location": "?",
+    "title": "General Manager and Owner, Gaia LLC",
+    "location": "Brooklyn, New York",
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "revival-draft-ready",
+    "status": "revival-call-recommended",
     "outcome": null,
     "firstTouch": "2026-04",
-    "lastTouch": "2026-04",
+    "lastTouch": "2026-09-17",
     "loggedOn": "2026-09-17",
     "priority": "tier-2",
     "note": "1st degree. ONE message only, Apr 7 templated, no reply, confirmed by Marcel. Sources from Chile, Peru, China, India and Morocco. Angle: that is five different currency situations, not one. Chile and Peru settle in USD with the grower absorbing conversion; the Moroccan dirham is not freely convertible.",
@@ -1686,8 +1686,8 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-07",
     "mobile": "(917) 207-0879",
     "contactAccuracyScore": 93.0,
     "doNotCall": "none",
@@ -1695,21 +1695,22 @@
     "enrichedOn": "2026-10-01",
     "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
     "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
-    "nextStep": "CALL. Mobile (917) 207-0879, doNotCall none, NO email on file. 1st degree, so the old April thread is also open.",
-    "noteFile": "data/fx/revivals-decision-2026-10-02.md"
+    "nextStep": "CALL HIM WEDNESDAY 7 OCTOBER 2026. Mobile (917) 207-0879, doNotCall none, no email on file. He is in Brooklyn, so Eastern time; call mid morning Eastern, which is earlier than it feels from Texas. DO NOT SEND THE DRAFTED MESSAGE. He already received a long, specific reopening on 2026-09-17 naming all five sourcing countries and the non convertible dirham, and it is unanswered 15 days later. The 2026-10-02 draft repeats that same angle and reopens with the same 'my April note was templated' line, so sending it would be a visible repeat. THE CALL IS THE ESCALATION THE PLAN ALWAYS SPECIFIED: 'message first, call the mobile if silent in a week.' That week has passed, which makes the call overdue rather than premature. Open by referring to the written message, not to April: he has now read something real. Ask which of the five legs gives his team the most trouble, which is the question the September message ended on and he never answered.",
+    "noteFile": "data/fx/revivals-decision-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Shirley Bryson",
     "company": "Reina Produce",
-    "title": "(unknown)",
-    "location": "?",
+    "title": "President",
+    "location": "Saint Alban's, Missouri",
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "revival-draft-ready",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-04",
-    "lastTouch": "2026-04",
+    "lastTouch": "2026-09-17",
     "loggedOn": "2026-09-17",
     "priority": "tier-2",
     "note": "1st degree. One templated message Apr 9, no reply. Garlic, grapes, lemons from Mexico and Chile into US retail and foodservice. Angle: Mexico and Chile are opposite hemispheres, so the buying season never stops and there is no quiet quarter for cash to recover.",
@@ -1722,18 +1723,19 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-19",
     "email": "shirley@reinaproduce.com",
     "contactAccuracyScore": 89.0,
     "doNotCall": "no number on file",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 89.",
-    "seatRisk": "Title is Sales and Marketing Specialist, not finance. She is a way in at Reina Produce rather than the decision maker, so the opener should ask who handles supplier payments rather than pitch her.",
+    "seatRisk": null,
     "enrichedOn": "2026-10-01",
     "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
     "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
-    "nextStep": "EMAIL shirley@reinaproduce.com. 1st degree. SEAT RISK: Sales and Marketing Specialist, not finance, so ask who handles supplier payments rather than pitch her.",
-    "noteFile": "data/fx/revivals-decision-2026-10-02.md"
+    "nextStep": "WAIT, THEN A FOURTH TOUCH ON 19 OCTOBER 2026. Do NOT send the 2026-10-02 draft. She already received a specific reopening on 2026-09-17 about the southern hemisphere filling the northern gap and working capital never catching up, and it is unanswered. A second reopening 15 days later, repeating the same 'my April note was generic' line, would read as pestering. 19 October is about a month out, which is the right gap. THE SEAT RISK WAS WRONG AND IS NOW DELETED. Her LinkedIn headline reads PRESIDENT, not Sales and Marketing Specialist. She is the decision maker, in Saint Alban's, Missouri. So the planned 'who at Reina handles supplier payments' deflection must NOT be used: asking a president who handles payments is mildly insulting and throws away the seat. Write to her as the decision maker. Channel is the existing LinkedIn thread, or shirley@reinaproduce.com.",
+    "noteFile": "data/fx/revivals-decision-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Noel Alvarez",
@@ -1743,10 +1745,10 @@
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "revival-draft-ready",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-04",
-    "lastTouch": "2026-04",
+    "lastTouch": "2026-09-17",
     "loggedOn": "2026-09-17",
     "priority": "tier-2",
     "note": "1st degree, Miami. One templated message Apr 7, no reply. Company Owner, same profile as Jon Kimball: no finance function, the gap is personally his. Angle for the reopen: seafood suppliers rarely extend terms because the boat and processor need paying before the container moves, so the front end is funded in full while wholesale buyers pay at the back end. Harder squeeze than produce. Offers the numbers in writing, no meeting.",
@@ -1759,8 +1761,8 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-19",
     "enrichmentGap": "ZoomInfo FULL_MATCH at accuracy 86, no email, mobile flagged do not call. Apollo next.",
     "enrichmentTried": "2026-10-01",
     "email": "triumphseafood@hotmail.com",
@@ -1770,8 +1772,9 @@
     "enrichedOn": "2026-10-01",
     "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
     "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
-    "nextStep": "REPLY IN THE EXISTING LINKEDIN THREAD. 1st degree. Email is hotmail at LOW confidence with no domain to verify, and the mobile is flagged DO NOT CALL.",
-    "noteFile": "data/fx/revivals-decision-2026-10-02.md"
+    "nextStep": "WAIT, THEN DECIDE ON 19 OCTOBER 2026. Do NOT send the 2026-10-02 draft. He already received the seafood working capital message on 2026-09-17, which made the argument properly (the boat and the processor both get paid before the container moves, so the gap is his personally) and ended with a low friction offer, numbers in writing with no meeting needed. It is unanswered. The 2026-10-02 draft makes the identical argument in fewer words, so it adds nothing. CHANNEL IS LINKEDIN ONLY: the mobile is flagged DO NOT CALL and triumphseafood@hotmail.com is LOW confidence from Apollo with no domain to verify against. On 19 October the honest question is whether a fourth LinkedIn touch is worth it at all, given the September message already made the best version of the argument and offered the easiest possible yes.",
+    "noteFile": "data/fx/revivals-decision-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Marilyn Florez-Giordano",
@@ -1839,15 +1842,15 @@
   {
     "name": "Jon Kimball",
     "company": "Kimball Produce Sales Inc.",
-    "title": "Owner & Salesman",
-    "location": "?",
+    "title": "Company Owner",
+    "location": "Pacifica, California",
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "cut-recommended",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-04",
-    "lastTouch": "2026-04",
+    "lastTouch": "2026-09-17",
     "loggedOn": "2026-09-17",
     "priority": "tier-2",
     "note": "1st degree. Two touches, Apr 7 templated and Jun 2 with a Calendly link, no reply to either. Owner AND salesman, so no finance department and the working capital call is his between deals. The June angle (pay growers up front, wait 30 to 60 days on retail) was already correct; what failed was the ask. Draft 2026-09-17 is terminal, drops the call entirely and offers the numbers in writing.",
@@ -1860,8 +1863,8 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-26",
     "enrichmentGap": "ZoomInfo COMPANY_ONLY_MATCH. It has Kimball Produce Sales, id 458566197, but not him. Apollo next.",
     "enrichmentTried": "2026-10-01",
     "email": "jon@kimballsales.net",
@@ -1871,8 +1874,9 @@
     "enrichedOn": "2026-10-01",
     "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
     "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
-    "nextStep": "RECOMMEND CUTTING, awaiting Marcel's confirmation. Three employees per Apollo, below band. Two touches already with no reply to either, so a third would read as persistence rather than relevance. The email jon@kimballsales.net is a catch-all domain that is not even the company website (kimballproduce.com), so deliverability is unproven. Not a hard cut: if Marcel knows the volume is bigger than Apollo thinks, say so and the note gets written.",
-    "noteFile": "data/fx/revivals-decision-2026-10-02.md"
+    "nextStep": "MARCEL'S DECISION 2026-10-02: DO NOT CUT HIM, keep working him. The cut recommendation is withdrawn. BUT THE NEXT TOUCH CANNOT BE ANOTHER LINKEDIN MESSAGE, and this is the constraint that matters. He was already sent a THIRD touch on 2026-09-17 which opened 'twice now I have asked you for time and twice you have had better things to do' and explicitly said 'Last one, and no link this time.' A fourth message in that same thread would contradict Marcel's own word, which costs more than the lead is worth. SO: NEXT TOUCH 26 OCTOBER 2026 BY EMAIL, jon@kimballsales.net, about six weeks after the September message. A different channel does not break the 'last one' promise the way a fourth LinkedIn message would. CAVEAT ON THE EMAIL: kimballsales.net is a catch all domain and is NOT the company website, which is kimballproduce.com, so deliverability is unproven. If it bounces, he is genuinely finished. AND HONOR WHAT SEPTEMBER OFFERED: that message promised numbers in writing with no call needed. The October email should DELIVER that rather than ask again. An owner who ignored three asks for time may still open an attachment that asks for nothing. Location corrected to Pacifica, California. Apollo still puts the company at three employees, which was the basis for the cut; Marcel overrode it, so the volume question is settled by him and should not be reopened.",
+    "noteFile": "data/fx/revivals-decision-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Walter Kealey III",

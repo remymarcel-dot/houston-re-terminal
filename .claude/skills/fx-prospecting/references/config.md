@@ -1058,3 +1058,28 @@ confirms. Do not spend further turns verifying a status you cannot change.
 `stop_lead_in_campaign` takes `leadMemberId` (the numeric `linkedin_id`, e.g.
 `336966191`) **or** `leadUrl`. Passing a profile URL as `leadMemberId` returns a
 404, which looks like "lead not found" and is really "wrong field".
+
+## The HeyReach chatroom is the authority on what was said, not the pipeline
+
+On 2026-10-02 Marcel said "Nahoumovich, Bryson, Alvarez send the messages" for
+three drafted revival messages. Checking `get_conversations_v2` first showed **all
+three had already been messaged on 2026-09-17**, and so had a fourth name in the
+same batch, Jon Kimball. The pipeline rows all read `touchCount: 1` and
+`lastTouch: 2026-04`. They were wrong, and the decision file had been written as
+though September never happened.
+
+Had those sends gone out, four people would have received a near duplicate of a
+message from two weeks earlier, each reopening with the same "my April note was
+templated" line.
+
+**So: before sending any message to a first degree connection, call
+`get_conversations_v2` and read the thread.** `totalMessages`, `lastMessageAt` and
+`lastMessageSender` settle in one call what the repo can only claim. A repo row is
+a record of what was *planned*; the chatroom is a record of what was *said*.
+
+**The same call corrects stale profile data for free.** It returned Shirley
+Bryson's headline as **President**, overturning a recorded seat risk that said
+"Sales and Marketing Specialist, not finance" and would have had Marcel ask a
+president who handles her payments. It also gave Eyal's and Jon's real locations,
+both of which the repo had as unknown.
+
