@@ -8017,7 +8017,7 @@
     ],
     "touchCount": 3,
     "nextTouch": "2026-10-09",
-    "nextStep": "HOLD THE REPAIR MESSAGE. Do not send it today. In June he replied within 30 minutes, warmly and at length, so he is demonstrably responsive and will very likely reply to the Oct 2 message too. Two messages in a row would look anxious, and if he has not read the first one yet, an apology for an error he never noticed is self inflicted.\n\nIF HE REPLIES, and especially if he points out they spoke in June: acknowledge it in one line, then go straight to the Huma question. 'Tienes razón, releí nuestro intercambio de junio, y lo que me quedó fue...' The correction becomes attention rather than carelessness, delivered at the natural moment.\n\nIF SILENT BY 2026-10-09: send the Huma question as an ordinary follow up with the apology stripped out. A week later the content stands on its own and needs no framing.",
+    "nextStep": "HOLD CONFIRMED BY MARCEL, 2026-10-02: nothing sent, by decision rather than oversight. HOLD THE REPAIR MESSAGE. Do not send it today. In June he replied within 30 minutes, warmly and at length, so he is demonstrably responsive and will very likely reply to the Oct 2 message too. Two messages in a row would look anxious, and if he has not read the first one yet, an apology for an error he never noticed is self inflicted.\n\nIF HE REPLIES, and especially if he points out they spoke in June: acknowledge it in one line, then go straight to the Huma question. 'Tienes razón, releí nuestro intercambio de junio, y lo que me quedó fue...' The correction becomes attention rather than carelessness, delivered at the natural moment.\n\nIF SILENT BY 2026-10-09: send the Huma question as an ordinary follow up with the apology stripped out. A week later the content stands on its own and needs no framing.",
     "reply": "2026-06-25, verbatim substance: AgPro is currently focused on the US market, strengthening operations and technical support to growers. International expansion is a future consideration. CRITICALLY: 'como parte de Huma, ya estamos participando en mercados internacionales a través de distribuidores máster en distintos países, lo que nos ha permitido desarrollar experiencia y presencia global.'",
     "companyProfile": "AgPro LLC is PART OF HUMA, the agricultural biologicals group. Huma already sells into international markets through MASTER DISTRIBUTORS in several countries. Eduardo volunteered this himself in June and it was not followed up at the time.",
     "watchFor": "The Oct 2 message claims they have never spoken, which is wrong. He may point it out. If he does, acknowledge once, plainly, and move to Huma. Do not over apologise and do not explain how it happened."
@@ -8120,5 +8120,38 @@
     "nextTouch": null,
     "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 and the 3 hour delay lands around 13:00 Central, so it should fire TODAY rather than slipping to Monday the way Olvin's did.",
     "buildNote": "Schedule set explicitly to America/Chicago 08:00 to 18:00 at creation, because HeyReach's default is 09:00 to 17:00 UTC, which is 04:00 to noon Central. That default is what pushed Olvin's invitation (campaign 634581) to Monday, and the schedule cannot be changed once a campaign is IN_PROGRESS. Set it at creation, every time."
+  },
+  {
+    "name": "Rodrigo Lopez Sanroman",
+    "company": "The Magnum Ice Cream Company",
+    "title": "CFO Americas / SVP Finance",
+    "location": "Englewood Cliffs, New Jersey, United States",
+    "profileUrl": "https://www.linkedin.com/in/rodrigo-lopez-sanroman-893a8025/",
+    "profileUrlNote": "Pasted by Marcel 2026-10-02. Was partially visible in a browser bar on the screen and deliberately left unrecorded until he supplied it.",
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634676,
+    "listId": 988111,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 4 of 87",
+    "warmPath": "75 mutual connections, third largest overlap in the 87 profile screen. Shared group. University of Edinburgh. Contact info is public on his profile.",
+    "angle": "THE SEPARATION IS THE HOOK. Magnum is the Unilever ice cream business now standing on its own, so a function that used to sit inside a very large group treasury is being built from scratch. His remit is explicitly the AMERICAS, which means dollars, reais, pesos and Canadian dollars against euro reporting. The note assumes he knows what 'the separation' refers to, which he obviously does, and that confidence is the right register for a CFO.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634676, 253 characters. Sequence VIEW_PROFILE then CONNECTION_REQUEST after 3 hours, withdraw after 30 days, schedule America/Chicago 08:00 to 18:00. Verified at creation: IN_PROGRESS, started 2026-10-02T14:57:28Z, 1 in progress, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out. Should fire this afternoon Central, same as Hauser. If he accepts, the follow up asks whether the Americas entities fund their own currency needs or whether it is run centrally, which is the question that has worked on Tecma and Core Group Resources.",
+    "sizeNote": "Large parent, but his seat is a REGIONAL book rather than the central finance function, which is the distinction that kept Jakks and Element Solutions on the wrong side of the band and puts him on the right side of it.",
+    "buildNote": "Schedule set at creation, America/Chicago 08:00 to 18:00, per the rule recorded after Olvin's slipped to Monday."
   }
 ]
