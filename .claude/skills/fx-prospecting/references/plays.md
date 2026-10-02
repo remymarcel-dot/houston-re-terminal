@@ -671,3 +671,28 @@ left to say and defer them, not to manufacture a replacement.
 
 **If a prospect asks for levels, that is a reply.** Levels get discussed live.
 
+## Never offer coffee, and do not treat a shared city as proximity
+
+**Marcel's rule, 2026-10-02:** *"do not offer coffee, Houston is huge and coffee could be
+one there is an established relation."*
+
+I had drafted a coffee invitation to Rodolfo Vela on the reasoning that both men are in
+Houston and coffee is lower friction than a scheduled call. Both halves of that were
+wrong.
+
+- **Houston is about 650 square miles.** The Woodlands to the Energy Corridor can be over
+  an hour each way. "I am in Houston too" is a map, not proximity, and the recipient knows
+  it.
+- **Coffee is not lower friction, it is higher.** A fifteen minute call costs fifteen
+  minutes. Coffee costs travel, parking and an hour, and it carries the expectation of a
+  relationship that does not exist yet. **Offered cold it asks for more of a stranger's
+  time than a call does, while sounding like it asks for less.**
+
+**Coffee is for a relationship that already exists**: a client, a referral partner, a
+reply that went well. It is never a cold or reviving touch.
+
+**And when someone has already declined a meeting ask twice, a third ask in a new format
+is the same ask.** The move is to drop the ask entirely and send the substance, closing
+with nothing required, so silence ends the thread cleanly rather than leaving a fourth
+unanswered request on the record.
+

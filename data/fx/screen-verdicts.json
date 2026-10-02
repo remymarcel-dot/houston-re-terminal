@@ -1,0 +1,810 @@
+[
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Tony White",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Martin Hauser",
+    "section": "Worth an invitation, ranked",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Jorge Kovacs Morayta",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Gabriel Perez Krieb",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Syed Ali",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Bernardo K Santana",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Alejandro González",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Rafael Vasquez",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Raul Reyna Jr.",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Christian Karim Khalil",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Scott (Scotty) Horner",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Miguel Kozlowski",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Nish Patel",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Kevin Soares",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Juan Cardenas",
+    "section": "Batch 1, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Valeria Quintero",
+    "section": "Batch 1, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 1, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Ann Marie Earle",
+    "section": "Batch 1, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 1, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Craig Entwistle",
+    "section": "Batch 1, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 1, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Paul Vaughan",
+    "section": "Batch 1, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 1, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Nick Negro",
+    "section": "Batch 2, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Juvell O.",
+    "section": "Batch 2, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 2, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Denis Bräuer",
+    "section": "Batch 2, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alejandro Romero",
+    "section": "Batch 2, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 2, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Patricia Pinter",
+    "section": "Batch 2, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rob Levitt",
+    "section": "Batch 3, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 3, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Courtney Dyess-Mam",
+    "section": "Batch 3, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 3, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Nancy Sanchez",
+    "section": "Batch 3, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 3, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "John Larse",
+    "section": "Batch 3, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "J.D. Poole",
+    "section": "Batch 3, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Joan Oben",
+    "section": "Batch 4, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 4, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jose Antonio Martinez Haro",
+    "section": "Batch 4, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Esteban Alvarez",
+    "section": "Batch 4, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 4, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Fraymil Rodriguez",
+    "section": "Batch 4, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "David Fausset",
+    "section": "Batch 4, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 4, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "David Wilson",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Shirley Sass",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 5, five screenshots, four distinct people\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Omar Oweis",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 5, five screenshots, four distinct people\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Markar Agakanian",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "entered",
+    "detail": "pipeline status in-sequence",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Saul N. Macias III",
+    "section": "Batch 6, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 6, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Tom Lyons",
+    "section": "Batch 6, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-sequence",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Kate Johnson",
+    "section": "Batch 6, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 6, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Ana Michelle Conaway",
+    "section": "Batch 6, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 6, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Travis Pendleton",
+    "section": "Batch 6, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rosa Duarte",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-sent-manually",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Sylvia Parra",
+    "section": "Batch 7, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 7, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "John P. Olivo",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lindsey Thiel",
+    "section": "Batch 7, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 7, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Debra Wevers",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "edwyin Arredondo",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 8, five screenshots, four usable\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Gregory Lattanzi",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 8, five screenshots, four usable\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Darrell Beyer",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 8, five screenshots, four usable\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Cultivar",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "not-a-person",
+    "detail": "company or group name captured as a profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Pedro Noyola",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 8, five screenshots, four usable\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Paulina Ascencio Domínguez",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 9, five profiles, and they are all one company\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Patricia Mendoza Inda",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 9, five profiles, and they are all one company\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Irasema George",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 9, five profiles, and they are all one company\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Gloria Viridiana Mancilla Palacios",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-sent-manually",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Luis Miguel Barriga Calderon",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 9, five profiles, and they are all one company\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Eduardo Sánchez",
+    "section": "Batch 10, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-sequence",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jay Hinton",
+    "section": "Batch 10, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alfredo Flores",
+    "section": "Batch 10, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 10, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "José M. Villafañe",
+    "section": "Batch 10, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 10, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Latam Doers",
+    "section": "Batch 10, five profiles",
+    "verdict": "not-a-person",
+    "detail": "company or group name captured as a profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Julio (JP) Ponce Marín",
+    "section": "Batch 11, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 11, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alex M.",
+    "section": "Batch 11, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 11, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Felix Montelara",
+    "section": "Batch 11, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 11, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lupe De Los Santos",
+    "section": "Batch 11, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 11, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lina Gonzalez",
+    "section": "Batch 11, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 11, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jose Mateo III",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 12, five profiles, and a second Honduran cluster\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Mike Woessner",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 12, five profiles, and a second Honduran cluster\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Dinant",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "not-a-person",
+    "detail": "company or group name captured as a profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alfredo Rivera",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 12, five profiles, and a second Honduran cluster\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Olvin Caballero",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Ryan Kellogg",
+    "section": "Batch 13, six screenshots",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 13, six screenshots\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Carlos Gomes",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rodrigo Lopez Sanroman",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jon Zaninovich",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status held-sequenced",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Mitch Millwee",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jack Campbell",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status held-sequenced",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Edgar Gutierrez",
+    "section": "Batch 13, six screenshots",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 13, six screenshots\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Nate Ray",
+    "section": "Batch 14, five screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Hayden McIntyre",
+    "section": "Batch 14, five screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Keith Wilson",
+    "section": "Batch 14, five screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Edgar Gutierrez — duplicate of #66",
+    "section": "Batch 14, five screenshots",
+    "verdict": "duplicate",
+    "detail": "70. Edgar Gutierrez — duplicate of #66, counted once.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Debora Delaney",
+    "section": "Batch 14, five screenshots",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 14, five screenshots\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jose Luis Lopez Mota",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Santiago Gutierrez Zaldivar",
+    "section": "Batch 15, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 15, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Roberto Contreras",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Roberto Contreras IV",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Sarah Van Houten",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rafael Hernandez",
+    "section": "Batch 16, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Bob Dill",
+    "section": "Batch 16, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 16, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Iván Reybel Arista Pando",
+    "section": "Batch 16, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 16, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lu Villegas",
+    "section": "Batch 16, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 16, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Eugenio Minvielle",
+    "section": "Batch 16, five profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 16, five profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alfredo Amparan Garza",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Marco Valencia",
+    "section": "Batch 17, six profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 17, six profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Guillermo DeLeon",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alan Peters",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jana Deal",
+    "section": "Batch 17, six profiles",
+    "verdict": "UNRESOLVED",
+    "detail": "no pipeline row, no note, and section \"Batch 17, six profiles\" carries no verdict",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Martin Hauser",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  }
+]

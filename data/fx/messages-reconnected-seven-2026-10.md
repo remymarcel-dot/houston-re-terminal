@@ -74,32 +74,46 @@ company could make about her.
 
 ---
 
-# 2. RODOLFO VELA. Tuesday 20 October. **Coffee, not a document.**
+# 2. RODOLFO VELA. Tuesday 20 October. **Substance note. NO coffee, NO meeting ask.**
 
-Global Controller & Finance Operation Lead, NexPoint Materials. **Houston.** LinkedIn.
+Global Controller & Finance Operation Lead, NexPoint Materials. Houston. LinkedIn.
 
-**September ended on a hard either/or:** *"If the peso corridor is still open to design,
-fifteen minutes now is worth more than an hour next year. If it is already locked, tell
-me and I will stop."* **He answered neither way.** A third written note adds nothing. A
-different kind of offer does.
+**⚠️ THE COFFEE ASK IS WITHDRAWN. MARCEL'S RULE, 2026-10-02:** *"do not offer coffee,
+Houston is huge and coffee could be one there is an established relation."* **Both halves
+are right.** Houston is 650 square miles and "I am in Houston too" is not proximity, it
+is a map. And coffee is what you offer someone you already have a relationship with;
+offered cold it asks for more of a stranger's time than a call does, not less.
 
-> Rodolfo, I will not ask the fifteen minutes question a third time.
+**So he gets no meeting ask of any kind.** September already ended on a hard either/or,
+peso corridor still open or already locked, and he answered neither. A third ask in any
+format is the same ask.
+
+**No numbers either, per the standing rule.** What is left is the one thing he has never
+been given: the actual content.
+
+> Rodolfo, I will not ask the fifteen minutes question a third time. Here is the part I
+> would have said in it.
 >
-> Different offer instead. I am in Houston, you are in Houston, and a coffee is easier
-> to say yes to than a call. Half an hour, no agenda and no deck. If the peso corridor
-> is already locked we can talk about carve outs generally, which I went through from
-> the finance side myself before this job.
+> In a carve out the payment decisions harden in a fairly reliable order. Bank accounts
+> and signatories go first, because nothing else can happen until they exist. Then the
+> intercompany funding path, which is usually copied from the parent because there is no
+> time to design it. Then operational payments by corridor, which is the only one anyone
+> revisits later. And last, hedging policy, which often gets written months after the
+> flows it is meant to cover are already running.
 >
-> Any morning that suits you.
+> The reason that order matters is that the intercompany path gets set second, under the
+> most time pressure, and then it is the one that is hardest to change. Most people
+> discover it was never a decision at all.
+>
+> Nothing needed back. If the peso corridor is still open when you get to it, you know
+> where I am.
 >
 > Marcel
 
-**Why this is the right shape:** it drops the ask he has twice declined, replaces it with
-a lower friction one, and the peer credential is real rather than decorative. A
-controller in the first year of a separation has no spare hours, which September already
-acknowledged, and coffee respects that in a way a scheduled call does not.
-
----
+**Why this is the right note.** It keeps his own argument, that these decisions harden,
+and makes it specific instead of asserting it again. It tells him something he can check
+against his own project plan this week. **And it closes without asking for anything**, so
+if he never replies the thread ends cleanly rather than with a fourth unanswered request.
 
 # 3. KEVIN SOULEN. Wednesday 21 October. **Email only.**
 
@@ -262,7 +276,7 @@ live rather than written down.
 |---|---|---|
 | **Mon 19 Oct** | **Katie Dubon** | Corridor reference, `message-katie-dubon-2026-10-19.md` |
 | **Tue 20 Oct** | **Amaya Corredor Palomino** | Spanish. **Biggest seat in the group, consider doing her first** |
-| **Tue 20 Oct** | **Rodolfo Vela** | Coffee ask, Houston |
+| **Tue 20 Oct** | **Rodolfo Vela** | Substance note on what hardens and in what order. **No coffee, no meeting ask** |
 | **Wed 21 Oct** | **Kevin Soulen** | Email only. **The strongest of them** |
 | **Wed 21 Oct** | **Eric Heismeyer** | Email only |
 | **Fri 23 Oct** | **Raynier Plasencia** | Verify the COO title first |

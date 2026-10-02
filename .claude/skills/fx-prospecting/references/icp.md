@@ -758,3 +758,37 @@ invited a duplicate send.
 He is recorded as **`invitation-pending-unlocated`**, with the touch date
 literally set to `"unknown"`. The status is deliberately awkward so nobody reads
 past it. Juan Cardenas is in the same state.
+
+## Every screened name carries a verdict, and a script enforces it
+
+**A screened name with no verdict is indistinguishable from a deliberate rejection**, so
+an oversight hides behind one. That is not hypothetical. Running the check for the first
+time on 2026-10-02 found **thirteen names from the 1 October screen ranked "Worth an
+invitation" and never actioned at all** among them a CFO North America, a CFO and
+Treasurer, a VP Finance and two CEOs. They were waiting on Marcel to paste profile URLs,
+the screen said so on its own line 3, and nobody was ever reminded.
+
+**The field.** Each numbered entry in a screen file ends with a verdict line:
+
+    **Verdict:** entered | blocked-url | rejected <reason> | already-contacted |
+                 channel | not-a-person | duplicate
+
+**The script.** `scripts/screen_verdicts.py` builds `data/fx/screen-verdicts.json` from
+the screens and the pipeline, then reports anything owed and exits non-zero:
+
+    python3 scripts/screen_verdicts.py build    # rebuild and check
+    python3 scripts/screen_verdicts.py check    # check only
+
+It derives what it can. **`entered` is the only self-healing verdict**, because a pipeline
+row proves it. Everything else it cannot derive comes back as `UNRESOLVED`, which is the
+point: the script is designed to leave an unanswered question visible rather than guess.
+Hand-resolved entries carry `"resolvedBy": "human"` and are preserved across rebuilds.
+
+**Verdicts the script treats as owing a decision:** `UNRESOLVED`, `blocked-url`,
+`recommended-never-actioned`, and `note-written-not-entered`. That last one is the
+invisible prospect in its purest form, a note written that nobody will ever send.
+
+**Run it at the end of every screen, and on any week that opens with a review.** A screen
+is not finished when the names are written up. It is finished when every name has a
+verdict.
+
