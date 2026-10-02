@@ -7977,5 +7977,36 @@
     "touchCount": 1,
     "nextTouch": "2026-10-09",
     "nextStep": "Touch 2 due 2026-10-09. He is first degree so LinkedIn stays open and is the right channel; no email is on file and none is needed yet. If he names a direction, draft against his answer rather than the cadence. If he turns out to be purely advisory, switch to the channel conversation and stop selling, the same handling as Fatima Morales and Alfredo Rivera."
+  },
+  {
+    "name": "Tom Lyons",
+    "company": "Kaliroy Fresh LLC",
+    "title": "Global Business Executive Leader",
+    "location": "Coronado, California, United States",
+    "profileUrl": null,
+    "profileUrlNote": "NOT ON FILE and not needed while he is first degree, since Marcel messages him directly. Only required to put him in a HeyReach campaign. The agent does not construct one.",
+    "play": "play-0-first-degree",
+    "status": "in-sequence",
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 2 of 87",
+    "warmPath": "First degree with 92 mutual connections, the second largest overlap in the 87 profile screen after Eduardo Sánchez. Shared group. Posts regularly, so the account is live.",
+    "signal": "Post 2026-09-28: 'About to start 500 new acres of Kaliroy Shade House Roma Tomatoes.' A capital project with a size, a schedule and a budget, which is a better hook than routine payables because someone is accountable for the number.",
+    "angle": "A 500 acre shade house build is months of structures, labor and materials in pesos, budgeted at a rate set now and paid at rates set later, funded by dollar revenue in the US. The gap never appears as an FX line. It appears as the build coming in over budget, which is how he will have experienced it on previous expansions.",
+    "assumption": "PESOS ARE WRITTEN AS FACT, NOT HEDGED. Kaliroy is the US arm for Mexican grown tomatoes out of Nogales and shade house Romas are Sinaloa and Sonora agriculture. If the acreage is elsewhere he corrects it in one line, which at first degree costs nothing, and hedging would have cost the specificity that makes the note land. If he does correct it, that is a conversation, not a failure.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-message-manual",
+        "outcome": "sent, awaiting reply",
+        "notes": "English, Play 0 direct message, sent by hand. Opened on being connected without ever speaking, then his 500 acre shade house post. One question: is the peso funding handled from the US side or does the growing operation source its own. Same question that has worked on Tecma and Core Group Resources, because it assumes competence. Full text in data/fx/message-tom-lyons-2026-10-02.md."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": "2026-10-09",
+    "nextStep": "Touch 2 due 2026-10-09, LinkedIn, since he is first degree and no email is on file. IF HE REPLIES 'the US side', do not run the cadence: go straight to the concrete ask, what rate the last peso funding run was executed at and at what time of day. The execution time is not optional, a comparison benchmarked against the wrong hour is worse than none."
   }
 ]
