@@ -788,3 +788,221 @@ contractor).
 ## Needs one more screenshot
 Darrell Beyer (company truncated), Sylvia Parra (no title), Ryan Kellogg and
 Carlos Gomes (feed only, no profile view), and **every partial URL above**.
+
+---
+
+## Batch 14, five screenshots
+
+### 67. Nate Ray, CEO, DeJager Farms Inc.
+- 2nd. Metropolitan Fresno. Cal State Fresno. 500+ connections, 743 followers.
+- Shannon is the only mutual.
+- **FULL URL VISIBLE AND COPIED:** `https://www.linkedin.com/in/nate-ray-13779b8b`
+- About: experienced CEO in farming, BS in Plant Sciences, licensed Pest Control
+  Advisor. **An operator rather than a finance mind**, so keep any note concrete.
+
+### 68. Hayden McIntyre, COO, Sierra Pacific Farms Inc.
+- 2nd, verified. Los Angeles Metropolitan Area. 500+ connections.
+- Mutuals: Hans, Matias and 8 others, so **10**.
+- Banner is an avocado grove. About: third generation farm manager in California.
+- URL partial, `...-mcintyre-a35050134/`. Not usable.
+
+### 69. Keith Wilson, Owner, King Fresh Produce LLC
+- 2nd. **Kingsburg, California.** Cal Poly San Luis Obispo. 500+ connections.
+- Mutuals: Antonio, Bob and 34 others, so **36**. Shared group.
+- **Owner seat.** Profile photo is the family in the vineyard, so this is a
+  family business and the owner signs.
+- URL effectively illegible, only `...929/`. Not usable.
+
+### 70. Edgar Gutierrez — duplicate of #66, counted once.
+
+### 71. Debora Delaney, CFO — **COMPANY IS CONTRADICTORY**
+- 2nd, She/Her, verified. New York City Metropolitan Area. Kansas State. 500+.
+- Nicholas is the only mutual.
+- **Her headline company reads Catalina Crunch. Her own About says she is
+  currently CFO of North America at The Hain Celestial Group.** Those are two
+  different companies and the profile cannot be right about both.
+- **Do not write to her until that is resolved.** Opening with the wrong employer
+  to a CFO ends the conversation in one line. It also matters because of #76.
+
+---
+
+## Batch 15, five profiles
+
+### 72. Jose Luis Lopez Mota, Managing Director, vOfiz Inc
+- 2nd, verified. **GREATER HOUSTON.** Tecnológico de Monterrey. 500+.
+- Mutuals: Manuel, Luis and 47 others, so **49**.
+- **Shared group: LATAM CFO.**
+- Houston, Tec de Monterrey, 49 mutuals and a LatAm CFO group in common. The
+  warm path is excellent. **What vOfiz actually does needs checking** before a
+  note can name an exposure.
+
+### 73. Santiago Gutierrez Zaldivar, Adamo Capital Founders Family Office
+- 2nd, verified. Miami Fort Lauderdale. Tuck School of Business at Dartmouth.
+  3,283 followers.
+- Mutuals: Guillermo, Monica and 4 others, so **6**.
+- **A family office is a channel, not an account.** Its portfolio companies have
+  the payables. Worth knowing, not worth pitching.
+
+### 74. Roberto Contreras, CEO, DC Partners and Moderno Porcelain Works
+- 2nd, verified. **GREATER HOUSTON.** University of Houston. 2,726 followers.
+- Mutuals: José, Alejandro and 10 others, so **12**.
+- About: strong ties in the **United States, Mexico and Europe**, and he
+  **started and owned Cosentino North America**, the surfacing company.
+- **Porcelain surfaces are imported from Spain and Italy.** Moderno Porcelain
+  Works is a genuine euro exposure sitting in Houston, and his own history is
+  exactly this trade.
+
+### 75. Roberto Contreras IV, CEO DC Partners, Houston EB5
+- 2nd, verified. Houston. Swarthmore College. 3,037 followers.
+- Mutuals: Danie, Mario and 9 others, so **11**.
+- About: Board of Directors IIUSA, Board of Directors Texas Asia Society,
+  **Chairman of the Houston Hispanic Chamber**.
+- **Father and son, same firm.** See the DC Partners warning below.
+
+### 76. Sarah Van Houten, CFO, Catalina Snacks
+- 2nd, verified. Boulder, Colorado. University of Michigan. 1,694 followers.
+- Mutuals: Jason, Mireille and 1 other, so **3**.
+- About: finance and accounting in consumer packaged goods, cash management,
+  budgeting, MBA in finance from University of Colorado.
+- **Her company panel also says Catalina Crunch**, same as Debora Delaney's.
+  See below.
+
+---
+
+## Batch 16, five profiles
+
+### 77. Rafael Hernandez, CEO, Mr. Meat Master
+- 2nd. Fort Lauderdale, Florida. Florida Atlantic University. 2,409 followers.
+- Mutuals: Jaime Eloy, Alfonso and 19 others, so **21**. Shared seafood group.
+- **His own headline says "International Business".** Imported beef, probably
+  wagyu given the banner, means Japan, Australia or Latin America. He has named
+  the exposure himself, which is the easiest kind of note to write.
+
+### 78. Bob Dill, retired President and CEO of Hisco, MD of the Lumen Institute
+- 2nd, verified. **Houston, Texas.** Cal State Fullerton.
+- Mutuals: Felipe, Lauro and 12 others, so **14**. Shared group, posted recently.
+- **Retired operator now running an executive peer group.** That is a channel of
+  the Alfredo Rivera kind: he convenes Houston chief executives for a living.
+  Never pitch, always ask.
+
+### 79. Iván Reybel Arista Pando, MBA, CFO, Vision Online Inc.
+- 2nd, verified. Orlando, Florida. **Hult International Business School**, the
+  same school as Alex M. at #51.
+- Mutuals: Thor, Carlos A and 18 others, so **20**.
+- **His profile carries a Services section** listing financial consulting,
+  management consulting, budgeting, loans and commercial real estate.
+- **That is the Grace Bravo shape again.** A sitting CFO does not advertise
+  services. He is consulting, or wants to. **Ask, do not pitch.**
+
+### 80. Lu Villegas, CEO, Grupo Calufe
+- 2nd, He/Him, verified. **Córdoba, Veracruz, MEXICO.** Columbia Business School,
+  and the profile also shows Wealthcorp LLC. 1,231 followers.
+- Mutuals: Ariel O., Thalía and 51 others, so **53**.
+- **Sales Navigator flags BOTH shared education and a shared group, and the group
+  icon is IPADE.** Second IPADE link in this screen.
+- **Connect is restricted**, "Connect if you know each other".
+- Mexico based. Grupo Calufe is coffee, from the banner. **Needs a US entity
+  before the rule allows it**, and Wealthcorp LLC on the profile may be exactly
+  that. Worth one check.
+
+### 81. Eugenio Minvielle, President and Founder, Innit
+- 2nd, verified. San Francisco Bay Area. Harvard Business School.
+  **7,170 followers.**
+- Mutuals: Rodrigo, Rodrigo and **131 others**, so **133. The highest overlap in
+  all 87 profiles.**
+- About: 20+ years in fast moving consumer goods across **Europe, North America,
+  South America and Asia**, founder of INNIT International.
+- **Connect is restricted.**
+- Innit is a food technology platform rather than an importer, so the exposure is
+  unproven. But 133 mutuals and an FMCG career across four continents makes him
+  a formidable channel whatever his own payables look like.
+
+---
+
+## Batch 17, six profiles
+
+### 82. Alfredo Amparan Garza, CFO, Workhub Developments LLC
+- 2nd, verified. **GREATER HOUSTON.** Also shows WorkHub USA, LLC.
+- Mutuals: Sergio, Luis and 15 others, so **17**. **Shared education flagged.**
+- **CFO seat, Houston, shared school, 17 mutuals.** Clean. What Workhub
+  Developments builds needs one look.
+
+### 83. Marco Valencia, MBA, Director, Global Family Office, Lyra Investments
+- 2nd, verified. United States. Harvard Business School, Chicago Booth 2027.
+- Mutuals: Carlos, Daniel and 19 others, so **21**. **Shared group: CFO Network.**
+- Family office again, so **channel rather than account**, same as #73.
+
+### 84. Guillermo DeLeon, CFO, Deleon Trade LLC
+- 2nd. **GREATER HOUSTON.** DePaul University. **5,564 followers.**
+- Mutuals: Rodrigo, Patrick Héctor and 8 others, so **10**. Posted recently.
+- **A CFO at a firm with "Trade" in its name, in Houston.** Deleon Trade is a
+  customs and trade compliance practice, which makes this the SACSA shape:
+  an account and a referral channel at once.
+
+### 85. Alan Peters, CEO, Tarpon Pipe
+- 2nd, verified. **Midland, Texas.** 2,216 followers.
+- Mutuals: Ryan, Nick and 4 others, so **6**.
+- **His profile also lists Latam Forest Trading, LLC.** That is the interesting
+  part, not the pipe business: timber trading with Latin America is a currency
+  book. About says energy and renewable sustainable resources.
+- **Two businesses, one obvious exposure.** Ask about Latam Forest, not Tarpon.
+
+### 86. Jana Deal, VP Finance, Diakonia Group LLC
+- **3rd degree. 189 connections, 189 followers.** Franklin, Tennessee. Liberty
+  University.
+- Activity is entirely congratulating colleagues on SOLV Holdings posts.
+- **No mutuals, thin network, unknown exposure. Cut** unless Marcel knows the
+  company.
+
+### 87. Martin Hauser, VP Finance, Koenig & Bauer (US)/(CA) — **ALREADY WRITTEN**
+- 2nd. **Dallas, Texas.** Otto-von-Guericke-Universität Magdeburg. 353
+  connections.
+- Mutuals: Ario, Luis and 2 others, so **4**. **Key signal: recently hired by
+  Koenig & Bauer.** Posted recently.
+- **A note for him already exists** in `notes-2026-10-01-top-picks.md`, written
+  on the recently-hired trigger: "carrying both the US and Canadian entities
+  means two sales currencies against one euro cost base in Würzburg." 226
+  characters, inside the cap.
+- **He does not need a new note. He needs sending.**
+
+---
+
+# Three more collisions
+
+| Company | People | Seat | Why |
+|---|---|---|---|
+| **DC Partners** | Roberto Contreras, Roberto Contreras IV | **Resolve first** | Father and son, same firm. The father owns the import exposure through Moderno Porcelain and Cosentino history. The son chairs the Houston Hispanic Chamber, which makes him the better channel. Different conversations, but still one company. |
+| **Catalina** | Sarah Van Houten (CFO, Catalina Snacks), Debora Delaney (headline Catalina Crunch, About says Hain Celestial) | **Sarah** | Her title and company agree with each other. Delaney's do not. |
+| **Hult International** | Alex M. (#51), Iván Arista Pando (#79) | n/a, different companies | Not a collision, but both show the between-roles or consulting shape. Ask both, pitch neither. |
+
+# Where 87 screenshots actually leave us
+
+## Complete URLs captured: three
+- `https://www.linkedin.com/in/shirley-sass-224598280`
+- `https://www.linkedin.com/in/olvin-caballero-413471180`
+- `https://www.linkedin.com/in/nate-ray-13779b8b`
+
+Seven more were partially visible in browser address bars and are **not**
+recorded, because reconstructing a slug is guessing.
+
+## Houston cluster, which is new and was not visible until the last batches
+Jose Luis Lopez Mota (vOfiz, 49 mutuals), Alfredo Amparan Garza (Workhub CFO,
+shared education), Guillermo DeLeon (Deleon Trade CFO), Roberto Contreras
+(Moderno Porcelain, euro imports), Roberto Contreras IV (Hispanic Chamber chair),
+Bob Dill (Lumen Institute), Olvin Caballero (Dinant, URL in hand), Alfredo Flores
+(CertaPro, cut on exposure).
+
+**Eight Houston names in one screen.** That is a meeting-in-person market, not a
+LinkedIn market, and it is worth treating differently from the rest.
+
+## Two IPADE links
+Eduardo Sánchez (#45, first degree, 101 mutuals) and Lu Villegas (#80, Mexico,
+restricted connect). Marcel's own IPADE Senior Management Program is the warm
+path neither of them will expect.
+
+## The send order has not changed at the top
+1. **Eduardo Sánchez**, AgPro. First degree, 101 mutuals, shared IPADE, live post.
+2. **Tom Lyons**, Kaliroy Fresh. First degree, 92 mutuals, 500 new acres to open on.
+3. **Martin Hauser**, Koenig & Bauer. **Note already written, just needs sending.**
+4. **Rodrigo Lopez Sanroman**, Magnum Ice Cream. CFO Americas, 75 mutuals.
+5. **Olvin Caballero**, Dinant. Houston, finance seat, URL already in hand.
