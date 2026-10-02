@@ -131,9 +131,9 @@
     "screen": "screen-2026-10-02-linkedin-batch.md",
     "name": "Ann Marie Earle",
     "section": "Batch 1, five profiles",
-    "verdict": "blocked-url",
-    "detail": "THE STRONGEST NAME IN THE 47 AND BLOCKED ONLY ON A URL. VP Finance and US CFO at Puratos, the Belgian bakery and chocolate ingredients group, so a US subsidiary CFO under a euro parent, which the screen calls the shape that has worked best in this book. Title is explicitly the US seat, which resolves the usual ambiguity before it is asked. SHARED GROUP: CFO NETWORK, a genuinely unusual warm path. 2,256 followers, Harvard Business School, Sales Navigator offers an introduction through Yogesh. ASK MARCEL FOR THE URL.",
-    "resolvedBy": "human"
+    "verdict": "entered",
+    "detail": "pipeline status ready-to-send",
+    "resolvedBy": "derived"
   },
   {
     "screen": "screen-2026-10-02-linkedin-batch.md",
@@ -147,9 +147,9 @@
     "screen": "screen-2026-10-02-linkedin-batch.md",
     "name": "Paul Vaughan",
     "section": "Batch 1, five profiles",
-    "verdict": "marcel-decision-needed",
-    "detail": "VP and Controller, Murphy Oil, HOUSTON. The screen flagged rather than cut him. Murphy Oil is NYSE listed with a market cap in the billions and its own treasury, so this is far above the band that cost Universal Weather at $555M and Jakks at $700M. Houston plus the controller seat are genuinely attractive. MARCEL HAS OVERRULED THE SIZE OBJECTION BEFORE, for John Kimble at Jakks, so this is his call and not mine.",
-    "resolvedBy": "human"
+    "verdict": "entered",
+    "detail": "pipeline status draft-ready-blocked-url",
+    "resolvedBy": "derived"
   },
   {
     "screen": "screen-2026-10-02-linkedin-batch.md",
@@ -195,9 +195,9 @@
     "screen": "screen-2026-10-02-linkedin-batch.md",
     "name": "Rob Levitt",
     "section": "Batch 3, five profiles",
-    "verdict": "blocked-url",
-    "detail": "President of Levitt Foods, 15+ years in meat, and meat trading is an export business into Asia and Mexico. The screen says worth asking. Only 2 mutuals. NEEDS A URL.",
-    "resolvedBy": "human"
+    "verdict": "entered",
+    "detail": "pipeline status cut-recommended",
+    "resolvedBy": "derived"
   },
   {
     "screen": "screen-2026-10-02-linkedin-batch.md",
@@ -355,9 +355,9 @@
     "screen": "screen-2026-10-02-linkedin-batch.md",
     "name": "Sylvia Parra",
     "section": "Batch 7, five profiles",
-    "verdict": "blocked-research",
-    "detail": "THE CLEAREST CASUALTY OF THE MISSING VERDICT FIELD. Altar Produce, asparagus and vegetables out of Sonora through Calexico, Greater El Centro so right on the Calexico and Mexicali crossing, 37 MUTUALS, CETYS Universidad, shared Spanish language commercial group, posted within 30 days. Everything about her is right except that NO TITLE IS SHOWN ON HER PROFILE HEADER, only the company, and that has to be resolved before a note can be written. She was flagged on 2 October and then nothing happened, which is exactly the failure this ledger exists to prevent. ASK MARCEL FOR HER TITLE AND URL.",
-    "resolvedBy": "human"
+    "verdict": "entered",
+    "detail": "pipeline status ready-to-send",
+    "resolvedBy": "derived"
   },
   {
     "screen": "screen-2026-10-02-linkedin-batch.md",
@@ -675,9 +675,9 @@
     "screen": "screen-2026-10-02-linkedin-batch.md",
     "name": "Debora Delaney",
     "section": "Batch 14, five screenshots",
-    "verdict": "marcel-decision-needed",
-    "detail": "THE COMPANY CONTRADICTION IS NOW RESOLVED AND IT WAS RESOLVED ELSEWHERE IN THIS PROJECT: her headline said Catalina Crunch while her About said CFO of North America at The Hain Celestial Group. SARAH VAN HOUTEN SUCCEEDED HER AS CATALINA CFO IN SEPTEMBER 2024, so the About is current and the headline is stale. SHE IS CFO NORTH AMERICA AT HAIN CELESTIAL. THAT TURNS IT INTO A SIZE QUESTION FOR MARCEL: Hain Celestial is NASDAQ listed and well above the band, the same objection as Paul Vaughan and Jakks. Also note Sarah Van Houten is already in a campaign at Catalina Snacks, status invitation-scheduled, so these two are linked and must not be approached as if unrelated. 1 mutual.",
-    "resolvedBy": "human"
+    "verdict": "entered",
+    "detail": "pipeline status draft-ready-blocked-url",
+    "resolvedBy": "derived"
   },
   {
     "screen": "screen-2026-10-02-linkedin-batch.md",

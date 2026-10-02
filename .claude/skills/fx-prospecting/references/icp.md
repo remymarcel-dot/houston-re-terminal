@@ -792,3 +792,9 @@ invisible prospect in its purest form, a note written that nobody will ever send
 is not finished when the names are written up. It is finished when every name has a
 verdict.
 
+**A hand-resolved verdict is kept only while it stays true.** The script preserves
+`resolvedBy: "human"` entries across rebuilds, but **a pipeline row overrides one**, because
+a row is proof the name was actioned. Without that, hand-resolving a name as `blocked-url`
+and then actually working it would leave the ledger permanently reporting a blocker that no
+longer exists, which is the same invisibility problem in reverse.
+

@@ -91,11 +91,13 @@ def build():
                 continue
 
             name = num.group(2).strip()
-            if (base, name) in manual:
+            row = match(name, idx)
+            if (base, name) in manual and not row:
+                # a hand-resolved verdict is kept ONLY while it stays true; a pipeline
+                # row is proof the name was actioned and overrides it
                 ledger.append(manual[(base, name)])
                 continue
 
-            row = match(name, idx)
             if row:
                 v, why = 'entered', f"pipeline status {row.get('status')}"
             elif name in ('Cultivar', 'Dinant', 'Latam Doers'):
