@@ -9200,24 +9200,32 @@
     "title": "Vice President Finance & US CFO",
     "location": "New York City Metropolitan Area",
     "play": "play-4-cold",
-    "status": "ready-to-send",
-    "campaignId": null,
-    "listId": null,
+    "status": "invitation-scheduled",
+    "campaignId": 634736,
+    "listId": 988200,
     "profileUrl": "https://www.linkedin.com/in/ann-marie-earle-0411b618",
     "linkedinId": "60207025",
     "outcome": null,
-    "firstTouch": null,
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
-    "touchCount": 0,
-    "nextTouch": null,
-    "touches": [],
+    "touchCount": 1,
+    "nextTouch": "2026-10-05",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "QUEUED, NOT YET CONFIRMED SENT, AND THE CONNECT PATH IS UNVERIFIED",
+        "notes": "Added to campaign 634736 via add_leads_to_campaign v1 on Marcel's instruction 'send ann marie too'. Returned 1, campaign went from 22 to 23 totalUsers with totalUsersPending 2 and TOTALUSERSFAILED 0. URL confirmed with get_lead before adding, linkedin_id 60207025, so no imp_ placeholder risk. HER CONNECT PATH WAS NEVER VERIFIED. Her profile shows FOLLOW as the primary button with no visible Connect, and Marcel chose to send without checking the More menu. That is a reasonable bet because the downside is only a Failed row, which costs no invitation and carries no LinkedIn penalty, and it ANSWERS THE QUESTION DEFINITIVELY either way. NOT A TOUCH until leadConnectionStatus reads ConnectionSent."
+      }
+    ],
     "noteFile": "data/fx/notes-two-urls-2026-10-02.md",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
     "noteText": "Ann Marie, congratulations on the Dawn agreement. Setting a 2027 budget for a US business whose perimeter changes partway through the year, under a euro parent, is harder than the number makes it look. I work on FX and cross border payments at Monex USA. Would be glad to connect. Marcel",
     "urlProvenance": "Pasted by Marcel 2026-10-02 and CONFIRMED via get_lead: linkedin_id 60207025, VP Finance & US CFO at Puratos, industry Food Production, username ann-marie-earle-0411b618. Never constructed.",
     "angle": "THE HOOK IS EXCEPTIONAL AND IT IS PUBLIC. On 10 March 2026 PURATOS ENTERED A DEFINITIVE AGREEMENT TO ACQUIRE DAWN FOODS, verified against the trade press and not only her feed: still subject to regulatory approvals, still EXPECTED TO CLOSE BY THE END OF 2026, and the two companies operate separately until it does. She posted about it herself, 'A historic event for us! Exciting times ahead!!!' SHE IS THE US CFO OF THE ACQUIRING SIDE'S US BUSINESS AND THE DEAL CLOSES WITHIN ABOUT THREE MONTHS. Dawn Foods is a large Michigan based bakery company, so her US perimeter is about to change substantially, under a BELGIAN EURO FUNCTIONAL PARENT, exactly while she builds a 2027 budget. There is no better moment to reach a US subsidiary CFO. Puratos also acquired Vor Foods, a US nut paste producer, in January 2026, so this is the second US acquisition in a year. THE NOTE NAMES THE DEAL BUT ASKS NOTHING ABOUT IT, ON PURPOSE: the transaction is pending regulatory approval, so a question would be improper and she could not answer it. Congratulating a public announcement and naming the budget consequence shows homework without asking her to cross a line. 'HARDER THAN THE NUMBER MAKES IT LOOK' IS AIMED AT WHO SHE ACTUALLY IS: she is an FP&A person before she is a treasurer. She posts about FP&A, she spoke on the 'bionic finance team' panel at the World Finance Forum in Philadelphia, and she tags #thinklikeacfo. A budget framing lands where a payments framing would not. DO NOT MENTION PHARMA. Her career before 2018 is almost entirely pharma: Novartis for fifteen years, Dey Pharma, Amicus Therapeutics, Sun Pharma, Integra's Codman division. She has spent eight years in food and raising the old career reads as not having noticed the current one. Harvard Business School Executive MBA 2002 to 2006 is available but is not the hook and should stay out of 300 characters. SHARED GROUP IS THE CFO NETWORK, a genuinely unusual warm path, and Sales Navigator names Yogesh as the introduction route. Only 2 mutuals.",
-    "nextStep": "⚠️ CHECK ONE THING BEFORE SHE GOES IN A CAMPAIGN. HER PROFILE SHOWS 'FOLLOW' AS THE PRIMARY BUTTON AND NO CONNECT BUTTON IS VISIBLE. That usually means Connect sits under the MORE menu rather than being absent, but it is not certain, and a HeyReach CONNECTION_REQUEST against a profile that does not accept invitations fails into a Failed row. SO LOOK IN THE MORE MENU FIRST. IF CONNECT IS THERE: she goes into a Play 4 campaign normally with the 287 character note in noteText. IF IT IS NOT, two good routes remain. ONE, the SHARED CFO NETWORK GROUP, since group membership in common is a real channel that needs no invitation. TWO, an introduction through YOGESH, whom Sales Navigator names as the path. RESERVE SEAT ONLY IF SHE IS GENUINELY UNREACHABLE: Andrew Brimacombe, President Puratos North America, 2nd degree, and HIS Connect button IS available. One seat per company, so she comes first and he is used only as a fallback. NO RATES, per the standing rule."
+    "nextStep": "VERIFY MONDAY 5 OCTOBER AT LEAD LEVEL, AND SHE MATTERS MORE THAN ANYONE ELSE IN THAT CHECK. Read leadConnectionStatus for her specifically in campaign 634736, never progressStats. THREE OUTCOMES AND EACH HAS A DIFFERENT NEXT STEP. ONE, ConnectionSent means the Connect button existed under the More menu after all, the question is settled, and she is simply awaiting acceptance. TWO, a FAILED row means her profile does not accept invitations, which is the answer rather than a problem: switch immediately to the SHARED CFO NETWORK GROUP, since group membership in common needs no invitation, or to an INTRODUCTION THROUGH YOGESH, whom Sales Navigator names as the path. THREE, still Pending means the serial queue has not reached her yet and the check repeats. ⚠️ AUTO WITHDRAW AROUND 1 NOVEMBER 2026. The sequence carries toBeWithdrawnAfterDays 30, so an unanswered invitation withdraws itself and starts the roughly three week re-invite block. For her the deadline matters doubly, because the DAWN FOODS ACQUISITION IS EXPECTED TO CLOSE BY END OF 2026, so the window in which the budget hook is live closes at about the same time. RESERVE SEAT, only if she proves unreachable by all three routes: Andrew Brimacombe, President Puratos North America, 2nd degree, Connect available. One seat per company, so he is a fallback and not a parallel approach."
   },
   {
     "name": "Rob Levitt",

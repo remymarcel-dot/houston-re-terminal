@@ -132,7 +132,7 @@
     "name": "Ann Marie Earle",
     "section": "Batch 1, five profiles",
     "verdict": "entered",
-    "detail": "pipeline status ready-to-send",
+    "detail": "pipeline status invitation-scheduled",
     "resolvedBy": "derived"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Sylvia Parra",
     "section": "Batch 7, five profiles",
     "verdict": "entered",
-    "detail": "pipeline status ready-to-send",
+    "detail": "pipeline status invitation-scheduled",
     "resolvedBy": "derived"
   },
   {
