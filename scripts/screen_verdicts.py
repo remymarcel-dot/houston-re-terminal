@@ -15,6 +15,10 @@ Verdicts:
   note-written-not-entered    a note exists but no pipeline row. ACTION NEEDED
   blocked-url                 recommended, waiting on Marcel to paste a URL. CHASE IT
   recommended-never-actioned  recommended, no note, no row, no recorded blocker. WORST CASE
+  blocked-research            recommended, waiting on one fact. RESOLVE IT
+  marcel-decision-needed      only Marcel can call it, usually company size
+  relationship-ask-first      resolved: the play is to ask, never to pitch
+  reserve                     a deliberate hold behind someone else at the same company
   rejected                    screened and declined, with the reason
   already-contacted           in flight before this screen. Do not re-approach
   channel                     a route to prospects, not a prospect
@@ -31,8 +35,8 @@ SCREENS = sorted(glob.glob(os.path.join(ROOT, 'data/fx/screen-*linkedin-batch*.m
 NOTES   = glob.glob(os.path.join(ROOT, 'data/fx/notes-2026-*.md'))
 
 # verdicts that need a human to do something
-ACTIONABLE = {'note-written-not-entered', 'blocked-url',
-              'recommended-never-actioned', 'UNRESOLVED'}
+ACTIONABLE = {'note-written-not-entered', 'blocked-url', 'blocked-research',
+              'marcel-decision-needed', 'recommended-never-actioned', 'UNRESOLVED'}
 
 
 def pipeline_index():
