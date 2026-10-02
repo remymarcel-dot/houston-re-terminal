@@ -830,3 +830,69 @@ invitation lands the same afternoon.
 Two further points. A 3 hour delay on the `CONNECTION_REQUEST` is the API
 minimum and buys more room inside the day than 4. And activity timed to Central
 business hours looks like a person, which a 4am send does not.
+
+
+## When a HeyReach write fails, try the v1 lead endpoint before giving up
+
+On **2026-10-02** every HeyReach *write* endpoint started returning a bare
+`An error occurred invoking '<tool>'` while every *read* endpoint kept working
+normally. Failing: `create_empty_list`, `create_campaign` (three attempts),
+`add_leads_to_campaign_v2`. Working: `get_campaign`,
+`get_all_linked_in_accounts`, `get_leads_from_campaign`, `get_all_campaigns`.
+
+**`add_leads_to_campaign` (v1) worked on the first try.** So the outage was not
+account-wide, not an auth problem and not a quota. It was specific endpoints.
+
+The workaround, in order:
+
+1. **Do not keep retrying the same endpoint.** Two attempts is enough to tell a
+   transient blip from a broken endpoint.
+2. **Add the leads to an existing campaign that already runs the play you want.**
+   A campaign's sequence and schedule are fixed at creation, so any campaign
+   running the same play with the same schedule is a valid home for new leads.
+   On 2026-10-02 the seven wave 2 leads went into campaign **634736**, built
+   earlier the same day with the identical Play 4 sequence, rather than into a
+   new campaign that could not be created.
+3. **Use the v1 shape**, which differs from v2:
+
+```
+add_leads_to_campaign(campaignId, accountLeadPairs=[
+  {"linkedInAccountId": 237851,
+   "lead": {"firstName":..., "lastName":..., "profileUrl":...,
+            "companyName":..., "position":...,
+            "customUserFields":[{"name":"note","value":"..."}]}}
+])
+```
+It returns a plain integer: the number of leads accepted. v2 takes a flat
+`leads` array instead of `accountLeadPairs` and infers the sender.
+
+4. **Then verify with `get_leads_from_campaign`.** The count alone is not proof.
+
+**Mixing waves into one campaign costs nothing** except that the campaign name
+no longer describes its contents, so write the wave number into each pipeline
+entry's touch note. The pipeline is the record, not the campaign name.
+
+
+## A lead that does not resolve will fail silently
+
+`get_leads_from_campaign` returns, per lead, a `linkedInUserProfileId` and a
+nested `linkedInUserProfile.linkedin_id`. For a lead HeyReach resolved against
+LinkedIn, these are a real URN and a numeric id, and the headline, location and
+image come back populated.
+
+For a lead it **could not** resolve, `linkedInUserProfileId` is `null` and
+`linkedin_id` is an internal placeholder beginning `imp_`, with headline,
+location and image all null.
+
+**That lead will not be contacted, and nothing will report a failure.** It sits
+at `Pending` and the campaign counters still count it as a user.
+
+Found on 2026-10-02: lead 320046646 in campaign 634736, Jose Antonio Martinez
+Haro of Divine Flavor, `imp_TSULFPKEXCBZMALRKEMLYLFPN`. All thirteen other leads
+in that campaign resolved cleanly. The likely cause is a profile URL that was
+retyped or truncated rather than copied whole.
+
+**So check `linkedin_id` on every lead at verification time, not just
+`leadConnectionStatus`.** An `imp_` prefix means re-copy the URL from LinkedIn
+and re-add, and it means the person has **not** been touched no matter what the
+pipeline says.

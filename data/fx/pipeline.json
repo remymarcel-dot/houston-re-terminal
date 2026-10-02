@@ -8204,7 +8204,7 @@
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
     "touchCount": 1,
     "nextTouch": null,
-    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Schedule is America/Chicago 08:00 to 18:00 with a 3 hour delay, so these should fire this afternoon.",
+    "nextStep": "DO NOT count as contacted. The lead did not resolve in HeyReach so the invitation will very likely never send. Re-copy his profile URL from LinkedIn and re-add, then verify leadConnectionStatus.",
     "name": "Jose Antonio Martinez Haro",
     "company": "Divine Flavor",
     "title": "COO and General Manager",
@@ -8219,7 +8219,8 @@
         "outcome": "scheduled, NOT YET CONFIRMED SENT",
         "notes": "Campaign 634736, wave 1 of the worth-a-note list. Verified at creation: IN_PROGRESS, 7 users, 0 failed, 0 excluded. Not a touch until leadConnectionStatus reads ConnectionSent. Full text in data/fx/notes-2026-10-02-worth-a-note.md."
       }
-    ]
+    ],
+    "dataQualityFlag": "HeyReach did not resolve this profile. Lead 320046646 in campaign 634736 has linkedInUserProfileId null and an internal placeholder id (imp_TSULFPKEXCBZMALRKEMLYLFPN) instead of a real LinkedIn id, and no headline, location or image came back. Every other lead in the campaign resolved. Expect this invitation to fail, probably silently."
   },
   {
     "play": "play-4-cold",
@@ -8465,5 +8466,208 @@
     "heldReason": "SEQUENCING, NOT DOUBT. Mitch Millwee at Pandol Brothers was invited today in campaign 634736. Pandol, Four Star and Jasmine are three separate companies, so the one seat rule does not bind across them, but they are all San Joaquin table grape operations within an hour of each other, all Cal Poly or USC, and Pandol and Four Star appear in each other's people-you-may-know panels. They know each other. Three near-identical notes in that circle in one week is the single way to make a good approach look automated.",
     "trigger": "Release when Millwee replies, or on 2026-10-12, whichever comes first. If he replied, write these against what he actually said and reference the conversation honestly, which makes notes two and three warm rather than cold. Whoever answers first becomes the reference for the next two.",
     "provisionalNote": "Not final. Written now only so nothing is lost if the trigger fires unattended. Jack Campbell: an owner seat at a table grape shipper, so the question is whether Four Star imports counter-season from Chile and Peru itself or buys landed. Jon Zaninovich: same question, and Jasmine is a grower first, so the honest opening may be that there is no exposure at all unless they market imported fruit."
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "Denis Bräuer",
+    "company": "Element Solutions Inc",
+    "title": "Vice President and Corporate Treasurer",
+    "location": "New York City Metropolitan Area",
+    "profileUrl": "https://www.linkedin.com/in/braeuer/",
+    "angle": "The best seat in the whole 2026-10-02 screen: an actual corporate treasurer, not a CFO who also does treasury, at an NYSE listed specialty chemicals group with Europe and Asia operations. 6 mutuals, Strategic CFO group. The note concedes the bank panel and hedging program in the first clause and asks only when execution was last benchmarked rather than the relationship. English deliberately: German name and University of Constance, but Marcel's languages are English, Spanish and Portuguese.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 13). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note.md item 13."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "David Wilson",
+    "company": "Ginegar Smart Cover Solutions (GNGR)",
+    "title": "C.E.O USA",
+    "location": "United States",
+    "profileUrl": "https://www.linkedin.com/in/david-wilson-66454353/",
+    "angle": "Israeli agricultural plastics parent, greenhouse films and covers; his title is explicitly the US seat, so shekel cost base against dollar revenue. 102 mutuals, the largest overlap in the screen. CAUTION: his connect button showed 'Connect if you know each other'. If LinkedIn refuses the invitation do NOT retry; with 102 mutuals ask one of them for an introduction instead.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 14). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note.md item 14."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "Nick Negro",
+    "company": "Duravant",
+    "title": "Chief Financial Officer",
+    "location": "Atlanta, Georgia, United States",
+    "profileUrl": "https://www.linkedin.com/in/nick-negro-8bb0066/",
+    "angle": "CFO of a multi-billion packaging and food automation group, in the seat only since May 2026. Duravant Mexico is a named entity with its own managing director (Oscar Ortega Gibert) and there is a VP Finance for the Food Automation Group, so Europe too. 7 mutuals. The hook is the five months, not the size: a new CFO re-examines every line, and FX execution survives scrutiny only because it never arrives as a reviewable document. BEFORE ANY CALL: his Scientific Games entry still reads 'Feb 2023 to Present' alongside Duravant. It is a stale entry, not two jobs. Do not open by asking about Scientific Games.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 15). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "Jay Hinton",
+    "company": "EVO Transportation",
+    "title": "Chief Financial Officer",
+    "location": "New York City Metropolitan Area",
+    "profileUrl": "https://www.linkedin.com/in/jhintoncfa/",
+    "angle": "NETWORK PLAY, NOT PIPELINE, and recorded as such on purpose. EVO Transportation hauls for the USPS and is a domestic trucking operation with no obvious FX exposure, so the note congratulates and does not pitch. What is there: he earned the CTP on 1 Oct 2026 and posted about it, he holds CPA, CFA and CTP, he has Spanish at professional working proficiency, and his own record (Indagare 5 months, Motorsport 8 months, EVO 5 months) says he moves. Expect no deal. Expect a connection worth having in eighteen months. 1 mutual, Alisha Brown.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 16). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "Alan Peters",
+    "company": "Latam Forest Trading, LLC",
+    "title": "Chairman",
+    "location": "Midland, Texas, United States",
+    "profileUrl": "https://www.linkedin.com/in/alan-peters-bab3141b/",
+    "angle": "STRONGEST of items 15 to 19. His own company description: Latam Forest conducts business in Brazil through a wholly owned subsidiary exporting finished lumber and logs from plantation tree farms, and is building a biomass pellet plant selling into Europe. That is a three currency business, reais cost, euros on pellets, dollars on logs and at the Midland holding company. Profile language list includes Portugues. MARCEL'S BRAZIL YEARS ARE THE CREDENTIAL, not the Monex pitch: almost six years at HTB in Sao Paulo as Finance Manager then Controller. English deliberately, he is a Midland petroleum engineer out of UT Austin and Portuguese would land as a trick. 6 mutuals. Latam Forest also has a President (Leandro Souto) and a Gerente Administrativo (Vinicius Pinto), both 3rd degree; Alan is the 2nd degree owner and the right door. Being handed to Souto is the win, not a demotion.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 17). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "Nate Ray",
+    "company": "DeJager Farms Inc.",
+    "title": "Chief Executive Officer",
+    "location": "Metropolitan Fresno",
+    "profileUrl": "https://www.linkedin.com/in/nate-ray-13779b8b/",
+    "angle": "Large diversified Merced County grower: almonds, corn, grain, cotton, alfalfa, ryegrass. Almonds are overwhelmingly an export crop BUT DeJager is a grower, and growers normally sell to a handler who carries the currency risk, so the note ASKS rather than asserts whether DeJager markets its own crop. That question is also the qualifying question, so a reply either way is useful. Not a passive grower: he posts almond price commentary and advice to sell inventory down, sits on two water district boards, speaks Spanish. 1 mutual, Shannon. ADJACENCY, not a blocker: Keith Wilson of King Fresh Produce and Hayden McIntyre of Sierra Pacific both appear in his suggestion panel and both got invitations the same day. Different companies, so the one seat rule does not bind.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 18). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "in-campaign",
+    "campaignId": 634736,
+    "listId": 988200,
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "name": "Hayden McIntyre",
+    "company": "Sierra Pacific Farms Inc",
+    "title": "Chief Operating Officer",
+    "location": "Camarillo, California, United States",
+    "profileUrl": "https://www.linkedin.com/in/hayden-mcintyre-a35050134/",
+    "angle": "Operations seat, not finance, but the hook is specific and verified. BioPollen Solutions posted in Spanish in March 2026 thanking Sierra Pacific Farms and Hayden by name for the season's assisted pollination on Hass avocados at Morro Bay. BioPollen is Chilean: headquartered in Quillota, phone +56, acquired outright by Baika Fruits of Santiago, roughly 16M dollars revenue. So Sierra Pacific receives invoices from Chile. Small exposure but true and checkable, and naming the vendor shows Marcel read the feed. 10 mutuals, the second largest overlap in the screen after David Wilson. If he replies 'talk to our controller' that is a SUCCESS. DO NOT RAISE: he reposted the California Avocado Commission's USMCA tariff rate quota advocacy video. He is on the protectionist side of a cross border trade fight and Marcel's business is cross border flow.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "scheduled, NOT YET CONFIRMED SENT",
+        "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 19). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
+      }
+    ]
   }
 ]
