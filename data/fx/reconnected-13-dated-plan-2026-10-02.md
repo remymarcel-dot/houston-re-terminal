@@ -97,3 +97,33 @@ accepts, Nobre must never be contacted again under any circumstances.
 - **1 inbound only**, Javier De Leon, no date by decision
 
 **Nothing in this plan re-asks anybody for anything.** That is the point.
+
+---
+
+# REVISION 2026-10-02, after reading all seven remaining threads
+
+**Two corrections and one plan change. The drafts are in
+`messages-reconnected-seven-2026-10.md`.**
+
+**AMAYA CORREDOR PALOMINO IS THE BIGGEST SEAT IN THIS GROUP AND WAS FILED FOURTH.**
+The table above calls her Deputy CFO. Her headline reads **EVP of Ferrovial Finance
+North America and Deputy CFO, Webber Group**, and she **built Ferrovial's North America
+shared services center** herself. That is a larger seat than Katie Dubon's. Consider
+doing her first.
+
+**RAYNIER PLASENCIA HAS MOVED**, from EVP at La Mesa Food Group to **COO at Naga
+Lakshmi** per his current headline. Verify, then congratulate.
+
+**AND MATT MILNER AND TRAVIS PENDLETON COME OUT OF THE DELIVER-THE-WRITING BUCKET.**
+Reading their threads shows September **already delivered the substance** and signed off
+softly: Matt's with *"I will assume it is handled"*, Travis's with *"If you ever want a
+second opinion, I am here."* A third note restating the same argument is precisely the
+weak third touch this plan was written to avoid.
+
+**They get a short dated market note instead**, a pair of rates and nothing else. A
+number is new information every time it is sent; an argument is not.
+
+**So the genuine deliver-the-offer group is four**, not eight: Amaya, Kevin, Eric and
+Raynier. Each made an explicit written promise that was never fulfilled. Rodolfo gets
+the coffee, Matt and Travis get numbers, Katie keeps her corridor reference.
+
