@@ -7946,5 +7946,36 @@
     "touchCount": 1,
     "nextTouch": "2026-10-08",
     "nextStep": "Touch 2 due 2026-10-08. She is first degree so LinkedIn stays open and is the right channel; no email is on file and none is needed. If she replies about being between engagements rather than about payments, switch to the channel conversation and stop selling."
+  },
+  {
+    "name": "Eduardo Sánchez",
+    "company": "AgPro LLC",
+    "title": "US & LATAM Market Advisor",
+    "location": "Metropolitan Fresno, California, United States",
+    "profileUrl": null,
+    "profileUrlNote": "NOT ON FILE and not needed yet. He is first degree, so Marcel messages him directly without an invitation or a URL. A URL is only required if he ever goes into a HeyReach campaign. The agent does not construct one.",
+    "play": "play-0-first-degree",
+    "status": "in-sequence",
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 1 of 87",
+    "warmPath": "First degree with 101 mutual connections, the second largest overlap in the 87 profile screen. Sales Navigator flags SHARED EDUCATION: both passed through IPADE Business School, where Marcel did the Senior Management Program 2012 to 2013. No claim of overlapping years, only the shared school.",
+    "signal": "Post 2026-09-26, garlic harvest in Tracy, California: behind every successful harvest there is more than good luck, there is hard work, discipline and consistent field follow up. 7,847 followers.",
+    "angle": "DELIBERATELY UNDECIDED between channel and account, which is the point. His headline is US and LATAM Market Advisor, so he may have no payables of his own, but 101 mutuals in California and LATAM agriculture puts him next to many who do. Deciding that from outside is the Grace Bravo mistake. The message asks which direction dominates his advisory book, north or south, and works either way.",
+    "doNotRaise": "No pitch of any kind at touch 1. At 101 mutuals and a shared school, selling is the fastest way to waste this. Do not assume AgPro imports or exports anything until he says so.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-message-manual",
+        "outcome": "sent, awaiting reply",
+        "notes": "Spanish, Play 0 direct message, sent by hand. Opened on being connected a long time without ever speaking despite 100+ mutuals, then the IPADE coincidence, then his garlic harvest post. One question: in what he advises on today, does Latin American product entering the US weigh more, or California product going south. Closed by giving him the expert seat, he sees more cases than Marcel does. Full text in data/fx/message-eduardo-sanchez-2026-10-02.md."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": "2026-10-09",
+    "nextStep": "Touch 2 due 2026-10-09. He is first degree so LinkedIn stays open and is the right channel; no email is on file and none is needed yet. If he names a direction, draft against his answer rather than the cadence. If he turns out to be purely advisory, switch to the channel conversation and stop selling, the same handling as Fatima Morales and Alfredo Rivera."
   }
 ]
