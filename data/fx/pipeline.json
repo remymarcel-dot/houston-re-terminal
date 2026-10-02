@@ -3214,7 +3214,7 @@
     "title": "CFO, Mexican Operations",
     "profileUrl": "https://www.linkedin.com/in/luis-reynoso-2a402815",
     "play": "event-driven",
-    "status": "invitation-pending-origin-unknown",
+    "status": "awaiting-degree-check",
     "campaignId": 613743,
     "listId": 956466,
     "event": "El Paso Nearshoring Summit 2026-10-21/22, stand 35, 36",
@@ -3233,8 +3233,10 @@
     "touchCount": 1,
     "nextTouch": null,
     "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status in-campaign for campaign 613743. THAT WAS WRONG. Lead 312862346 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-23T21:02:02, leadConnectionStatus None. Campaign 613743 never sent him anything and no note was delivered. An invitation was already outstanding from an unknown earlier source.",
-    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending. Nothing was delivered by HeyReach so do not assume he has seen any message. CFO of Mexican Operations at Jones Plastic & Engineering in El Paso is a strong seat, so this one is worth Marcel checking his own sent invitations for a date.",
-    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns."
+    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message and NO PENDING INVITATION on LinkedIn. get_conversations_v2 also returns zero, so NOTHING HAS EVER REACHED HIM. The 2026-09-23 ConnectionRequestAlreadySent invitation has left the pending list. BLOCKED ON ONE GLANCE: does his profile button read Connect or Message? Connect means not a connection, send the Play 4 invitation. Message means he accepted at some point and nobody noticed, send the Play 0 message instead, which is better (no 300 char cap, no invitation quota, can ask a qualifying question). Both notes are written in Spanish and English in data/fx/message-luis-reynoso-2026-10-02.md.",
+    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
+    "noteFile": "data/fx/message-luis-reynoso-2026-10-02.md",
+    "angle": "THE CLEANEST CASE IN THE BOOK. Jones Plastic & Engineering is a US contract plastics manufacturer with plants in Mexico, and he is CFO OF THE MEXICAN OPERATIONS sitting in El Paso. US parent, Mexican plants, peso payroll and peso costs against dollar revenue, and he personally owns that side. His own About: 23 years in all accounting facets, CPA, and 'Worked for World Class Companies Mainly from US located in Mexico territory (Jones Plastic & Engineering, Tecumseh, SIEMENS)'. THAT IS MARCEL'S OWN CAREER SHAPE, which is real common ground and not a gimmick. SPANISH ON EVIDENCE NOT SURNAME: a Mexican CPA whose whole career was with US companies inside Mexican territory, now in a border city, whose About is written in non-native English. DO NOT MENTION IN THE NOTE: his About says he is 'Targeting a CFO position at a small / mid-market private company or at the business unit level of a large company', so he is looking to move. That cuts both ways and belongs in the record, not in a cold approach. Pointing at someone's job search would cost the relationship immediately."
   },
   {
     "name": "Monica Rodriguez",
@@ -8919,8 +8921,8 @@
     ]
   },
   {
-    "play": "play-4-cold",
-    "status": "invitation-pending-origin-unknown",
+    "play": "email-by-hand",
+    "status": "invitation-pending-no-note",
     "campaignId": null,
     "listId": null,
     "outcome": null,
@@ -8936,8 +8938,8 @@
     "location": "Orlando, Florida, United States",
     "profileUrl": "https://www.linkedin.com/in/john-p-olivo-22b21a5",
     "urlProvenance": "Not supplied by Marcel. Found by web search and then CONFIRMED against LinkedIn itself via HeyReach get_lead, which returned linkedin_id 15465923, John P. Olivo, President and CEO at Fresh Express, Orlando, DePaul University BS Accounting 1980 to 1984, jolivo@freshexpress.com, and a full role history of VP and CFO 2015 to 2018 then President from Feb 2018. That is LinkedIn confirming the slug belongs to this person at this company, which is stronger than a search listing. Safe to use.",
-    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending. The sweep of all 46 campaigns found him in ZERO of them, so the Pending button on his profile did not come from HeyReach at all. No note was ever delivered. He is the chosen Fresh Express seat over Katie Conaway.",
-    "angle": "THE THIRD PENDING NAME, which I had not been told about and which was sitting unrecorded inside the 2026-10-02 screen file. He is the Fresh Express seat: a CPA who was VP and CFO from 2015 before becoming President in 2018 and now President and CEO, so a finance background in the top seat. Chiquita before that, including Controller North-East Europe, so genuine cross border history. Fresh Express sources from Mexico and acquired McEntire Produce in Dec 2024. CHOSEN OVER Katie Conaway at the same company, one seat per company.",
+    "nextStep": "MARCEL CONFIRMED 2026-10-02: no message, but A CONNECTION REQUEST IS PENDING. DO NOT WITHDRAW IT. LinkedIn blocks re-inviting for about three weeks after a withdrawal, so withdrawing costs the pending invitation, three weeks of silence, and all for 300 characters. A bare invitation from a 2nd degree with mutuals is accepted often enough to be worth more pending than withdrawn. INSTEAD: email him at jolivo@freshexpress.com, which came from HeyReach's own enrichment. Marcel sends by hand. The email is drafted in data/fx/email-john-olivo-2026-10-02.md and it names the pending invitation on purpose, which turns an odd loose end into the reason the email is not cold. If he accepts the invitation meanwhile, that is a second open door, not a conflict.",
+    "angle": "THE THIRD PENDING NAME, which I had not been told about and which was sitting unrecorded inside the 2026-10-02 screen file. He is the Fresh Express seat: a CPA who was VP and CFO from 2015 before becoming President in 2018 and now President and CEO, so a finance background in the top seat. Chiquita before that, including Controller North-East Europe, so genuine cross border history. Fresh Express sources from Mexico and acquired McEntire Produce in Dec 2024. CHOSEN OVER Katie Conaway at the same company, one seat per company. | ANGLE REFINED 2026-10-02: he is one of very few CEOs who WAS HIS OWN CFO (VP and CFO Apr 2015, President Feb 2018, now President and CEO), after Chiquita roles including Controller North-East Europe 2006 to 2008. Illinois CPA, DePaul accounting. So he has personally sat on the currency side. THE HOOK IS THAT WHEN THE CFO BECOMES THE CEO, FX EXECUTION STOPS BEING ANYBODY'S FILE: it gets inherited rather than chosen, and the rate never arrives as a document anyone reviews, so it survives scrutiny every other line gets. He is the one person who would know immediately whether that is true. CONCEDE THE SCALE IN THE FIRST LINE, Bräuer style: roughly 2,500 people in the Chiquita orbit, so banking relationships and a treasury policy exist and pretending otherwise to a former CFO ends it in a line.",
     "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
     "touches": [
       {
@@ -8947,6 +8949,8 @@
         "outcome": "PENDING, origin outside HeyReach",
         "notes": "Zero HeyReach campaigns contain him, confirmed by get_campaigns_for_lead against a verified profile URL. The pending invitation was sent from outside HeyReach on an unknown date. Nothing was delivered."
       }
-    ]
+    ],
+    "emailAddress": "jolivo@freshexpress.com",
+    "noteFile": "data/fx/email-john-olivo-2026-10-02.md"
   }
 ]
