@@ -9808,5 +9808,43 @@
     "noteText": "Kevin, congratulations on the move. Catalogue royalties come back from foreign collection societies in local currency, which makes a music business a receivables book in several currencies rather than one. That is what I work on at Monex USA. Would be glad to connect. Marcel",
     "angle": "RECENTLY HIRED, and A THESIS THIS BOOK HAS NEVER TESTED. Music catalogue royalties are collected by FOREIGN COLLECTION SOCIETIES IN LOCAL CURRENCY and then remitted, so if Round Hill holds international rights there is a RECEIVABLES stream in several currencies rather than a payables one, which is the opposite shape to everything else in the book. MBA and CPA. Worth one invitation to test an idea we have not tried.",
     "nextStep": "BLOCKED ON THE PROFILE URL ONLY. The note is written and ready in data/fx/notes-oct1-thirteen-2026-10-02.md. The 1 October screen carries NO profile URLs and says so on its own line 3, which is why this name sat untouched for a day and was only caught by the verdict ledger. PASTE THE URL, it gets confirmed with get_lead, and it queues the same hour. NO RATES, per the standing rule."
+  },
+  {
+    "name": "Natalya von Verden, MBA, CPA",
+    "company": "Direct Source Seafood LLC.",
+    "title": "Chief Financial Officer",
+    "location": "Bellevue, Washington",
+    "play": "play-0-first-degree",
+    "status": "live-conversation",
+    "campaignId": 622570,
+    "listId": null,
+    "profileUrl": "https://www.linkedin.com/in/natalya-von-verden-mba-cpa-3642a718",
+    "linkedinId": "60437308",
+    "outcome": null,
+    "firstTouch": "2026-09-18",
+    "lastTouch": "2026-10-01",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "touchCount": 2,
+    "nextTouch": "2026-10-03",
+    "noteFile": "data/fx/inbox-2026-10-02.md",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-09-18",
+        "channel": "linkedin-message",
+        "outcome": "sent, no reply",
+        "notes": "Opened on the asset based financing plus FP&A plus ERP combination in her background."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-01",
+        "channel": "linkedin-message",
+        "outcome": "SHE REPLIED 2026-10-02: 'All in USD'",
+        "notes": "Asked whether supplier payments go out in local currency or all in USD. She answered in three words. HeyReach auto-tagged her Interested."
+      }
+    ],
+    "angle": "LARGEST KING CRAB AND SNOW CRAB IMPORTER IN THE COUNTRY plus an ARGENTINIAN SHRIMP PROGRAM, so suppliers sit in NORWAY, CANADA and ARGENTINA while revenue comes back in dollars. She is a CPA and MBA whose own About names ASSET BASED FINANCING alongside FP&A and ERP implementation, which is why the opener worked: that combination means she has solved the working capital side of seafood more than once. Bellevue, Washington. From campaign 622570, 'Play 0 batch 6 - Bondi and seafood'.",
+    "nextStep": "⚠️ SHE REPLIED AND A REPLY IS OWED TODAY. On 2026-10-02 at 03:39 she answered Marcel's question with three words: 'All in USD'. HeyReach has auto-tagged her INTERESTED. Draft reply is written and ready in data/fx/inbox-2026-10-02.md, for Marcel to send. WHY 'ALL IN USD' IS THE GOOD ANSWER RATHER THAN THE END OF IT: suppliers in Norway, Canada and Argentina invoicing in dollars means SHE is not exposed, THEY are, and they have priced it into what she pays. ARGENTINA IS WHERE THE ARGUMENT STOPS BEING THEORETICAL, because an Argentine exporter receiving dollars settles through an official rate that is rarely the rate anyone would transact at voluntarily, and that gap goes into the price of the shrimp rather than disappearing. Norway is milder but real, since Norwegian exporters hedge and the cost of the hedge sits inside a USD price list. THE REPLY ASKS FOR NOTHING and ends on a test she can run herself: ask one supplier to quote the same item in its own currency alongside the dollar price and convert at the day's rate. That is the Kevin Soulen shape and it is the only kind of reply that earns a second one from a CFO who writes three words. NO RATES, and no offer to send any. DO NOT PITCH MONEX AGAIN; the first message already said who he is."
   }
 ]
