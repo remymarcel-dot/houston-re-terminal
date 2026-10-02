@@ -6016,7 +6016,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 625479,
     "listId": 974427,
-    "status": "invitation-scheduled",
+    "status": "connected-messaged",
     "outcome": null,
     "firstTouch": "2026-09-29",
     "loggedOn": "2026-09-28",
@@ -6026,12 +6026,15 @@
         "n": 1,
         "date": "2026-09-29",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-scheduled",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "connection-accepted, message-sent",
+        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch. | VERIFIED 2026-10-02 at lead level, campaign 625479: leadConnectionStatus ConnectionAccepted, leadMessageStatus MessageSent, finished 2026-09-30T00:16:57Z, no error. He accepted and was messaged, which is materially further along than the 'invitation-scheduled' the record previously showed."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "lastActivity": "2026-10-02",
+    "signal": "HIS OWN ABOUT IS THE ARGUMENT. Names cross border trade between Mexico, the United States and Canada. Runs ZP Farms in Sonora as a grower operation and Harvest Master as a hybrid grower-shipper-broker. Lists his interests as integrating technology into agriculture and supply chains, explicitly including LOGISTICS, PAYMENTS AND DECISION MAKING. A prospect who names payments himself does not need the category explained.",
+    "oneSeatRule": "Harvest Master has two senior people in view: Zaragoza (Partner, connected and messaged) and Esteban Alvarez (Managing Member, 1st degree, 61 mutuals, never contacted). ONE SEAT ONLY. Marcel said on 2026-10-02 to switch to Alvarez, but that decision was made before the record showed Zaragoza had ACCEPTED and been MESSAGED. Flagged back to him for re-decision; recommendation is to keep Zaragoza, since Alvarez's advantage is mutual count and mutual count exists to buy an accepted connection, which Zaragoza already gave."
   },
   {
     "name": "Ryan Denholm",

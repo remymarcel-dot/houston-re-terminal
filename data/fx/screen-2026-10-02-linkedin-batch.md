@@ -1006,3 +1006,54 @@ path neither of them will expect.
 3. **Martin Hauser**, Koenig & Bauer. **Note already written, just needs sending.**
 4. **Rodrigo Lopez Sanroman**, Magnum Ice Cream. CFO Americas, 75 mutuals.
 5. **Olvin Caballero**, Dinant. Houston, finance seat, URL already in hand.
+
+
+---
+
+# Seat decisions, 2026-10-02, from Marcel
+
+| # | Company | Decision | Status |
+|---|---------|----------|--------|
+| 1 | **Tricar** | **Juan Cardenas** | Already in flight: campaign 618450, invitation sent. Valeria Quintero is out, route only if he fails. |
+| 2 | **Exp Group** | **Fraymil Rodriguez** | Needs his URL to locate the pending invitation. Juvell O. is out. |
+| 3 | **Scotlynn** | **J.D. Poole** | Needs a URL. Joan Oben is out. |
+| 6 | **Harvest Master** | Marcel said Alvarez, **re-opened** | Zaragoza turns out to have ACCEPTED and been MESSAGED, not merely invited. Back to Marcel. |
+
+Still open: 4 Quetico, 5 Fresh Express (nothing to do, Olivo pending), 7 Sesajal,
+8 DC Partners, 9 Catalina.
+
+## Iván Reybel Arista Pando, revised on his full profile
+
+URL supplied: `https://www.linkedin.com/in/ivanarista/`
+
+**My earlier read was half wrong.** I filed him with Alex M. as possibly between
+roles because of the Services section. He is not. He has been **CFO at Vision
+Online Inc. in Orlando since September 2019, seven years**. The Services listing
+and a Financial Controller engagement at F&B Cosmetics that ran January 2025 to
+**March 2026 and has ended** mean he is a sitting CFO who also consults, not
+someone looking for a seat.
+
+What that changes: **he can still be approached as a seat**, and the "ask what
+you are working on" handling is no longer required, though it remains the safer
+opening given the consulting.
+
+The genuinely interesting part is his background, which the summary view hid:
+
+- **Nacional Financiera (NAFIN), Mexico City, three and a half years**, finishing
+  as Sub Director de Financiamiento Corporativo. Structured and corporate
+  finance, project finance, oil and gas upstream to downstream, water treatment.
+  Supervised a portfolio around 30 billion pesos.
+- **Consultor de Proyectos, Gobierno de Chiapas**, running the Recinto
+  Fiscalizado Estratégico at Puerto Chiapas, including rail and customs expansion
+  toward Guatemala.
+- ITESM for International Trade, Hult for the MBA.
+- Email published on his own profile: reybel.arista@gmail.com
+- 20 mutual connections.
+
+**He is a structured finance person who ran a Mexican customs zone.** Nothing
+needs explaining to him, which is the Rich Wright handling: skip the education
+entirely and ask a narrow question.
+
+**What is unknown and gates the note: what Vision Online Inc. actually does.**
+Without that there is no honest currency angle, and inventing one for a man who
+supervised a 30 billion peso book would be obvious. One look settles it.
