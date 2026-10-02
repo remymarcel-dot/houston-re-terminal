@@ -952,7 +952,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -968,14 +968,17 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-19",
     "email": "katie.d@bravofoodsusainc.com",
     "mobile": "(818) 220-4793",
     "contactAccuracyScore": 98.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 98, CFO confirmed.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING, MONDAY 19 OCTOBER 2026. THE BEST OF THE THIRTEEN, DO THIS ONE FIRST. She is a CFO, the offer is outstanding, and budget season is live right now so the timing is real rather than manufactured. Send a written reference on the GUATEMALA, COSTA RICA, HONDURAS and COLOMBIA corridors for her 2027 budget rate. Her own September message promised exactly this: 'I am glad to share what we see in those four. No meeting needed, I can put it in writing.' Channel: the LinkedIn thread, or katie.d@bravofoodsusainc.com. MOBILE (818) 220-4793 IS CLEAN if she engages. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Rodolfo Vela",
@@ -985,7 +988,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1000,11 +1003,14 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-20",
     "enrichmentGap": "No match in ZoomInfo or Apollo. Seamless is the last stop. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
     "enrichmentTried": "2026-10-01",
-    "betterSeat": "Apollo free search returns no finance seat at this company under any title. Neither NexPoint Materials nor Composition Brands is indexed with one. These two are not just missing an address, the company is thin in every source we have."
+    "betterSeat": "Apollo free search returns no finance seat at this company under any title. Neither NexPoint Materials nor Composition Brands is indexed with one. These two are not just missing an address, the company is thin in every source we have.",
+    "nextStep": "COFFEE, NOT A DOCUMENT, TUESDAY 20 OCTOBER 2026. The one exception in this group. HE IS IN HOUSTON and the carve out angle was time sensitive, with that window closing as the structure settles, so a short in person meeting beats anything written. Same city, no travel, and a controller mid carve out has a reason to take thirty minutes. Global Controller & Finance Operation Lead, NexPoint Materials. Channel: LinkedIn. SOURCE OF TRUTH: the 2026-09-16 second touch was VERIFIED in the HeyReach chatroom, not taken from the repo, which had this row at touchCount 1. Corrected to 2. Full plan and reasoning in data/fx/reconnected-13-dated-plan-2026-10-02.md.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Kevin Soulen",
@@ -1014,7 +1020,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1029,14 +1035,17 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-21",
     "email": "ksoulen@acgbrands.com",
     "phone": "(817) 973-5009",
     "contactAccuracyScore": 94.0,
     "doNotCall": "MOBILE DO NOT CALL",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 94. ZoomInfo files the employer as Alliance Sports Group rather than Alliance Consumer Group, and the address is acgbrands.com. Same group, different trading name.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING BY EMAIL, WEDNESDAY 21 OCTOBER 2026. EMAIL ksoulen@acgbrands.com. HIS MOBILE IS FLAGGED DO NOT CALL, so email and LinkedIn are the only channels. Send a written note on how USD invoicing Asian factories price their own dollar view into unit cost, which lands in his 2027 cost build. VP & Corporate Controller, Alliance Consumer Group, Coppell, Texas. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Amaya Corredor Palomino",
@@ -1046,7 +1055,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1061,15 +1070,18 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-20",
     "email": "acorredor@ferrovial.com",
     "mobile": "(346) 600-2580",
     "contactAccuracyScore": 98.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 98.",
     "seatRisk": "Her real title is wider than the record said: Executive VP, Ferrovial Finance North America AND Group Deputy CFO, Webber, on a ferrovial.com address. Ferrovial is Spanish, so this is the foreign-parent pattern that cut ContourGlobal and Perennial Power. The difference is that she runs North America finance rather than sitting under a treasury in Madrid, which is exactly the Pablo Ortiz Rodea call Marcel made. Keep her, and expect the first reply to be about where the group treasury sits.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING IN SPANISH, TUESDAY 20 OCTOBER 2026. Her 2027 budget rate is set by the European parent but defended locally all year, so give her the EUR/USD reference she would otherwise have to ask Madrid for. Deputy CFO, Webber (Ferrovial), and she is in TOMBALL so she is local. Channel: LinkedIn, or acorredor@ferrovial.com. Mobile (346) 600-2580 is clean. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Matt Milner",
@@ -1079,7 +1091,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1094,14 +1106,17 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-22",
     "email": "matt@backbarproject.com",
     "mobile": "(619) 943-6631",
     "contactAccuracyScore": 94.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 94.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING, THURSDAY 22 OCTOBER 2026. Euro and peso purchase legs do not behave alike, and agave moves with the harvest and the peso together, so one reference covering both legs is genuinely useful to him. CEO and Co-Founder, Back Bar Project, SEATTLE so Pacific time if it becomes a call. Channel: LinkedIn, or matt@backbarproject.com. Mobile (619) 943-6631 is clean. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Alicia Aguilar Birnbaum",
@@ -1111,7 +1126,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1129,11 +1144,14 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2027-01-05",
     "enrichmentGap": "No match in Apollo. ZoomInfo knows the person at accuracy 88 but not the employer, companyId 0. US Treasurer at Composition Brands. Seamless is the last stop. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
     "enrichmentTried": "2026-10-01",
-    "betterSeat": "Apollo free search returns no finance seat at this company under any title. Neither NexPoint Materials nor Composition Brands is indexed with one. These two are not just missing an address, the company is thin in every source we have."
+    "betterSeat": "Apollo free search returns no finance seat at this company under any title. Neither NexPoint Materials nor Composition Brands is indexed with one. These two are not just missing an address, the company is thin in every source we have.",
+    "nextStep": "REVIEW ONLY ON 5 JANUARY 2027. NO MESSAGE BETWEEN NOW AND THEN. Her 16 September message said, in Marcel's own words, 'treat this as the last note', VERIFIED in the chatroom on 2026-10-02. A fourth message would make his word worthless, which costs more than this account is worth. On 5 January check ONLY for a genuinely new reason: a role change, an acquisition, a new entity. No new reason means no message, and that is a complete answer, not a failure. ALIAS WARNING: HeyReach also returns her as 'Alicia Aguilar Birnbaum, MBA'. Match on profileUrl, never on name. US Treasurer, Composition Brands, Miami. SOURCE OF TRUTH: the 2026-09-16 second touch was VERIFIED in the HeyReach chatroom, not taken from the repo, which had this row at touchCount 1. Corrected to 2. Full plan and reasoning in data/fx/reconnected-13-dated-plan-2026-10-02.md.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Eric Heismeyer",
@@ -1143,7 +1161,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1158,13 +1176,16 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-21",
     "email": "eric.heismeyer@landus.ag",
     "contactAccuracyScore": 94.0,
     "doNotCall": "MOBILE DO NOT CALL",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 94, CEO confirmed.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING BY EMAIL, WEDNESDAY 21 OCTOBER 2026. EMAIL eric.heismeyer@landus.ag. HIS MOBILE IS FLAGGED DO NOT CALL. SEPTEMBER ASKED HIM FOR A NAME AND GOT NOTHING, so do not ask again. Send the substance instead, and pitch it as a COMPETITIVE question rather than a treasury one: soy buyers asking to be quoted in their own currency is a sales problem, which is the framing that reaches a CEO. He is CEO of Landus, Des Moines. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Travis Pendleton",
@@ -1174,7 +1195,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1189,13 +1210,16 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-22",
     "email": "travis@farmtruckfresh.com",
     "contactAccuracyScore": 84.0,
     "doNotCall": "no number on file",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 84.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING, THURSDAY 22 OCTOBER 2026. EMAIL travis@farmtruckfresh.com, no number on file. A Mexican cost base under USD revenue, where doing nothing is itself a decision. HE RESURFACED ON THE 2 OCTOBER SCREEN AS IF NEW AND HE IS NOT: this is touch THREE, not a first approach. Managing Partner and Founder, Farm Truck Fresh, Casa Grande, Arizona. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Heriberto Martinez",
@@ -1205,7 +1229,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1220,15 +1244,18 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2027-01-05",
     "email": "h.martinez@martinezbros.com",
     "phone": "(512) 444-0025",
     "mobile": "(832) 203-9462",
     "contactAccuracyScore": 93.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 93. Email, direct dial and mobile, all clean.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "REVIEW ONLY ON 5 JANUARY 2027. NO MESSAGE AND NO CALL BETWEEN NOW AND THEN. His 16 September message was explicitly the last one. HIS MOBILE (832) 203-9462 IS CLEAN, BUT CALLING AFTER A WRITTEN 'LAST ONE' BREAKS THE PROMISE IN SPIRIT, so the clean number is not a loophole. HIS CASE WAS FACTORING, NOT FX: weekly payroll against 30 to 60 day billings plus retainage. Owner, Martinez Bros. Contractors, El Paso. On 5 January the test is a genuinely new reason only. SOURCE OF TRUTH: the 2026-09-16 second touch was VERIFIED in the HeyReach chatroom, not taken from the repo, which had this row at touchCount 1. Corrected to 2. Full plan and reasoning in data/fx/reconnected-13-dated-plan-2026-10-02.md.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Robert Guerrero",
@@ -1329,7 +1356,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1344,15 +1371,18 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2027-01-05",
     "enrichmentGap": "Apollo matched him at high confidence but released no email, status unavailable. Useful anyway: he is Director of Operations at Katzman, a Bronx produce wholesaler at 220 people and $18.3M, and came from Americold and Smurfit Westrock. Right company, and the seat is operations rather than finance. Seamless is the last stop for the address. | Seamless could not be reached on 2026-10-01: the connector has lost its authorization and this session cannot run the sign-in flow. Marcel reconnects it in claude.ai under Settings, Connectors, and then this one can be retried. ZoomInfo and Apollo are both exhausted here.",
     "enrichmentTried": "2026-10-01",
     "betterSeat": "Apollo free search shows Katzman HAS a Chief Financial Officer indexed, first name Bryan, surname masked until enrichment, WITH both an email and a direct dial on file, plus an assistant controller. Nobre is Director of Operations and unreachable. Since he has never been contacted, swapping to the CFO costs nothing and breaks no one-seat rule. Marcel decides; say the word and the enrichment is one Apollo credit.",
     "stopReason": "seat-superseded",
     "stoppedOn": "2026-10-01",
     "stopNote": "Superseded by Bryan Hanlon, CFO at the same company, who is reachable where Nobre is not. Nobre was never contacted, so nothing is wasted and no one-seat rule is broken. He is Director of Operations and stays on file as the fallback if Hanlon goes quiet for good. Katzman itself is NOT dropped: this is a seat swap, not a stop on the company.",
-    "supersededBy": "Bryan Hanlon"
+    "supersededBy": "Bryan Hanlon",
+    "nextStep": "REVIEW ONLY ON 5 JANUARY 2027, AND HE MAY BE CLOSED BEFORE THEN. His 16 September message was a terminal referral ask, for the name of whoever owns supplier payments, and he never answered. SEAT CONFLICT AT KATZMAN, FLAGGED DELIBERATELY AND IT SHOULD STAND: Bryan Hanlon, Katzman's CFO, has an invitation queued in campaign 630877, so two Katzman people are live at once, which breaks the one seat per company rule. It is defensible because Nobre was only ever asked for the CFO's name and did not give it, and Hanlon is the better seat anyway. TWO RULES ATTACH: Hanlon's note must NEVER mention Nobre, and IF HANLON ACCEPTS, NOBRE IS CLOSED PERMANENTLY. Director of Operations, Katzman, Cranford NJ. SOURCE OF TRUTH: the 2026-09-16 second touch was VERIFIED in the HeyReach chatroom, not taken from the repo, which had this row at touchCount 1. Corrected to 2. Full plan and reasoning in data/fx/reconnected-13-dated-plan-2026-10-02.md.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Raynier Plasencia",
@@ -1362,7 +1392,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1377,15 +1407,18 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-23",
     "enrichmentGap": "ZoomInfo CONTACT_ONLY_MATCH, accuracy 82, companyId 0. No email. Apollo next.",
     "enrichmentTried": "2026-10-01",
     "email": "ray@mesafoodgroup.com",
     "emailSource": "Apollo, 2026-10-01, status verified but match confidence LOW, and Apollo attached him to La Mesa RV in San Diego, an automotive retailer, which is the wrong company. The address domain is mesafoodgroup.com and matches La Mesa Food Group in Miami, so the email looks right even though Apollo linked the wrong employer. Send it, and treat a bounce as confirmation the match was bad.",
     "doNotCall": "no number on file",
     "contactAccuracyScore": 82.0,
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "nextStep": "DELIVER THE WRITING, FRIDAY 23 OCTOBER 2026. September deliberately stopped proposing meeting slots and offered it in writing instead, so now write it. EVP, La Mesa Food Group, Miami. Channel: LinkedIn, or ray@mesafoodgroup.com, no number on file. DO NOT RE-ASK AND DO NOT RE-OFFER. The September message ended by offering something in writing and asking for nothing, and it was never taken up. So the third touch DELIVERS that thing unprompted, with no meeting request and no ask attached. Re-asking is the one move that would undo the September work. Each of these needs a short written FX reference note, about half a page, specific to their own corridors.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Julian Scutari",
@@ -1395,7 +1428,7 @@
     "play": "inbox-reconnect",
     "campaignId": null,
     "listId": null,
-    "status": "reconnected",
+    "status": "awaiting-reply",
     "outcome": null,
     "firstTouch": "2026-07/08",
     "lastTouch": "2026-09-16",
@@ -1410,10 +1443,13 @@
         "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
       }
     ],
-    "touchCount": 1,
-    "nextTouch": null,
+    "touchCount": 2,
+    "nextTouch": "2026-10-14",
     "enrichmentGap": "EMPLOYER WRONG IN OUR RECORD. ZoomInfo has him as VP, Financial Planning and Analysis at ITT, accuracy 89. Association for Financial Professionals is where he sits on the FP&A Advisory Council, which is a volunteer role, not his employer. Re-screen him against ITT before any outreach: ITT is a large diversified industrial and may well be out of band. No email returned.",
-    "enrichmentTried": "2026-10-01"
+    "enrichmentTried": "2026-10-01",
+    "nextStep": "CHASE THE SPEAKING SLOT, WEDNESDAY 14 OCTOBER 2026. NOT A LEAD, AND POSSIBLY THE MOST VALUABLE ROW IN THE RECONNECTED GROUP. He is an FP&A Advisory Council member at the Association for Financial Professionals, and the September message floated Marcel speaking to the FPAAC group. PURSUE THE SPEAKING SLOT, NOT THE ACCOUNT. Program calendars are set well in advance, so October is the right month to ask and January is too late. One AFP speaking slot in front of a room of finance professionals is worth more than any single name in the deliver-the-writing group. Treat him as a peer throughout; never pitch him. SOURCE OF TRUTH: the 2026-09-16 second touch was VERIFIED in the HeyReach chatroom, not taken from the repo, which had this row at touchCount 1. Corrected to 2. Full plan and reasoning in data/fx/reconnected-13-dated-plan-2026-10-02.md.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md",
+    "lastActivity": "2026-10-02"
   },
   {
     "name": "Brian Gomez",
@@ -2390,10 +2426,10 @@
     "location": "Mexico City Metropolitan Area",
     "profileUrl": "https://www.linkedin.com/in/ACoAAAAooS0BunSGcFm1M-AwYt4sGbHws0FmTiE",
     "play": "event-driven",
-    "status": "reconnected",
+    "status": "relationship-only",
     "outcome": null,
     "firstTouch": "2026-09-19",
-    "lastActivity": "2026-09-21",
+    "lastActivity": "2026-10-02",
     "signal": "met Marcel in person at The Woodlands and wrote to say it was a pleasure",
     "note": "Branding and packaging agency in Mexico City. Not ICP: Mexican entity, service business, no evident FX volume. Warm human contact worth answering, no pitch. | Warm reply sent 2026-09-21 in Spanish, no pitch. He signs himself Javier rather than Francisco. Left open on a Houston visit. Nothing owed unless he comes back.",
     "loggedOn": "2026-09-21",
@@ -2408,7 +2444,9 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "nextStep": "NO DATE, BY DECISION, AND THIS IS A FINDING RATHER THAN A GAP. Nothing is owed. DE LEON PROFESIONALES is a branding and packaging agency in Mexico City: Mexican entity, service business, no evident FX volume, so not ICP. A warm reply went in Spanish on 2026-09-21 with no pitch and left things open on a possible Houston visit. HE SIGNS HIMSELF JAVIER, NOT FRANCISCO. INBOUND ONLY: if he comes back, answer warmly and still do not pitch. He is a human contact worth keeping, not a prospect to work.",
+    "noteFile": "data/fx/reconnected-13-dated-plan-2026-10-02.md"
   },
   {
     "name": "Henry Rawcliffe",
