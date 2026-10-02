@@ -1670,7 +1670,7 @@
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "draft-ready-manual-send",
+    "status": "revival-awaiting-decision",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-04",
@@ -1692,7 +1692,10 @@
     "contactAccuracyScore": 93.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 93. NO EMAIL, but a clean mobile, so he is now a call rather than unreachable. Employer reads Gaia Produce.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
+    "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
+    "nextStep": "CALL. Mobile (917) 207-0879, doNotCall none, NO email on file. 1st degree, so the old April thread is also open."
   },
   {
     "name": "Shirley Bryson",
@@ -1702,7 +1705,7 @@
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "draft-ready-manual-send",
+    "status": "revival-awaiting-decision",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-04",
@@ -1725,7 +1728,10 @@
     "doNotCall": "no number on file",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 89.",
     "seatRisk": "Title is Sales and Marketing Specialist, not finance. She is a way in at Reina Produce rather than the decision maker, so the opener should ask who handles supplier payments rather than pitch her.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
+    "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
+    "nextStep": "EMAIL shirley@reinaproduce.com. 1st degree. SEAT RISK: Sales and Marketing Specialist, not finance, so ask who handles supplier payments rather than pitch her."
   },
   {
     "name": "Noel Alvarez",
@@ -1735,7 +1741,7 @@
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "draft-ready-manual-send",
+    "status": "revival-awaiting-decision",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-04",
@@ -1759,7 +1765,10 @@
     "emailSource": "Apollo, 2026-10-01, status verified, match confidence LOW. It is a hotmail address rather than a company domain, which is ordinary for a small Miami seafood importer but means no domain to verify against. ZoomInfo had him at accuracy 86 with no email and a do-not-call mobile.",
     "doNotCall": "MOBILE DO NOT CALL",
     "contactAccuracyScore": 86.0,
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
+    "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
+    "nextStep": "REPLY IN THE EXISTING LINKEDIN THREAD. 1st degree. Email is hotmail at LOW confidence with no domain to verify, and the mobile is flagged DO NOT CALL."
   },
   {
     "name": "Marilyn Florez-Giordano",
@@ -1832,7 +1841,7 @@
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "draft-ready-manual-send",
+    "status": "revival-awaiting-decision",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-04",
@@ -1856,7 +1865,10 @@
     "emailSource": "Apollo high confidence, status verified, 2026-10-01. Two caveats: kimballsales.net is a catch-all domain, and it is not the company website, which is kimballproduce.com.",
     "doNotCall": "no number on file",
     "seatRisk": "Apollo puts Kimball Produce Sales at three employees. Well below the band. He is an owner importing produce, which is the right shape, but the volume may not justify the call.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
+    "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
+    "nextStep": "DECIDE WHETHER TO CUT. 1st degree, but Apollo puts the company at three employees, below band, and jon@kimballsales.net is a catch-all that is not the company website (kimballproduce.com). This would be a third touch after no reply to two."
   },
   {
     "name": "Walter Kealey III",
@@ -1900,7 +1912,7 @@
     "play": "linkedin-archive-revival",
     "campaignId": null,
     "listId": null,
-    "status": "draft-ready-manual-send",
+    "status": "revival-awaiting-decision",
     "outcome": null,
     "firstTouch": "2026-04",
     "lastTouch": "2026-04",
@@ -1922,7 +1934,10 @@
     "contactAccuracyScore": 89.0,
     "doNotCall": "none",
     "emailSource": "ZoomInfo FULL_MATCH, accuracy 89. NO EMAIL, clean mobile. Treasurer at DXP.",
-    "enrichedOn": "2026-10-01"
+    "enrichedOn": "2026-10-01",
+    "blockedOn": "NOT a profile URL. A decision on channel, plus Marcel's call on whether to work it at all.",
+    "correction": "MISLABELLED until 2026-10-02. urls-needed-2026-10-02.md listed this name as a written note awaiting a profile URL. BOTH HALVES WERE WRONG: no message text was ever drafted (the record holds a research angle, not a note), and a URL is not the blocker because contact details already exist. This is an April 2026 archive revival, tier-2, messaged once or twice with no reply.",
+    "nextStep": "CALL. Mobile (936) 828-8267, doNotCall none, NO email. 2nd degree and never accepted, so there is no thread. Treasurer of a Houston public industrial distributor with Canadian operations, the strongest of the five revivals."
   },
   {
     "name": "Felix Lopez",
@@ -8732,7 +8747,8 @@
     "profileUrl": null,
     "classification": "CHANNEL, NOT ACCOUNT",
     "angle": "The best channel find in the 2026-10-02 screen. vOfiz is an outsourced finance department (bookkeeping, accounting, tax planning and filing, back office, corporate compliance, outsourced CFO) at 10330 Lake Rd Ste F Houston 77070, a Gusto partner since 2022. It has essentially no FX of its own. What it has is the client list: vOfiz was split out of MX GLOBAL CENTER on 1 Jan 2025, and the other half ('North') kept the Mexico-to-US soft landing practice. So vOfiz is the bookkeeping arm of a Mexico-to-US market entry firm, holding a book of small US entities, a large share Mexican owned, every one paying across the border, and it sees every wire. Plus 49 mutuals, Tec de Monterrey, and a shared LATAM CFO group. The note PROPOSES A TRADE rather than pitching him on FX risk, because pitching a bookkeeping firm would waste the best introduction on the list. SPANISH IS THE RIGHT CALL here and is not an inference from a surname: Tec de Monterrey, MX Global Center lineage, LATAM CFO group, 49 mutuals in a Mexican network. HARD RULE: a referral relationship with vOfiz does NOT license approaching its clients directly. If this works the introductions come from him. Going around him once would end it permanently, and he is worth more than any single account in his book.",
-    "touches": []
+    "touches": [],
+    "noteFile": "data/fx/channel/houston-two-2026-10-02.md"
   },
   {
     "play": "play-4-cold",
@@ -8754,7 +8770,8 @@
     "profileUrl": null,
     "classification": "ACCOUNT AND CHANNEL BOTH, same shape as Guillermo DeLeon",
     "angle": "THREE CORRECTIONS TO THE SCREEN. (1) He is a CO-FOUNDER, not a hired CFO: Workhub was founded in 2015 by Roberto Valenzuela and Alfredo Amparan, and he oversees expansion into emerging markets. (2) Workhub is bigger than assumed: vertically integrated small-bay industrial developer, seven Greater Houston projects since 2015, 30+ tenant companies, a Davidson Kempner Capital Management strategic investment announced Aug 2024 (Baird advised), and four more projects coming in Magnolia, Spring, Katy and Pflugerville totalling 127 suites and ~256,000 sq ft. (3) HQ is 1780 Hughes Landing Blvd Suite 670, The Woodlands 77380. HE IS A GENUINE NEIGHBOUR AND THIS TIME IT IS CHECKED: Marcel is at 9595 Six Pines Dr Suite 8210, The Woodlands 77380, same zip, a few minutes apart. Recorded deliberately because this is the claim that went wrong on the Sean Fightmaster draft ('five minutes from you' about a 30 minute drive). The note says 'a few minutes apart' and names no number, per voice.md. WHERE THE EXPOSURE IS NOT: Workhub itself. Texas industrial real estate leased and built in dollars. WHERE IT MIGHT BE: Alfredo inherited six paper and cardboard box factories from his father (est. 1985), described in Workhub's own founding story as multinational and run by him from Houston, and his bio says he founded and managed several international companies in Real Estate, Marketing and Packaging. Valenzuela separately built returnable plastic packaging companies from 2001 and holds an ITESM Monterrey degree. ALSO the tenant base: 30+ small companies, a notable share Mexican owned, and Workhub Conroe Park North is explicitly marketed to foreign-trade logistics, manufacturing and production. CANNOT TELL FROM OUTSIDE whether the factories sit under a US entity, and Marcel cannot work a purely Mexican company, so that is a QUESTION TO ASK FACE TO FACE, not a claim to make. The note therefore sells the neighbourhood and names no exposure at all: with a co-founder CFO a mile away and 17 mutuals the invitation does not need a thesis, and a wrong thesis would cost more than no thesis. LEFT OUT ON PURPOSE: LinkedIn flagged shared education but his published credentials are Wake Forest MBA, a Harvard certificate and a Columbia program, none of which is UT Dallas or IPADE, so the school cannot be named and claiming it would be the Fightmaster error in a different coat. FALLBACK PATH, NOT A PARALLEL APPROACH: Workhub's Administrative Director Mario Vazquez holds an IPADE MBA, Marcel's own school. Warm second route if Alfredo goes quiet. One seat per company and Alfredo is the seat.",
-    "touches": []
+    "touches": [],
+    "noteFile": "data/fx/channel/houston-two-2026-10-02.md"
   },
   {
     "play": "play-4-cold",
