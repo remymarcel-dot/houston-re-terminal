@@ -719,3 +719,42 @@ Where proximity *can* be checked, check it and still understate it. Workhub is a
 1780 Hughes Landing Blvd, The Woodlands 77380; Marcel is at 9595 Six Pines Dr,
 The Woodlands 77380. That is a real neighbour, and the note still says "a few
 minutes apart" rather than naming a number.
+
+
+## A note without a pipeline entry is an invisible prospect
+
+**2026-10-02, twice in one day.** In the morning, Grace Bravo Buenrostro, Eduardo
+Sánchez and Tom Lyons were each nearly messaged with no pipeline record, caught
+only because the pipeline happened to be checked for a different reason. In the
+afternoon, asked which profile URLs were still missing, the answer came back
+wrong: five names that had been reported as "notes written, awaiting URL" —
+Gloria Mancilla, Roberto Contreras, Sarah Van Houten, John Larse, Rosa Duarte —
+**had no pipeline entry at all.** Their notes existed as loose markdown files and
+nowhere else. Two more, J.D. Poole and Fraymil Rodriguez, existed only inside a
+1,000 line screen file.
+
+The pipeline is the only artifact consulted before a send. A markdown file is
+not. So anything that lives only in a note file is invisible at exactly the
+moment it matters, and the failure is silent in both directions: the name never
+gets sent, or it gets sent twice.
+
+**The rule: write the pipeline entry when the note is written, not when the URL
+arrives.** An entry with `profileUrl: null` and
+`status: draft-ready-manual-send` is a complete, useful record. Waiting for the
+URL is what loses the name.
+
+And when reporting a count of anything, **count it from the pipeline with a
+query, not from memory of the conversation.** The count given that afternoon was
+wrong twice before it was computed.
+
+### Give an unverified state an ugly name
+
+Fraymil Rodriguez's LinkedIn connect button read "Pending", meaning an invitation
+had already gone from this account at an unknown date through an unidentified
+campaign. Recording that as `invitation-sent` would have been a lie about
+something that was never verified, and `draft-ready-manual-send` would have
+invited a duplicate send.
+
+He is recorded as **`invitation-pending-unlocated`**, with the touch date
+literally set to `"unknown"`. The status is deliberately awkward so nobody reads
+past it. Juan Cardenas is in the same state.
