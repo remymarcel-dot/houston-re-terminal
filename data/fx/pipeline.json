@@ -8159,5 +8159,37 @@
     "nextStep": "Verify at lead level that the invitation went out. Should fire this afternoon Central, same as Hauser. If he accepts, the follow up asks whether the Americas entities fund their own currency needs or whether it is run centrally, which is the question that has worked on Tecma and Core Group Resources.",
     "sizeNote": "Large parent, but his seat is a REGIONAL book rather than the central finance function, which is the distinction that kept Jakks and Element Solutions on the wrong side of the band and puts him on the right side of it.",
     "buildNote": "Schedule set at creation, America/Chicago 08:00 to 18:00, per the rule recorded after Olvin's slipped to Monday."
+  },
+  {
+    "name": "Markar Agakanian",
+    "company": "Quetico Logistics, LLC",
+    "title": "Executive Vice President",
+    "secondRole": "President and founding partner, Ethos Brands (RVCA, Lost Surfboards)",
+    "location": "United States",
+    "profileUrl": "https://www.linkedin.com/in/markar-agakanian-4a958a121/",
+    "play": "inmail-cold",
+    "status": "in-sequence",
+    "outcome": null,
+    "firstTouch": "2026-10-02",
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, collision item 4",
+    "companyProfile": "$300M apparel manufacturing, warehousing and logistics. Over 1.5 million square feet, 500+ full time employees, millions of units a year, 100+ global brand and retail partnerships. Facilities in California, Arizona, Canada and numerous international locations. He joined as a Sales Associate in Dec 2018 and reached EVP in six years.",
+    "angle": "ONE LINE OF HIS OWN PROFILE DOES ALL THE WORK: he names inventory financing among what he structures. A 3PL that only moves its clients' goods carries no currency exposure of its own; a company that finances inventory is buying it, and apparel inventory is bought where apparel is made. The InMail asks whether that financing means Quetico pays the factories, rather than asserting it.",
+    "warmPath": "NONE. 3rd degree and Sales Navigator states explicitly that there is no common connection at all. Zero mutuals is rare across the 87 profile screen and is why the channel is InMail rather than an invitation.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-inmail-manual",
+        "outcome": "sent, awaiting reply",
+        "notes": "Subject: The inventory financing line on your profile. Sent BY HAND rather than through HeyReach, deliberately: InMail is a single shot with no retry, the INMAIL node has never been validated on this account, and the Hillary Stroble failure the same week proved a node can complete successfully having sent nothing. Opens by naming the approach as cold, since he can see the absence of mutuals too. Full text in data/fx/inmail-markar-agakanian-2026-10-02.md."
+      }
+    ],
+    "touchCount": 1,
+    "nextTouch": null,
+    "nextStep": "NO CADENCE. An InMail is one shot and a follow up InMail to someone who did not answer the first reads badly. If he replies that Quetico pays factories in local currency, the book is recurring, sizeable and forecastable and the conversation is immediate. If he replies always dollars, say so plainly and ask instead about the CANADIAN operation, which is real CAD payroll and lease exposure and does not depend on the financing answer. If silence, he is not re-approached; the fallback is a warm path appearing later, since he has none today.",
+    "doNotRaise": "Nothing about Ethos Brands or RVCA in the first message, deliberately. It is the glamorous half of his profile and would dilute a note whose strength is one narrow question. It is the obvious second thread if he engages. Also no praise of the Sales Associate to EVP arc: flattery from a stranger who is selling reads as technique.",
+    "oneSeatRule": "Markar holds the Quetico seat. Omar Oweis (senior staff accountant) and Shirley Sass (senior accountant) are both OUT, including Sass despite her being the only Quetico profile whose URL we captured. Holding a URL is not a reason to write to the weakest seat at a company."
   }
 ]

@@ -482,3 +482,44 @@ standing offer; the new approach has neither. Then decide whether the
 company is genuinely worth a second seat, and if it is, wait long enough
 that it does not read as pressure, and never open with a line claiming
 Marcel has not been in touch, because the company knows otherwise.
+
+
+---
+
+## InMail: the play for a good seat with no path at all
+
+**First used 2026-10-02, Markar Agakanian, EVP Quetico Logistics.**
+
+Reach for it only when the seat is strong and the path is genuinely absent:
+3rd degree, and Sales Navigator saying in terms that there is **no common
+connection**. Zero mutuals is rare; across an 87 profile screen it happened twice.
+
+**Send it by hand, not through HeyReach.** HeyReach has an INMAIL node, but:
+
+- An InMail is a **single shot**. No invitation to accept, no second node, no
+  retry, and a follow up InMail to someone who ignored the first reads badly.
+- The node has never been validated on this account, and the Hillary Stroble
+  failure the same week proved a node can report success having sent nothing.
+- It consumes a Sales Navigator credit, and a silent skip would leave the lead
+  looking contacted when they were not.
+
+A connection request is cheap and verifiable at lead level. This is neither.
+
+**How the message differs from an invitation:**
+
+1. **Name the cold approach in the first line.** The recipient can see the
+   absence of mutuals as plainly as we can. Manufacturing warmth is what makes
+   an InMail read as a blast.
+2. **Ask, do not assert.** With no warm path there is no credit to spend on
+   being wrong. Markar's note asks whether inventory financing means Quetico
+   pays its factories, rather than claiming it does.
+3. **Carry one argument only.** His profile offered RVCA, Authentic Brands, a
+   remarkable six year climb to EVP and Canadian operations. All were left out.
+   A note whose strength is one narrow question is weakened by every addition.
+4. **Quote their own words in the subject line.** "The inventory financing line
+   on your profile" tells them before opening that someone read past the
+   headline, which is the only thing that gets a cold InMail opened at that
+   level.
+
+**No cadence afterwards.** If they do not answer, they are not re-approached.
+The fallback is a warm path appearing later, not a second InMail.
