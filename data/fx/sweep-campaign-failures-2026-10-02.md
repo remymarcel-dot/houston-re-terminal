@@ -135,3 +135,54 @@ leads did not complete. He failed out of 625479 as `AlreadyAConnection`, which
 means he *is* a real connection and so the Play 0 message node should work for
 him. But "should" is not verified, and after the Hillary Stroble episode that
 distinction matters. **Worth a lead-level check on 630456.**
+
+---
+
+# Addendum: Yllescas checked, and he is clean
+
+**2026-10-02.** Lead 318532265 in campaign 630456:
+
+| field | value |
+|---|---|
+| `leadMessageStatus` | **MessageSent** |
+| `leadCampaignStatus` | Finished |
+| `errorCode` | null |
+| `lastActionTime` | 2026-09-30T23:01:10 |
+| `finishedTime` | 2026-10-01T02:14:35 |
+
+**The Spanish message was delivered on 1 October.** Nothing is owed here and the
+earlier worry was unfounded.
+
+`leadConnectionStatus` reads `None`, which looks alarming and is correct. This is
+a Play 0 with no `CONNECTION_REQUEST` node, and he was **already a first degree
+connection** — which is precisely why the invitation in campaign 625479 failed
+with `AlreadyAConnection` in the first place. On a Play 0, the field to read is
+`leadMessageStatus`, not `leadConnectionStatus`.
+
+## The AlreadyAConnection rule predicted this correctly
+
+This is now a clean two-sided test of the distinction found this morning:
+
+| | error on the invitation | real connection? | Play 0 message |
+|---|---|---|---|
+| Sean Fightmaster | `AlreadyAConnection` | **yes** | **MessageSent** |
+| **Ricardo Yllescas** | `AlreadyAConnection` | **yes** | **MessageSent** |
+| Hillary Stroble | `ConversationExists` | **no** | **None, silently skipped** |
+
+So `AlreadyAConnection` means a Play 0 recovery will work, and
+`ConversationExists` means it will not. Two for two on each side. **That rule can
+be relied on when deciding whether to recover a failure with a message or route
+it to email.**
+
+## And the campaign counters were wrong again
+
+Campaign 630456's `progressStats` reports `totalUsers: 2`,
+`totalUsersInProgress: 1`, `totalUsersPending: 1`. `get_leads_from_campaign`
+returns `totalCount: 1` — this lead and nothing else. **The phantom second user
+is what made the campaign look stalled.** There was never a second lead.
+
+That is the whole reason the worry existed, and it is one more instance of the
+standing rule: verify at lead level, never from `progressStats`.
+
+**Nothing outstanding from the sweep now except the five undated pending
+invitations**, which only Marcel's LinkedIn sent-invitations page can resolve.

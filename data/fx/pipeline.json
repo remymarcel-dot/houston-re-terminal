@@ -6106,22 +6106,26 @@
     "play": "play-0-exception",
     "campaignId": 630456,
     "listId": 981880,
-    "status": "message-sending",
+    "status": "message-sent",
     "outcome": null,
-    "firstTouch": "2026-09-30",
+    "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-28",
     "note": "URL sent by Marcel with no context. Read-back gave LinkedIn id 74348716, headline CFO at Elementia USA, Houston. HeyReach parsed the surname as Alvarez from the profile, so his full name is likely Yllescas Alvarez. Elementia is a Mexican building materials group, US arm in Houston, so a US entity under a Mexican parent and clear of the no Mexican companies rule. Written in Spanish. Caveat: Elementia is listed in Mexico and group treasury may centralize FX in Mexico City, which is the Rohlig cash pooling objection. A Houston CFO of the US subsidiary is the right person to confirm or kill that quickly. Degree unknown, so if he is already a first degree connection he belongs in Play 0 as a message, not an invitation. | FAILED 2026-09-29T21:00:09Z, errorCode AlreadyAConnection. The caveat written into this note on 09-28 was correct: he is already a first degree connection, so the invitation could never land and the Spanish note never reached him. He needs a Play 0 direct message instead. Held for Marcel's approval rather than sent. Separately, his About text names Colombia, Venezuela and Ecuador as PAST postings from a Bogota based controller role; his current seat is CFO, Elementia USA, Houston, so the Venezuela hard stop does not apply. The rule is about where the money moves now, not where someone worked a decade ago. | RECOVERED 2026-09-30. Marcel approved the Spanish Play 0 message and it is live in campaign 630456, list 981880, IN_PROGRESS with startedAt 15:41:57Z, one user in progress. Sequence copied from 628244: CHECK_IS_CONNECTION then MESSAGE at 5 HOUR. Started at 10:41 Chicago so the message lands mid afternoon inside the 09:00 to 17:00 window. The message asks outright whether the FX decision sits with him in Houston or with group treasury in Mexico City, and offers a genuine out, because Elementia is listed in Mexico under Kaluz and the Rohlig cash pooling objection applies.",
     "touches": [
       {
         "n": 1,
-        "date": "2026-09-30",
+        "date": "2026-10-01",
         "channel": "linkedin-message",
-        "outcome": "message-sending",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "message delivered, verified at lead level",
+        "notes": "Spanish Play 0 message, campaign 630456. VERIFIED 2026-10-02 at lead level: leadMessageStatus MessageSent, finishedTime 2026-10-01T02:14:35, no error. This is the recovery of the 2026-09-29 invitation failure in campaign 625479 (AlreadyAConnection), and it worked exactly as the AlreadyAConnection versus ConversationExists rule predicted."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": "2026-10-08",
+    "lastActivity": "2026-10-01",
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02. Lead 318532265 in campaign 630456: leadMessageStatus MessageSent, leadCampaignStatus Finished, errorCode null, lastActionTime 2026-09-30T23:01:10, finishedTime 2026-10-01T02:14:35. leadConnectionStatus reads None, which is CORRECT and not a problem: this is a Play 0 with no CONNECTION_REQUEST node, and he was already a first degree connection, which is exactly why the earlier invitation in campaign 625479 failed with AlreadyAConnection. THE SPANISH MESSAGE WAS DELIVERED ON 1 OCTOBER.",
+    "nextStep": "Message confirmed delivered 1 Oct. Awaiting reply. The message asks outright whether the FX decision sits with him in Houston or with group treasury in Mexico City, so EITHER ANSWER IS USEFUL and a 'group handles it' reply is a clean qualification, not a loss. If nothing by 8 Oct, one follow up, then stop.",
+    "campaignCounterWarning": "Campaign 630456 progressStats reports totalUsers 2, totalUsersInProgress 1, totalUsersPending 1. get_leads_from_campaign returns totalCount 1, this lead only. The campaign counters are wrong. Another instance of the standing rule: verify at lead level, never from progressStats."
   },
   {
     "name": "Tony Alvarez",
