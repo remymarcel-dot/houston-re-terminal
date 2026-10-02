@@ -896,3 +896,51 @@ retyped or truncated rather than copied whole.
 `leadConnectionStatus`.** An `imp_` prefix means re-copy the URL from LinkedIn
 and re-add, and it means the person has **not** been touched no matter what the
 pipeline says.
+
+
+## Read every campaign's failure count, because a failure is silent
+
+A sweep of all 46 campaigns on **2026-10-02** found **seven failed leads**. Four
+had been caught at the time. **Three had not**, and two of those three were
+recorded in the pipeline as if they had been contacted.
+
+The failures are not hidden. `get_all_campaigns` reports
+`progressStats.totalUsersFailed` per campaign, and six campaigns were carrying a
+non-zero count. Nobody read the field.
+
+**So after any campaign finishes, read its `totalUsersFailed`, and if it is
+non-zero pull the leads and read each `errorCode`.** The count alone does not
+say who or why.
+
+### The error codes seen so far, and what each one means
+
+| errorCode | meaning | what to do |
+|---|---|---|
+| `ConnectionRequestAlreadySent` | An invitation is **outstanding right now**, sent earlier from outside this campaign | Send nothing. Nothing was delivered. The date is unknown |
+| `AlreadyAConnection` | They are a 1st degree connection, so an invitation is meaningless | Move to a Play 0 message |
+| `ConversationExists` | A conversation thread exists but they are **not** a connection | A Play 0 MESSAGE will silently do nothing. Use email or send by hand |
+| `CannotViewProfileDoesnotExist` | The profile URL is wrong. The lead also carries an `imp_` placeholder id | Re-copy the slug and re-add |
+
+`ConnectionRequestAlreadySent` is the dangerous one, because it looks like a
+near miss and is actually two separate facts: the person **has** a pending
+invitation, and your note **was not delivered**. Recording such a lead as
+`invitation-sent` is wrong twice over. Use
+`status: invitation-pending-origin-unknown` and set the touch date to the string
+`"unknown"`.
+
+### Validate a URL you did not get from Marcel before you use it
+
+The rule is never to construct a LinkedIn URL. A URL found by **web search** is
+not constructed, but a search listing is not proof either, which is what left
+the Avi Nir URL unusable on 30 September.
+
+**`get_lead` settles it, and it is read-only.** Pass the candidate URL; if it
+returns a real `linkedin_id` with the name, company and position matching what
+was expected, LinkedIn itself has confirmed the slug belongs to that person.
+This confirmed Fraymil Rodriguez (`50440430`, COO Exp. Group LLC) and John P.
+Olivo (`15465923`, President and CEO Fresh Express, with his full Chiquita
+history). A wrong URL simply returns nothing and no message is sent either way.
+
+`get_campaigns_for_lead` takes the same URL and answers "which campaigns is this
+person in" in one small call, which beats pulling 46 lead lists. Note its
+parameter is `profileUrl`, not `leadLinkedInId`.

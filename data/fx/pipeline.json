@@ -3214,7 +3214,7 @@
     "title": "CFO, Mexican Operations",
     "profileUrl": "https://www.linkedin.com/in/luis-reynoso-2a402815",
     "play": "event-driven",
-    "status": "in-campaign",
+    "status": "invitation-pending-origin-unknown",
     "campaignId": 613743,
     "listId": 956466,
     "event": "El Paso Nearshoring Summit 2026-10-21/22, stand 35, 36",
@@ -3231,7 +3231,10 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status in-campaign for campaign 613743. THAT WAS WRONG. Lead 312862346 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-23T21:02:02, leadConnectionStatus None. Campaign 613743 never sent him anything and no note was delivered. An invitation was already outstanding from an unknown earlier source.",
+    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending. Nothing was delivered by HeyReach so do not assume he has seen any message. CFO of Mexican Operations at Jones Plastic & Engineering in El Paso is a strong seat, so this one is worth Marcel checking his own sent invitations for a date.",
+    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns."
   },
   {
     "name": "Monica Rodriguez",
@@ -3651,8 +3654,8 @@
     "location": "Rio Rico, Arizona",
     "profileUrl": "http://www.linkedin.com/in/juan-cardenas-66445ba0",
     "play": "crm-book-wave-2-mexico-importers",
-    "status": "invitation-sent",
-    "firstTouch": "2026-09-23",
+    "status": "invitation-pending-origin-unknown",
+    "firstTouch": null,
     "lastActivity": "2026-09-23",
     "signal": "CRM account owned by Marcel, never worked, no contact ever attached. Marcel confirmed 2026-09-23 that Ciruli and Tricar have had no prior contact, so the CRM dates on those rows were system noise.",
     "note": "Credit analyst at Scotiabank until 1996, then twenty nine years at Tricar. A banker running a produce house, so the forward needs no explaining.",
@@ -3660,18 +3663,20 @@
     "campaignId": 618450,
     "listId": 963765,
     "loggedOn": "2026-09-23",
-    "nextStep": "On acceptance, open on the season: grower terms set in October, pesos out November through March. One question, then stop. Do not pitch capability.",
+    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending with him. DO NOT assume he has read the note below, he has not. The sweep of all 46 campaigns found no HeyReach send, so the pending invitation was almost certainly sent by hand. Marcel is the only person who can say when. If he accepts, open cold as if first contact.",
     "touches": [
       {
         "n": 1,
-        "date": "2026-09-23",
+        "date": "unknown",
         "channel": "linkedin-invitation",
-        "outcome": "invitation-sent",
-        "notes": "Seeded from the pre cadence record on 2026-09-30. Everything before this date was tracked as a single touch."
+        "outcome": "PENDING, origin outside HeyReach",
+        "notes": "Campaign 618450 attempted an invitation on 2026-09-23 and LinkedIn refused it with ConnectionRequestAlreadySent, because an invitation was already outstanding. So the pending invitation is real but predates the campaign and its date and text are unknown. No note was delivered by HeyReach."
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "outcome": null,
+    "correction": "CORRECTED 2026-10-02 BY SWEEP. This entry previously read status invitation-sent with firstTouch 2026-09-23. THAT WAS WRONG. Lead 313494900 in campaign 618450 reads leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-24T19:24:07, leadConnectionStatus None. HeyReach NEVER SENT HIM ANYTHING. The invitationNote recorded below was never delivered. His LinkedIn connect button reads Pending because an invitation reached him earlier, from outside HeyReach, on an unknown date."
   },
   {
     "name": "Marco Rodriguez",
@@ -4624,7 +4629,7 @@
     "note": "Better seat than the attendee list suggested. She is a CPA at Hillside and was previously CFO at Tinhorn Creek Vineyards and Controller at Blaze King Industries, so she is the finance person, not hospitality. Hillside is 20 people, Naramata Bench, founded 1984. Canadian entity, which is in scope: Monex USA onboards Canadian companies. Thesis is a CAD entity paying USD for tanks, barrels and glass.",
     "invitationNote": "Louise, we were both on the InnoVint cost of a case webinar today. For a BC winery the line that moves without warning is usually the one priced in US dollars: tanks, barrels, glass. I work that side of it at Monex USA. Worth connecting.",
     "play": "webinar-innovint-cost-of-a-case",
-    "status": "invitation-sent",
+    "status": "superseded-failed-url",
     "firstTouch": "2026-09-24",
     "lastActivity": "2026-09-24",
     "loggedOn": "2026-09-24",
@@ -4632,7 +4637,7 @@
     "campaignId": 620518,
     "listId": 966886,
     "priorContactCheck": "Screened against all 268 inbox threads and pipeline.json by person and company before drafting. Clean.",
-    "nextStep": "On acceptance, open on where the non dollar cost line actually sits. Do not pitch capability. One question, then stop.",
+    "nextStep": "Nothing. Work the 'Louise L. (Lalor)' entry instead.",
     "touches": [
       {
         "n": 1,
@@ -4643,7 +4648,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "correction": "CORRECTED 2026-10-02 BY SWEEP. Previously read invitation-sent for campaign 620518. The attempt FAILED: lead 314263497, errorCode CannotViewProfileDoesnotExist, failedTime 2026-09-24T21:05:47, and the lead carried the imp_ placeholder id imp_EHRWQYKKEISQSHJMQXVPOSUPG because the slug louise-lalor-982467b6 does not exist. The real slug is louise-l-982467b6. SUPERSEDED BY the 'Louise L. (Lalor)' entry, which worked. This row is kept only so the failure is not rediscovered."
   },
   {
     "name": "Karen Saul",
@@ -5759,7 +5765,7 @@
     "play": "play-4-cold-invitation",
     "campaignId": 622608,
     "listId": 969998,
-    "status": "invitation-scheduled",
+    "status": "invitation-sent",
     "outcome": null,
     "firstTouch": "2026-10-01",
     "loggedOn": "2026-09-25",
@@ -5767,7 +5773,7 @@
     "degreeNote": "SHE IS THIRD DEGREE, not first. This is the only reason she is not in a Play 0 batch: a CHECK_IS_CONNECTION sequence would have silently dropped her. Built as a cold VIEW_PROFILE then CONNECTION_REQUEST instead, note at 236 characters against the 300 cap, withdraw after 30 days.",
     "canadaNote": "Canada is in scope and Monex USA onboards Canadian companies directly per Marcel 2026-09-25, so this is his deal rather than a Monex Canada referral.",
     "priorContactCheck": "never contacted; the previous failure was a bad URL, not a rejection",
-    "nextStep": "invitation sends from 2026-10-01. If she accepts, the first message works the barrel and euro line; if silent, withdraw at 30 days.",
+    "nextStep": "Invitation confirmed delivered. Watch for acceptance. This is the recovery of the bad URL on the superseded 'Louise Lalor' row.",
     "touches": [
       {
         "n": 1,
@@ -5778,7 +5784,8 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null
+    "nextTouch": null,
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02: lead 318796102 in campaign 622608 reads leadConnectionStatus ConnectionSent, finishedTime 2026-10-02T00:34:36, no errorCode. She is Controller at Hillside Winery & Bistro, Okanagan Falls, British Columbia, Canada, and a CPA who describes herself as an experienced CFO. Canada is in scope for Monex USA."
   },
   {
     "name": "Richard Labib",
@@ -8847,7 +8854,7 @@
   },
   {
     "play": "play-4-cold",
-    "status": "invitation-pending-unlocated",
+    "status": "invitation-pending-origin-unknown",
     "campaignId": null,
     "listId": null,
     "outcome": null,
@@ -8857,21 +8864,84 @@
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
     "touchCount": 1,
     "nextTouch": null,
-    "profileUrl": null,
+    "profileUrl": "https://www.linkedin.com/in/fraymil-rodriguez-092a8614",
     "touches": [
       {
         "n": 1,
         "date": "unknown",
         "channel": "linkedin-invitation",
-        "outcome": "PENDING, campaign not identified",
-        "notes": "Discovered on 2026-10-02: the LinkedIn connect button on his profile reads 'Pending', which means this account already sent him an invitation at an unknown earlier date through an unidentified campaign. Juan Cardenas showed the same state. Recorded as touch 1 with an unknown date so he is never double-approached, but the touch is NOT verified and the date is NOT known."
+        "outcome": "PENDING, origin outside HeyReach",
+        "notes": "Searched all 46 campaigns on 2026-10-02 via get_campaigns_for_lead: zero results. The invitation exists on LinkedIn but was not sent by HeyReach, so its date and text are unknown and no note was delivered."
       }
     ],
     "name": "Fraymil Rodriguez",
     "company": "Exp. Group LLC",
     "title": "COO",
     "location": "United States",
-    "nextStep": "DO NOT SEND ANOTHER INVITATION. His connect button reads 'Pending', so an invitation has ALREADY gone from this account and nobody has found which campaign it sits in. The URL is needed to LOCATE the existing invitation, not to send a new one. Once located, verify leadConnectionStatus and log the real touch date.",
-    "angle": "CHOSEN SEAT FOR EXP GROUP over Juvell O. (Operations Manager): COO beats operations manager, 53 mutuals beats 13, and he already has an invitation pending. 2,595 followers, 500+ connections, posted within 30 days, website www.expgroup.us, introduction path through Jose Antonio and 19 others. JUVELL O. IS OUT, one seat per company."
+    "nextStep": "SWEEP COMPLETE: he is in ZERO of the 46 HeyReach campaigns, confirmed by get_campaigns_for_lead against the verified URL. There is no campaign to find. The Pending button therefore came from outside HeyReach on an unknown date, and nothing was ever delivered to him. DO NOT SEND ANOTHER INVITATION. If he accepts, open cold as if first contact.",
+    "angle": "CHOSEN SEAT FOR EXP GROUP over Juvell O. (Operations Manager): COO beats operations manager, 53 mutuals beats 13, and he already has an invitation pending. 2,595 followers, 500+ connections, posted within 30 days, website www.expgroup.us, introduction path through Jose Antonio and 19 others. JUVELL O. IS OUT, one seat per company.",
+    "urlProvenance": "Not supplied by Marcel. Found by web search and then CONFIRMED against LinkedIn itself via HeyReach get_lead, which returned linkedin_id 50440430, Fraymil Rodriguez, Chief Operating Officer at Exp. Group. LLC, United States, username fraymil-rodriguez-092a8614. That is LinkedIn confirming the slug belongs to this person at this company. Safe to use.",
+    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns."
+  },
+  {
+    "play": "play-4-cold",
+    "status": "invitation-pending-origin-unknown",
+    "campaignId": 616214,
+    "listId": 960269,
+    "outcome": null,
+    "firstTouch": null,
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "El Paso Summit Oct 2026 exhibitor waves",
+    "touchCount": 1,
+    "nextTouch": null,
+    "name": "Patrick Gaughan, CPA",
+    "company": "Universal Metal Products",
+    "title": "Director of Finance",
+    "location": "Cleveland, Ohio, United States",
+    "profileUrl": "https://www.linkedin.com/in/patrick-gaughan-cpa-974a276",
+    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending with him. He was NEVER IN THE PIPELINE AT ALL until this sweep, and his campaign attempt failed silently five days ago. Decide whether a Cleveland metal products finance director is still wanted; if yes, he is already waiting and only needs the invitation to be accepted.",
+    "angle": "Surfaced by the 2026-10-02 sweep, not by a screen. Director of Finance at Universal Metal Products, Cleveland. Came in through the El Paso Summit exhibitor list (campaign 616214, El Paso Summit Exhibitors W4). No screen assessment of him exists, so the fit is unassessed.",
+    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "unknown",
+        "channel": "linkedin-invitation",
+        "outcome": "PENDING, origin outside HeyReach",
+        "notes": "Lead 313635926 in campaign 616214: leadCampaignStatus Failed, errorCode ConnectionRequestAlreadySent, failedTime 2026-09-28T15:39:07, leadConnectionStatus None. An invitation was already outstanding from an unknown earlier source. Nothing was delivered by HeyReach."
+      }
+    ]
+  },
+  {
+    "play": "play-4-cold",
+    "status": "invitation-pending-origin-unknown",
+    "campaignId": null,
+    "listId": null,
+    "outcome": null,
+    "firstTouch": null,
+    "loggedOn": "2026-10-02",
+    "lastActivity": "2026-10-02",
+    "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
+    "touchCount": 1,
+    "nextTouch": null,
+    "name": "John P. Olivo",
+    "company": "Fresh Express Inc.",
+    "title": "President and CEO",
+    "location": "Orlando, Florida, United States",
+    "profileUrl": "https://www.linkedin.com/in/john-p-olivo-22b21a5",
+    "urlProvenance": "Not supplied by Marcel. Found by web search and then CONFIRMED against LinkedIn itself via HeyReach get_lead, which returned linkedin_id 15465923, John P. Olivo, President and CEO at Fresh Express, Orlando, DePaul University BS Accounting 1980 to 1984, jolivo@freshexpress.com, and a full role history of VP and CFO 2015 to 2018 then President from Feb 2018. That is LinkedIn confirming the slug belongs to this person at this company, which is stronger than a search listing. Safe to use.",
+    "nextStep": "DO NOT SEND ANOTHER INVITATION, one is already pending. The sweep of all 46 campaigns found him in ZERO of them, so the Pending button on his profile did not come from HeyReach at all. No note was ever delivered. He is the chosen Fresh Express seat over Katie Conaway.",
+    "angle": "THE THIRD PENDING NAME, which I had not been told about and which was sitting unrecorded inside the 2026-10-02 screen file. He is the Fresh Express seat: a CPA who was VP and CFO from 2015 before becoming President in 2018 and now President and CEO, so a finance background in the top seat. Chiquita before that, including Controller North-East Europe, so genuine cross border history. Fresh Express sources from Mexico and acquired McEntire Produce in Dec 2024. CHOSEN OVER Katie Conaway at the same company, one seat per company.",
+    "sweepNote": "Found by the 2026-10-02 sweep of all 46 HeyReach campaigns.",
+    "touches": [
+      {
+        "n": 1,
+        "date": "unknown",
+        "channel": "linkedin-invitation",
+        "outcome": "PENDING, origin outside HeyReach",
+        "notes": "Zero HeyReach campaigns contain him, confirmed by get_campaigns_for_lead against a verified profile URL. The pending invitation was sent from outside HeyReach on an unknown date. Nothing was delivered."
+      }
+    ]
   }
 ]
