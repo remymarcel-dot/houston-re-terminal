@@ -627,3 +627,15 @@ says someone posted but not what, ask Marcel for the newest post, or send him to
 comment on the company page is not a substitute, because the person probably never
 sees it. The next real touch is whatever was already scheduled.
 
+### A reposter is not a poster
+
+"Posted in the past 30 days" on a LinkedIn profile **counts reposts**. Fraymil
+Rodriguez turned out to only amplify his employer's content, which Marcel settled
+in four words: "he only reposts company stuff, drop the comment."
+
+For someone like that the feed is not a channel at all. A comment on a company
+marketing repost is a comment on the marketing, not on the person, and it earns no
+warmth. **Before planning any comment touch, establish that the person posts
+ORIGINAL content.** If they only amplify their employer, skip the comment and go
+straight to the scheduled touch.
+

@@ -154,3 +154,35 @@ stronger than this morning's version anyway:
 That pair is Marcel's own ground and the currency exposure in one sentence, and it
 is a better second touch than any comment would have been. Spanish is available as
 a deliberate switch if the English email gets no reply, since he is Dominican.
+
+---
+
+# DROPPED 2026-10-02, BY MARCEL
+
+> "he only reposts company stuff, drop the comment"
+
+**The play is closed. Nothing in this file is to be sent.** Both drafted comments
+and the whole comment approach are dead for Fraymil.
+
+**The reason is good and it generalizes.** He reposts Exp. Group's own content and
+does not post personally. There is nothing to comment on that would read as
+genuine: a comment on a company marketing repost is a comment on the company's
+marketing, not on him, and it earns no warmth at all.
+
+**NEW RULE FOR SCREENS, now in plays.md.** "Posted in the past 30 days" on a
+LinkedIn profile counts REPOSTS. A reposter is not a poster, and for a reposter the
+feed is not a channel. Before planning any comment touch, establish that the person
+posts ORIGINAL content. If all they do is amplify their employer, skip straight to
+the scheduled touch.
+
+## What carries the relationship instead
+
+The **16 October email follow up**, leading with:
+
+- **Exp. Group runs distribution in TEXAS**, not only New Jersey and New York.
+  80+ trucks, multiple distribution centers.
+- **He personally built the direct Latin American sourcing relationships.**
+
+Spanish is available as a deliberate switch if English gets no reply, since he is
+Dominican, from Santiago. The pending invitation stays pending and is NOT
+withdrawn.
