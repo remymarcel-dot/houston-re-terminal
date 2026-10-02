@@ -86,3 +86,705 @@ Tricar Logistics are the same ownership.
 ## Still to come
 
 Marcel is posting more. This file gets appended per batch.
+
+---
+
+## Batch 2, five profiles
+
+### 6. Nick Negro, CFO, Duravant
+- 2nd, verified. Atlanta, Georgia. 500+ connections.
+- University of Illinois Urbana-Champaign, College of Business.
+- Mutuals: Víctor Hugo, Márcio and 5 others, so **7**.
+- **Shared group: Strategic CFO.** Intro path offered through Ismael and 6 more.
+- Duravant is a global food processing and packaging equipment group, private
+  equity owned, with brands acquired across Europe. Euro and other cost base
+  under dollar revenue is likely but **must be checked, not assumed**.
+
+### 7. Juvell O., Operations Manager, Exp Group LLC
+- 2nd, verified. **McAllen, Texas.** 500+ connections, 543 followers.
+- Universidad de Monterrey.
+- Mutuals: Tatiana, Manuel and 11 others, so **13**.
+- Headline: Operations Manager at Exp Group, Procurement, Logistics, Sourcing.
+- About: 8+ years in procurement and logistics, purchasing, inventory, vendor
+  coordination, supply chain.
+- Top skills name **Supplier Negotiation, Strategic Sourcing, Contract
+  Management**, which is the buying side rather than the paying side.
+- Banner shows coconut, kabocha, banana, avocado, plantain, so tropical import.
+
+### 8. Denis Bräuer, VP and Corporate Treasurer, Element Solutions Inc.
+- 2nd, verified. New York City Metropolitan Area. 2,597 followers, 500+.
+- University of Constance.
+- Mutuals: Fred, Sergio and 4 others, so **6**. Intro through Fred and 5 more.
+- **Shared group: Strategic CFO.**
+- **This is the exact seat.** Not a CFO who also handles treasury, an actual
+  corporate treasurer. Element Solutions is NYSE listed specialty chemicals with
+  operations across Europe and Asia.
+- **Size objection applies.** ESI is a multi billion dollar listed company and a
+  corporate treasurer there already runs a hedging program. Marcel's call.
+
+### 9. Alejandro Romero, MBA, Corporate Controller, Coast Citrus Distributors
+- 2nd, verified. San Diego, California. 393 connections, 414 followers.
+- **Tecnológico de Monterrey.**
+- Mutuals: Federico, Maison and 3 others, so **5**.
+- About: 13+ years in corporate accounting, financial reporting and audit across
+  multinational environments and Big Four, now Corporate Controller for a
+  nationwide organisation.
+- **Message is the primary button rather than Connect**, which usually means an
+  open profile. Worth checking, because it would mean he can be reached without
+  spending an invitation.
+- Citrus distribution out of San Diego means Mexican fruit. Good shape.
+
+### 10. Patricia Pinter, CFO and VP Operations, American Wire Group
+- 2nd, verified. Miami, Florida.
+- California State University East Bay.
+- Mutuals: Max, Antonio and 24 others, so **26**, among the highest here.
+  Intro path through Jose Antonio and 19 more.
+- Shared group, and she **posted in the past 30 days**.
+- American Wire Group supplies wire and cable to utilities, much of it imported.
+  CFO and VP Operations in one seat.
+
+---
+
+## Batch 3, five profiles
+
+### 11. Rob Levitt, President, Levitt Foods
+- 2nd, verified. Metropolitan Fresno. 500+ connections, 709 followers.
+- Mutuals: Bob and Martin, so **2**.
+- About: 15+ years in the meat industry, leadership and new business development.
+- Meat trading is an export business into Asia and Mexico. Worth asking.
+
+### 12. Courtney Dyess-Mam, Vice President, NPC Powered by Foodbuy
+- 2nd. Plano, Texas. 500+ connections.
+- Mutuals: Mike, Judy and 6 others, so **8**. Intro through Steve and 7 more.
+- Shared produce group, posted in the past 30 days.
+- NPC is a group purchasing organisation under Foodbuy. **A GPO is a channel
+  rather than a payer**, the same shape as Fátima Morales. Its members import;
+  it negotiates. Treat as referral, not account.
+
+### 13. Nancy Sanchez, Accountant, National Produce Consultants LLC
+- **3rd degree. 40 connections, 40 followers.** Plano, Texas. Brazosport College.
+- Only activity is congratulating other people's posts, one of them Courtney
+  Dyess-Mam's.
+- **Weakest profile in the batch.** An accountant, not a decision seat, third
+  degree, and a near empty network. Cut unless Marcel knows something.
+
+### 14. John Larse, CEO, Sweet Darling Sales Inc.
+- 2nd. Aptos, California. 500+ connections, 1,162 followers.
+- Mutuals: Maria de los Angeles, Bernardo and 12 others, so **14**.
+- Reposted the California Strawberry Commission, so berries.
+- CEO seat. California berries means Mexican winter supply, which is the
+  Hortifrut and BerryMex shape that has worked before.
+
+### 15. J.D. Poole, VP and Co-Owner, Scotlynn Sweet-Pac Growers
+- 2nd. Palm Beach Gardens, Florida. Business in **Belle Glade, Florida**.
+- **107 connections, 122 followers.** Very thin network, no recent posts.
+- Mutuals: Daniel only, so **1**.
+- LaSalle Mandeville, Louisiana.
+- Experience: Owner and VP, Scotlynn Sweet-Pac Growers, Sep 2012 to present,
+  14 yrs 2 mos. Before that VP and Sales Manager at Pioneer Growers.
+- **Owner seat**, which outweighs the thin network. Owner signs the wire.
+
+---
+
+## Batch 4, five profiles
+
+### 16. Joan Oben, USA Accounting Manager, Scotlynn
+- **3rd degree.** Cape Coral, Florida. 155 connections, 157 followers.
+- University of South Florida.
+- USA Accounting Manager at Scotlynn, Aug 2020 to present, 6 yrs 3 mos, based
+  Fort Myers. Before that Accountant at Massie & Reilly CPAs for 11 yrs 8 mos.
+- **SAME GROUP AS J.D. POOLE.** See the Scotlynn warning below.
+
+### 17. Jose Antonio Martinez Haro, COO and General Manager, Divine Flavor
+- 2nd, verified. **Nogales, Arizona.** 465 connections, 513 followers.
+- **Harvard Business School.**
+- Mutuals: Sergio, Roberto and 9 others, so **11**.
+- Divine Flavor is the US arm of Grupo Alta, one of the larger Mexican grape,
+  tomato and pepper exporters. COO and GM of the US side.
+- **Strong.** Nogales, a US entity under a Mexican grower, and a senior operating
+  seat. This is the shape the book keeps rewarding.
+
+### 18. Esteban Alvarez, Managing Member, Harvest Master LLC
+- **1ST DEGREE.** Nogales, Arizona. 500+ connections, 1,544 followers.
+- Mutuals: Julian, Ramiro and 59 others, so **61**, the highest in this batch.
+- Website on profile: www.harvestmasterllc.com
+- Shared group: Fresh Produce Industry Discussion Group.
+- First degree means Play 0, no invitation needed.
+- **CHECK THE PIPELINE FIRST.** Daniel Zaragoza, Partner at Harvest Master LLC,
+  was contacted on 2026-09-30 and sits in the inbox already. Same company.
+
+### 19. Fraymil Rodriguez, COO, Exp. Group LLC
+- 2nd, verified. United States. 2,595 followers, 500+ connections.
+- Website: www.expgroup.us
+- Mutuals: Paul, Angel and 51 others, so **53**.
+- Posted in the past 30 days. Intro through Jose Antonio and 19 more.
+- **THE CONNECT BUTTON READS "Pending".** An invitation has already gone from
+  this account. Do not send another.
+- **SAME COMPANY AS JUVELL O.** See the Exp Group warning below.
+
+### 20. David Fausset, Director of Sales, Fronterra Group USA
+- 2nd, verified. Camarillo, California. 500+ connections.
+- Cal Poly San Luis Obispo.
+- Mutuals: Marcial, Mike and 44 others, so **46**.
+- Shared group: Fresh Produce Industry Discussion Group. Intro through Jose
+  Antonio and 19 more.
+- Banner reads "fronterra. your partner to the world's fruit".
+- **Sales seat, not finance.** A director of sales does not own banking. Strong
+  warm path though, so he is a route to the finance seat rather than the seat.
+
+---
+
+## Batch 5, five screenshots, four distinct people
+
+### 21. David Wilson, CEO USA, Ginegar Smart Cover Solutions
+- 2nd, verified, He/Him. United States. **5,147 followers**, 500+ connections.
+- Mutuals: Pablo Augusto, Francisco and **100 others**, so **102**. By far the
+  largest overlap in this entire screen.
+- Shared group. Intro through Roberto and 19 more.
+- **Connect is restricted**: the profile shows "Connect if you know each other",
+  so an invitation needs the right path or it will not go.
+- Ginegar is an Israeli agricultural plastics maker, greenhouse films and covers.
+  **CEO USA of an Israeli parent means shekel or euro costs against dollar
+  revenue**, which is the foreign parent shape, and the title is explicitly the
+  US seat.
+
+### 22. Shirley Sass, Senior Accountant, Quetico Logistics LLC
+- Pomona, California. Seen through Sales Navigator rather than the normal view.
+- **THE ONLY PROFILE URL VISIBLE IN THE ENTIRE SCREEN:**
+  `https://www.linkedin.com/in/shirley-sass-224598280`
+- Senior accountant. Not a decision seat.
+
+### 23. Omar Oweis, MBA, CMA, FMVA, Senior Staff Accountant, Quetico Logistics
+- 2nd, verified. Rancho Cucamonga, California. University of Jordan.
+- **Shared group: CFO Network.**
+- **No connections found**, Sales Navigator says there is no common connection.
+- About: 15+ years in accounting and finance, financial accuracy and tax
+  efficiency.
+- Senior staff accountant. Also not the seat.
+
+### 24. Markar Agakanian, Executive, Quetico LLC and Ethos Brands
+- **3rd degree.** United States. 500+ connections. Posted in the past 30 days.
+- No mutual connections at all.
+- **This is the Quetico seat**, by title, over the two accountants above.
+- Screenshot arrived twice; counted once.
+
+---
+
+# Cross cutting findings, all 24
+
+## Five companies have more than one person in this screen
+
+**One seat per company. These must be resolved before anything is sent.**
+
+| Company | People seen | Proposed seat | Why |
+|---|---|---|---|
+| **Tricar** | Juan Cardenas (Sales Inc), Valeria Quintero (Logistics LLC) | **Juan** | VP 26 years vs accountant; 11 mutuals vs 2; and he already has an invitation pending |
+| **Exp Group** | Fraymil Rodriguez (COO), Juvell O. (Ops Manager) | **Fraymil** | COO over operations manager; 53 mutuals vs 13; and he already has an invitation pending |
+| **Scotlynn** | J.D. Poole (VP and Co-Owner), Joan Oben (USA Accounting Manager) | **J.D. Poole** | Owner signs the wire. Joan is 3rd degree with 155 connections |
+| **Quetico Logistics** | Markar Agakanian, Omar Oweis, Shirley Sass | **Markar** | Executive over two accountants, though he is 3rd degree with no mutuals |
+| **Harvest Master** | Esteban Alvarez (Managing Member) | **check first** | Daniel Zaragoza at the same company was contacted 2026-09-30 |
+
+## Two already have invitations pending
+**Juan Cardenas** and **Fraymil Rodriguez** both show "Pending". Find the campaign
+before anything else. This is the Carlos Perez Serrano situation twice over.
+
+## Only one profile URL is visible in 24 screenshots
+Shirley Sass, and she is the weakest of the Quetico three. **Every other name
+needs Marcel to paste the URL.** The agent does not construct them, so nothing
+here can enter HeyReach without that.
+
+## Strongest on first read, before any verification
+1. **Jose Antonio Martinez Haro**, Divine Flavor, Nogales. US arm of a Mexican grower, senior operating seat, 11 mutuals.
+2. **Esteban Alvarez**, Harvest Master. First degree, 61 mutuals, no invitation needed. Subject to the Zaragoza check.
+3. **David Wilson**, Ginegar USA. 102 mutuals and a foreign parent, though connect is restricted.
+4. **Patricia Pinter**, American Wire Group. CFO seat, 26 mutuals, active.
+5. **Alejandro Romero**, Coast Citrus. Controller, Tec de Monterrey, and possibly an open profile.
+
+## Flagged for the size objection
+**Denis Bräuer** at Element Solutions and **Nick Negro** at Duravant are both
+large. Bräuer is the better seat of the two by some distance, being an actual
+corporate treasurer, but a listed specialty chemicals group already hedges.
+
+## Cut unless Marcel says otherwise
+**Nancy Sanchez.** Accountant, 3rd degree, 40 connections, no decision seat.
+
+## Channel rather than account
+**Courtney Dyess-Mam**, a GPO vice president, and **David Fausset**, a sales
+director. Neither owns banking. Both are routes.
+
+---
+
+## Batch 6, five profiles
+
+### 25. Saul N. Macias III, Fresh Produce Association of the Americas
+- 2nd, verified. United States. 459 connections. University of Arizona.
+- Headline: Cross-Border Trade and Government Affairs, Regulatory and
+  Infrastructure Policy, Law Background, Revenue Protection.
+- Mutuals: Gustavo, Chris and 6 others, so **8**. Posted in the past 30 days.
+- **FPAA is a trade association, so this is a channel, not an account.** Same
+  shape as Courtney Dyess-Mam. He has no payables. He has members who do, and a
+  government affairs seat talks to all of them.
+
+### 26. Tom Lyons, Global Business Executive Leader, Kaliroy Fresh LLC
+- **1ST DEGREE.** Coronado, California. 500+ connections.
+- Mutuals: Marisol, Bernardo and **90 others**, so **92**.
+- Shared group, posted in the past 30 days.
+- **His Sep 28 post: "About to start 500 new acres of Kaliroy Shade House Roma
+  Tomatoes."** That is a named, dated, specific expansion and it is the best
+  opening line available anywhere in this screen.
+- Kaliroy is the US sales arm for Mexican grown tomatoes out of Nogales.
+- **Top tier. First degree, 92 mutuals, a live expansion to open on.**
+
+### 27. Kate Johnson, CEO, Lumen Technologies
+- 2nd, verified. Seattle. **124,634 followers.** Wharton.
+- Mutuals: Jerónimo E., Babul Kumar and 28 others, so **30**.
+- **CUT.** Lumen is a multi billion dollar listed telecom and she is its chief
+  executive. This is not merely above band, it is a different universe from the
+  book. Nothing here is actionable.
+
+### 28. Ana Michelle Conaway, Senior Treasury Analyst, Fresh Express
+- **3rd degree.** Orlando, Florida. **64 connections, 96 followers.**
+- Universidad Centro Occidental Lisandro Alvarado.
+- About: 10+ years in accounting, business management and property management,
+  QuickBooks certified. Top skill listed is Accounts Payable.
+- **The Venezuela rule does not block her.** UCLA Lisandro Alvarado is her
+  university, in Barquisimeto, and under the Yllescas and Salinas precedent an
+  education is biography rather than exposure. Where the money moves is what
+  matters, and that is Fresh Express in Orlando.
+- Title says treasury analyst but the About reads accounts payable and property
+  management. **Not the seat.** See the Fresh Express warning below.
+
+### 29. Travis Pendleton, Founder, Farm Truck Fresh LLC
+- **1ST DEGREE.** Casa Grande, Arizona. 500+ connections.
+- University of Arizona, BS Agricultural Economics. Site: farmtruckfresh.com
+- Mutuals: Andy, Martin and 5 others, so **7**. Shared group.
+- About: experienced founder in food production, skilled in food production,
+  business planning, operations, **finance**.
+- Founder seat, first degree, and he names finance himself.
+
+---
+
+## Batch 7, five profiles
+
+### 30. Rosa Duarte, Accounting Manager, California Giant Berry Farms
+- 2nd. San Francisco Bay Area. 361 connections, 392 followers.
+- Mutuals: Luis José, Scott and 1 other, so **3**.
+- California Giant is a major berry marketer with Mexican and Latin American
+  winter supply. Accounting manager is below the seat but inside the payments.
+
+### 31. Sylvia Parra, Altar Produce
+- 2nd, verified. **Greater El Centro, CA Area**, which is the Calexico and
+  Mexicali crossing. CETYS Universidad.
+- Mutuals: Julian, Carlos and 35 others, so **37**.
+- Shared group "Dirección Comercial y ventas", posted in the past 30 days.
+- **No title is shown on the profile header**, only the company. That has to be
+  resolved before a note can be written to her.
+- Altar Produce is asparagus and vegetables out of Sonora through Calexico.
+
+### 32. John P. Olivo, President and CEO, Fresh Express
+- 2nd. Orlando, Florida. 500+ connections, 756 followers. DePaul University.
+- Mutuals: Bob, Cathy and 2 others, so **4**.
+- **THE CONNECT BUTTON READS "Pending".** Third pending invitation in this
+  screen.
+- Fresh Express is the bagged salad business, owned by Chiquita. Large.
+
+### 33. Lindsey Thiel, CTP, Treasury Manager, Taylor Morrison
+- 2nd, verified. Scottsdale, Arizona. 262 connections. University of North Dakota.
+- Mutuals: Gregory only, so **1**.
+- **She just earned her CTP** and posted about it a day ago, which is a real and
+  warm opening if anyone wanted one.
+- **But Taylor Morrison is a US homebuilder.** Domestic construction, domestic
+  revenue, domestic supply. The FX case is thin to absent. Right title, wrong
+  company.
+
+### 34. Debra Wevers, MBA, CTP, Director of Treasury, Internova Travel Group
+- 2nd, verified. New York City Metropolitan Area. 500+ connections.
+- Mutuals: Ryan, Daniel and 8 others, so **10**. Posted in the past 30 days.
+- **Genuinely strong.** A travel group settles with hotels, tour operators and
+  airlines across dozens of currencies, continuously. Director of Treasury is
+  exactly the seat, and unlike Taylor Morrison the exposure is structural.
+
+---
+
+## Batch 8, five screenshots, four usable
+
+### 35. edwyin Arredondo, Sales Executive, Nova World Fresh LLC
+- 2nd, verified. Camarillo, California. 500+ connections.
+- Mutuals: Ramiro, Paul and 34 others, so **36**. Posted in the past 30 days.
+- **Sales seat.** A route to the finance seat, not the seat.
+
+### 36. Gregory Lattanzi, CTP, MSML, AIR Control Concepts
+- **1ST DEGREE.** Pawleys Island, South Carolina. 500+ connections.
+- Mutuals: Matthew, Tom and 63 others, so **65**.
+- Headline: Treasury Leader helping companies maximize working capital, cash
+  forecasting, bank relationships and banking services.
+- About: CTP with ERP and Treasury Management System implementation, treasury
+  protocols, cash forecasting.
+- **He is the common thread behind two other profiles here.** He celebrated
+  Lindsey Thiel's CTP post and liked Debra Wevers' post, which is how both
+  surfaced.
+- **Read him as a peer and a channel rather than a prospect.** A CTP who
+  implements treasury systems knows everyone in treasury and talks to them all
+  day. AIR Control Concepts itself is HVAC distribution, probably domestic.
+
+### 37. Darrell Beyer, Founder, Bluebird Mountain (name truncated)
+- **1st degree.** Seen only as a feed post from Sep 8 about baby broccoli, not
+  as a profile view. **Incomplete, and the company name is cut off.**
+- Needs a proper profile screenshot before anything can be said.
+
+### 38. Cultivar, company page
+- Financial Services, **Napa, California**. 422 followers, 11 to 50 employees,
+  28 associated members. trustcultivar.com, +1 707 927 5877.
+- "We help passionate food and beverage Founders grow their business with
+  confidence." Outsourced financial operations for CPG brands.
+- **Raul and one other connection work there.**
+
+### 39. Pedro Noyola, CEO, Cultivar
+- **1ST DEGREE.** San Francisco Bay Area. 500+ connections. Harvard Business
+  School.
+- Mutuals: Erica, Kevin and 46 others, so **48**.
+- Headline: CEO at Cultivar, I help CPG Founders feel confident when they talk
+  about accounting and finance.
+- **This is a channel play and a good one.** An outsourced finance function for
+  food and beverage founders sits inside the books of every client it serves.
+  Cultivar itself has little FX. Its client base has plenty, and Pedro is the
+  person who would know which ones.
+
+---
+
+## Batch 9, five profiles, and they are all one company
+
+### 40. Paulina Ascencio Domínguez, Tesorería, Sesajal
+- 2nd. **Zapopan, Jalisco, MEXICO.** 220 connections. Universidad Panamericana.
+- Mutuals: Jose, David and 8 others, so **10**.
+- About: 18 years of experience, specialised in treasury, accounts payable and
+  accounts receivable.
+- Treasury seat, but **Mexico side**.
+
+### 41. Patricia Mendoza Inda, Senior Accountant and Admin, Sesajal LLC
+- **3rd degree.** **San Diego, California.** 106 connections. National University.
+- About field contains only the word "Resume".
+- **US side**, but a thin profile and not a decision seat.
+
+### 42. Irasema George, AP/AR Specialist, Sesajal LLC
+- **3rd degree.** **San Diego, California.** 102 connections. CESUN Universidad.
+- **US side**, specialist seat, not a decision maker.
+
+### 43. Gloria Viridiana Mancilla Palacios, Director de Unidad de Negocio, Grupo Sesajal
+- 2nd, verified. **SAN ANTONIO, TEXAS.** 500+ connections.
+- EMBA ITAM, and her photo is from **Wharton Executive Education**.
+- Mutuals: Luis, Carlos and 13 others, so **15**. Posted in the past 30 days.
+- Sales Navigator flags **shared education** as a key signal.
+- **US based, senior, business unit director. This is the US side seat.**
+
+### 44. Luis Miguel Barriga Calderon, Group CFO, SESAJAL GROUP
+- 2nd. **Guadalajara, Jalisco, MEXICO.** 419 connections, 491 followers.
+- Harvard Business School Executive Education.
+- Mutuals: Luis, Carol and 28 others, so **30**, the most of the five.
+- About: senior international management team, CFO and administration at medium
+  and large businesses, **including subsidiaries of foreign multinationals**.
+- **The actual decision seat for the group, and he sits in Mexico.**
+
+### SESAJAL: five people, one group, and a rule question for Marcel
+
+Sesajal is a Jalisco sesame and edible oils group. **It has a US entity, Sesajal
+LLC in San Diego**, plus a senior person in San Antonio. So it clears your rule:
+a Mexican company with a US entity is workable.
+
+The question is which seat, and it is genuinely yours to decide:
+
+- **Gloria Mancilla, San Antonio.** US based, senior, 15 mutuals, shared
+  education signal. The safe answer under "US side only".
+- **Luis Miguel Barriga, Guadalajara.** Group CFO, 30 mutuals, the most senior
+  and the person who actually decides. But he is in Mexico.
+
+The Angelina de León precedent says a note like this must reference the US
+entity explicitly. On that reading Barriga is approachable, because Sesajal LLC
+exists and the conversation is about how the US entity funds and settles.
+
+**My recommendation: Gloria first.** She is US based, the rule is unambiguous
+with her, and a business unit director in San Antonio can introduce the group
+CFO far more cheaply than a cold approach to Guadalajara can. If she goes
+nowhere, Barriga is the reserve with a US entity framing.
+
+---
+
+# Running totals after 44 screenshots
+
+**Three invitations already pending:** Juan Cardenas, Fraymil Rodriguez,
+John P. Olivo. All three need their campaign found before anything else.
+
+**Six companies now have more than one person in this screen:**
+Tricar, Exp Group, Scotlynn, Quetico, Fresh Express (Olivo and Conaway, and
+Olivo is pending so he is the seat), and Sesajal with five.
+
+**First degree, no invitation needed, in mutual order:**
+Tom Lyons 92, Gregory Lattanzi 65, Esteban Alvarez 61, Pedro Noyola 48,
+Travis Pendleton 7.
+
+**Channels rather than accounts:** Saul Macias (FPAA), Courtney Dyess-Mam (GPO),
+Pedro Noyola and Cultivar (outsourced CPG finance), Gregory Lattanzi (treasury
+consultant), David Fausset and edwyin Arredondo (sales seats).
+
+**Cut:** Kate Johnson, Lumen, far outside the book. Nancy Sanchez, no seat and no
+network. Lindsey Thiel, right title but a domestic homebuilder.
+
+**Incomplete, needs another screenshot:** Darrell Beyer, company name truncated.
+Sylvia Parra, no title shown.
+
+---
+
+## Batch 10, five profiles
+
+### 45. Eduardo Sánchez, AgPro LLC — **THE BEST WARM PATH IN THE SCREEN**
+- **1ST DEGREE.** Metropolitan Fresno. **7,847 followers**, 500+ connections.
+- Mutuals: Donaji, Roberto and **99 others**, so **101**.
+- Headline: US and LATAM Market Advisor, Master's Degree in Agriculture, High
+  Specialization in Agri-Business, Relationship Builder.
+- **IPADE BUSINESS SCHOOL.** Sales Navigator flags **shared education**, and it
+  is shared with Marcel, who did the Senior Management Program at IPADE in 2012
+  to 2013.
+- Post, Sep 26: "Garlic Harvest in Tracy, California. Behind every successful
+  harvest, there is more than good luck. There is hard work, discipline,
+  consistent field follow up."
+- **First degree, 101 mutuals, shared IPADE, a live post to open on, and an
+  explicit US and LATAM advisory role.** Nothing else in 66 screenshots has all
+  five. If only one message goes out from this screen, it is this one.
+
+### 46. Jay Hinton, CPA, CFA, CTP, EVO Transportation
+- 2nd, verified. New York City Metropolitan Area. 500+ connections. Emory
+  Goizueta.
+- Mutuals: Alisha only, so **1**. Sales Navigator names her as the path.
+- **Shared group: CFO Network.** Posted in the past 30 days.
+- **CPA, CFA and CTP together is an unusually complete finance credential set.**
+  EVO Transportation is US trucking, so the FX case needs checking rather than
+  assuming. Right person, company unproven.
+
+### 47. Alfredo Flores, CEO, CertaPro Painters of Central and Northeast Houston
+- 2nd, verified. **Houston, Texas.** Dartmouth Tuck.
+- Mutuals: Javier, Rafael and 50 others, so **52**.
+- Banner carries his own contact details, 713 416 4492 and aflores@certapro.com.
+- **Commercial and industrial painting, 70+ painters, a domestic services
+  business.** Houston and 52 mutuals are attractive, the FX case is not.
+  **Cut on exposure**, unless Marcel wants him as a Houston relationship.
+
+### 48. José M. Villafañe, Co-Founder and Partner, Audio Treehouse
+- 2nd. New York. Marist University. Alvaro is the only mutual.
+- Audio media company. **Not ICP.** No cross border payables of any size.
+
+### 49. Latam Doers, company page
+- Outsourcing and Offshoring Consulting. **Tomball, Texas.** 171 followers,
+  11 to 50 employees. latamdoers.com, 1 346 330 3580.
+- "We connect U.S. leaders with bilingual Virtual Assistants." Helps US business
+  owners reclaim 15 to 40 hours a week.
+- **Memo and 4 other connections follow the page.**
+- **Quietly interesting and close to home.** Tomball is the next town over from
+  The Woodlands. A US company whose entire cost base is people paid in Latin
+  American currencies while it bills US clients in dollars. That is the Core
+  Group Resources shape at smaller scale. **Needs a named seat**, which this
+  company page does not give.
+
+---
+
+## Batch 11, five profiles
+
+### 50. Julio (JP) Ponce Marín, Tropical Podcasting
+- 2nd, He/Him. United States. 1,236 followers. Penn State World Campus.
+  Federico is the only mutual. **Not ICP.**
+
+### 51. Alex M., Strategic Finance and Accounting Executive — **NO COMPANY SHOWN**
+- 2nd, He/Him. San Francisco Bay Area. Hult International Business School.
+- Mutuals: Alicia, Federico and 3 others, so **5**. Shared group: SuperCFO.
+- Headline: Finance Director, Controller, International Finance Leadership,
+  FP&A, Treasury and Financial Transformation, Multi-Entity and Growth
+  Companies, MBA, Former GE and Big 4.
+- **The profile shows a school where the company should be, and the surname is
+  abbreviated to an initial.** A headline that is a list of competencies with no
+  employer is the classic between-roles shape, the same thing that made me cut
+  Grace Bravo wrongly.
+- **Do not pitch. Ask what he is working on**, exactly as with Grace. If he is
+  consulting he is a channel; if he is placed somewhere he is a seat.
+
+### 52. Felix Montelara, Audio Dice Network and others
+- 2nd, He/Him. Montgomery, Alabama. 2,003 followers. Columbia Southern.
+- Investor in Brilla Media and Minivela, CEO of Audio Dice Network, founder of
+  Latin Podcast, director of Puerto Rico CrimeStoppers, retired federal agent.
+- **Not ICP.** Media and non profit. Interesting person, no payables.
+
+### 53. Lupe De Los Santos, Founder, Sentidos LLC
+- 2nd, He/Him. Dallas Fort Worth Metroplex. 3,010 followers. UT Brownsville.
+- Mutuals: Federico, Andres and 2 others, so **4**.
+- Founder and Chief Growth Architect, helping brands remove barriers to US
+  Hispanic growth. Ex Clorox and P&G.
+- **Marketing consultancy, so a channel rather than an account.** His clients are
+  US Hispanic CPG brands, which is a room worth being in.
+
+### 54. Lina Gonzalez, Chief Executive and Operations Officer, Ohla US
+- 2nd, verified. **Miami, Florida.** Universidad EAFIT, which is Colombian.
+  www.ohlaus.com. 500+ connections.
+- Mutuals: Rafael, Alberto and 15 others, so **17**. Posted in the past 30 days.
+- Retail marketing strategy, CPG activation, multicultural market expertise,
+  Top Women in Grocery three years running.
+- Chief executive seat at a US entity. **Agency rather than importer**, so
+  channel first, account only if they buy on behalf of clients.
+
+---
+
+## Batch 12, five profiles, and a second Honduran cluster
+
+### 55. Jose Mateo III, President, Nueva Network
+- 2nd. United States. Baruch College. 1,460 followers. Federico is the only
+  mutual. US Hispanic broadcast and digital advertising. **Not ICP.**
+
+### 56. Mike Woessner, SVP and Partner, Hispanic Radio Network
+- **3rd degree.** New York. Gen Media Partners.
+- **Sales Navigator says no connections found**, no common connection at all.
+- Media sales. **Not ICP and no path.** Cut.
+
+### 57. Dinant, company page
+- Food and Beverage Manufacturing. **Tegucigalpa, Francisco Morazán, Honduras.**
+  124K followers, 5,001 to 10,000 employees. 66 years old.
+- **Rafael works here**, one connection.
+- **Four employees work in Greater Houston.**
+- A large Honduran CPG group with a Houston presence. Under the rule this works
+  the same way Sesajal does: approach the US side.
+
+### 58. Alfredo Rivera, Principal Financial Group
+- 2nd, verified. Miami Fort Lauderdale. 3,784 followers. Harvard Business School.
+- Mutuals: Rafael, Mauricio and 27 others, so **29**. **Marcel already follows
+  him.**
+- Executive leadership, board member, advisory services. About: **35+ years in
+  the beverage industry**, led turnarounds across North America and Latin
+  America.
+- **Board and advisory seat, so a channel of the highest quality.** He does not
+  have payables, he has board seats. One introduction from him is worth twenty
+  cold notes. Treat accordingly and do not pitch FX at him.
+
+### 59. Olvin Caballero, Jefe de Contabilidad, Corporación Dinant
+- **GREATER HOUSTON.** Seen through Sales Navigator.
+- **FULL PROFILE URL VISIBLE AND COPIED:**
+  `https://www.linkedin.com/in/olvin-caballero-413471180`
+- **This is the Dinant US side finance seat**, head of accounting, sitting in
+  Marcel's own metro area. Sparse profile, no mutuals shown, but the seat and
+  the city are both right.
+- One of only three complete URLs in the entire screen.
+
+---
+
+## Batch 13, six screenshots
+
+### 60. Ryan Kellogg, CTP, Treasury Analyst, CHS Inc.
+- 2nd, verified. Seen in the feed, not as a profile view.
+- **Just earned his CTP** and posted about it a day ago. Gregory Lattanzi
+  celebrated it, which is the third profile Lattanzi has surfaced.
+- CHS is a very large US agricultural cooperative with real export exposure.
+  Treasury analyst is junior but inside the flow. **Needs a profile view.**
+
+### 61. Carlos Gomes, Buyer, CG Seafood Group
+- **1ST DEGREE.** Seen in the feed.
+- His post: "PUD SHRIMP BLANCHED IQF, OFFER AVAILABLE, **India Origin**."
+- **A seafood buyer publicly advertising Indian origin shrimp is announcing his
+  own currency exposure.** First degree, so Play 0, no invitation needed.
+  **Needs a profile view for the URL.**
+
+### 62. Rodrigo Lopez Sanroman, CFO Americas and SVP Finance, The Magnum Ice Cream Company
+- 2nd, verified. **Englewood Cliffs, New Jersey.** University of Edinburgh.
+- Mutuals: Adolfo Iván, Daniel and 73 others, so **75**.
+- Shared group. Contact info is public on his profile.
+- **Among the strongest seats in the whole screen.** Magnum is the Unilever ice
+  cream business now standing alone, so this is a European parent with a CFO
+  whose remit is explicitly **the Americas**. Dairy and cocoa inputs, European
+  reporting, dollar and Latin American revenue.
+- URL partially visible in the browser bar as `...drigo-lopez-sanroman-893a8025/`.
+  **Partial, so not recorded as usable.** Marcel to paste the whole thing.
+
+### 63. Jon Zaninovich, President, Jasmine Vineyards Inc
+- 2nd. **Delano, California.** USC. 500+ connections, 1,940 followers.
+- Mutuals: Dave, Lisa and 4 others, so **6**. No recent posts.
+- Table grapes in the San Joaquin Valley. President seat.
+- URL partial in the browser bar, `...ninovich-43561613/`. Not usable.
+
+### 64. Mitch Millwee, President and CEO, Pandol Brothers Inc.
+- 2nd, verified. **Bakersfield, California.** Cal Poly San Luis Obispo.
+  500+ connections, 799 followers.
+- Mutuals: Jake only, so **1**.
+- About: 30+ years in agriculture, leadership, negotiation, strategic planning,
+  **real estate transactions, water transactions, underwriting, loan
+  structuring**.
+- **Pandol Brothers is one of the oldest and largest US importers of Chilean and
+  Peruvian table grapes.** That is a genuine South American payables book. The
+  finance vocabulary in his own About says he will follow the argument.
+- URL partial, `...ee-9b827821/`. Not usable.
+
+### 65. Jack Campbell, Owner and CEO, Four Star Fruit Inc.
+- 2nd. **Bakersfield, California.** Cal Poly San Luis Obispo. 337 connections.
+- Mutuals: Marcial, Ethan and 5 others, so **7**. Shared group.
+- Table grapes. **Owner and CEO, so the owner signs the wire.**
+- URL partial, `...ck-campbell-9223a5162/`. Not usable.
+
+### 66. Edgar Gutierrez, VP Farming Operations, Limoneira Company
+- 2nd, verified. **Santa Paula, California.** **Universidad EARTH**, which is in
+  Costa Rica. 500+ connections, 1,457 followers.
+- Mutuals: Sergio, Angel and 17 others, so **19**.
+- Limoneira is a listed citrus and agribusiness company with operations in Chile
+  and Argentina.
+- **Farming operations, not finance.** A route rather than a seat, though a
+  senior one.
+- URL partial, `...r-gutierrez-38863875/`. Not usable.
+
+---
+
+# The Bakersfield and San Joaquin table grape cluster
+
+Three separate companies surfaced together and they are **not** one group, so the
+one seat rule does not bind across them:
+
+- **Mitch Millwee**, Pandol Brothers, Bakersfield. Chilean and Peruvian imports.
+- **Jack Campbell**, Four Star Fruit, Bakersfield. Owner seat.
+- **Jon Zaninovich**, Jasmine Vineyards, Delano. President seat.
+
+All three are Cal Poly or USC, all three are grapes, and Pandol and Four Star
+appear in each other's "people you may know" panels. They know each other. That
+makes them a **sequence rather than three cold approaches**: whoever replies
+first becomes the reference for the next two.
+
+Pandol first, because the import exposure is the clearest and his own About
+speaks finance.
+
+---
+
+# Final tally, 66 screenshots
+
+## Three complete profile URLs captured
+1. `https://www.linkedin.com/in/shirley-sass-224598280` (Quetico, weakest of her three)
+2. `https://www.linkedin.com/in/olvin-caballero-413471180` (Dinant, Houston, good seat)
+3. Five more are **partially** visible in browser bars and are deliberately not
+   recorded, because a reconstructed URL is a guess and the rule is to copy only.
+
+## The five to send first, on evidence rather than enthusiasm
+1. **Eduardo Sánchez**, AgPro. First degree, 101 mutuals, shared IPADE, live post. Nothing else comes close.
+2. **Tom Lyons**, Kaliroy Fresh. First degree, 92 mutuals, and a dated 500 acre expansion to open on.
+3. **Rodrigo Lopez Sanroman**, Magnum Ice Cream. CFO Americas, European parent, 75 mutuals.
+4. **Jose Antonio Martinez Haro**, Divine Flavor. Nogales, US arm of a Mexican grower, 11 mutuals.
+5. **Olvin Caballero**, Dinant. Houston, finance seat, and we already have his URL.
+
+## Channels, which are worth more than they look
+Alfredo Rivera (board seats, 35 years in beverages), Pedro Noyola and Cultivar
+(outsourced CPG finance), Saul Macias (FPAA), Gregory Lattanzi (treasury
+consultant who has now surfaced three other prospects), Courtney Dyess-Mam
+(GPO), Lupe De Los Santos and Lina Gonzalez (Hispanic CPG agencies).
+
+## Ask before pitching
+**Alex M.** No employer on the profile, headline is a competency list. This is
+the Grace Bravo shape and it must be asked, not pitched.
+
+## Cut
+Kate Johnson (Lumen, far out of band), Mike Woessner (media, 3rd, no path),
+José Villafañe, Julio Ponce Marín, Felix Montelara, Jose Mateo III (all media),
+Nancy Sanchez (no seat, no network), Lindsey Thiel (right title, domestic
+homebuilder), Alfredo Flores (Houston and 52 mutuals but a domestic painting
+contractor).
+
+## Needs one more screenshot
+Darrell Beyer (company truncated), Sylvia Parra (no title), Ryan Kellogg and
+Carlos Gomes (feed only, no profile view), and **every partial URL above**.
