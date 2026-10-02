@@ -2790,11 +2790,11 @@
     "title": "VP of Finance",
     "profileUrl": "https://www.linkedin.com/in/gabriela-garcia-moreno-9b7a97ba",
     "play": "event-driven",
-    "status": "in-sequence",
+    "status": "client",
     "campaignId": 613681,
     "listId": 956421,
     "event": "El Paso Nearshoring Summit 2026-10-21/22, stand E, 181",
-    "outcome": null,
+    "outcome": "client",
     "firstTouch": "2026-09-21",
     "loggedOn": "2026-09-21",
     "touches": [
@@ -2811,13 +2811,20 @@
         "channel": "email-manual",
         "outcome": "sent",
         "notes": "Subject: The question I would ask you at stand 181. Opened on her having been CFO Mexico at Tecma before taking group finance, so she has sat on both sides of the USD to MXN payroll conversion. Asked one question: whether peso payroll funding is decided and executed on the US side or sourced by the Mexican entity. Closed on fifteen minutes at stand 181 on Oct 22 rather than a call. Sent by Marcel by hand from his Monex address."
+      },
+      {
+        "n": 3,
+        "date": "2026-10-02",
+        "channel": "email",
+        "outcome": "REPLIED, client",
+        "notes": "Replied to Marcel's Oct 1 email. Verbatim: 'We actually already work with Monex for our currency trade into Mexico. I am happy to share that it has been a very good partnership, we truly value the relationship and the continuous support we receive.' Gracious, unprompted, and warm."
       }
     ],
-    "touchCount": 2,
-    "nextTouch": "2026-10-08",
+    "touchCount": 3,
+    "nextTouch": null,
     "email": "gaby@tecma.com",
     "emailVerified": "ZoomInfo full match, accuracy 98, record validated 2026-09-29",
-    "lastActivity": "2026-10-01",
+    "lastActivity": "2026-10-02",
     "channelNote": "LinkedIn is CLOSED. The invitation from campaign 613681 sent 2026-09-21 has not been accepted and no HeyReach conversation exists, so send_message cannot reach her. Email is the only live channel until she accepts. Do not queue a LinkedIn message.",
     "zoomInfoDuplicates": "ZoomInfo carries three records for this one person: Gaby Garcia (id 3075983463, accuracy 98), Gabriela Garcia Moreno (8564508894), Gabriela Garcia (17658214270). All the same seat. Never treat them as separate people; it would put two approaches into one company.",
     "profile": {
@@ -2827,9 +2834,21 @@
     },
     "angle": "Under the shelter model Tecma is employer of record for its clients' Mexican workforce, so client fees arrive in El Paso in dollars and payroll leaves in Juarez in pesos as Tecma's own obligation. Structural exposure every cycle rather than occasional. Across 90+ client operations the basis points on a recurring payroll stop being a rounding error.",
     "secondAngle": "90+ cross border manufacturing clients makes Tecma a referral channel as well as an account, the same shape as SACSA and Grupo Palco but larger.",
-    "nextStep": "Touch 3 due 2026-10-08 by email, since LinkedIn stays closed unless she accepts. If she is silent by 2026-10-20, do NOT send touch 3 by email that week: the stand visit at E/181 on Oct 22 becomes touch 3 in person and is worth more than any email. Marcel is at the summit on the 22nd.",
+    "nextStep": "NO CADENCE. She is an existing, happy Monex client. The Oct 8 follow-up is cancelled and must not be sent. Next contact is in person at stand E/181 on 2026-10-22, as a Monex colleague saying hello, with nothing to sell.",
     "watchFor": "Possible CEO handover, ZoomInfo shows Jorge Rozo validated July 2026 while the Tecma site still presents founder K. Alan Russell. Unconfirmed. Irrelevant to this email, relevant if it reaches a second conversation.",
-    "sizeCaveat": "ZoomInfo puts Tecma at 18,000 employees and $3.8B revenue, but most of those employees are the client workforce Tecma employs on paper and the revenue likely aggregates pass through flows. Still well above the usual band, and no CFO or treasurer appears in the record. Assume an established bank and meet that objection with the payroll spread rather than a general FX pitch."
+    "sizeCaveat": "ZoomInfo puts Tecma at 18,000 employees and $3.8B revenue, but most of those employees are the client workforce Tecma employs on paper and the revenue likely aggregates pass through flows. Still well above the usual band, and no CFO or treasurer appears in the record. Assume an established bank and meet that objection with the payroll spread rather than a general FX pitch.",
+    "stopReason": "client",
+    "reply": "2026-10-02: Tecma is ALREADY A MONEX CLIENT for currency trade into Mexico, and she volunteered that it has been a very good partnership which they value. That is an unsolicited reference from a VP Finance, not a polite brush off.",
+    "contactDetails": {
+      "email": "Gaby@TECMA.com",
+      "phoneUS": "915.534.4252",
+      "phoneMX": "656.649.1000",
+      "address": "2000 Wyoming, El Paso, TX 79903",
+      "source": "her own email signature, 2026-10-02"
+    },
+    "thePlayNow": "The account is won, so the value here is no longer the account. Tecma is a shelter operator with 90+ cross border manufacturing clients and a VP Finance who says unprompted that Monex has been a very good partner. That is a referral engine, and it is the strongest channel position in the whole book. Do not reach for it by email. Build it in person on the 22nd.",
+    "beforeTheSummit": "FIND OUT INTERNALLY WHO OWNS THE TECMA RELATIONSHIP AT MONEX before the 22nd. Walking into a colleague's account at their own client's stand is the one way to turn this into a problem. Ask the team, not Gaby.",
+    "processFailure": "THE SCREEN NEVER CHECKED WHETHER SHE WAS ALREADY A CLIENT. Enrichment credits were spent, an email was drafted and sent asking an existing happy customer whether anyone had shown her the spread on her conversions. She answered graciously; she was not obliged to. Checking the client list belongs at the top of the screen, before enrichment and before drafting."
   },
   {
     "name": "Elsa Sturza",

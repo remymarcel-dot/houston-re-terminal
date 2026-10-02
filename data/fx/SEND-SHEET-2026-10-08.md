@@ -274,22 +274,15 @@ Marcel
 
 ---
 
-### 17. gaby@tecma.com
-**Subject: Following up on the peso funding**
+### 17. gaby@tecma.com — **CANCELLED, DO NOT SEND**
 
-**HOLD THIS ONE if she has replied to Wednesday's email.**
+**She replied on 2 October: Tecma is already a Monex client.** Her words: a very
+good partnership which they value, with continuous support. Sending a follow-up
+pitch to a happy existing customer would undo exactly the goodwill that reply
+contains.
 
-Gaby,
-
-Following up on my note about where the peso funding sits.
-
-Rather than ask again, here is the version that is actually checkable. Take two or three recent peso funding runs and send me the amount, and the date and the time each was executed. I will put next to it what the same transaction would have cost through Monex USA.
-
-The time of day matters, because rates move through the session and a comparison against the wrong hour is worthless to both of us.
-
-If the answer is that Tecma is already inside twenty basis points, I will say so and you will have spent ten minutes confirming something useful.
-
-Marcel
+Next contact is in person at stand E/181 on 22 October, saying hello, with
+nothing to sell.
 
 ---
 

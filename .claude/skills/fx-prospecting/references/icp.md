@@ -604,3 +604,33 @@ the US entity before cutting.
 **Note the asymmetry with factoring**, which is unchanged. FX and payments
 follow the paying entity. **Receivables factoring is US entity only and always
 was**, so a Mexican parent can never be factored even when its US arm can.
+
+
+## Check the client list before anything else
+
+**2026-10-02, Tecma.** Gabriela Garcia, VP Finance, was screened, enriched with
+ZoomInfo credits, written to, and asked whether anyone had recently shown her
+the spread on her conversions. She replied that Tecma already works with Monex
+for its currency trade into Mexico, that it has been a very good partnership,
+and that they value the continuous support.
+
+She was gracious. She was not obliged to be. A less generous reader would have
+forwarded that email to their relationship manager with one line above it.
+
+**So the first filter on any name is not the ICP, the seat, or the exposure. It
+is whether Monex already serves them.** That check costs nothing and belongs
+above enrichment, because every step after it spends money or credibility.
+
+Two things follow when the answer is yes:
+
+- **Stop the cadence immediately**, with `stopReason: client`. A follow-up pitch
+  to a happy customer undoes the goodwill the reply contained.
+- **Re-read the account as a channel.** Tecma turned out to be a shelter
+  operator with 90+ cross border manufacturing clients and a VP of Finance who
+  volunteers that Monex has been good to them. That is worth more than the
+  meeting the original email asked for, and it is built in person, never by
+  email.
+
+And before approaching any existing client in person, **find out internally who
+owns the relationship.** Appearing at a colleague's client's stand unannounced
+is how a win becomes a problem.
