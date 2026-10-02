@@ -14,18 +14,21 @@ promise into a third chase.
 
 ---
 
-## ⚠️ MARCEL MUST FILL THE RATE BLOCK. DO NOT SEND IT WITH PLACEHOLDERS.
+## ⚠️ NO RATES IN THIS NOTE. MARCEL'S STANDING RULE, 2026-10-02: "never puts numbers"
 
-**I am deliberately not supplying numbers.** Two reasons, and they both matter:
+**An earlier version of this draft carried a rate block for Marcel to fill. That was
+wrong and it is removed.** Marcel does not put rates in written outreach, and the
+reasons are good ones:
 
-1. **A CFO is going to put these figures into a budget.** A rate I produced from
-   training data could be months stale, and a wrong number in a 2027 budget assumption
-   is the kind of mistake that ends a relationship rather than starting one.
-2. **Marcel has the Monex desk**, which is the actual source and is better than any
-   outside estimate. The whole value of the note is that it comes from a real desk.
+- **A written rate becomes a benchmark he is held to**, and it can read as an
+  indication or an offer rather than a reference point.
+- **It goes stale the moment it is sent.** A figure in a CFO's budget file outlives
+  its own validity.
+- **It reduces the conversation to price.** A number invites rate shopping; a
+  structural read invites a conversation.
 
-**So the structure below is mine and the numbers are his.** Everything outside the rate
-block is defensible as written.
+**The structural read IS the reference point she was promised**, and it needs no
+figures to be useful. Everything in the note is defensible as written.
 
 ---
 
@@ -53,9 +56,8 @@ block is defensible as written.
 > likely of the four to make your budget number wrong.
 >
 > So a single blended Latin America assumption is usually where the miss comes from.
-> Here is what we are seeing on each of the four right now:
->
-> **[RATE BLOCK, MARCEL FILLS FROM THE MONEX DESK]**
+> The useful move is to budget the managed three and the floating one differently, and
+> to treat Colombia as the line with real risk attached rather than one of four.
 >
 > If that is useful, good. If you already have it, ignore me and I will not chase it.
 >
@@ -63,19 +65,15 @@ block is defensible as written.
 
 **No dashes anywhere, as per the standing rule. American English throughout.**
 
-## What belongs in the rate block
+## What belongs in the rate block (nothing)
 
 Four lines, one per country, and keep it boring. A CFO wants the number and the basis,
 not commentary:
 
-- **Current spot**, and the date it was taken, because an undated rate is worthless in
-  a budget file.
-- **A 2027 planning range** if the desk publishes one, or the forward if there is a
-  tradable one.
-- **For Guatemala and Honduras especially, the spread observation**, since that is where
-  the actual cost sits rather than in rate movement.
+**Nothing. There is no rate block any more.** If she comes back asking for levels, that
+is a reply, and levels get discussed live rather than written down.
 
-**Do not add a fifth line about Monex.** The note's credibility comes from it reading as
+**Do not add a line about Monex either.** The note's credibility comes from it reading as
 a reference document rather than a brochure.
 
 ---
@@ -104,9 +102,10 @@ raises the dollar cost of anything priced locally.
 margin, driven by oil, US rates and domestic politics, with multi hundred peso swings
 inside single years. Any single budget assumption here carries real risk.
 
-**⚠️ VERIFY CURRENT LEVELS BEFORE SENDING.** My knowledge has a cutoff and these are
-structural characterizations, not live quotes. The structure holds. **The levels must
-come from the desk.**
+**⚠️ THESE ARE STRUCTURAL CHARACTERIZATIONS, NOT QUOTES**, which is exactly why the note
+works without numbers. Marcel should still sanity check the direction of the Costa Rica
+move against the desk before sending, since that is the one line making a claim about
+recent history rather than about how a regime works.
 
 ---
 

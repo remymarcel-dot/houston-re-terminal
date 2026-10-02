@@ -639,3 +639,35 @@ warmth. **Before planning any comment touch, establish that the person posts
 ORIGINAL content.** If they only amplify their employer, skip the comment and go
 straight to the scheduled touch.
 
+## Never put a rate in written outreach
+
+**Marcel's rule, stated plainly on 2026-10-02: "never puts numbers."** It applies to
+every LinkedIn message, email and connection note. No spot, no forward, no range, no
+"we are seeing around X."
+
+On 2026-10-02 I drafted five notes with a rate block for him to fill from the Monex
+desk, reasoning that a figure from a real desk beat one from training data. The premise
+was right and the conclusion was wrong: the problem is not where the number comes from,
+it is that a number is in writing at all.
+
+**Why the rule holds:**
+
+- **A written rate becomes a benchmark he is held to**, and it can read as an indication
+  or an offer rather than a reference point.
+- **It goes stale the moment it is sent.** A figure that lands in a CFO's budget file
+  outlives its own validity, and he gets the blame for it.
+- **It reduces the exchange to price.** A number invites rate shopping. A structural
+  observation invites a conversation, which is the actual object.
+
+**What to write instead.** How a regime behaves, where the cost sits, what is managed
+versus floating, what varies by supplier, what a recipient can check for themselves. All
+of that is specific and useful without a single figure. **The strongest note in that
+batch turned out to be the one that never needed a number at all**: a three step
+procedure Kevin Soulen could run on his own factories.
+
+**And if a note is nothing but numbers, the rule deletes it rather than trimming it.**
+Two of the five were exactly that, and the right response was to accept they had nothing
+left to say and defer them, not to manufacture a replacement.
+
+**If a prospect asks for levels, that is a reply.** Levels get discussed live.
+

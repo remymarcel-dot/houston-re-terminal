@@ -59,8 +59,6 @@ Undelivered. **The whole thread is in Spanish and must stay in Spanish.**
 > diferencia entre el tipo que fija la matriz y el que el equipo local puede ejecutar
 > durante el año. Esa diferencia es la que acaba defendiendo tu equipo, no la de arriba.
 >
-> **[BLOQUE DE NIVELES, MARCEL LLENA: spot EUR/USD y forward a 12 meses, con fecha]**
->
 > Lo que casi nunca se ve: en un grupo con centro de servicios compartidos la política
 > de coberturas se define arriba, pero el coste de ejecución de cada pago operativo se
 > queda donde está. Tú construiste ese centro, así que sabes mejor que nadie dónde se
@@ -129,8 +127,6 @@ is the most concretely deliverable promise in the whole group.
 >
 > For the 2027 cost build only step one takes any time, and it is one email per factory.
 >
-> **[RATE BLOCK, MARCEL FILLS: USD/CNH spot and 12 month forward, dated]**
->
 > If useful, good. If ACG already does this, ignore me.
 >
 > Marcel
@@ -177,54 +173,29 @@ where it actually is, in buyer behavior rather than in finance.
 
 ---
 
-# 5. MATT MILNER. Thursday 22 October. **Market note, NOT a third argument.**
+# 5 and 6. MATT MILNER and TRAVIS PENDLETON. **BOTH DROPPED TO THE JANUARY REVIEW.**
 
-CEO + Co-Founder, Back Bar Project, **Seattle, so Pacific time.** LinkedIn, or
-`matt@backbarproject.com`. Mobile (619) 943-6631 clean.
+**Marcel's standing rule, stated 2026-10-02: "never puts numbers."** Their notes were
+nothing but numbers, so the rule does not trim them, it removes them.
 
-**September already delivered the euro versus agave argument and signed off with *"I
-will assume it is handled."*** Repeating it would be the weak third touch. A dated pair
-of numbers is new every time.
+**And that is the right outcome, not a loss.** Both had already received the full
+substance in September and both messages signed off softly: Matt's *"Never heard, so I
+will assume it is handled"*, Travis's *"Not asking for a meeting. If you ever want a
+second opinion, I am here."* Without a rate to send, **there is genuinely nothing new to
+say to either of them**, and inventing something would be the weak third touch this whole
+plan exists to avoid.
 
-> Matt, not a follow up, just two numbers you can use.
->
-> **[BLOCK, MARCEL FILLS: EUR/USD and USD/MXN spot plus 12 month forwards, dated]**
->
-> I send them together because of the point I made in September, which I will not make
-> again. Side by side on the same day is the cheapest way to see it.
->
-> No reply needed.
->
-> Marcel
+**So they join the 5 January 2027 review** alongside Birnbaum, Martinez and Nobre. Same
+test: a genuinely new reason, or no message at all.
 
-**Keep it this short.** The brevity is the message: it signals this is not another pitch.
-
----
-
-# 6. TRAVIS PENDLETON. Thursday 22 October. **Market note, NOT a third argument.**
-
-Managing Partner / Founder, Farm Truck Fresh, Casa Grande AZ.
-**EMAIL `travis@farmtruckfresh.com`. No number on file.**
-**He resurfaced on the 2 October screen as if new. He is not. This is touch three.**
-
-> Travis, not a follow up to September, just a number.
->
-> **[BLOCK, MARCEL FILLS: USD/MXN spot today, the move over the last 90 days, and the 12
-> month forward, all dated]**
->
-> On a Mexico cost base under dollar revenue that is close to the whole story in three
-> lines. If the peso has moved the way that helps you, it is worth knowing you got lucky
-> rather than that it is handled. If it has gone the other way, you already know.
->
-> No reply needed. I put this sort of thing out anyway.
->
-> Marcel
-
-**"I put this sort of thing out anyway" is true** and it is the line that removes the
-pressure, because Marcel does publish USD/MXN commentary. The lucky versus handled
-distinction is the sharpest thing in this note and it costs nothing to say.
-
----
+- **Matt Milner**, CEO + Co-Founder, Back Bar Project, Seattle. Mobile (619) 943-6631 is
+  clean, and his sign off was softer than a hard terminal, so **a call in January is not
+  barred** the way it is for Heriberto Martinez. Worth remembering as the one option
+  still open on him.
+- **Travis Pendleton**, Managing Partner, Farm Truck Fresh, Casa Grande AZ. No number on
+  file, so email or LinkedIn only. **He resurfaced on the 2 October screen as if new. He
+  is not, he is twice touched**, and the screen record needs to stop presenting him that
+  way.
 
 # 7. RAYNIER PLASENCIA. Friday 23 October.
 
@@ -263,24 +234,41 @@ end point, so the file closes itself if he stays quiet.
 
 ---
 
-# What Marcel must supply
+# What Marcel must supply: nothing
 
-| Note | Needs |
-|---|---|
-| Amaya | EUR/USD spot and 12 month forward, **dated** |
-| Kevin | USD/CNH spot and 12 month forward, **dated** |
-| Matt | EUR/USD and USD/MXN spot and 12 month forwards, **dated** |
-| Travis | USD/MXN spot, the 90 day move, and the 12 month forward, **dated** |
-| Rodolfo, Eric, Raynier | **No numbers needed.** Send as written |
+**Marcel's rule, 2026-10-02: "never puts numbers."** Every rate block is removed and all
+five remaining notes send as written.
 
-**Every rate must carry the date it was taken.** An undated rate is worthless to anyone
-putting it in a file, and dating it is also what stops the note being mistaken for a
-quote.
+**The reasons the rule is right, recorded so this does not recur:**
 
-**No numbers are supplied here on purpose**, for the same reason as Katie's note: these
-land in other people's budgets, Marcel has the desk, and a stale figure from me is worse
-than no figure at all.
+- **A written rate becomes a benchmark he is held to**, and can read as an indication or
+  an offer rather than a reference point.
+- **It goes stale the moment it is sent**, and a figure in someone's budget file outlives
+  its own validity.
+- **It reduces the exchange to price.** A number invites rate shopping. A structural read
+  invites a conversation, which is the entire object.
 
-**Standing rules honored throughout:** no dashes, American English, Amaya in Spanish
-because her thread is, nothing sent by the agent, every note ends without a meeting
-request.
+**Every note still works, and two are better for it.** Kevin's is a procedure he can run
+himself, which never needed a figure. Amaya's point is the gap between the parent's rate
+and the locally executable one, which is a structural claim, not a level. Katie's
+structural read of the four corridors IS the reference point she was promised.
+
+**If anyone comes back asking for levels, that is a reply**, and levels get discussed
+live rather than written down.
+
+## The five notes that send, and nothing is owed on any of them
+
+| Date | Who | Note |
+|---|---|---|
+| **Mon 19 Oct** | **Katie Dubon** | Corridor reference, `message-katie-dubon-2026-10-19.md` |
+| **Tue 20 Oct** | **Amaya Corredor Palomino** | Spanish. **Biggest seat in the group, consider doing her first** |
+| **Tue 20 Oct** | **Rodolfo Vela** | Coffee ask, Houston |
+| **Wed 21 Oct** | **Kevin Soulen** | Email only. **The strongest of them** |
+| **Wed 21 Oct** | **Eric Heismeyer** | Email only |
+| **Fri 23 Oct** | **Raynier Plasencia** | Verify the COO title first |
+
+**Six, not eight.** Matt Milner and Travis Pendleton move to the January review.
+
+**Standing rules honored throughout:** no numbers, no dashes, American English, Amaya in
+Spanish because her thread is, nothing sent by the agent, and every note ends without a
+meeting request.
