@@ -1100,3 +1100,24 @@ about a different channel has to be made **before** that date, because afterward
 be re-invited for about three weeks. Check whether an email or phone exists while there is
 still time to use it.
 
+## The connected Google account is Marcel's PERSONAL Gmail, not his work calendar
+
+**So an empty calendar search proves nothing.** On 2026-10-02 I searched the connected calendar
+for "Aptean", found nothing, and told Marcel the invite for a booked meeting "definitely was
+never created." His reply: *"aptean is already booked I did tell you that."* **His work calendar
+is on Monex and is invisible from this session.**
+
+**This is the same error as reading a `get_lead` 404 as a wrong URL**, a rule already in this
+file. Absence of confirmation is not evidence of absence, and the word "definitely" is what
+turned a question into a false claim.
+
+**So: never infer from the connected Google account that something work-related did not
+happen.** It can confirm what is there; it cannot establish what is not. Where it matters, ask
+Marcel.
+
+**And a second lesson from the same exchange: check what the record already says before
+calling something a find.** That row already read `MEETING BOOKED`, and the same morning's
+audit had flagged it as the most valuable row on the board. Re-presenting known facts as a
+discovery wastes his attention and makes the genuinely new parts, in that case the date and
+the missing address, harder to see.
+

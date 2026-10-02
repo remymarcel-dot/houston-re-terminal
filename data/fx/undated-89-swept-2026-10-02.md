@@ -6,29 +6,46 @@ point: a row with no date is usually a decision nobody made.
 
 ---
 
-# 🔴 THE FIND: A MEETING IS BOOKED AND IT WAS SITTING UNDATED
+# ✅ CORRECTED 2026-10-02: THE APTEAN MEETING WAS NEVER A FIND
+
+**Marcel: "aptean is already booked I did tell you that." He is right, and there are two
+corrections here, both mine.**
+
+**One, I presented the booking as a discovery and it was not.** This row already carried
+status `MEETING BOOKED`, and my own open-items audit that same morning listed it as item 6,
+*"the single most valuable row on the board"*. **What the thread actually added was the date,
+the Bangalore colleague, and Madhu's missing address.** The booking itself was already in the
+record, already reported, and already known to Marcel.
+
+**Two, and this is the real error: I said the calendar invite "definitely was never created."**
+That was unsupported. I searched the connected Google Calendar for "Aptean", got nothing, and
+treated it as proof. **The only calendar connected to this session is Marcel's personal Gmail.
+His work calendar is on Monex and is invisible from here**, so an empty search says nothing
+about whether the invite exists.
+
+**This is the same error class as the `get_lead` 404 rule already written into config.md:
+absence of confirmation is not evidence of absence.** I wrote that rule and then broke it
+within the day, and the word "definitely" is what made it a claim rather than a question.
 
 ## Clifford D'Souza, Treasury Director, Aptean, Atlanta
 
-**TUESDAY 13 OCTOBER 2026, 10:00 EST.** Agreed by him in writing on 22 September. **His
-colleague Madhu in Bangalore is joining, at 7:30 in the evening his time.** His email is
-`cdsouza@aptean.com`.
+**TUESDAY 13 OCTOBER 2026, 10:00 EST, which is 9:00 Central. Booked, on Marcel's calendar,
+nothing outstanding about it.**
 
-**Two things are outstanding and both are Marcel's:**
+**One thing genuinely remains open, and it comes from the thread rather than a calendar:
+Madhu's email address.** Marcel asked for it; Clifford replied *"I have forwarded to Madhu"*,
+meaning he forwarded the invite himself. So if the meeting moves or Madhu needs anything
+directly, **Marcel cannot reach him and does not know his surname.** Worth one line to Clifford
+only if something needs to change.
 
-1. **THE CALENDAR INVITE MAY NEVER HAVE BEEN SENT.** Marcel wrote on 23 September, *"I will
-   get the invite over to cdsouza@aptean.com"*, and nothing in the thread confirms it went.
-   **Check this Monday.** A booked meeting with an overseas attendee and no invite is how
-   meetings quietly evaporate.
-2. **Madhu's email address was never supplied.** Marcel asked for it; Clifford replied *"I
-   have forwarded to Madhu"*, meaning he forwarded it himself. So Marcel cannot invite Madhu
-   directly and does not know his surname.
-
-**This is a real meeting, not a cold call, and it needs preparing.** Clifford responded to one
-specific idea: Aptean grew mostly by acquisition, which leaves treasury holding a currency
-book nobody designed, each entity arriving with its own bank and its own euro, sterling or
-rupee flows. He answered *"it may be easier to talk about it"*, which is a buying signal. **The
+**Preparation is the real work now.** Clifford responded to one specific idea, and it is the
+agenda: Aptean grew mostly by acquisition, which leaves treasury holding a currency book
+nobody designed, each entity arriving with its own bank and its own euro, sterling or rupee
+flows. He answered *"it may be easier to talk about it"*, which is a buying signal. **The
 Bangalore colleague means the rupee leg is live and is probably why Madhu is in the room.**
+
+Agenda: which inherited banking relationships remain, which corridors carry the most volume,
+and what the India leg costs today.
 
 ---
 
