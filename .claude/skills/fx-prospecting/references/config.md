@@ -1083,3 +1083,20 @@ Bryson's headline as **President**, overturning a recorded seat risk that said
 president who handles her payments. It also gave Eyal's and Jon's real locations,
 both of which the repo had as unknown.
 
+## Campaign sequences auto-withdraw invitations, and that collides with the no-withdraw rule
+
+Campaign 634736's `CONNECTION_REQUEST` node carries **`toBeWithdrawnAfterDays: 30`**. An
+unanswered invitation therefore **withdraws itself thirty days after it is sent**, with no
+human involved.
+
+**That matters because withdrawing starts a roughly three week LinkedIn block on
+re-inviting**, which is how the Luis Reynoso approach was lost. The rule "never withdraw a
+pending invitation" is about deliberate withdrawals; **the campaign does it automatically
+anyway.**
+
+**So read `get_campaign_sequence` for `toBeWithdrawnAfterDays` whenever a lead is added, and
+record the resulting deadline on the pipeline row.** For anyone worth keeping, the decision
+about a different channel has to be made **before** that date, because afterwards they cannot
+be re-invited for about three weeks. Check whether an email or phone exists while there is
+still time to use it.
+

@@ -9167,24 +9167,32 @@
     "title": "Country Manager Peru / Peruvian Operation General Manager",
     "location": "Calexico, California",
     "play": "play-4-cold",
-    "status": "ready-to-send",
-    "campaignId": null,
-    "listId": null,
+    "status": "invitation-scheduled",
+    "campaignId": 634736,
+    "listId": 988200,
     "profileUrl": "https://www.linkedin.com/in/sylvia-parra-954213123",
     "linkedinId": "511128208",
     "outcome": null,
-    "firstTouch": null,
+    "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
     "lastActivity": "2026-10-02",
-    "touchCount": 0,
-    "nextTouch": null,
-    "touches": [],
+    "touchCount": 1,
+    "nextTouch": "2026-10-05",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-02",
+        "channel": "linkedin-invitation",
+        "outcome": "QUEUED, NOT YET CONFIRMED SENT",
+        "notes": "Added to campaign 634736 'Worth a note wave 1 - 2026-10-02' via add_leads_to_campaign v1 on Marcel's instruction 'send sylvia now'. Returned 1, and the campaign went from 21 to 22 totalUsers with totalUsersPending 1 and TOTALUSERSFAILED 0. leadStatus reads Pending. SEQUENCE IS VIEW_PROFILE then CONNECTION_REQUEST with a 3 hour delay, carrying {note}, so nothing sends immediately. THIS IS NOT A TOUCH UNTIL leadConnectionStatus READS ConnectionSent. Verify Monday 5 October at lead level, never from progressStats. URL was confirmed with get_lead BEFORE adding, linkedin_id 511128208, so there is no imp_ placeholder risk."
+      }
+    ],
     "noteFile": "data/fx/notes-two-urls-2026-10-02.md",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md",
     "noteText": "Sylvia, vi sus publicaciones de Expoalimentaria. Llevar la operacion de Peru desde Calexico significa pagar a productores peruanos, y el sol no se comporta como el peso aunque casi todos los traten igual. Trabajo divisas y pagos internacionales en Monex USA. Con gusto conectamos. Marcel",
     "urlProvenance": "Pasted by Marcel 2026-10-02 and CONFIRMED via get_lead: linkedin_id 511128208, position \"Peruvian Operation General Manager\", location Calexico CA, username sylvia-parra-954213123. Never constructed.",
     "angle": "THE TITLE MYSTERY IS SOLVED AND THE ANSWER IS BETTER THAN THE SCREEN ASSUMED. She was flagged on 2026-10-02 because no title showed on her profile header, only the company. Two sources now agree: her own experience section says COUNTRY MANAGER, PERU at Altar Produce, full time since Nov 2017, nine years, with the role location reading CALEXICO, CALIFORNIA; and HeyReach returns the position as 'Peruvian Operation General Manager', location Calexico CA. SHE RUNS ALTAR'S PERU OPERATION FROM THE US SIDE OF THE BORDER. SHE ALSO HOLDS A SECOND CONCURRENT ROLE: GENERAL MANAGER OF ALLIED LLC, a US entity, full time since July 2016, ten years. Worth one check on what Allied LLC is, because it may be the US importing entity. NOT to be confused with Allied Group, where Lex May sits in the pipeline; different company. AND SHE PAYS GROWERS FOR A LIVING: eighteen years as Purchasing Manager at Productora Veinticinco de Enero SA de CV in Mexico, 1998 to 2016, then nine years running a country operation. THE HOOK IS SIX DAYS OLD: she posted about Expoalimentaria Peru 2026 on 24 and 26 September, Altar's second consecutive year, Booth B-10, and the posts are HERS rather than company reposts. Her own words name 'nuestros productores', the growers she pays. SPANISH IS NOT A GUESS: all of her own posts are in Spanish while the Altar company account posts in English. USTED rather than tu, deliberately, since she is senior and it is a first contact; to switch, change 'sus publicaciones' to 'tus publicaciones' and the count is identical. THE SOL VERSUS PESO LINE IS THE WHOLE NOTE: Altar is a Sonoran asparagus business with Mexican roots that has built a Peru program on top, most produce houses treat all of Latin America as one currency problem, the sol and the peso behave nothing alike, and she is the one person at Altar sitting across both.",
-    "nextStep": "READY TO SEND AS A PLAY 4 COLD INVITATION. URL confirmed, 2nd degree, Connect available on her profile, no seat conflict at Altar Produce. Note is 287 characters, inside the 300 limit. SHE CAN GO INTO A CAMPAIGN TODAY. Accents were left off deliberately in 'operacion' and 'Peru' because accented characters can break LinkedIn note character counting; add them back if the field accepts them. NO RATES, per the standing rule."
+    "nextStep": "VERIFY MONDAY 5 OCTOBER AT LEAD LEVEL. Read leadConnectionStatus for her specifically in campaign 634736. NEVER use progressStats, which has been wrong twice. Same check as the rest of that campaign. ⚠️ THE CAMPAIGN AUTO WITHDRAWS UNANSWERED INVITATIONS AFTER 30 DAYS. The sequence carries toBeWithdrawnAfterDays 30, so if she has not accepted by ABOUT 1 NOVEMBER 2026 the invitation withdraws itself, and a withdrawal starts the roughly three week LinkedIn block on re-inviting, which is how the Luis Reynoso approach was lost. SO DECIDE BEFORE 1 NOVEMBER whether she is worth a different channel, because after that date she cannot be re-invited until late November. She has no email on file, so the alternative channel would have to be found. IF SHE ACCEPTS: next touch is a Spanish Play 0 message. Do not repeat the sol versus peso line, she has read it. Ask which of the two legs, Peru or Mexico, is the more awkward to pay, which is the question the note implies but does not ask."
   },
   {
     "name": "Ann Marie Earle",
