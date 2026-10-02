@@ -1,0 +1,566 @@
+{
+  "lastRun": "2026-10-01T21:29:00Z",
+  "runType": "evening-send-window-verification",
+  "senderAccountId": 237851,
+  "networkSize": 22137,
+  "conversationsTotal": 256,
+  "accountLimitsAtRun": {
+    "connectionRequests": 15,
+    "messages": 30,
+    "profileViews": 40,
+    "postLikes": 30,
+    "follows": 12,
+    "inMail": 40
+  },
+  "cooldowns": "all clear",
+  "inboxTriage": {
+    "unread": 2,
+    "real": 0,
+    "awaitingMarcel": 0,
+    "note": "Both unread are closing pleasantries. Grupo Palco, Carlos Palma said 'See you there' to the Stand 40 invitation, which confirms an in person meeting. DE LEON PROFESIONALES, Francisco Javier De Leon closed with thanks. Nothing owed."
+  },
+  "segmentation": {
+    "sampled": 1600,
+    "financeTitled": 400,
+    "usFxExposedQualified": 29,
+    "impliedAcrossFullNetwork": "~400",
+    "latamDropped": 65,
+    "reason": "user directive: US companies with FX exposure only"
+  },
+  "campaignBuilt": {
+    "campaignId": 622397,
+    "listId": 969709,
+    "leads": 6,
+    "status": "SCHEDULED",
+    "startDate": "2026-09-28",
+    "cut": 9,
+    "note": "Play 0 batch 4, produce signing seats. Scheduled for Monday deliberately: ~19 first-degree messages already in flight against a shared 30/day message cap."
+  },
+  "messagesSentLastRun": 2,
+  "connectionRequestsSentLastRun": 0,
+  "playsRun": [
+    "network-sizing",
+    "network-mining"
+  ],
+  "notes": "Jason Roof call logged separately. Aptean prep call invite received by Marcel; date sits on the Monex work calendar.",
+  "errors": [],
+  "archiveMined": {
+    "date": "2026-09-18",
+    "connections": 22536,
+    "messages": 24309,
+    "invitations": 5557,
+    "acceptedIn2026": 1766,
+    "everMessagedAfter": 398,
+    "everReplied": 83,
+    "replyRateWhenMessaged": "20.9%",
+    "neverMessaged": 1368,
+    "note": "The bottleneck is follow through, not acceptance or copy. See data/fx/linkedin/FINDINGS.md."
+  },
+  "closedThisRun": [
+    "Door Capital Partners, Alejandro Arregui: call happened, no FX exposure",
+    "TA Express, Jose Rene Tapia: followed up off platform, no result"
+  ],
+  "sentThisRun": [
+    "Fatima M.: accepted her referral channel offer",
+    "Grupo Palco, Carlos Palma: thanks plus Stand 40 invitation",
+    "Business Show Media, Henry Rawcliffe: closed with a real reason",
+    "Grupo Palco, Luis Merjil: WhatsApp sent by Marcel"
+  ],
+  "blocked": [],
+  "owedByMarcel": [
+    "ManpowerGroup, Fernando Tenuta: add fernando.tenuta@manpowergroup.com to the currency outlook. Open since 2026-09-18 and Fernando was already told it was done.",
+    "Wylson Zon Neto: Woodlands coffee set for Tuesday 2026-09-29 with no time or place ever confirmed. Chase or drop, and tomorrow is the day.",
+    "Grupo Palco: if Luis Merjil has still not come back by WhatsApp, send ventas@grupopalco.mx. The trigger date was roughly 2026-09-29."
+  ],
+  "recordCorrections": [
+    "Ritesh Vachhani was already messaged 2026-08-06, not uncontacted, and the Wojtowicz referral is seat confirmation only",
+    "Sanoxlabs was missing entirely: the signal detector only swept threads where the prospect spoke last",
+    "Grupo Palco's El Paso summit is Oct 22 and still ahead, not past",
+    "unanswered-signals ran at roughly 50% false positives on the four verified"
+  ],
+  "awaitingReply": [
+    "Aptean, Clifford D'Souza",
+    "Sanoxlabs Inc, Sergio E Manriquez",
+    "Ferrero USA, Ritesh Vachhani",
+    "Solve Networks, Jason Bell",
+    "Safer Food Services, Humberto Martinez",
+    "Grupo Palco, Luis Merjil (WhatsApp, off platform)",
+    "Fatima M. (sending her draft post for review)"
+  ],
+  "warmArchiveExercise": {
+    "surfaced": 9,
+    "closed": 9,
+    "leads": 0,
+    "reasons": "3 Mexican business, 2 too small, 1 already a customer, 1 Australian, 1 yes was off topic, 1 unresponsive after a clean close",
+    "conclusion": "The warm archive is worked out. Next pool is the 4,767 qualified never messaged, screened for country, size and customer status before any name is shown."
+  },
+  "elPaso": {
+    "confirmed": "2026-10-21 to 2026-10-22, El Paso nearshoring summit, confirmed by Marcel 2026-09-25",
+    "addedTo": [
+      "Rami Abdeljaber, Russell Transport, El Paso: offered half an hour in his own city",
+      "Louie Guerra, RLS International Transport, Laredo: mentioned as an event, not a meeting offer, since Laredo is 570 miles away"
+    ],
+    "notAddedTo": "Batch 4 produce (Sterling Produce, Marabella, Produce Team) are McAllen and the Rio Grande Valley, roughly 800 miles from El Paso, and the summit is manufacturing and supply chain rather than produce. Bolting it on would have read as a mail merge."
+  },
+  "channel": {
+    "who": "Fatima M.",
+    "state": "post approved, awaiting publication",
+    "why": "ineligible as an account, persona fisica in Veracruz, but has a Fresh Produce audience and proposed the referral herself",
+    "watch": "inbound US constituted importers and exporters; each still faces the US entity test"
+  },
+  "campaignLaunched": {
+    "campaignId": 613681,
+    "listId": 956421,
+    "name": "El Paso Summit - Exhibitors W1",
+    "leads": 9,
+    "sequence": "VIEW_PROFILE then CONNECTION_REQUEST with a per lead note, both branches END. No follow up message by design.",
+    "withdrawAfter": "30 days",
+    "schedule": "Mon to Fri 09:00 to 17:00 Central",
+    "held": "Soledad S., Munoz Trucking, wave 2, to avoid two approaches to one company on the same day"
+  },
+  "elPasoCampaigns": [
+    {
+      "id": 613681,
+      "name": "W1",
+      "leads": 9,
+      "started": "2026-09-21"
+    },
+    {
+      "id": 613743,
+      "name": "W2",
+      "leads": 10,
+      "startDate": "2026-09-23",
+      "why": "delayed so Juan Munoz and Soledad S. at the same company do not land together"
+    }
+  ],
+  "elPasoTotals": {
+    "sourced": 20,
+    "inCampaign": 19,
+    "blocked": 1,
+    "companies": 19
+  },
+  "nextMeeting": {
+    "who": "Grupo Palco, Luis Merjil",
+    "when": "2026-09-22 16:00 Central",
+    "prep": "see pipeline entry"
+  },
+  "poolSizing": {
+    "uniqueEnumerated": 22115,
+    "decisionSeats": 5771,
+    "bothTests": 224,
+    "cleanAfterCollisions": 199,
+    "signingSeatUnflagged": 143,
+    "note": "headline is null across the whole network export and about is present for only 3859 of 22115, so the business filter could read company name only. 199 is a floor; 450 to 700 remains the honest estimate.",
+    "cheaperEnrichmentPath": "get_leads_from_list returns a populated headline where get_my_network_for_sender does not. Pushing the 5771 decision seats through lists in batches of 100 reads headlines back for free, roughly 58 calls."
+  },
+  "incidents": [
+    "Two fabricated profile URLs were written into list 969709 and caught by reading the list back against the source CSV before the campaign left DRAFT. Nothing sent. Second occurrence after Laura Plummer.",
+    "The batch 4 carried in session notes was stale: four of its six had already been cut for cause (Bloom Fresh, Lighthouse Transportation, Kingdom Cold, A-Line Flooring)."
+  ],
+  "campaignBuilt2": {
+    "campaignId": 622554,
+    "listId": 969943,
+    "leads": 6,
+    "status": "SCHEDULED",
+    "startDate": "2026-09-30",
+    "note": "Play 0 batch 5, export and border. Two notes rewritten after enrichment revealed materially bigger roles: Rami Abdeljaber (also EVP/COO of Atlas Factoring plus five other entities, accountant by training) and Geir Myklebust (also a partner in Blue Resource Group in Norway, so on both ends of the payment)."
+  },
+  "enrichment": {
+    "decision": "stopped by Marcel after one measured batch",
+    "enriched": 110,
+    "listId": 969766,
+    "newlyVisible": 6,
+    "genuineNewLeads": 1,
+    "yield": "roughly one real new lead per hundred enriched",
+    "note": "The pre-run estimate of 450 to 700 did not survive the first batch. Sample was alphabetically sorted, so the yield figure is weak; the false-positive shape (agri software, consulting, exec search, wealth management, large public cos) should generalize.",
+    "log": "data/fx/enrichment-stopped-2026-09-25.md"
+  },
+  "inFlight": {
+    "batch4": "622397, 6 leads, from 2026-09-28",
+    "batch5": "622554, 6 leads, from 2026-09-30",
+    "batch6": "622570, 2 leads, from 2026-10-01",
+    "remainingSigningSeats": 124
+  },
+  "campaignBuilt3": {
+    "campaignId": 622570,
+    "listId": 969959,
+    "leads": 2,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Play 0 batch 6. Bondi owner seat chosen by Marcel over the EVP. Direct Source Seafood added on verification: largest king crab and snow crab importer in the US, 7,651 bills of lading, 54 in the last 30 days."
+  },
+  "openQuestions": [],
+  "campaignBuilt4": {
+    "campaignId": 622602,
+    "listId": 969994,
+    "leads": 1,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Two Brothers Produce, O. Castellon. Reinstated after a wrong cut: the profile is the owner's, used as a company page. Spanish, accents intact and verified on read-back."
+  },
+  "campaignBuilt5": {
+    "campaignId": 622608,
+    "listId": 969998,
+    "leads": 1,
+    "status": "SCHEDULED",
+    "startDate": "2026-10-01",
+    "note": "Hillside Winery, Louise L. Third degree, so a cold connection request rather than a Play 0 message. Correct URL supplied by Marcel."
+  },
+  "decisionsCleared": [
+    "Green Coffee Company, Ted Skodol: Marcel 2026-09-25, 'no issue with Green Coffee Company'. Colombian agricultural group cleared, invitation runs.",
+    "Two Brothers Produce: the profile is the owner's, used as a company page. Email ocastellon@twobrothersproduce.us supplied.",
+    "Hillside Winery, Louise L: correct URL supplied, and she is third degree so the play changed.",
+    "El Paso confirmed Oct 21-22 and added to the two border operators.",
+    "Canada: Monex USA onboards Canadian companies directly, no referral to Monex Canada."
+  ],
+  "stillOpen": [
+    "Grupo Palco, Carlos Palma: waiting on Luis Merjil by WhatsApp, which Marcel sees first. If nothing by roughly Sep 29, send the email to ventas@grupopalco.",
+    "Wylson Zon Neto: Woodlands coffee Tuesday Sep 29, never confirmed a time or place. Marcel to chase or drop.",
+    "fernando.tenuta@manpowergroup.com to the currency outlook distribution, outstanding since Sep 18."
+  ],
+  "play0Decision": {
+    "decision": "STOP at batch 6. No batch 7 until a review.",
+    "by": "Marcel, 2026-09-25",
+    "quote": "play o stop on batch 6 and we can anlalizy how it is going and if er need to change something ok?",
+    "totalPlay0Messages": 42,
+    "remainingSigningSeats": 122,
+    "reviewDate": "around 2026-10-08, roughly a week after the last send",
+    "caution": "At n=6 per sector the data cannot support sector comparisons. The review is qualitative: what replies say, whether the closing question gets answered, and whether the inverted openers outperform. The only comparison with a real denominator is Play 0 overall against the 5.6% cold baseline from campaign 552667.",
+    "plan": "data/fx/play0-review-plan.md"
+  },
+  "germanChamberPlay": {
+    "status": "PAUSED by Marcel 2026-09-25. He is getting the member roster from the Chamber directly, which is the better route.",
+    "partialScan": "196 DACH-marked records in the network: 24 US, 84 Mexico, 48 elsewhere, only 4 in Texas. The network holds the Mexican side of these groups, not the Texas side, so it could not deliver the thesis alone.",
+    "objectionToSolve": "Rohlig Logistics, Richard Labib, CFO NORAM, declined on cash pooling within 21 hours. German groups run centralized treasury; this play needs an answer to that before it scales.",
+    "resumeWhen": "Marcel supplies the GACC South roster.",
+    "log": "data/fx/german-chamber-play.md"
+  },
+  "sendDateVerification": "REQUIRED after the 622397 incident: every campaign must have its status re-verified ON its send date, because a confirmed SCHEDULED campaign can revert to DRAFT and send nothing with no error. Batch 5 (622554) on 2026-09-30. Batch 6 (622570), Two Brothers (622602) and Hillside (622608) on 2026-10-01. Condessa and Toledo (622656) on 2026-09-29. Batch 4 (622397) restarted and confirmed IN_PROGRESS 2026-09-28 14:24Z.",
+  "dated": {
+    "2026-11-30": "Monte Vista Farming, Elena Tavares: dormant since 2026-09-28, one reopen due. See pipeline reopenGuidance. Marcel said 60 days; moved off 2026-11-27 because that is the Friday after Thanksgiving."
+  },
+  "owedByMarcelCleared": {
+    "date": "2026-09-28",
+    "item": "El Paso company mapping for nine pending LinkedIn URLs, and the event note vs blank request decision.",
+    "evidence": "Read live: 617735 IN_PROGRESS 5 of 5, 616214 IN_PROGRESS 4 users with 2 finished and 1 failed, 616228 IN_PROGRESS 1 user. All three started on 09-24 and 09-25, so nothing is blocked on Marcel there any more.",
+    "newFinding": "616214 shows totalUsersFailed 1 and its user count fell from 10 to 4. Worth a look on its own, separately from any approval."
+  },
+  "pendingMarcelDecisions": {
+    "asOf": "2026-09-28",
+    "items": [
+      "Set up the automatic send-date verification run for tomorrow morning, or keep doing it by hand. Offered, not answered.",
+      "Cactus Wellhead, Tony Alvarez went out in 625479 although he trips the too big, has a desk filter. Leave or stop the lead.",
+      "Ricardo Yllescas degree unknown. If he is already first degree he belongs in Play 0 as a message, not a cold invitation.",
+      "Ryan Denholm: whether to also ask Rodolfo Vela for a warm introduction, given he is a mutual and has had two unanswered messages.",
+      "First-degree pair held behind the Play 0 stop: Guillermo Rodriguez Arrizabalaga (Sion Brands and Degasa, 103 mutuals, IPADE) and Gustavo Elias Hopkins (IPR Fresh). Exceptions now, or wait for the Oct 8 review.",
+      "Three of the ranked Tier A names were never built: Antonio Gandara (Perez Trading), Justin Warren (Del Rey Avocado), Anuj Girdhar (Sunkist Growers).",
+      "Channels to open personally rather than by campaign: Cesar Remis (Trade Envoy), Will Cavan (International Mango Organization), Cultivar (Napa CPG finance), Juan Alvarez (Covey Transport, Port of Houston steel drayage), Javier Alvarez (ContourGlobal)."
+    ],
+    "resolved2026_09_29": [
+      "Friday 10-02 wave: all nine notes approved, 628299 started, now SCHEDULED"
+    ]
+  },
+  "verificationRoutine": {
+    "triggerId": "trig_01GiHE3MqDKWJepL81g9n56E",
+    "name": "Verify invitation campaigns fired",
+    "firesAt": "2026-09-29T14:25:00Z, which is 09:25 Houston time",
+    "type": "one shot, bound to this session so it resumes with full context",
+    "authorizedBy": "Marcel, 2026-09-28: 'yes set up the verification run for tomorrow morning'",
+    "checks": [
+      "625450 and 625479 must read IN_PROGRESS with a non-null startedAt, and be restarted if either reverted to DRAFT",
+      "622656 Condessa and Toledo, also due 09-29",
+      "totalUsersFailed on 625479 against the unenriched Sifuentes lead 879080800",
+      "616214 El Paso W4, one failed user and a drop from ten users to four"
+    ],
+    "notCovered": "Later send dates this week are not in this one shot: 622554 on 09-30, and 622570, 622602 and 622608 on 10-01. Offered to Marcel as a recurring weekday routine; he has not been asked to decide twice."
+  },
+  "verificationRoutine2": {
+    "triggerId": "trig_01Gqbyg3G72h4AZAqWSNpA6x",
+    "name": "Verify wave 3 fired",
+    "firesAt": "2026-09-30T14:25:00Z, 09:25 Houston",
+    "type": "one shot, bound to this session",
+    "createdOnOwnInitiative": "Marcel authorized the 09-29 run explicitly. This second one was created because he then told me to start 625896, which sends on 09-30 and did not exist when he answered. Told to him plainly; he can have it deleted.",
+    "checks": [
+      "625896 IN_PROGRESS with a real startedAt",
+      "622554 Play 0 batch 5, messages quota not invitations",
+      "625450 and 625479 completed rather than stalled, with totalUsersFailed reported",
+      "whether the 500s on the campaign read endpoint are still happening"
+    ]
+  },
+  "invitationLoad": {
+    "2026-09-29": "12 automated across 625450 (4) and 625479 (8), plus 1 manual to Sifuentes sent 09-28",
+    "2026-09-30": "6 in 625896",
+    "ceiling": 15,
+    "note": "Manual invitations sent by Marcel count against the same LinkedIn ceiling as campaign sends, so they belong in this tally."
+  },
+  "unenrichableLeads": {
+    "policy": "Established 2026-09-28. A profile that will not enrich after a confirmed-correct URL is not a broken link and not a stale slug. Stop re-importing it. Hand the drafted note to Marcel to send by hand, then remove the lead from the campaign list so the automated send cannot double approach, and verify the campaign count dropped.",
+    "firstCase": "Candy-Dulce Sifuentes, sent manually, removed, 625479 went 9 to 8."
+  },
+  "verificationRoutine3": {
+    "triggerId": "trig_01PgeDmd44yJpmC1QGxXjsBZ",
+    "name": "Verify Conroe sweep wave fired",
+    "firesAt": "2026-10-01T14:25:00Z, 09:25 Houston",
+    "type": "one shot, bound to this session",
+    "authorizedBy": "Marcel, 2026-09-28: 'add the thursday verification run'",
+    "primaryCheck": "Whether Olivier, Grappe or Rubio failed. All three carry imp_ placeholder ids. Grappe (German parent LISEGA) and Rubio (Mexican parent Grupo Sayer) are two of the strongest names in the sweep and must not fail silently. If they fail, hand Marcel the drafted notes to send by hand, as with Sifuentes.",
+    "alsoChecks": [
+      "622570 Play 0 batch 6",
+      "622602 Two Brothers Produce",
+      "622608 Hillside Winery",
+      "625479 and 625896 completed rather than stalled"
+    ]
+  },
+  "weekPlan2026w40": {
+    "2026-09-29": {
+      "invitations": "12 automated plus 1 manual",
+      "campaigns": [
+        "625450 (4)",
+        "625479 (8)"
+      ],
+      "check": "trig_01GiHE3MqDKWJepL81g9n56E"
+    },
+    "2026-09-30": {
+      "invitations": 7,
+      "campaigns": [
+        "625896 (7)"
+      ],
+      "check": "trig_01Gqbyg3G72h4AZAqWSNpA6x"
+    },
+    "2026-10-01": {
+      "invitations": 8,
+      "campaigns": [
+        "626018 (8)",
+        "plus 622602 and 622608"
+      ],
+      "check": "trig_01PgeDmd44yJpmC1QGxXjsBZ",
+      "note": "622570 Play 0 batch 6 is messages, separate quota"
+    },
+    "ceiling": 15,
+    "shape": "13, 7, 8. Irregular and never pinned to the cap, which is what the volume rule asks for."
+  },
+  "sendDateCheck_2026_09_29": {
+    "ranAt": "2026-09-29T15:24Z, scheduled 14:25Z, fired by trig_01GiHE3MqDKWJepL81g9n56E",
+    "625450": "IN_PROGRESS, startedAt 2026-09-29T00:01:06Z. 4 users, 4 in progress, 0 pending, 0 failed.",
+    "625479": "IN_PROGRESS, startedAt 2026-09-29T00:01:07Z. 8 users, 8 in progress, 0 pending, 0 failed.",
+    "622656": "IN_PROGRESS, startedAt 2026-09-29T00:01:02Z, 2 users. Campaign confirmed real; the 09-28 doubt was a record gap, now closed with pipeline entries for Condessa and Toledo.",
+    "verdict": "Neither wave reverted. All twelve automated leads are moving, none failed.",
+    "apiHealth": "The 500s of 09-28 evening are gone. Every read succeeded."
+  },
+  "elPasoW4Failure": {
+    "resolved": "2026-09-29",
+    "who": "Patrick Gaughan, CPA, Director of Finance, Universal Metal Products, Cleveland, Ohio.",
+    "failedAt": "2026-09-28T15:39:07Z",
+    "errorCode": "ConnectionRequestAlreadySent",
+    "meaning": "Not a broken lead and not a bad URL. An invitation to him was already outstanding, and LinkedIn refuses a second while the first is pending. This is exactly the trap already recorded in config.md under 'Check for a pending invitation before sending another', now seen firing in production with a named error code.",
+    "consequence": "He never received the W4 note about paying the Mexico side out of Wickliffe. Whatever note accompanied the original pending invitation is what he will see if he accepts.",
+    "action": "Do NOT resend; it would fail the same way. Leave the original invitation to run its course.",
+    "countCorrection": "My 09-28 note said W4 'fell from 10 to 4'. The 10 came from a 2026-09-23 planning document written before W4b was split off; list 960269 holds 4 and did on 09-28 too. Leads were not lost, and I should not have framed it as a drop."
+  },
+  "play0Exceptions": {
+    "authorizedBy": "Marcel, 2026-09-29: 'send to this play 0 contacts so we clean the queue'",
+    "campaign": "628244, list 978548, IN_PROGRESS, startedAt 2026-09-29T16:33:29Z, 2 users, 0 failed",
+    "sequence": "Copied verbatim from 622570, Play 0 batch 6: CHECK_IS_CONNECTION then MESSAGE with a 5 hour delay.",
+    "quota": "Messages, not invitations. Draws on the separate 30 a day message budget, so it does not touch today's twelve invitations.",
+    "note": "The batch 6 stop on Play 0 stands. These are three named exceptions Marcel approved individually, not a resumption of the cadence. The 2026-10-08 review is unaffected.",
+    "stillBlocked": "Guillermo Rodriguez Arrizabalaga, the third and strongest of the three, could NOT be sent. His profile URL exists nowhere in the repo; he came from a screenshot only, and constructing a LinkedIn URL is the error that has already put two fabricated links into a list this week. Marcel must supply the link.",
+    "exception4_yllescas_2026_09_30": "Ricardo Yllescas, CFO Elementia USA. Fourth named exception to the Play 0 batch stop, approved by Marcel on 2026-09-30 after the Play 4 invitation failed with AlreadyAConnection. Campaign 630456 IN_PROGRESS."
+  },
+  "fridayWave2026_10_02": {
+    "campaignId": 628299,
+    "listId": 978635,
+    "status": "SCHEDULED",
+    "totalUsers": 9,
+    "pending": 9,
+    "failed": 0,
+    "excluded": 0,
+    "startedBy": "Marcel approved the nine notes 2026-09-29 and said go ahead",
+    "startDate": "2026-10-02",
+    "scheduleWindow": "Mon-Fri 09:00-17:00 America/Chicago",
+    "startDateUtcQuirk": "startDate is read as UTC, so 2026-10-02T00:00Z is 2026-10-01 19:00 Chicago, past the 17:00 cutoff. First eligible slot is therefore Friday 09:00 Chicago. No risk of it firing during Thursday's window.",
+    "weekLoad": {
+      "2026-09-29": 13,
+      "2026-09-30": 7,
+      "2026-10-01": 8,
+      "2026-10-02": 9,
+      "ceiling": 15
+    },
+    "placeholderContingency": "Paz and Marentes Gurrola hold imp_ ids. Campaign 626018 sends Thursday 10-01 carrying three placeholders (Olivier, Grappe, Rubio). Read totalUsersFailed on 626018 Thursday afternoon. If those three failed, remove Paz and Marentes Gurrola from list 978635 before Friday 09:00 Chicago and hand both notes to Marcel for manual sending. If they fired, do nothing."
+  },
+  "verificationRun_2026_09_30": {
+    "firedAt": "2026-09-30T14:25:26Z",
+    "trigger": "trig_01Gqbyg3G72h4AZAqWSNpA6x",
+    "endpointHealth": "All six reads returned clean. The 500s seen across every id on the evening of 2026-09-28 were not reproduced.",
+    "campaigns": {
+      "625896": {
+        "status": "IN_PROGRESS",
+        "startedAt": "2026-09-30T00:00:42Z",
+        "totalUsers": 8,
+        "inProgress": 8,
+        "failed": 0,
+        "note": "Did NOT revert the way 622397 did. The routine prompt says six leads; it holds eight. Seven were built on 09-28 and Hillary Stroble was added on 09-29, taking the list from 7 to 8. The stored prompt was written before both changes, so the count in it is stale, not a discrepancy in HeyReach."
+      },
+      "622554": {
+        "status": "IN_PROGRESS",
+        "startedAt": "2026-09-30T00:00:39Z",
+        "totalUsers": 6,
+        "inProgress": 6,
+        "failed": 0,
+        "note": "Play 0 batch 5, messages against the 30 a day quota, so no competition with the invitation quota."
+      },
+      "625450": {
+        "status": "FINISHED",
+        "totalUsers": 4,
+        "finished": 4,
+        "failed": 0
+      },
+      "625479": {
+        "status": "FINISHED",
+        "totalUsers": 8,
+        "finished": 7,
+        "failed": 1,
+        "failedLead": "Ricardo Yllescas Alvarez, CFO Elementia USA, errorCode AlreadyAConnection at 2026-09-29T21:00:09Z"
+      },
+      "626018": {
+        "status": "SCHEDULED",
+        "totalUsers": 8,
+        "sends": "2026-10-01",
+        "note": "Carries the three imp_ placeholders. Tomorrow's result decides the Paz and Marentes Gurrola contingency on 628299."
+      },
+      "628299": {
+        "status": "SCHEDULED",
+        "totalUsers": 9,
+        "sends": "2026-10-02"
+      }
+    },
+    "actionOwedToMarcel": "Ricardo Yllescas needs a Play 0 direct message because the cold invitation could not land. Draft held for his approval, not sent."
+  },
+  "play0ExclusionTrap": "A Play 0 recovery campaign for a lead who already sits in a failed Play 4 campaign MUST be created with excludeContactedFromOtherCampaigns false. Left at the usual true, HeyReach would have counted 625479 as prior contact and excluded him, and the campaign would have read IN_PROGRESS with the lead silently in totalUsersExcluded. Verified on 630456: excludeInOtherCampaigns false, totalUsersExcluded 0, one user in progress.",
+  "wylsonRecovery_2026_09_30": {
+    "sent": "2026-09-30T15:44:11Z via LinkedIn send_message",
+    "whatsapp": "(346) 806 1759",
+    "note": "Marcel asked for the number, so he may follow up there himself. The LinkedIn message already tells Wylson the number is saved and asks him to use WhatsApp next time, so a duplicate WhatsApp message saying the same thing is not needed and would look anxious. If Marcel wants to text him, a one line hello on WhatsApp is enough.",
+    "openItem": "DNV treasury contact still owed by Wylson since 08-31. Do not chase it in the next message."
+  },
+  "mondayWave2026_10_05": {
+    "startedBy": "Marcel approved all nineteen notes and said go ahead 2026-09-30",
+    "campaigns": {
+      "630877": {
+        "name": "Cold invitations 2026-10-05",
+        "list": 982466,
+        "status": "SCHEDULED",
+        "totalUsers": 15,
+        "pending": 15,
+        "failed": 0,
+        "excluded": 0
+      },
+      "630878": {
+        "name": "Play 0 first degree 2026-10-05",
+        "list": 982467,
+        "status": "SCHEDULED",
+        "totalUsers": 4,
+        "pending": 4,
+        "failed": 0,
+        "excluded": 0
+      }
+    },
+    "excludedCheck": "Both read totalUsersExcluded 0. 630878 was built with excludeContactedFromOtherCampaigns false per the recovery rule, though none of the four sit in another campaign.",
+    "quotas": "15 invitations is exactly the daily ceiling. 4 messages draw on the separate 30 a day quota, so the two do not compete and one day covers all nineteen.",
+    "placeholders": [
+      "Ana Espinoza Carranza",
+      "Mary Paz Varela",
+      "Pablo Ortiz Rodea"
+    ],
+    "placeholderContingency": "Thursday 626018 sends 2026-10-01 carrying three placeholders of its own (Olivier, Grappe, Rubio). Read totalUsersFailed on it Thursday afternoon. If those three failed, pull Ana, Mary Paz and Pablo from their lists before Monday 09:00 Chicago and hand the three notes to Marcel. If they fired, do nothing.",
+    "pabloCause": "His URL carries an accent. Both the decoded and percent encoded forms normalise onto the same stuck imp_ record, so a re import is not a fix.",
+    "marieEngelsHeld": {
+      "resolved": "2026-09-30, she is one month into the Avania CFO seat. Started as campaign 630953 for Tuesday 2026-10-06."
+    },
+    "reserves": [
+      "Lucas Natalini (Jakks)",
+      "Gonzalo Canessa (Hortifrut)",
+      "Jim Roberts (Naturipe)",
+      "Sara Hergesheimer (Crown Jewels)"
+    ]
+  },
+  "tuesdayWave2026_10_06": {
+    "campaignId": 630953,
+    "listId": 982470,
+    "status": "SCHEDULED",
+    "totalUsers": 7,
+    "pending": 7,
+    "failed": 0,
+    "excluded": 0,
+    "who": [
+      "Marie Engels (Avania)",
+      "Michael Lopez (Go Freight, placeholder id)",
+      "Jean Marie Gutierrez (eelco)",
+      "Ricardo Salinas (Tramitaciones)",
+      "Jorge Marquez (ABA Cargo)",
+      "Jose Ortega (Valls Group)",
+      "Jason Hakala (Elite Digital Logistics, placeholder id)"
+    ],
+    "note": "Four of the six came from the Apollo small logistics sweep and were enriched for 6 credits total, which also returned their LinkedIn URLs. Three are Laredo border customs and logistics at 20 to 58 employees. All four have verified work email as a second channel if LinkedIn goes quiet.",
+    "apolloCredits": {
+      "spentToday": 6,
+      "whatItBought": "Four usable names with surname, verified email and LinkedIn URL, plus one job change caught before it cost an approach (Camilo Ronderos had left the Cargobot CFO seat) and one company identified as pre revenue (Green Corridors)."
+    }
+  },
+  "doNotContact_additions_2026_09_30": {
+    "laredoEconomicDevelopmentCorporation": "Marcel, 2026-09-30: 'laredo economic do not contact'. Overrides the agent's suggestion that an EDC is a referral channel like El Paso FTZ 68, MVEDA and TMAC. Removed entirely, not deprioritised. Yvette in their finance seat is not to be approached in any form.",
+    "note": "This does NOT extend to the El Paso referral organisations already in the plan unless Marcel says so. It is specific to Laredo EDC."
+  },
+  "oneSeatPerCompany_2026_09_30": {
+    "sourceLogistics": "Marcelo Sada, President and Corporate Development, sends Friday 2026-10-02 in campaign 628299. Emily, CFO, surfaced in the small logistics sweep and is CONFIRMED RESERVE ONLY by Marcel. Second approach if Sada declines, never parallel."
+  },
+  "sendDateVerification2026_10_01": {
+    "checkedAt": "2026-10-01T14:30:00Z",
+    "allSixStarted": true,
+    "todayStartedClean": {
+      "626018": "IN_PROGRESS, startedAt 2026-10-01T00:02:10Z, 8 leads, 0 failed",
+      "622570": "IN_PROGRESS, startedAt 2026-10-01T00:02:04Z, 2 leads, 0 failed",
+      "622602": "IN_PROGRESS, startedAt 2026-10-01T00:02:06Z, 1 lead, 0 failed",
+      "622608": "IN_PROGRESS, startedAt 2026-10-01T00:02:07Z, 1 lead, 0 failed"
+    },
+    "conroeNotSettled": "626018 has NOT fired yet. Every one of its eight leads still shows lastActionTime null, and on the two previous waves actions landed between 15:41 and 16:45 UTC with failures recorded 19:52 to 21:03 UTC. At 14:30 UTC the window has not opened, so zero failures means not yet rather than clean. The three placeholders are confirmed still unresolved: Marcia Rubio imp_DMOKEZKTCUMSPISALKHHHFWKJ, Heather Olivier imp_GLZYISSUSALCWGHMSOIGGMOUY, Chris Grappe imp_HWFXGGEBJYDLENDLYDEMEQMHM, all three with linkedInUserProfileId null while the other five carry real ACoAA ids. Re-check scheduled for this evening.",
+    "earlierWaves": {
+      "625479": "FINISHED, 7 of 8 finished, 1 failed: Ricardo Yllescas, AlreadyAConnection, already known and already in recovery campaign 630456.",
+      "625896": "FINISHED, 6 of 8 finished, 2 failed, BOTH NEW: Sean Fightmaster AlreadyAConnection, Hillary Stroble ConversationExists. Neither was contacted."
+    },
+    "correction": "The routine's own text said 625896 carried seven leads. It carried eight, and two of them failed rather than none."
+  },
+  "eveningCheck2026_10_01": {
+    "headline": "Hillary Stroble was NOT contacted and HeyReach reported no error. The ConversationExists workaround is disproven.",
+    "campaign632612": {
+      "name": "Play 0 recovery Stroble Fightmaster",
+      "counts": "2 users, 1 finished, 1 in progress, 0 failed",
+      "hillaryStroble": "FINISHED 20:20:13Z with leadMessageStatus None, leadConnectionStatus None, failedTime null, errorCode null. No conversation exists under profile, campaign or search lookup. The MESSAGE node never fired and the lead was recorded as a success. Marcel must send by hand; draft is in data/fx/recovery-drafts-2026-10-01.md.",
+      "seanFightmaster": "Still InSequence, lastActionTime 17:03:45Z, leadMessageStatus None, no failure. The delay node has not released his message. Re-check."
+    },
+    "campaign626018": {
+      "name": "Conroe sweep",
+      "counts": "8 users, 8 in progress, 0 finished, 0 failed",
+      "invitationsConfirmedSent": [
+        "Marcia Rubio 20:04",
+        "Joseph Rangel 20:19",
+        "Alana Lyons 20:25",
+        "Mike Sorna 20:40",
+        "Chris Grappe 20:44",
+        "Robbi Turek 21:01"
+      ],
+      "notSent": [
+        "Heather Olivier, leadConnectionStatus None, last action 17:40",
+        "William White, leadConnectionStatus None, last action 17:51"
+      ],
+      "impPlaceholderVerdict": "Two of the three placeholder worries resolved and sent: Marcia Rubio and Chris Grappe, the two strongest names. Heather Olivier is the third and has not gone out, but with no failure, so it reads as the 15 per day invitation ceiling rather than a placeholder fault.",
+      "grappeFlag": "His headline says Retired. Invitation already sent written to a sitting President."
+    },
+    "otherCampaigns": {
+      "622570": "IN_PROGRESS, 2 users, 0 failed. Ezio Bondi message confirmed delivered 20:36Z.",
+      "622602": "IN_PROGRESS, 1 user, 0 failed. Not finished.",
+      "622608": "IN_PROGRESS, 1 user, 0 failed. Not finished.",
+      "note": "The trigger asked to confirm these finished without failures. They have zero failures but none have finished, so 'clean so far' rather than 'clean'."
+    },
+    "methodLesson": "Campaign progressStats are not evidence of delivery. 632612 reported zero failures while silently not sending to Hillary. Verify at lead level with leadMessageStatus and leadConnectionStatus, and cross check against whether a conversation record exists."
+  }
+}

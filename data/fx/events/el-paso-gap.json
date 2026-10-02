@@ -1,0 +1,128 @@
+[
+ {
+  "company": "MAQUILA PARTNER",
+  "stand": "81, 88",
+  "tier": "1 SHELTER",
+  "seat": "CFO, Controller or Managing Director"
+ },
+ {
+  "company": "SACSA and Maquila Partners",
+  "stand": "84",
+  "tier": "1 SHELTER",
+  "seat": "CFO or General Manager"
+ },
+ {
+  "company": "A + MEXICO SHELTER",
+  "stand": "80",
+  "tier": "1 SHELTER",
+  "seat": "Owner, President or Finance lead"
+ },
+ {
+  "company": "INTRAWORKS",
+  "stand": "150",
+  "tier": "1 SHELTER",
+  "seat": "CFO, Controller or President"
+ },
+ {
+  "company": "ONE TEAM",
+  "stand": "151",
+  "tier": "1 SHELTER",
+  "seat": "CFO or President"
+ },
+ {
+  "company": "ARIES WORLD WIDE LOGISTICS",
+  "stand": "14",
+  "tier": "2 LOGISTICS",
+  "seat": "CFO, Controller or President"
+ },
+ {
+  "company": "WORLDHAUL LOGISTICS",
+  "stand": "103",
+  "tier": "2 LOGISTICS",
+  "seat": "CFO or President"
+ },
+ {
+  "company": "DFW INTERNATIONAL",
+  "stand": "208",
+  "tier": "2 LOGISTICS",
+  "seat": "SVP CFO or CEO. You already have both connected."
+ },
+ {
+  "company": "NATIONAL TRANSPORT SERVICES",
+  "stand": "49",
+  "tier": "2 LOGISTICS",
+  "seat": "CFO or Owner"
+ },
+ {
+  "company": "SOUTH EAST FREIGHT LINES",
+  "stand": "61",
+  "tier": "2 LOGISTICS",
+  "seat": "CFO or Owner"
+ },
+ {
+  "company": "UNIVERSAL METAL PRODUCTS",
+  "stand": "37",
+  "tier": "3 MFG",
+  "seat": "CFO or Controller"
+ },
+ {
+  "company": "ADMIRAL CABLE",
+  "stand": "219",
+  "tier": "3 MFG",
+  "seat": "CFO or Owner"
+ },
+ {
+  "company": "TEKMART INTERNATIONAL",
+  "stand": "132",
+  "tier": "3 MFG",
+  "seat": "CFO or Owner"
+ },
+ {
+  "company": "VEXOS MANUFACTURING",
+  "stand": "178",
+  "tier": "3 MFG",
+  "seat": "CFO or Controller"
+ },
+ {
+  "company": "MGS HEALTHCARE MANUFACTURING",
+  "stand": "189",
+  "tier": "3 MFG",
+  "seat": "CFO or Controller"
+ },
+ {
+  "company": "SELTEK INTERNATIONAL",
+  "stand": "53",
+  "tier": "3 MFG",
+  "seat": "Owner or Finance lead"
+ },
+ {
+  "company": "FRANKLIN MOUNTAIN PACKAGING",
+  "stand": "F",
+  "tier": "3 MFG",
+  "seat": "Owner or Controller"
+ },
+ {
+  "company": "EL PASO FOREIGN TRADE ZONE",
+  "stand": "46",
+  "tier": "REFERRAL",
+  "seat": "Director"
+ },
+ {
+  "company": "MVEDA New Mexico Borderplex",
+  "stand": "106",
+  "tier": "REFERRAL",
+  "seat": "Director or BizDev lead"
+ },
+ {
+  "company": "TEXAS MANUFACTURING ASSISTANCE CENTER",
+  "stand": "146",
+  "tier": "REFERRAL",
+  "seat": "Director"
+ },
+ {
+  "company": "INDEX JUAREZ",
+  "stand": "125",
+  "tier": "REFERRAL",
+  "seat": "Director"
+ }
+]

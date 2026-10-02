@@ -1,0 +1,810 @@
+[
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Tony White",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Martin Hauser",
+    "section": "Worth an invitation, ranked",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Jorge Kovacs Morayta",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Gabriel Perez Krieb",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Syed Ali",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Bernardo K Santana",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Alejandro González",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Rafael Vasquez",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Raul Reyna Jr.",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Christian Karim Khalil",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Scott (Scotty) Horner",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "recommended; the screen states it has no profile URLs, so this is waiting on Marcel and should be chased",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Miguel Kozlowski",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Nish Patel",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-01-linkedin-batch.md",
+    "name": "Kevin Soares",
+    "section": "Worth an invitation, ranked",
+    "verdict": "blocked-url",
+    "detail": "in the pipeline but NOT actioned: draft-ready-blocked-url. The note is written; only the blocker stands.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Juan Cardenas",
+    "section": "Batch 1, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Valeria Quintero",
+    "section": "Batch 1, five profiles",
+    "verdict": "rejected",
+    "detail": "Accountant, not a decision seat, 34 followers and a thin rarely maintained profile, 2 mutuals. SEAT CONFLICT TOO: Tricar Logistics is held by Juan Cardenas, VP, status awaiting-reply.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Ann Marie Earle",
+    "section": "Batch 1, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Craig Entwistle",
+    "section": "Batch 1, five profiles",
+    "verdict": "blocked-research",
+    "detail": "CEO of PB2 Foods. The screen says explicitly: do not assume exposure. Peanuts are a US crop so the import story is weak; the open question is the export side plus any cocoa or specialty inputs. One mutual, Matt Milner, who is himself now deferred to January. RESOLVE THE EXPOSURE QUESTION BEFORE ANY NOTE.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Paul Vaughan",
+    "section": "Batch 1, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Nick Negro",
+    "section": "Batch 2, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Juvell O.",
+    "section": "Batch 2, five profiles",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY. Exp. Group is held by Fraymil Rodriguez, COO, status awaiting-reply. Juvell is Operations Manager and his skills are supplier negotiation and strategic sourcing, which is the buying side rather than the paying side.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Denis Bräuer",
+    "section": "Batch 2, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alejandro Romero",
+    "section": "Batch 2, five profiles",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY, AND THIS CONFLICT WAS NOT PREVIOUSLY SPOTTED. Coast Citrus Distributors is held by Jimmy Alvarez, PRESIDENT, status invitation-scheduled. Romero is Corporate Controller, so the president outranks him. Otherwise a good profile: Tec de Monterrey, 5 mutuals, possibly an open profile.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Patricia Pinter",
+    "section": "Batch 2, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rob Levitt",
+    "section": "Batch 3, five profiles",
+    "verdict": "rejected",
+    "detail": "worked, then closed: cut-on-exposure",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Courtney Dyess-Mam",
+    "section": "Batch 3, five profiles",
+    "verdict": "channel",
+    "detail": "NPC is a group purchasing organisation under Foodbuy. A GPO negotiates, its members pay, so it is a referral route and never an account. 8 mutuals, shared produce group, posts actively.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Nancy Sanchez",
+    "section": "Batch 3, five profiles",
+    "verdict": "rejected",
+    "detail": "3rd degree, 40 connections, 40 followers, accountant not a decision seat. The weakest profile in the batch and the screen said cut unless Marcel knows something.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "John Larse",
+    "section": "Batch 3, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "J.D. Poole",
+    "section": "Batch 3, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Joan Oben",
+    "section": "Batch 4, five profiles",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY. Scotlynn is held by J.D. Poole, OWNER and VP, status invitation-scheduled. She is USA Accounting Manager, 3rd degree with 155 connections.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jose Antonio Martinez Haro",
+    "section": "Batch 4, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Esteban Alvarez",
+    "section": "Batch 4, five profiles",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY, settled by Marcel. Harvest Master is held by Daniel Zaragoza, Partner, status connected-messaged, and Marcel kept Zaragoza once it emerged he had accepted and been messaged. Alvarez has 61 mutuals and is 1st degree, which is painful, but the seat is taken.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Fraymil Rodriguez",
+    "section": "Batch 4, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "David Fausset",
+    "section": "Batch 4, five profiles",
+    "verdict": "channel",
+    "detail": "Director of Sales at Fronterra Group USA. A sales seat does not own banking, so he is a route to the finance seat rather than the seat. 46 mutuals and a shared produce group make him a strong route.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "David Wilson",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Shirley Sass",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY. Quetico is held by Markar Agakanian, EVP, status in-sequence. Senior accountant, not a decision seat. The screen is explicit that holding her URL, the only one visible in all 87 profiles, is not a reason to write to her.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Omar Oweis",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY, same as Shirley Sass. Senior staff accountant at Quetico, and Sales Navigator finds no common connection at all.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Markar Agakanian",
+    "section": "Batch 5, five screenshots, four distinct people",
+    "verdict": "entered",
+    "detail": "pipeline status in-sequence",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Saul N. Macias III",
+    "section": "Batch 6, five profiles",
+    "verdict": "channel",
+    "detail": "Fresh Produce Association of the Americas, so a trade association and not an account. He has no payables; his members do, and a cross border trade and government affairs seat talks to all of them. 8 mutuals.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Tom Lyons",
+    "section": "Batch 6, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-sequence",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Kate Johnson",
+    "section": "Batch 6, five profiles",
+    "verdict": "rejected",
+    "detail": "CEO of Lumen Technologies, a multi billion dollar listed telecom. Not merely above band, a different universe from the book. 124,634 followers. Nothing actionable.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Ana Michelle Conaway",
+    "section": "Batch 6, five profiles",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY, AND THIS CONFLICT WAS NOT PREVIOUSLY SPOTTED. Fresh Express is held by John P. Olivo, PRESIDENT AND CEO, status awaiting-reply. She is 3rd degree with 64 connections, and although her title says Senior Treasury Analyst her own About reads accounts payable and property management. NOTE FOR THE RECORD: the Venezuela rule does NOT block her, since UCLA Lisandro Alvarado is her university in Barquisimeto and under the Yllescas and Salinas precedent an education is biography rather than exposure. She is rejected on the seat, not on the rule.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Travis Pendleton",
+    "section": "Batch 6, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rosa Duarte",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-sent-manually",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Sylvia Parra",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "John P. Olivo",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status awaiting-reply",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lindsey Thiel",
+    "section": "Batch 7, five profiles",
+    "verdict": "rejected",
+    "detail": "Right title, wrong company. Treasury Manager with a brand new CTP, which would be a warm opening, but Taylor Morrison is a US homebuilder: domestic construction, domestic revenue, domestic supply. The FX case is thin to absent. 1 mutual.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Debra Wevers",
+    "section": "Batch 7, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "edwyin Arredondo",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "rejected",
+    "detail": "ONE SEAT PER COMPANY, AND THIS CONFLICT WAS NOT PREVIOUSLY SPOTTED. Nova World Fresh is held by Alan Arredondo, FOUNDER AND CEO, status message-sent. edwyin is a Sales Executive, so a route at best, and the route is redundant when the founder is already in a live thread.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Gregory Lattanzi",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "channel",
+    "detail": "1st degree, 65 mutuals, CTP who implements treasury systems and runs bank relationships for a living. READ HIM AS A PEER AND A CHANNEL, NEVER A PROSPECT. He is also the common thread behind two other profiles in this screen, having celebrated Lindsey Thiel CTP post and liked Debra Wevers post, so he is already doing the surfacing work.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Darrell Beyer",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "blocked-research",
+    "detail": "Seen only as a feed post from 8 September about baby broccoli, never as a profile view, and the company name is truncated to Bluebird Mountain. NEEDS A PROPER PROFILE SCREENSHOT before anything can be said about him. 1st degree.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Cultivar",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "not-a-person",
+    "detail": "company or group name captured as a profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Pedro Noyola",
+    "section": "Batch 8, five screenshots, four usable",
+    "verdict": "channel",
+    "detail": "CEO of Cultivar, an outsourced finance function for food and beverage founders, so it sits inside the books of every client it serves. Cultivar itself has little FX; its client base has plenty and Pedro would know which. 1st degree, 48 mutuals, Harvard Business School. The screen calls it a good channel play and it is.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Paulina Ascencio Domínguez",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "rejected",
+    "detail": "MARCEL'S OWN SESAJAL DECISION of 2026-10-02: Sesajal goes to Gloria Mancilla first and the other four stay out. Tesoreria is the right function but she sits in Zapopan, Jalisco, MEXICO.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Patricia Mendoza Inda",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "rejected",
+    "detail": "MARCEL'S OWN SESAJAL DECISION. US side at Sesajal LLC San Diego, but 3rd degree, 106 connections, an About field containing only the word Resume, and not a decision seat.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Irasema George",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "rejected",
+    "detail": "MARCEL'S OWN SESAJAL DECISION. AP/AR Specialist at Sesajal LLC San Diego, US side but a specialist seat, 3rd degree, 102 connections.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Gloria Viridiana Mancilla Palacios",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-sent-manually",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Luis Miguel Barriga Calderon",
+    "section": "Batch 9, five profiles, and they are all one company",
+    "verdict": "reserve",
+    "detail": "DELIBERATE HOLD, NOT A REJECTION. Group CFO of SESAJAL GROUP and the actual decision seat, with 30 mutuals, the most of the five Sesajal names, and a Harvard Business School Executive Education record. He sits in Guadalajara, MEXICO, so under the Angelina de Leon precedent he is reachable only with the US entity named explicitly. MARCEL CHOSE GLORIA MANCILLA FIRST on the reasoning that a US based business unit director can introduce the group CFO far more cheaply than a cold approach to Guadalajara. He is the reserve if Gloria goes nowhere. HE ALSO HAS AN IPADE MBA, which is the route into Sesajal generally.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Eduardo Sánchez",
+    "section": "Batch 10, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-sequence",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jay Hinton",
+    "section": "Batch 10, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alfredo Flores",
+    "section": "Batch 10, five profiles",
+    "verdict": "rejected",
+    "detail": "Cut on exposure. CertaPro Painters of Central and Northeast Houston is commercial and industrial painting with 70+ painters, a domestic services business with no cross border payables. Houston and 52 mutuals are attractive and his contact details are on his own banner, so he remains available as a Houston relationship if Marcel ever wants one, but he is not an FX account.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "José M. Villafañe",
+    "section": "Batch 10, five profiles",
+    "verdict": "rejected",
+    "detail": "Audio Treehouse, an audio media company. Not ICP, no cross border payables of any size. 1 mutual.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Latam Doers",
+    "section": "Batch 10, five profiles",
+    "verdict": "not-a-person",
+    "detail": "company or group name captured as a profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Julio (JP) Ponce Marín",
+    "section": "Batch 11, five profiles",
+    "verdict": "rejected",
+    "detail": "Tropical Podcasting. Not ICP. 1 mutual.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alex M.",
+    "section": "Batch 11, five profiles",
+    "verdict": "relationship-ask-first",
+    "detail": "DO NOT PITCH, ASK WHAT HE IS DOING. The profile shows a school where the company should be and the surname is abbreviated to an initial, and the headline is a list of competencies with no employer, which is the classic between roles shape. THAT IS THE EXACT PATTERN THAT MADE ME CUT GRACE BRAVO WRONGLY, so the lesson is applied here rather than relearned. Strong substance underneath: Finance Director and Controller, international finance, treasury, multi entity, MBA, ex GE and Big Four, shared SuperCFO group, 5 mutuals. A finance leader between roles is a future buyer and a present referrer.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Felix Montelara",
+    "section": "Batch 11, five profiles",
+    "verdict": "rejected",
+    "detail": "Audio Dice Network, Latin Podcast, Puerto Rico CrimeStoppers, retired federal agent. Media and non profit, so not ICP. An interesting person with no payables.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lupe De Los Santos",
+    "section": "Batch 11, five profiles",
+    "verdict": "channel",
+    "detail": "Sentidos LLC, a marketing consultancy helping brands remove barriers to US Hispanic growth, ex Clorox and P&G. His clients are US Hispanic CPG brands, which is a room worth being in. Channel, not an account. 3,010 followers.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lina Gonzalez",
+    "section": "Batch 11, five profiles",
+    "verdict": "channel",
+    "detail": "Chief Executive and Operations Officer of Ohla US, Miami, a retail marketing and CPG activation agency. CHANNEL FIRST, and an account only if they buy on behalf of clients, which is worth one check. 17 mutuals, posts actively, Top Women in Grocery three years running.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jose Mateo III",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "rejected",
+    "detail": "Nueva Network, US Hispanic broadcast and digital advertising. Not ICP. 1 mutual.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Mike Woessner",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "rejected",
+    "detail": "Hispanic Radio Network, media sales. Not ICP, and Sales Navigator finds no common connection at all, so there is no path either. 3rd degree.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Dinant",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "not-a-person",
+    "detail": "company or group name captured as a profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alfredo Rivera",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "channel",
+    "detail": "A CHANNEL OF THE HIGHEST QUALITY AND MUST NEVER BE PITCHED FX. Board member and advisory seat with 35+ years in the beverage industry, having led turnarounds across North America and Latin America. He does not have payables, he has board seats, and one introduction from him is worth twenty cold notes. 29 mutuals, 3,784 followers, Harvard Business School, and MARCEL ALREADY FOLLOWS HIM.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Olvin Caballero",
+    "section": "Batch 12, five profiles, and a second Honduran cluster",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Ryan Kellogg",
+    "section": "Batch 13, six screenshots",
+    "verdict": "blocked-research",
+    "detail": "CTP at CHS Inc., a very large US agricultural cooperative with real export exposure, and he JUST EARNED HIS CTP and posted about it, which is a warm opening. Treasury analyst is junior but inside the flow. SEEN IN THE FEED ONLY, NEVER AS A PROFILE VIEW, so a profile view is needed first. Note that Gregory Lattanzi celebrated this post too, the third profile Lattanzi has surfaced.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Carlos Gomes",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rodrigo Lopez Sanroman",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jon Zaninovich",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status held-sequenced",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Mitch Millwee",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jack Campbell",
+    "section": "Batch 13, six screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status held-sequenced",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Edgar Gutierrez",
+    "section": "Batch 13, six screenshots",
+    "verdict": "channel",
+    "detail": "VP Farming Operations at Limoneira, a listed citrus and agribusiness company with operations in Chile and Argentina, so the exposure is real. But farming operations is not finance, making him a senior route rather than a seat. Santa Paula California, 19 mutuals, Universidad EARTH in Costa Rica. HIS URL IS PARTIAL AND UNUSABLE.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Nate Ray",
+    "section": "Batch 14, five screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Hayden McIntyre",
+    "section": "Batch 14, five screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Keith Wilson",
+    "section": "Batch 14, five screenshots",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Edgar Gutierrez — duplicate of #66",
+    "section": "Batch 14, five screenshots",
+    "verdict": "duplicate",
+    "detail": "70. Edgar Gutierrez — duplicate of #66, counted once.",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Debora Delaney",
+    "section": "Batch 14, five screenshots",
+    "verdict": "rejected",
+    "detail": "worked, then closed: blocked-by-one-seat-rule-and-a-stale-profile",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jose Luis Lopez Mota",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Santiago Gutierrez Zaldivar",
+    "section": "Batch 15, five profiles",
+    "verdict": "channel",
+    "detail": "Adamo Capital Founders Family Office. A family office is a channel, never an account: its portfolio companies hold the payables. Worth knowing, not worth pitching. 6 mutuals, Tuck.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Roberto Contreras",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Roberto Contreras IV",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Sarah Van Houten",
+    "section": "Batch 15, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Rafael Hernandez",
+    "section": "Batch 16, five profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Bob Dill",
+    "section": "Batch 16, five profiles",
+    "verdict": "channel",
+    "detail": "Retired President and CEO of Hisco, now Managing Director of the Lumen Institute, HOUSTON. He convenes Houston chief executives for a living, which makes him a channel of the Alfredo Rivera kind. NEVER PITCH, ALWAYS ASK. 14 mutuals, shared group, posts recently.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Iván Reybel Arista Pando",
+    "section": "Batch 16, five profiles",
+    "verdict": "relationship-ask-first",
+    "detail": "ASK, DO NOT PITCH. Titled CFO at Vision Online, but his profile carries a SERVICES section listing financial consulting, management consulting, budgeting, loans and commercial real estate, and a sitting CFO does not advertise services. That is the Grace Bravo shape again, so he is consulting or wants to be. 20 mutuals, Orlando, Hult International Business School, the same school as Alex M.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Lu Villegas",
+    "section": "Batch 16, five profiles",
+    "verdict": "blocked-research",
+    "detail": "CEO of Grupo Calufe, coffee, based in CÓRDOBA, VERACRUZ, MEXICO, so the no Mexican companies rule applies and A US ENTITY MUST BE NAMED BEFORE HE CAN BE WORKED. WEALTHCORP LLC ALSO APPEARS ON HIS PROFILE AND MAY BE EXACTLY THAT, which is the one check worth doing. 53 mutuals, and Sales Navigator flags BOTH shared education and a shared IPADE group, the second IPADE link in this screen after Gloria Mancilla. CONNECT IS RESTRICTED to people who know each other, so an invitation may not even be possible.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Eugenio Minvielle",
+    "section": "Batch 16, five profiles",
+    "verdict": "channel",
+    "detail": "133 MUTUALS, THE HIGHEST OVERLAP IN ALL 87 PROFILES. President and Founder of Innit, a food technology platform rather than an importer, so his own exposure is unproven. But 20+ years in FMCG across Europe, North America, South America and Asia makes him a formidable channel whatever his payables look like. 7,170 followers, Harvard Business School. CONNECT IS RESTRICTED.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alfredo Amparan Garza",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status invitation-scheduled",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Marco Valencia",
+    "section": "Batch 17, six profiles",
+    "verdict": "channel",
+    "detail": "Director of the Global Family Office at Lyra Investments, so a channel rather than an account, the same shape as Santiago Gutierrez Zaldivar. 21 mutuals and a shared CFO Network group, which is the same warm path as Ann Marie Earle.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Guillermo DeLeon",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Alan Peters",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Jana Deal",
+    "section": "Batch 17, six profiles",
+    "verdict": "rejected",
+    "detail": "VP Finance at Diakonia Group, but 3rd degree with 189 connections, no mutuals, a thin network and unknown exposure, and her only activity is congratulating colleagues on SOLV Holdings posts. The screen said cut unless Marcel knows the company.",
+    "resolvedBy": "human"
+  },
+  {
+    "screen": "screen-2026-10-02-linkedin-batch.md",
+    "name": "Martin Hauser",
+    "section": "Batch 17, six profiles",
+    "verdict": "entered",
+    "detail": "pipeline status in-campaign",
+    "resolvedBy": "derived"
+  }
+]

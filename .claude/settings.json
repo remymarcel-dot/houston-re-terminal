@@ -1,0 +1,47 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Hey_Outreach__get_all_linked_in_accounts",
+      "mcp__Hey_Outreach__get_linked_in_account_by_id",
+      "mcp__Hey_Outreach__get_my_network_for_sender",
+      "mcp__Hey_Outreach__get_all_campaigns",
+      "mcp__Hey_Outreach__get_campaign",
+      "mcp__Hey_Outreach__get_campaign_sequence",
+      "mcp__Hey_Outreach__get_campaigns_for_lead",
+      "mcp__Hey_Outreach__get_leads_from_campaign",
+      "mcp__Hey_Outreach__get_overall_stats",
+      "mcp__Hey_Outreach__get_conversations_v2",
+      "mcp__Hey_Outreach__get_chatroom",
+      "mcp__Hey_Outreach__get_lead",
+      "mcp__Hey_Outreach__get_all_lists",
+      "mcp__Hey_Outreach__get_list_by_id",
+      "mcp__Hey_Outreach__get_lists_for_lead",
+      "mcp__Hey_Outreach__get_leads_from_list",
+      "mcp__Hey_Outreach__get_companies_from_list",
+      "mcp__Hey_Outreach__get_tags_for_lead",
+      "mcp__Hey_Outreach__create_empty_list",
+      "mcp__Hey_Outreach__add_leads_to_list",
+      "mcp__Hey_Outreach__add_leads_to_list_v2",
+      "mcp__Hey_Outreach__add_leads_to_campaign",
+      "mcp__Hey_Outreach__add_leads_to_campaign_v2",
+      "mcp__Hey_Outreach__create_campaign",
+      "mcp__Hey_Outreach__create_campaign_from_template",
+      "mcp__Hey_Outreach__update_campaign_sequence",
+      "mcp__Hey_Outreach__update_campaign_schedule",
+      "mcp__Hey_Outreach__update_campaign_settings",
+      "mcp__Hey_Outreach__update_campaign_accounts",
+      "mcp__Hey_Outreach__add_tags_to_lead",
+      "mcp__Hey_Outreach__replace_tags",
+      "mcp__Hey_Outreach__pause_campaign",
+      "mcp__Hey_Outreach__resume_campaign",
+      "mcp__Hey_Outreach__stop_lead_in_campaign",
+      "mcp__Hey_Outreach__delete_leads_from_list",
+      "mcp__Hey_Outreach__bulk_commit",
+      "mcp__Hey_Outreach__detect_genders"
+    ],
+    "ask": [
+      "mcp__Hey_Outreach__start_campaign",
+      "mcp__Hey_Outreach__send_message"
+    ]
+  }
+}
