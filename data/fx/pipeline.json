@@ -7982,11 +7982,11 @@
     "profileUrl": null,
     "profileUrlNote": "NOT ON FILE and not needed yet. He is first degree, so Marcel messages him directly without an invitation or a URL. A URL is only required if he ever goes into a HeyReach campaign. The agent does not construct one.",
     "play": "play-0-first-degree",
-    "status": "dormant-warm",
+    "status": "in-sequence",
     "outcome": null,
     "firstTouch": "2026-06-25",
     "loggedOn": "2026-10-02",
-    "lastActivity": "2026-06-26",
+    "lastActivity": "2026-10-02",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, ranked 1 of 87",
     "warmPath": "First degree with 101 mutual connections, the second largest overlap in the 87 profile screen. Sales Navigator flags SHARED EDUCATION: both passed through IPADE Business School, where Marcel did the Senior Management Program 2012 to 2013. No claim of overlapping years, only the shared school.",
     "signal": "Post 2026-09-26, garlic harvest in Tracy, California: behind every successful harvest there is more than good luck, there is hard work, discipline and consistent field follow up. 7,847 followers.",
@@ -8006,11 +8006,18 @@
         "channel": "linkedin-message",
         "outcome": "replied with a thumbs up",
         "notes": "Marcel accepted the soft no gracefully, left the door open for when cross border flow appears, and offered to keep exchanging sector views. Eduardo closed with 👍."
+      },
+      {
+        "n": 3,
+        "date": "2026-10-02",
+        "channel": "linkedin-message-manual",
+        "outcome": "sent, awaiting reply",
+        "notes": "Spanish, Play 0, sent by hand. The HUMA message, not the discarded draft. Opens by holding Marcel to his own June promise to return when a cross border flow appeared, and says plainly that Eduardo had already mentioned one and Marcel did not pick it up: AgPro is part of Huma and Huma sells internationally through master distributors. One question: are those distributors invoiced in dollars or local currency. Carries the price resistance framing, that a distributor billed in dollars never raises an FX complaint, he negotiates harder, so it reaches Huma as a commercial problem rather than a currency one. Full text in data/fx/message-eduardo-sanchez-2026-10-02.md."
       }
     ],
-    "touchCount": 2,
+    "touchCount": 3,
     "nextTouch": null,
-    "nextStep": "CLEAN SLATE. Marcel confirmed 2026-10-02 that the Oct 2 message was never sent, so the draft containing the wrong 'nunca hemos platicado' opener never reached him and no repair is needed. Touch 3 removed. The next message is the Huma master distributor question, written fresh with no apology, in data/fx/message-eduardo-sanchez-2026-10-02.md. He is first degree so it goes as a Play 0 message, by hand unless Marcel supplies a URL.",
+    "nextStep": "NOTHING SCHEDULED, deliberately. He is a warm dormant relationship that has now been properly reopened, not a cadence. In June he replied within thirty minutes both times, so silence from him would be information rather than normal. If he names a currency, draft against that answer. If he is quiet past roughly 2026-10-16, the honest read is that Huma's distributor billing is not his to discuss, and the next move is to ask who at Huma it belongs to rather than to re-ask him.",
     "reply": "2026-06-25, verbatim substance: AgPro is currently focused on the US market, strengthening operations and technical support to growers. International expansion is a future consideration. CRITICALLY: 'como parte de Huma, ya estamos participando en mercados internacionales a través de distribuidores máster en distintos países, lo que nos ha permitido desarrollar experiencia y presencia global.'",
     "companyProfile": "AgPro LLC is PART OF HUMA, the agricultural biologicals group. Huma already sells into international markets through MASTER DISTRIBUTORS in several countries. Eduardo volunteered this himself in June and it was not followed up at the time.",
     "watchFor": null
