@@ -1025,7 +1025,11 @@ path neither of them will expect.
 
 | 8 | **DC Partners** | **Roberto Contreras (father)**, son as fallback | Sequenced, not parallel. Father holds the euro exposure through Moderno and built Cosentino North America. Note written, blocked on a URL. |
 
-Still open: **5** Fresh Express (nothing to do, Olivo already pending), **9** Catalina.
+| 9 | **Catalina** | **Sarah Van Houten** | Note written, blocked on a URL. Debora Delaney stays do-not-write. |
+
+**All nine resolved.** Item 5 needed nothing: Olivo's invitation was already pending.
+
+**Blocked on URLs:** Fraymil Rodriguez, J.D. Poole, Gloria Mancilla, Roberto Contreras, Sarah Van Houten. Markar Agakanian needs InMail rather than an invitation.
 
 ## Iván Reybel Arista Pando, revised on his full profile
 
