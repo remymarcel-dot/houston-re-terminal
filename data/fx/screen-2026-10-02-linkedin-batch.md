@@ -1023,8 +1023,9 @@ path neither of them will expect.
 
 | 7 | **Sesajal** | **Gloria Mancilla** | San Antonio, US side. Note written, blocked on a URL. Barriga in Guadalajara is the reserve. |
 
-Still open: **5** Fresh Express (nothing to do, Olivo already pending),
-**8** DC Partners, **9** Catalina.
+| 8 | **DC Partners** | **Roberto Contreras (father)**, son as fallback | Sequenced, not parallel. Father holds the euro exposure through Moderno and built Cosentino North America. Note written, blocked on a URL. |
+
+Still open: **5** Fresh Express (nothing to do, Olivo already pending), **9** Catalina.
 
 ## Iván Reybel Arista Pando, revised on his full profile
 
