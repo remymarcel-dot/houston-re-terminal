@@ -11,7 +11,7 @@ ranked "Worth an invitation" on 2026-10-01 were lost.
   check  exit non-zero and report anything that needs a human decision
 
 Verdicts:
-  entered                     has an open pipeline row. The only self-healing verdict
+  entered                     has an open, unblocked pipeline row. The only self-healing one
   note-written-not-entered    a note exists but no pipeline row. ACTION NEEDED
   blocked-url                 recommended, waiting on Marcel to paste a URL. CHASE IT
   recommended-never-actioned  recommended, no note, no row, no recorded blocker. WORST CASE
@@ -92,6 +92,15 @@ def build():
 
             name = num.group(2).strip()
             row = match(name, idx)
+            # a row that is still blocked is NOT actioned, whatever its presence implies
+            if row and str(row.get('status', '')).startswith(('draft-ready-blocked',
+                                                             'blocked-', 'url-unconfirmed')):
+                st = str(row.get('status'))
+                ledger.append(dict(screen=base, name=name, section=sec,
+                                   verdict=('blocked-url' if 'url' in st else 'blocked-research'),
+                                   detail=f"in the pipeline but NOT actioned: {st}. The note is written; only the blocker stands.",
+                                   resolvedBy='derived'))
+                continue
             # a closed row is an OUTCOME, not just presence: report it as rejected
             if row and str(row.get('status')) in ('closed', 'do-not-contact', 'cut'):
                 ledger.append(dict(screen=base, name=name, section=sec,

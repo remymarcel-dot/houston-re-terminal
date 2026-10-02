@@ -798,3 +798,10 @@ a row is proof the name was actioned. Without that, hand-resolving a name as `bl
 and then actually working it would leave the ledger permanently reporting a blocker that no
 longer exists, which is the same invisibility problem in reverse.
 
+**A pipeline row is not the same as an actioned name, and the script must not conflate them.**
+Writing the thirteen 1 October notes created thirteen rows, and the ledger immediately
+reported them as `entered` while every one was still `draft-ready-blocked-url`. That is the
+false comfort the ledger exists to prevent, arriving by the back door. **A row whose status
+begins `draft-ready-blocked`, `blocked-` or reads `url-unconfirmed` now reports as blocked,
+and `entered` means an open, unblocked row.** Writing a note is progress; it is not contact.
+
