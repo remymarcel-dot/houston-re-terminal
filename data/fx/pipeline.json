@@ -8890,19 +8890,19 @@
   },
   {
     "play": "play-4-cold",
-    "status": "in-campaign",
+    "status": "live-conversation",
     "campaignId": 634736,
     "listId": 988200,
     "outcome": null,
     "firstTouch": "2026-10-02",
     "loggedOn": "2026-10-02",
-    "lastActivity": "2026-10-02",
+    "lastActivity": "2026-10-03",
     "sourceScreen": "data/fx/screen-2026-10-02-linkedin-batch.md, worth-a-note list",
     "touchCount": 1,
-    "nextTouch": null,
-    "nextStep": "Verify at lead level that the invitation went out, checking leadConnectionStatus rather than campaign counters. Added to 634736 at 15:37 Central; 18 invitations are queued today against a 15 per day ceiling, so this one may not fire until Monday 5 Oct. Do not read a Friday 'None' as a failure.",
+    "nextTouch": "2026-10-03",
+    "nextStep": "⚠️ HE REPLIED WITH A REAL REQUIREMENT, UNPROMPTED, AND A REPLY IS OWED. On 2026-10-03 at 16:14, seven minutes after Marcel's note, he wrote: 'Our client transactions will be in euros then converted to dollars in our US company based here in Midland. Fortunately, the reais don't have anything to do with the sales transaction. WE DO HAVE TO CONVERT A LOT OF DOLLARS TO REAIS FOR DEVELOPMENT OF THE PLANT.' Draft reply ready in data/fx/inbox-2026-10-03.md. HE CORRECTED THE PREMISE AND HANDED OVER A BIGGER ONE. Marcel guessed reais in and euros out; Alan said the reais are not in the sales transaction at all, then described plant construction capex in Brazil funded out of dollars. TWO LEGS IN OPPOSITE DIRECTIONS: EUR receivables converted to USD in the Midland entity, where he is a euro SELLER and which is the simpler half; and USD to BRL for the plant build, which is lumpy, large, scheduled, and the real opportunity. THE ARGUMENT: a construction schedule is a KNOWN FUTURE REQUIREMENT in reais, which is a different problem from converting at spot on each draw. The risk is not the average rate across the build, it is that the budget was set at one rate and the draws happen at another. Same mechanism as Gloria Mancilla's Temple plant and Rodolfo Vela's carve-out, and the reason builds come in over budget without anyone calling it FX. AND ONE FAVOURABLE STRUCTURAL FACT HE PROBABLY DOES NOT KNOW: Brazilian rates sit well above US rates, so the forward market TENDS TO PRICE REAIS WEAKER FURTHER OUT, which works IN FAVOUR of someone buying reais with dollars. Structural, not a forecast, and not a rate, so it does not breach the no numbers rule. THE CLOSING QUESTION IS THE WHOLE POINT: is the draw schedule quarterly or against milestones? Milestone draws are hedgeable, open ended ones are not, so that answer decides whether there is anything to do. ⚠️ HEYREACH AUTO-TAGGED HIM 'GENERIC' AND THAT TAG IS WRONG. It is a classifier, not a judgment, and this is the most qualified inbound in the book. CONTEXT: CEO at Tarpon Pipe, Chairman at Latam Forest Trading, MIDLAND TEXAS. Came from campaign 634736.",
     "name": "Alan Peters",
-    "company": "Latam Forest Trading, LLC",
+    "company": "Latam Forest Trading, LLC / Tarpon Pipe",
     "title": "Chairman",
     "location": "Midland, Texas, United States",
     "profileUrl": "https://www.linkedin.com/in/alan-peters-bab3141b/",
@@ -8916,7 +8916,8 @@
         "notes": "Campaign 634736, wave 2 of the worth-a-note list (item 17). Added via add_leads_to_campaign v1 after create_campaign and the v2 lead endpoint both returned errors; v1 succeeded and the lead resolved to a real LinkedIn profile id. Not a touch until leadConnectionStatus reads ConnectionSent. Full text and reasoning in data/fx/notes-2026-10-02-worth-a-note-15-19.md."
       }
     ],
-    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight."
+    "verification": "VERIFIED AT LEAD LEVEL 2026-10-02 ~17:30 UTC: leadConnectionStatus reads None, so THE INVITATION HAS NOT BEEN SENT. Not a failure; the sequence is VIEW_PROFILE then CONNECTION_REQUEST at a 3 hour delay, and the profile views ran between 15:04 and 17:20 UTC, so invitations are due 18:04 to 20:20 UTC which is 13:04 to 15:20 Central. Full report in data/fx/verification-2026-10-02-lead-level.md. 17 invitations are queued against a 15 per day ceiling, so one or two roll to Monday. RE-CHECK MONDAY 5 OCT, not tonight.",
+    "noteFile": "data/fx/inbox-2026-10-03.md"
   },
   {
     "play": "play-4-cold",
