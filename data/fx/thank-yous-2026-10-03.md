@@ -137,3 +137,49 @@ who Marcel decided to work, which is a different and smaller set.
 **The fix is the sweep itself, not a new field:** page the conversations, filter on
 `lastMessageSender == CORRESPONDENT`, and compare against the pipeline rather than starting
 from it. That is now written into `icp.md`.
+
+---
+
+# SENT 2026-10-03: three of four landed, and the fourth is a finding
+
+**Marcel said "Go for all 4". All four were attempted through `send_message`. Every call
+returned the same thing: no output, no error.**
+
+| Who | Result |
+|---|---|
+| **Jesus Mears** | ✅ **Sent 18:04:38.** Thread now 5 messages, last from Marcel |
+| **Julio Marín** | ✅ **Sent 18:04:44.** Thread now 2 messages, last from Marcel |
+| **Mauricio Prado** | ✅ **Sent 18:04:51.** Thread now 2 messages, last from Marcel |
+| **Marina Bernal** | ❌ **DID NOT SEND, TWICE** |
+
+## ⚠️ Marina's message never landed, and nothing said so
+
+Attempted twice, once with an empty subject and once with `"Thank you"`. **Her chatroom still
+shows `totalMessages: 1`, her own 6 September message, last sender CORRESPONDENT.** The API
+reported success-shaped silence both times.
+
+**The only reason this was caught is that every send was verified by re-reading the thread.**
+Had the three successes been taken as proof of a working method, the record would now claim a
+debt was paid when it was not.
+
+**Likely cause: her thread contains only one message, hers.** Marcel's original approach is not
+in the chatroom at all, so it was a connection request note or an InMail rather than a stored
+message. **A chatroom whose only message came from the other person may have nothing for the
+API to post into.** `blockedByParticipant` is false, so she has blocked nothing.
+
+**So Marcel sends this one by hand**, from her profile:
+`https://www.linkedin.com/in/marina-garcia-4746a542`
+
+> Marina, thank you for answering, and for being direct about it. That is more useful than
+> silence. Good luck with the season.
+>
+> Marcel
+
+**And she is worth more than the courtesy suggests.** She is **CFO of Sweet Seasons in McAllen,
+Texas**, and her own headline reads fresh produce profitability, budgeting, financial planning
+and supply chain management. **That is close to a perfect seat for this book, and she still said
+no** — which is her right, and the reason the reply carries no second pitch and must never
+acquire one.
+
+**The rule is now in `config.md`: a silent return from `send_message` is not delivery. Verify
+by reading the thread.**

@@ -675,7 +675,7 @@
     "name": "Marina Bernal (Garcia)",
     "company": "Sweet Seasons, LLC",
     "title": "Chief Financial Officer",
-    "location": "McAllen, Texas, United States",
+    "location": "McAllen, Texas",
     "profileUrl": "https://www.linkedin.com/in/marina-garcia-4746a542",
     "play": "inbox",
     "campaignId": null,
@@ -695,13 +695,14 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": "2026-10-03",
+    "nextTouch": "2026-10-06",
     "stopReason": "said-no",
     "stopNote": "Said not interested in words.",
     "stoppedOn": "2026-10-01",
     "lastActivity": "2026-10-03",
     "noteFile": "data/fx/thank-yous-2026-10-03.md",
-    "nextStep": "STATUS CORRECTED 2026-10-03: it read 'closed' while carrying a next touch date, which the pipeline auditor flagged as a contradiction, and it was right. She is NOT closed until the courtesy is sent. THANK HER AND CLOSE IT PROPERLY. On 2026-09-06 she wrote 'Hi Marcel, Thanks for reaching out, but I'm not interested' and it was NEVER ACKNOWLEDGED, almost a month ago. She was polite and direct when she could simply have ignored him, which deserves an answer. THE REPLY MUST CONTAIN NO SECOND PITCH OF ANY KIND. The entire value of answering a clean no is that it stays clean, and a door left ajar turns a courtesy into a tactic. Draft in data/fx/thank-yous-2026-10-03.md. After it is sent she is CLOSED for good."
+    "nextStep": "SEND FAILED TWICE, AND MARCEL MUST SEND THIS ONE BY HAND. The thank you was attempted twice on 2026-10-03, once with an empty subject and once with 'Thank you', and BOTH TIMES send_message RETURNED NO OUTPUT, EXACTLY AS THE THREE SUCCESSFUL SENDS DID, while her chatroom still shows totalMessages 1 with the last message from her on 2026-09-06. Nothing landed. LIKELY CAUSE: her thread contains only ONE message, hers. Marcel's original approach is not in the chatroom at all, which means it was a connection request note or an InMail rather than a stored message, so there may be no sendable thread here for the API to post into. blockedByParticipant is false, so she has not blocked anything. SO MARCEL SENDS IT BY HAND from LinkedIn. Text is four lines and is in data/fx/thank-yous-2026-10-03.md. Open her profile at https://www.linkedin.com/in/marina-garcia-4746a542 and send it directly. SHE IS WORTH THE COURTESY AND MORE: she is CFO OF SWEET SEASONS IN MCALLEN, TEXAS, and her own headline is fresh produce profitability, budgeting, financial planning and supply chain. That is close to a perfect seat, and she still said no, which is her right and must be respected. THE REPLY CARRIES NO SECOND PITCH and must not acquire one. After it is sent she is closed for good.",
+    "linkedinId": "151008856"
   },
   {
     "name": "Daniel O'Quinn",
@@ -9865,18 +9866,18 @@
     "title": "(not on record)",
     "location": "(not on record)",
     "play": "play-0-first-degree",
-    "status": "revival-draft-ready",
+    "status": "awaiting-reply",
     "campaignId": null,
     "listId": null,
     "profileUrl": null,
     "linkedinId": null,
     "outcome": null,
     "firstTouch": "2026-08-10",
-    "lastTouch": "2026-08-10",
+    "lastTouch": "2026-10-03",
     "loggedOn": "2026-10-03",
     "lastActivity": "2026-10-03",
-    "touchCount": 1,
-    "nextTouch": "2026-10-03",
+    "touchCount": 2,
+    "nextTouch": "2026-10-17",
     "noteFile": "data/fx/thank-yous-2026-10-03.md",
     "touches": [
       {
@@ -9885,10 +9886,17 @@
         "channel": "linkedin-message",
         "outcome": "HE REPLIED WARMLY AND WAS NEVER ANSWERED",
         "notes": "He wrote 'Hi Marcel, it's great to connect with you. Looking forward to staying in touch.' Nothing was sent back. Found 2026-10-03 in an inbox sweep of 300 conversations."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-03",
+        "channel": "linkedin-message",
+        "outcome": "SENT AND CONFIRMED 18:04:51, thread now shows 2 messages with the last from ME",
+        "notes": "Sent by the agent on Marcel's instruction 'Go for all 4', and VERIFIED by re-reading the chatroom afterwards. Draft and reasoning in data/fx/thank-yous-2026-10-03.md. Apology first and real, then one line of substance on Novamex, and deliberately no ask."
       }
     ],
     "angle": "NOT A COURTESY CASE, A MISSED LEAD. He said 'looking forward to staying in touch' on 2026-08-10 and was never followed up. NOVAMEX IS MEXICAN BEVERAGE BRANDS INTO THE US TRADE, which is squarely in the book. AND THERE IS A ONE SEAT COLLISION: TOMAS DE LEON AT NOVAMEX HAS AN INVITATION OUT RIGHT NOW, status invitation-sent. So a colder approach is going to a colleague while the man who already volunteered warmth sits ignored since August. PRADO IS THE WARMER PATH AND HE IS THE ONE BEING NEGLECTED.",
-    "nextStep": "SEND THE APOLOGY AND FOLLOW UP TODAY, draft in data/fx/thank-yous-2026-10-03.md. The apology comes first and is real: six weeks of silence after someone says 'looking forward to staying in touch' is careless and pretending otherwise would be worse. Then ONE line of substance about Novamex bringing Mexican brands into the US trade, and NO ask. DECIDE THE NOVAMEX SEAT BEFORE OR JUST AFTER SENDING. Tomas De Leon has a live invitation at the same company. If Prado engages, De Leon's invitation should be reconsidered rather than left running in parallel, because two approaches at one company is the thing the one seat rule exists to prevent. HIS PROFILE URL IS NOT ON RECORD and will be needed before he can enter any campaign; the reply itself goes into the existing chatroom, so nothing is blocked today."
+    "nextStep": "AWAITING REPLY. Apology and follow up sent 2026-10-03 after six weeks of silence on his August 'looking forward to staying in touch'. CHECK 17 OCTOBER; a second chase would be wrong after the apology, so if nothing comes back he is closed rather than chased. THE NOVAMEX SEAT STILL NEEDS DECIDING AND IT IS NOW URGENT. TOMAS DE LEON AT NOVAMEX HAS A LIVE INVITATION OUT. Two approaches at one company is exactly what the one seat rule exists to prevent, and Prado is the warmer of the two because he volunteered the warmth himself. IF PRADO REPLIES, STOP DE LEON'S INVITATION. If Prado stays silent through 17 October, De Leon becomes the Novamex seat by default. HIS PROFILE URL IS STILL NOT ON RECORD and will be needed before he can enter any campaign."
   },
   {
     "name": "Jesus Mears, CPA",
@@ -9896,18 +9904,18 @@
     "title": "Principal",
     "location": "(not on record)",
     "play": "play-0-first-degree",
-    "status": "thank-you-owed",
+    "status": "closed-courteously",
     "campaignId": null,
     "listId": null,
     "profileUrl": null,
     "linkedinId": null,
     "outcome": null,
     "firstTouch": "2026-08-20",
-    "lastTouch": "2026-08-20",
+    "lastTouch": "2026-10-03",
     "loggedOn": "2026-10-03",
     "lastActivity": "2026-10-03",
-    "touchCount": 1,
-    "nextTouch": "2026-10-03",
+    "touchCount": 2,
+    "nextTouch": null,
     "noteFile": "data/fx/thank-yous-2026-10-03.md",
     "touches": [
       {
@@ -9916,10 +9924,17 @@
         "channel": "linkedin-message",
         "outcome": "HE GAVE A SUBSTANTIVE ANSWER AND GOT NOTHING BACK",
         "notes": "He explained that payments run through legal channels, with counsel reviewing entities in depth for sanctioned parties under OFAC. Unacknowledged for six weeks. Found 2026-10-03 in an inbox sweep of 300 conversations. HE HAD NO PIPELINE ROW AT ALL until now, which is why nobody noticed: a reply from someone outside the pipeline is invisible to every sweep that reads the pipeline."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-03",
+        "channel": "linkedin-message",
+        "outcome": "SENT AND CONFIRMED 18:04:38, thread now shows 5 messages with the last from ME",
+        "notes": "Sent by the agent on Marcel's instruction 'Go for all 4', and VERIFIED by re-reading the chatroom afterwards. Draft and reasoning in data/fx/thank-yous-2026-10-03.md. Thanked him specifically for the OFAC and sanctions point rather than generically. No pitch, no ask."
       }
     ],
     "angle": "A CONSULTANT RATHER THAN A PROSPECT, and the value is what he knows. He volunteered how payments get cleared in practice: legal channels first, counsel reviewing entities in depth for OFAC sanctioned parties. That is a compliance perspective most FX conversations never get, and he gave it for free. TREAT HIM AS A PEER AND A POSSIBLE REFERRER, never as an account.",
-    "nextStep": "THANK HIM FOR THE SUBSTANCE, AND IT IS SIX WEEKS LATE. Draft in data/fx/thank-yous-2026-10-03.md. THANK HIM FOR THE SPECIFIC POINT, NOT GENERICALLY: a generic thank you to someone who took trouble is worse than none. No pitch and no ask. If he engages, he is a compliance sounding board and a referral route, not a lead."
+    "nextStep": "CLOSED COURTEOUSLY 2026-10-03. The six week old debt is paid and nothing further is owed. HE IS A PEER AND A POSSIBLE REFERRER, NOT AN ACCOUNT: he volunteered how payments actually get cleared, legal channels first with counsel reviewing entities for OFAC sanctioned parties, which is a compliance perspective most FX conversations never get. If he ever replies, treat it as a conversation between professionals and do not pitch him. No scheduled touch."
   },
   {
     "name": "Julio (JP) Ponce Marín",
@@ -9927,7 +9942,7 @@
     "title": "Creator & Editor",
     "location": "San Juan, Puerto Rico",
     "play": "play-4-cold",
-    "status": "thank-you-owed",
+    "status": "closed-courteously",
     "campaignId": null,
     "listId": null,
     "profileUrl": "https://www.linkedin.com/in/jponcem",
@@ -9937,8 +9952,8 @@
     "lastTouch": "2026-10-03",
     "loggedOn": "2026-10-03",
     "lastActivity": "2026-10-03",
-    "touchCount": 1,
-    "nextTouch": "2026-10-03",
+    "touchCount": 2,
+    "nextTouch": null,
     "noteFile": "data/fx/thank-yous-2026-10-03.md",
     "touches": [
       {
@@ -9947,9 +9962,16 @@
         "channel": "linkedin-invitation",
         "outcome": "ACCEPTED AND REPLIED: \"Hi Marcel. Thanks for connecting\"",
         "notes": "He accepted and sent a courteous one liner. VERDICTED 'rejected, not ICP' on the 2 October screen, so there is nothing to sell, which is exactly what the reply says outright."
+      },
+      {
+        "n": 2,
+        "date": "2026-10-03",
+        "channel": "linkedin-message",
+        "outcome": "SENT AND CONFIRMED 18:04:44, thread now shows 2 messages with the last from ME",
+        "notes": "Sent by the agent on Marcel's instruction 'Go for all 4', and VERIFIED by re-reading the chatroom afterwards. Draft and reasoning in data/fx/thank-yous-2026-10-03.md. Spanish, and it says outright there is nothing to sell him, which was the point rather than a hedge."
       }
     ],
     "angle": "NOT ICP AND THAT IS SETTLED: podcast strategist in San Juan, Puerto Rico, writing about podcasting in Spanish. No cross border payables. He was verdicted rejected on the 2 October screen. HE STILL REPLIED COURTEOUSLY, which earns a courteous answer. Spanish, because all his own writing is in Spanish.",
-    "nextStep": "THANK HIM IN SPANISH TODAY, draft in data/fx/thank-yous-2026-10-03.md. Saying outright that there is nothing to sell him is the point rather than a hedge: it costs nothing, it is true, and it leaves a good impression with someone who has 10+ years in Spanish language media and a network of his own. AFTER SENDING, CLOSE HIM as a courteous non prospect. Do not work him again."
+    "nextStep": "CLOSED COURTEOUSLY 2026-10-03. Verdicted rejected and not ICP on the 2 October screen, he replied politely anyway, and the courtesy has now been returned in Spanish. NOTHING FURTHER IS OWED AND HE IS NOT TO BE WORKED AGAIN. If he replies it is a human exchange, not a lead."
   }
 ]

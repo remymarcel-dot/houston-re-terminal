@@ -1143,3 +1143,26 @@ anything about whether a work email or invitation exists. Searching it and findi
 means nothing. The only source of truth for what has been sent from Monex is **Marcel saying
 so**, so when it matters, ask him rather than concluding.
 
+## `send_message` returning no output does NOT mean the message was sent
+
+On 2026-10-03 four thank-you messages went out through `send_message`. **All four calls
+returned identically: no output, no error.** Three landed. **One did not.**
+
+Marina Bernal's chatroom still showed `totalMessages: 1` with her own 6 September message as
+the last, after two attempts, one with an empty subject and one with a subject line. **The API
+reported nothing wrong either time.**
+
+**So the only proof of delivery is re-reading the thread.** After any `send_message`, read the
+conversation back and check that `lastMessageSender` is `ME` and `totalMessages` has gone up.
+A silent failure logged as a send is worse than no send, because the record then says a debt
+was paid when it was not.
+
+**The likely cause, worth recognising:** her thread contained **only one message, hers.**
+Marcel's original approach was not in the chatroom at all, which means it was a connection
+request note or an InMail rather than a stored message. **A chatroom whose only message came
+from the other person may have nothing for the API to post into.** `blockedByParticipant` was
+false, so this is not a block.
+
+**When a send fails twice, stop retrying and hand it to Marcel to send by hand.** Two attempts
+are enough to establish it is not transient.
+
