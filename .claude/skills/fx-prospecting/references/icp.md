@@ -805,3 +805,27 @@ false comfort the ledger exists to prevent, arriving by the back door. **A row w
 begins `draft-ready-blocked`, `blocked-` or reads `url-unconfirmed` now reports as blocked,
 and `entered` means an open, unblocked row.** Writing a note is progress; it is not contact.
 
+## A reply from someone outside the pipeline is invisible to every pipeline check
+
+On 2026-10-03 Marcel asked for thank-yous to people who had replied where there was no
+opportunity. Sweeping 300 of 333 chatrooms found four, and **two of them had no pipeline row at
+all**: one was never entered, and one had been verdicted `rejected, not ICP`, which correctly
+kept him out of outreach and also kept him out of every sweep.
+
+**One of them had given a considered answer about OFAC and sanctions clearance six weeks
+earlier and was never acknowledged.** No row meant no status, no date, and nothing to surface
+him. Neither the undated-rows sweep nor the verdict ledger could have found him, because both
+start from the pipeline.
+
+**The pipeline records who Marcel decided to work. The chatrooms record who has actually spoken
+to him.** The second set is larger, and it includes everyone screened out who replied anyway.
+
+**So the inbox sweep must start from the conversations, not the pipeline.** Page
+`get_conversations_v2`, filter on `lastMessageSender == CORRESPONDENT`, and compare the result
+against the pipeline. **Unread count is the wrong measure** and has been twice: on 2026-10-03
+only three conversations were unread while sixty-one had the other person waiting.
+
+**Pull large pages deliberately.** A `limit` of 100 overflows into a file instead of the
+context window, which is then filtered locally. Three calls covered 300 conversations without
+reading any of them into the conversation.
+

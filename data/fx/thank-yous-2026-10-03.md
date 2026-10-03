@@ -117,3 +117,23 @@ merged and filtered locally. 300 of 333 scanned; **33 of the oldest remain unche
 worth one more pass.
 
 **Nothing here was sent.** Four drafts, for Marcel.
+
+---
+
+# A gap this exercise exposed, and it is the important finding
+
+**Two of the four had NO PIPELINE ROW AT ALL.** Jesus Mears was never in it. Julio Marín was
+screened and verdicted `rejected, not ICP`, which correctly kept him out of outreach but also
+kept him out of every sweep.
+
+**So a reply from someone outside the pipeline is invisible to every check that reads the
+pipeline.** That is how a considered answer about OFAC clearance sat unacknowledged for six
+weeks: no row, no status, no date, nothing to surface it. The 89-undated sweep could not have
+found him, and neither could the verdict ledger.
+
+**The chatroom is the only complete record of who has spoken to Marcel.** The pipeline records
+who Marcel decided to work, which is a different and smaller set.
+
+**The fix is the sweep itself, not a new field:** page the conversations, filter on
+`lastMessageSender == CORRESPONDENT`, and compare against the pipeline rather than starting
+from it. That is now written into `icp.md`.

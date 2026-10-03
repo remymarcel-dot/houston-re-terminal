@@ -680,7 +680,7 @@
     "play": "inbox",
     "campaignId": null,
     "listId": null,
-    "status": "closed",
+    "status": "thank-you-owed",
     "outcome": "not-interested",
     "firstTouch": "2026-09-06",
     "loggedOn": "2026-09-15",
@@ -701,7 +701,7 @@
     "stoppedOn": "2026-10-01",
     "lastActivity": "2026-10-03",
     "noteFile": "data/fx/thank-yous-2026-10-03.md",
-    "nextStep": "THANK HER AND CLOSE IT PROPERLY. On 2026-09-06 she wrote 'Hi Marcel, Thanks for reaching out, but I'm not interested' and it was NEVER ACKNOWLEDGED, almost a month ago. She was polite and direct when she could simply have ignored him, which deserves an answer. THE REPLY MUST CONTAIN NO SECOND PITCH OF ANY KIND. The entire value of answering a clean no is that it stays clean, and a door left ajar turns a courtesy into a tactic. Draft in data/fx/thank-yous-2026-10-03.md. After it is sent she is CLOSED for good."
+    "nextStep": "STATUS CORRECTED 2026-10-03: it read 'closed' while carrying a next touch date, which the pipeline auditor flagged as a contradiction, and it was right. She is NOT closed until the courtesy is sent. THANK HER AND CLOSE IT PROPERLY. On 2026-09-06 she wrote 'Hi Marcel, Thanks for reaching out, but I'm not interested' and it was NEVER ACKNOWLEDGED, almost a month ago. She was polite and direct when she could simply have ignored him, which deserves an answer. THE REPLY MUST CONTAIN NO SECOND PITCH OF ANY KIND. The entire value of answering a clean no is that it stays clean, and a door left ajar turns a courtesy into a tactic. Draft in data/fx/thank-yous-2026-10-03.md. After it is sent she is CLOSED for good."
   },
   {
     "name": "Daniel O'Quinn",
@@ -9889,5 +9889,67 @@
     ],
     "angle": "NOT A COURTESY CASE, A MISSED LEAD. He said 'looking forward to staying in touch' on 2026-08-10 and was never followed up. NOVAMEX IS MEXICAN BEVERAGE BRANDS INTO THE US TRADE, which is squarely in the book. AND THERE IS A ONE SEAT COLLISION: TOMAS DE LEON AT NOVAMEX HAS AN INVITATION OUT RIGHT NOW, status invitation-sent. So a colder approach is going to a colleague while the man who already volunteered warmth sits ignored since August. PRADO IS THE WARMER PATH AND HE IS THE ONE BEING NEGLECTED.",
     "nextStep": "SEND THE APOLOGY AND FOLLOW UP TODAY, draft in data/fx/thank-yous-2026-10-03.md. The apology comes first and is real: six weeks of silence after someone says 'looking forward to staying in touch' is careless and pretending otherwise would be worse. Then ONE line of substance about Novamex bringing Mexican brands into the US trade, and NO ask. DECIDE THE NOVAMEX SEAT BEFORE OR JUST AFTER SENDING. Tomas De Leon has a live invitation at the same company. If Prado engages, De Leon's invitation should be reconsidered rather than left running in parallel, because two approaches at one company is the thing the one seat rule exists to prevent. HIS PROFILE URL IS NOT ON RECORD and will be needed before he can enter any campaign; the reply itself goes into the existing chatroom, so nothing is blocked today."
+  },
+  {
+    "name": "Jesus Mears, CPA",
+    "company": "J Mears Consulting",
+    "title": "Principal",
+    "location": "(not on record)",
+    "play": "play-0-first-degree",
+    "status": "thank-you-owed",
+    "campaignId": null,
+    "listId": null,
+    "profileUrl": null,
+    "linkedinId": null,
+    "outcome": null,
+    "firstTouch": "2026-08-20",
+    "lastTouch": "2026-08-20",
+    "loggedOn": "2026-10-03",
+    "lastActivity": "2026-10-03",
+    "touchCount": 1,
+    "nextTouch": "2026-10-03",
+    "noteFile": "data/fx/thank-yous-2026-10-03.md",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-08-20",
+        "channel": "linkedin-message",
+        "outcome": "HE GAVE A SUBSTANTIVE ANSWER AND GOT NOTHING BACK",
+        "notes": "He explained that payments run through legal channels, with counsel reviewing entities in depth for sanctioned parties under OFAC. Unacknowledged for six weeks. Found 2026-10-03 in an inbox sweep of 300 conversations. HE HAD NO PIPELINE ROW AT ALL until now, which is why nobody noticed: a reply from someone outside the pipeline is invisible to every sweep that reads the pipeline."
+      }
+    ],
+    "angle": "A CONSULTANT RATHER THAN A PROSPECT, and the value is what he knows. He volunteered how payments get cleared in practice: legal channels first, counsel reviewing entities in depth for OFAC sanctioned parties. That is a compliance perspective most FX conversations never get, and he gave it for free. TREAT HIM AS A PEER AND A POSSIBLE REFERRER, never as an account.",
+    "nextStep": "THANK HIM FOR THE SUBSTANCE, AND IT IS SIX WEEKS LATE. Draft in data/fx/thank-yous-2026-10-03.md. THANK HIM FOR THE SPECIFIC POINT, NOT GENERICALLY: a generic thank you to someone who took trouble is worse than none. No pitch and no ask. If he engages, he is a compliance sounding board and a referral route, not a lead."
+  },
+  {
+    "name": "Julio (JP) Ponce Marín",
+    "company": "Tropical Podcasting",
+    "title": "Creator & Editor",
+    "location": "San Juan, Puerto Rico",
+    "play": "play-4-cold",
+    "status": "thank-you-owed",
+    "campaignId": null,
+    "listId": null,
+    "profileUrl": "https://www.linkedin.com/in/jponcem",
+    "linkedinId": "177194774",
+    "outcome": null,
+    "firstTouch": "2026-10-03",
+    "lastTouch": "2026-10-03",
+    "loggedOn": "2026-10-03",
+    "lastActivity": "2026-10-03",
+    "touchCount": 1,
+    "nextTouch": "2026-10-03",
+    "noteFile": "data/fx/thank-yous-2026-10-03.md",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-10-03",
+        "channel": "linkedin-invitation",
+        "outcome": "ACCEPTED AND REPLIED: \"Hi Marcel. Thanks for connecting\"",
+        "notes": "He accepted and sent a courteous one liner. VERDICTED 'rejected, not ICP' on the 2 October screen, so there is nothing to sell, which is exactly what the reply says outright."
+      }
+    ],
+    "angle": "NOT ICP AND THAT IS SETTLED: podcast strategist in San Juan, Puerto Rico, writing about podcasting in Spanish. No cross border payables. He was verdicted rejected on the 2 October screen. HE STILL REPLIED COURTEOUSLY, which earns a courteous answer. Spanish, because all his own writing is in Spanish.",
+    "nextStep": "THANK HIM IN SPANISH TODAY, draft in data/fx/thank-yous-2026-10-03.md. Saying outright that there is nothing to sell him is the point rather than a hedge: it costs nothing, it is true, and it leaves a good impression with someone who has 10+ years in Spanish language media and a network of his own. AFTER SENDING, CLOSE HIM as a courteous non prospect. Do not work him again."
   }
 ]
