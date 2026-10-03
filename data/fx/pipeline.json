@@ -695,10 +695,13 @@
       }
     ],
     "touchCount": 1,
-    "nextTouch": null,
+    "nextTouch": "2026-10-03",
     "stopReason": "said-no",
     "stopNote": "Said not interested in words.",
-    "stoppedOn": "2026-10-01"
+    "stoppedOn": "2026-10-01",
+    "lastActivity": "2026-10-03",
+    "noteFile": "data/fx/thank-yous-2026-10-03.md",
+    "nextStep": "THANK HER AND CLOSE IT PROPERLY. On 2026-09-06 she wrote 'Hi Marcel, Thanks for reaching out, but I'm not interested' and it was NEVER ACKNOWLEDGED, almost a month ago. She was polite and direct when she could simply have ignored him, which deserves an answer. THE REPLY MUST CONTAIN NO SECOND PITCH OF ANY KIND. The entire value of answering a clean no is that it stays clean, and a door left ajar turns a courtesy into a tactic. Draft in data/fx/thank-yous-2026-10-03.md. After it is sent she is CLOSED for good."
   },
   {
     "name": "Daniel O'Quinn",
@@ -9855,5 +9858,36 @@
     ],
     "angle": "LARGEST KING CRAB AND SNOW CRAB IMPORTER IN THE COUNTRY plus an ARGENTINIAN SHRIMP PROGRAM, so suppliers sit in NORWAY, CANADA and ARGENTINA while revenue comes back in dollars. She is a CPA and MBA whose own About names ASSET BASED FINANCING alongside FP&A and ERP implementation, which is why the opener worked: that combination means she has solved the working capital side of seafood more than once. Bellevue, Washington. From campaign 622570, 'Play 0 batch 6 - Bondi and seafood'.",
     "nextStep": "⚠️ SHE REPLIED AND A REPLY IS OWED TODAY. On 2026-10-02 at 03:39 she answered Marcel's question with three words: 'All in USD'. HeyReach has auto-tagged her INTERESTED. Draft reply is written and ready in data/fx/inbox-2026-10-02.md, for Marcel to send. WHY 'ALL IN USD' IS THE GOOD ANSWER RATHER THAN THE END OF IT: suppliers in Norway, Canada and Argentina invoicing in dollars means SHE is not exposed, THEY are, and they have priced it into what she pays. ARGENTINA IS WHERE THE ARGUMENT STOPS BEING THEORETICAL, because an Argentine exporter receiving dollars settles through an official rate that is rarely the rate anyone would transact at voluntarily, and that gap goes into the price of the shrimp rather than disappearing. Norway is milder but real, since Norwegian exporters hedge and the cost of the hedge sits inside a USD price list. THE REPLY ASKS FOR NOTHING and ends on a test she can run herself: ask one supplier to quote the same item in its own currency alongside the dollar price and convert at the day's rate. That is the Kevin Soulen shape and it is the only kind of reply that earns a second one from a CFO who writes three words. NO RATES, and no offer to send any. DO NOT PITCH MONEX AGAIN; the first message already said who he is."
+  },
+  {
+    "name": "Mauricio Prado",
+    "company": "Novamex",
+    "title": "(not on record)",
+    "location": "(not on record)",
+    "play": "play-0-first-degree",
+    "status": "revival-draft-ready",
+    "campaignId": null,
+    "listId": null,
+    "profileUrl": null,
+    "linkedinId": null,
+    "outcome": null,
+    "firstTouch": "2026-08-10",
+    "lastTouch": "2026-08-10",
+    "loggedOn": "2026-10-03",
+    "lastActivity": "2026-10-03",
+    "touchCount": 1,
+    "nextTouch": "2026-10-03",
+    "noteFile": "data/fx/thank-yous-2026-10-03.md",
+    "touches": [
+      {
+        "n": 1,
+        "date": "2026-08-10",
+        "channel": "linkedin-message",
+        "outcome": "HE REPLIED WARMLY AND WAS NEVER ANSWERED",
+        "notes": "He wrote 'Hi Marcel, it's great to connect with you. Looking forward to staying in touch.' Nothing was sent back. Found 2026-10-03 in an inbox sweep of 300 conversations."
+      }
+    ],
+    "angle": "NOT A COURTESY CASE, A MISSED LEAD. He said 'looking forward to staying in touch' on 2026-08-10 and was never followed up. NOVAMEX IS MEXICAN BEVERAGE BRANDS INTO THE US TRADE, which is squarely in the book. AND THERE IS A ONE SEAT COLLISION: TOMAS DE LEON AT NOVAMEX HAS AN INVITATION OUT RIGHT NOW, status invitation-sent. So a colder approach is going to a colleague while the man who already volunteered warmth sits ignored since August. PRADO IS THE WARMER PATH AND HE IS THE ONE BEING NEGLECTED.",
+    "nextStep": "SEND THE APOLOGY AND FOLLOW UP TODAY, draft in data/fx/thank-yous-2026-10-03.md. The apology comes first and is real: six weeks of silence after someone says 'looking forward to staying in touch' is careless and pretending otherwise would be worse. Then ONE line of substance about Novamex bringing Mexican brands into the US trade, and NO ask. DECIDE THE NOVAMEX SEAT BEFORE OR JUST AFTER SENDING. Tomas De Leon has a live invitation at the same company. If Prado engages, De Leon's invitation should be reconsidered rather than left running in parallel, because two approaches at one company is the thing the one seat rule exists to prevent. HIS PROFILE URL IS NOT ON RECORD and will be needed before he can enter any campaign; the reply itself goes into the existing chatroom, so nothing is blocked today."
   }
 ]
